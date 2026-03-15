@@ -4,6 +4,30 @@ Internal notes on game mechanics and design choices, not communicated directly t
 
 ---
 
+## Setting Agnosticism
+
+The rules are deliberately setting-agnostic. The only fixed elements of the fictional world are:
+- A **dragon** — a powerful, evil creature
+- **Daredevils** — fearless warriors committed to extreme team effort (though any character class is valid: sorcerer, bard, knight, cyber-ninja, etc.)
+
+Everything else — the world, the aesthetic, the character names — is left to the players. The game can be played in low fantasy, sci-fi, medieval, modern, or any other setting without changing a single rule.
+
+Action names in the rules are abstract on purpose (Strike, Charge, Precision Strike, Shield, etc.) and are meant to be re-interpreted for the chosen setting. A "Charge" might be a cavalry rush, a rocket boost, or a sugar-fuelled sprint. A "Shield" might be a magical barrier, a riot shield, or an outstretched cape.
+
+## Story Commentary in the Rulebook
+
+As an exception to the setting-agnostic principle, the rulebook will include a role-playing-style story that interleaves with the abstract rules sections. This story is set in a generic fantasy universe and serves as a worked example / flavour layer.
+
+Tone requirements:
+- Rich, vivid language — not dry or technical
+- A bit humorous, with warmth and lightness
+- Age-appropriate for roughly 7–12 years old; no higher rating than that. Safe for kids, enjoyable for adults.
+- The story should not contradict or overshadow the mechanics, only illustrate and colour them.
+
+The story commentary is the one place where setting is fixed. Everywhere else in the rules, setting-neutral language is preferred.
+
+---
+
 ## The Dracometer
 
 Non-linear damage scale: `0 1 2 3 4 5 6 8 10 13 16 20 25`
