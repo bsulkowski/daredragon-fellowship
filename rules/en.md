@@ -50,9 +50,11 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 | | | |
 |---|---|---|
 | **Players** | 4–6 people | |
-| **Cards** | 2 standard 54-card decks (including 2 jokers) | |
-| **Pieces** | 8–10 distinguishable tokens, able to represent 2 states (like chess pieces or meeples, that can stand or lie down)<br><br>2 tokens | |
-| **Printables** | `board_v0.12.pdf` — Board<br>`board_extension_v0.13.pdf` — Board Extension (5–6 players)<br>Cheat-sheet | |
+| **Cards** | 2 standard 54-card decks (including 2 jokers), preferably in two different colours | One deck represents the daredevils' possible actions, the other the dragon's actions. |
+| **Pieces** | 8–10 distinguishable tokens, able to represent 2 states (like chess pieces or meeples, that can stand or lie down)<br><br>2 tokens | Each daredevil receives 1 token. The dragon receives 4 tokens, one for each body part (jaws, paws, legs, tail).<br><br>The position of tokens on the board represents the remaining health points of the daredevils and the dragon (from 0 to 25). The secondary token state indicates status (daredevil lying down / dragon body part entangled).<br><br>One token tracks the current turn. The other marks the dragon's attack target. |
+| **Printables** | `board_v0.12.pdf` — Board<br>`board_extension_v0.13.pdf` — Board Extension (5–6 players)<br>`cheat-sheet_v0.13.1.pdf` — Cheat-sheet | |
+
+In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
 
 ---
 
@@ -60,72 +62,108 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 
 ### 2.1. Actors and Their Attributes
 
-Heroes, dragon, body parts
+Each player plays as one daredevil. Daredevils have endurance (health points; indicated by the position of their token on the board), stance (standing or lying on the ground; indicated by the token state) and a list of available actions (cards in hand; order does not matter).
 
-HP, stance, entanglement
+The dragon is a large beast, so it has health points assigned separately to each of its four body parts (jaws, paws, legs, tail) indicated by tokens on the board. Each body part can be entangled, which is indicated by the state of the corresponding token.
 
-Persistent target
+Health points cannot drop below 0.
+
+The dragon can have one of the daredevils as its persistent attack target. This is indicated by placing the target token next to the corresponding player.
 
 ### 2.2. Initial Setup
 
-HP = 25
+At the start of the game, each daredevil and each of the dragon's body parts has 25 health points.
 
-2 cards each player
+The first deck, containing the dragon's actions, is shuffled and placed in the centre of the board.
 
-Dragon no target
+The second deck, containing the daredevils' actions, is shuffled and placed next to the board. Each player draws 2 cards to their hand. The hand limit is 6, but may be reduced later as the daredevil's health points drop.
 
-First player to move — one who most recently helped someone
+The dragon starts with no attack target. The target token is placed on the dragon's card deck in this case.
 
 ### 2.3. Turn Sequence
 
-*(to be written)*
+The player who most recently helped someone goes first.
+
+Players take turns in clockwise order.
+
+Between every two consecutive players there is a dragon turn.
+
+For 4 players the sequence is:
+
+1. Daredevil A
+2. Dragon
+3. Daredevil B
+4. Dragon
+5. Daredevil C
+6. Dragon
+7. Daredevil D
+8. Dragon
+9. and so on from the beginning
+
+A token placed around the board helps track the current turn.
 
 ### 2.4. Performing Actions by Daredevils
 
-Resolving actions
+Players keep their cards hidden from other players. It is important that each daredevil feels completely free to independently choose which action to perform, especially when it involves some sacrifice on their part.
 
-Initiating action
+On their turn, a daredevil may initiate an action by playing a card from their hand. A warm-up phase then begins, lasting a set number of daredevil turns depending on the action type. This is indicated by placing the action card on the edge of the board next to the turn on which the warm-up expires (not next to the turn of the daredevil who played it). At the start of that turn the action resolves and triggers its effect, and the corresponding card is placed on the daredevils' discard pile.
 
-Smok nie ma kart na ręce. Zawsze gra pierwszą kartę z góry swojej talii.
+The warm-up for a daredevil always expires on a daredevil's turn. For example with 4 players: if the warm-up is 1 turn, it expires on the next daredevil's turn. If it is 2 turns, on the turn of the daredevil sitting opposite. If it is 4 turns, on the next turn of the daredevil who played it.
 
-As soon as prev action finished
+Guard-type actions (Intervention Dodge and Shield) have no warm-up time; instead they remain active until the daredevil's next turn. They trigger on the first dragon attack. The card for such an action is placed next to the turn of the daredevil who played it.
+
+Daredevils decide the target of their actions at the very last moment — when the effect is triggered.
 
 ### 2.5. Performing Actions by The Dragon
 
-*(to be written)*
+The dragon has no hand of cards. To determine its next action, on its turn it plays the top card of its deck. A warm-up phase begins, lasting a set number of dragon turns. The action card is placed on the edge of the board next to the turn on which the warm-up expires. At the start of that turn the action resolves, followed by a cool-down phase. The action card is placed face down next to the turn on which the cool-down expires. At the start of that turn the card is placed on the dragon's discard pile and the dragon is ready for its next action.
+
+The dragon's warm-up always expires on a dragon turn. If it is 1 turn, the action resolves on the next dragon turn (after 1 daredevil turn).
+
+If a card has warm-up and cool-down of 0 (a Glare), it resolves with immediate effect, is placed on the dragon's discard pile, and the next card is played.
+
+If the played card requires a target (direct or AoE attack) and the dragon has no target, the card is placed on the discard pile and the turn ends. The card triggers no effect. The dragon merely menaces the daredevils with a gesture alluding to the attack (baring its fangs, etc.).
 
 ### 2.6. The Goal
 
-Players shared goal is to defeat the dragon, by disabling all of its body parts. Any incapacitated heroes are then revived, so the whole fellowship can celebrate the victory. There are no individual scores. Particular actions of bravery and heroism are not to compare them against each other, but to build…, that would last even after the game is finished.
+Your shared goal is to defeat the dragon, by reducing the health points of all its body parts to 0. Any incapacitated daredevils are then revived and the whole fellowship can celebrate the victory.
 
-Players fail to achieve the goal if all of them happen to get incapacitated by the dragon.
+Defeat occurs when all daredevils are incapacitated.
+
+There are no individual scores. The various acts of bravery and heroism in the game are not meant for comparing who is better, but to create positive experiences among you — ones that will leave a lasting impression even after the game ends.
 
 ### 2.7. Role-playing
 
-Players encouraged
+The game imposes no single aesthetic, leaving the choice to you, according to your sensibilities, interests and imagination.
 
-immersion
+You are invited to better immerse yourselves in the game world through role-playing. The game mechanics provide only a framework — what happens, what the outcome of actions is. All of this can be dressed in a colourful story as commentary, according to your fancy.
 
-game mechanics as a framework, which can be filled with the story
-
-as long as it fits chosen "klimat" and follows mechanics
+For example, in one playtest session I ran with my children (aged 5–10), we chose the following heroes: Vege Knight, Snowman Chicken, Mistress of the Sweet, Cyber Ninja. The Mistress of the Sweet supported the rest of the fellowship, among other things by handing out sweets and gracing them with her sweet smile. Needless to say, the evil dragon didn't stand a chance against such a crew…
 
 ### 2.8. Cooperative Card Draw
 
-On their turn, player may opt to draw cards, instead of playing action. They do this by dealing one card to each of their fellow players. Player cannot directly get a card for themselves.
+On their turn, a player may opt to draw cards instead of playing an action. They do this by dealing one card to each of their fellow players. A player cannot directly get a card for themselves.
 
-This is the only way to get cards, so keep an eye on your co-players and take care they do not run out of cards.
+This is the only way to get cards. Keep an eye on your co-players — otherwise they might run out of cards…
 
-If, at any time, a player gets more cards on hand than their allowance, they have to discard extra cards.
+If at any time a player has more cards in hand than their limit, they must discard the excess cards of their choice.
+
+If the daredevils' deck runs out, shuffle the discard pile — it becomes the new deck.
 
 ### 2.9. The Dracometer (Ϟ)
 
-The damage inflicted via dragon or heroes attacks are subject to various modifiers. It is always done according to the following sequence, called the "dracometer".
-
-For players convenience, it is also marked via the red numbers on the board.
+Damage dealt by the dragon or daredevils always takes a value from a fixed sequence called the "dracometer".
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 13 | 16 | 20 | 25 |
 |---|---|---|---|---|---|---|---|----|----|----|----|-----|
+
+All damage modifiers are expressed as the corresponding change in position on the dracometer.
+
+For example, with a base attack strength of 8, a +1Ϟ modifier increases the damage to 10, +2Ϟ to 13, and +3Ϟ to 16.
+
+This solution achieves advanced attack scaling (linear for small values, roughly doubling every 3 steps above that), while sparing players from complex arithmetic.
+
+For players' convenience, the dracometer is also marked via the red fields on the board.
 
 ---
 
@@ -154,16 +192,16 @@ For players convenience, it is also marked via the red numbers on the board.
 
 | Action | Description |
 |---|---|
-| **Attack** | Deal damage to chosen body part of the dragon. If proper timing, get +2Ϟ.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. |
-| **Guard** | *(to be written)* |
-| **Entangle** | Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Przy pierwszym użyciu tej części ciała zostaje ona uwolniona, kosztem czasu przygotowania +1 oraz obrażeń -1Ϟ. |
-| **Intervention Dodge** | Cancel the damage, but make a fellow hero fall to the ground. |
-| **Draw Aggro** | Set the player as a target for the dragon. If during warm-up, +1 turns. |
-| **Shield vs Direct Attack** | *(to be written)* |
-| **Shield vs AoE Attack** | Obrażenia -2Ϟ, jeśli osłania śmiałek będący w obszarze ataku. W przeciwnym razie -3Ϟ, ale osłaniający wchodzi także w obszar działania ataku. Zmniejsza obrażenia dla wszystkich. |
-| **Helping Hand** | *(to be written)* |
-| **First Aid** | Heal |
-| **On the ground** | Distraction, Helping Hand, Draw Cards<br>Warm-up +1 |
+| **Attack** | Deals damage to the chosen body part of the dragon.<br>+2Ϟ if immediately following the dragon's attack with that body part (riposte).<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last. |
+| **Guard** | The action has no warm-up time. The daredevil stands guard until their next turn and performs the action on the first dragon attack. |
+| **Entangle** | Can only be applied to a body part of the dragon that is not currently being used in an attack. Daredevils receive a +1Ϟ bonus when attacking an entangled body part. When that body part is first used in an attack, it spends an additional turn at the start of the warm-up freeing itself from the entanglement. |
+| **Intervention Dodge** | The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance. The cool-down after the attack is extended by one turn, during which daredevils receive a +2Ϟ bonus to attacks. |
+| **Draw Aggro** | The daredevil becomes the dragon's new attack target.<br>If performed during the dragon's warm-up, extends that warm-up by +1. |
+| **Shield vs Direct Attack** | Shields another daredevil who is the dragon's attack target. Takes the damage on themselves while reducing it by -3Ϟ. Also takes the knockdown effect.<br>If multiple shields are active, the damage modifier stacks, but only the last shielder suffers the attack effects. |
+| **Shield vs AoE Attack** | Shields all daredevils in the dragon's attack area, reducing damage by -3Ϟ.<br>A daredevil within the attack area does not shield themselves.<br>A daredevil outside the attack area also enters the area of effect but is shielded.<br>Multiple shields stack.<br><br>Example: The dragon's attack deals 8 damage and hits daredevils A, B and C. Shield is performed by daredevils C and D. In this case the daredevils receive damage: A — 1, B — 1, C — 4, D — 1. |
+| **Helping Hand** | Helps another daredevil up from the ground. Cannot be used on yourself. |
+| **First Aid** | Restores up to 8 health points, even if the daredevil is incapacitated. Helps them up. Cannot be used on yourself. |
+| **On the ground** | When a daredevil is knocked to the ground, they cannot perform Guard-type actions or actions with a base warm-up of 4, i.e.:<br>— Intervention Dodge,<br>— Shield,<br>— Charge,<br>— First Aid.<br>Warm-up of remaining actions +1.<br>Damage dealt by the daredevil -2Ϟ. |
 
 ### 4.2. Dragon's Actions
 
@@ -186,13 +224,13 @@ For players convenience, it is also marked via the red numbers on the board.
 
 | Action | Description |
 |---|---|
-| **Direct Attack** | Deal damage to target. If proper timing, get +1Ϟ, and cause knockdown unless player is shielded.<br>If hero lays on the ground, get +2Ϟ.<br>Przy braku celu, zamiast ataku, smok tylko straszy i kończy ruch. |
-| **AoE Attack** | Area of Effect Attack. Deal damage to target and its both neighbours. Does not affect players on the ground.<br>If no target, *(to be written)* |
-| **Knockdown** | Cancel current player action and make them fall. |
-| **Roar** | Cancel all players actions and make them discard 2 cards from hand each. |
-| **Glare** | Gdy smok zagra łypnięcie, to zmienia odpowiednio cel (łypnięcie o 1 w prawo/lewo, dalekie łypnięcie o 2 w prawo/lewo), licząc od obecnego celu. Przy braku celu liczy od pola między graczami. |
-| **Health Regeneration** | *(to be written)* |
-| **Number of Players** | +1Ϟ |
+| **Direct Attack** | Deals damage to the target.<br>If during a daredevil's warm-up:<br>— damage +1Ϟ,<br>— causes knockdown unless there is a shield.<br><br>+2Ϟ if the daredevil is lying on the ground.<br><br>If there is no target, instead of attacking the dragon merely menaces and skips the turn. |
+| **AoE Attack** | Deals damage to the target and both its neighbours. For example, with 4 players the neighbours of daredevil A are daredevils D and B.<br>Has no effect on daredevils lying on the ground.<br><br>If there is no target, instead of attacking the dragon merely menaces and skips the turn. |
+| **Knockdown** | Cancels the daredevil's current action and knocks them to the ground. |
+| **Roar** | Cancels all daredevils' actions. Each player discards 2 cards of their choice from their hand. |
+| **Glare** | When the dragon plays a Glare, it shifts its attack target accordingly:<br>— Glare: by 1 to the right/left,<br>— Far Glare: by 2 to the right/left.<br><br>Imagine the dragon standing in the centre of the board, surrounded by daredevils. Turning right means selecting the next daredevil clockwise, turning left counter-clockwise.<br><br>For example with 4 players, if the current target was daredevil B, a Glare Left shifts the target to daredevil A, and a Far Glare Right to daredevil D.<br><br>If the dragon had no target, it has been watching the daredevils' actions, so it starts glaring from a position between the daredevil who had the previous turn and the next one. For example, if the turn before the dragon was daredevil B's, a Glare Left sets the target to daredevil B and a Glare Right to daredevil C. |
+| **Health Regeneration** | Restores up to 8 health points to the weakest body part. In case of a tie, priority order is: jaws, paws, legs, tail. |
+| **Number of Players** | If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on every attack. |
 
 ### 4.3. Health Points
 
@@ -232,16 +270,16 @@ For players convenience, it is also marked via the red numbers on the board.
 
 ### 5.2. Modifiers to Damage Dealt
 
-| Damage | Dragon's Attacks | Daredevils' Attacks |
+| Modifier | Dragon's Attacks | Daredevils' Attacks |
 |---|---|---|
-| +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack. |
+| +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack with that body part.<br><br>Dragon knocked off balance (2 turns after Intervention Dodge). |
 | +1Ϟ | Attack during daredevil's warm-up.\*<br><br>More than 4 players. | Attack on entangled body part. |
 | -1Ϟ | HP of body part between 1 and 13. | HP between 1 and 13. |
 | -2Ϟ | HP of body part equal 0. | Daredevil is lying on the ground. |
 | -3Ϟ | For each shield.\*\* | |
 
 (\*) Not applicable to AoE attacks.
-(\*\*) Daredevil in AoE does not shield itself.
+(\*\*) Daredevil in AoE does not shield themselves.
 
 ### 5.3. Warm-up Time
 
@@ -256,10 +294,10 @@ For players convenience, it is also marked via the red numbers on the board.
 
 | Warm-up Time | Dragon's Actions | Daredevils' Actions |
 |---|---|---|
-| +1 | HP of body part equals 0.<br><br>Body part used in attack is entangled.<br><br>Draw aggro is performed during warm-up. | Daredevil is lying on the ground.\* |
+| +1 | HP of body part equals 0.<br><br>Body part used in attack is entangled.<br><br>Draw Aggro is performed during warm-up. | Daredevil is lying on the ground.\* |
 
-(\*) Not available: actions with warm-up time 4 nor standby actions: [A] Intervention Dodge, [Q] [J] Shield.
-Dragon's cool-down time +1, if lost balance due to intervention dodge.
+(\*) Not available: actions with warm-up time 4 nor Guard-type actions: [A] Intervention Dodge, [Q] [J] Shield.
+Dragon's cool-down time +1, if lost balance due to Intervention Dodge.
 
 ---
 
