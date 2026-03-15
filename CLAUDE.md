@@ -10,10 +10,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```
 rules/
-  pl.md          # Polish rules — canonical, complete (v0.13.1)
-  en.md          # English rules — in progress; many sections are stubs or contain untranslated Polish
-design/          # Internal design notes (to be populated)
-(root)           # Legacy files: SVG/PDF boards, ODT cheat sheets, XLS card mappings
+  pl.md              # Polish rules — canonical, complete (v0.13.1)
+  en.md              # English rules — in progress; stubs marked *(to be written)*
+design/
+  decisions.md       # Internal notes on mechanics and design choices
+  style.md           # Notes on how rules are written and presented
+(root)               # Legacy files: SVG/PDF boards, ODT cheat sheets, XLS card mappings
 ```
 
 ## Authoring Conventions
