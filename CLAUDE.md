@@ -4,29 +4,25 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Dare Dragon Fellowship** is a board game design project. The repository contains game assets in Polish and English, with no source code or build system.
+**Dare Dragon Fellowship** is a cooperative card-based board game for 4–6 players. The repository is transitioning to a Markdown-based structure. Files in the repository root are legacy/archival and will be migrated or cleaned up systematically.
 
-## File Types & Tooling
+## Repository Structure
 
-- `.af` — Affinity Designer source file (`board_sketch.af`), the primary design source
-- `.svg` — Exported vector graphics (boards, QR codes); editable with Inkscape or Affinity Designer
-- `.pdf` — Print-ready exports generated from SVG sources
-- `.odt` — Game rules / cheat sheets (LibreOffice Writer)
-- `.xls` — Card mapping spreadsheets (`mapowanie kart`, LibreOffice Calc / Excel)
+```
+rules/
+  pl.md          # Polish rules — canonical, complete (v0.13.1)
+  en.md          # English rules — in progress; many sections are stubs or contain untranslated Polish
+design/          # Internal design notes (to be populated)
+(root)           # Legacy files: SVG/PDF boards, ODT cheat sheets, XLS card mappings
+```
 
-## Naming Conventions
+## Authoring Conventions
 
-- Version suffix: `_v0.13`, `_v0.13.1`, etc.
-- Language suffix: `_pl` = Polish; no suffix = English
-- Board variants: `board_4_players` (4-player layout), `board_extension` (expansion board)
+- Rules files are versioned in their own **6.x Revision History** table — update it when making changes
+- Damage modifiers use `s` suffix in Polish (`+1s`, `-2s`) and `Ϟ` symbol in English (`+1Ϟ`, `-2Ϟ`)
+- Incomplete English sections are marked with `*(to be written)*` — do not remove stubs, fill them in
+- Card face values use local conventions: Polish uses `D` (Dama) and `W` (Walet) for Q and J; English uses `Q` and `J`
 
-## Content Structure
+## Legacy Files
 
-The latest versions as of the last update:
-- **Main board:** `board_v0.12` (English/Polish)
-- **4-player board:** `board_4_players_v0.3`
-- **Extension board:** `board_extension_v0.13` (English/Polish)
-- **Cheat sheet:** `cheat-sheet_v0.13.1` (English/Polish)
-- **Card mapping:** `mapowanie kart v0.4.xls`
-
-When adding new file versions, follow the existing versioning pattern and produce both SVG and PDF exports. For bilingual content, maintain both unsuffixed (English) and `_pl` (Polish) variants.
+Files in the repository root (`.svg`, `.pdf`, `.odt`, `.xls`, `.af`) are the archival versions. The primary sources going forward are the Markdown files in `rules/`. Legacy files are referenced by filename in the requirements tables (section 1.2 of each rules file).
