@@ -317,6 +317,7 @@ Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytuj
 
 | Wersja | Data | Zmiany |
 |---|---|---|
+| 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
 | 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN)<br>Ściągawka włączona do zasad |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Uproszczona ściągawka<br>Rozszerzenie możliwej liczby graczy |
 | 0.12.1 | 2025-01-02 | Struktura i stylistyka strony<br>Uściślenia zasad |

@@ -4,6 +4,14 @@ Notes on how the rules are written and presented, independent of game logic.
 
 ---
 
+## Versioning
+
+- **Major version** (`0.13` → `0.14`): any change to game mechanics — new rules, modified rules, rebalancing.
+- **Minor version** (`0.13.2` → `0.13.3`): changes that do not affect gameplay — wording, examples, story commentary, structure, formatting.
+- Version numbers are kept **identical between PL and EN** at all times.
+- Each version history entry has a **one-sentence summary** of what changed.
+- Changes made on the same date are released together under a single version bump — do not increment separately for each change.
+
 ## Language Versions
 
 - Polish (`rules/pl.md`) is the canonical version — always complete and up to date.
