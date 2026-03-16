@@ -14,8 +14,7 @@ Notes on how the rules are written and presented, independent of game logic.
 
 ## Language Versions
 
-- Polish (`rules/pl.md`) is the canonical version — always complete and up to date.
-- English (`rules/en.md`) is a translation in progress. Incomplete sections are marked `*(to be written)*`. Polish text left in the English file is intentional — it marks content awaiting translation, not an error.
+- Both language versions are kept in sync and treated as equals. Conflicts are resolved via git history.
 - The modifier notation differs by language: Polish uses `s` suffix (`+1s`, `-2s`), English uses the Ϟ symbol (`+1Ϟ`, `-2Ϟ`).
 - Card face values differ: Polish uses `D` (Dama = Queen) and `W` (Walet = Jack); English uses `Q` and `J`.
 
