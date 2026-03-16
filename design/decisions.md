@@ -113,6 +113,16 @@ This creates a recovery problem: the prone hero needs help (Helping Hand, First 
 
 For more than 4 players: dragon gets +1s on all attacks. This compensates for the increased total HP of the fellowship and the greater number of cards in circulation. No other scaling is applied — the board extension handles physical layout for 5–6 players.
 
+## No Differentiation Between Player Characters
+
+All daredevils share identical statistics and have access to the same set of actions. There are no classes, specialisations, or permanent trait differences between players.
+
+The alternative — giving each character a fixed trait profile (high HP tank, maximum-damage attacker, support specialist) — would narrow what each player is expected or incentivised to do. A player locked into a tank role does not get to feel the urgency of saving someone. A player locked into a support role does not get to land a decisive blow. Fixed roles compress the range of meaningful experiences and make large parts of the game feel routine for whoever drew the "wrong" character for the current situation.
+
+With equal statistics and a random hand, the game instead creates roles dynamically and temporarily. The tactical situation — who has the right card, who is prone, who has the highest HP right now — determines who acts as shield, who acts as attacker, who sacrifices their turn to pull a teammate off the ground. These decisions land with weight precisely because they are not predetermined. Choosing to shield when you could attack is a meaningful act of sacrifice. Choosing to attack when you are the most vulnerable person at the table is a meaningful act of courage.
+
+The design does not leave players free to ignore each other — cooperative card draw and the Helping Hand mechanic make interdependence structural, not optional. But within that constraint, it pushes players toward experiencing every role over the course of a session: acting with initiative, feeling exposed and supported, and making hard calls that have consequences for the whole group.
+
 ## Card Mapping Rationale
 
 High face-value cards → powerful/slow actions (Charge = 9, warm-up 4; Precision Strike = 8, warm-up 3).
