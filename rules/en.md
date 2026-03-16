@@ -317,7 +317,7 @@ Some of the dragon's attacks might appear "unfairly" powerful or annoying… Wel
 
 | Version | Date | Changes |
 |---|---|---|
-| 0.13.x | 2025-x-x | Instructions (EN) |
+| 0.13.2 | 2025-03-16 | Migrated to Markdown sources<br>Instructions (EN) |
 | 0.13.1 | 2025-04-07 | Small corrections |
 | 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Simplified cheat-sheet<br>Extended supported number of players |
 | 0.12.1 | 2025-01-02 | Structure and style of page<br>Rules clarification |

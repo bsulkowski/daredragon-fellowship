@@ -29,8 +29,7 @@
    4. Modyfikatory czasu wykonywania akcji
 6. Uwagi do wydania
    1. Wyważenie gry
-   2. Przyszłe prace
-   3. Historia wersji
+   2. Historia wersji
 
 ---
 
@@ -314,18 +313,11 @@ Możecie także dostosować tempo gry, poprzez proporcjonalną zmianę siły ata
 
 Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytujące… Cóż, smok to nie jest fajny kumpel, który walczy fair.
 
-### 6.2. Przyszłe prace
-
-1. Przykładowa rozgrywka
-2. Angielska wersja strony
-3. Publikacja w internecie
-4. Zróżnicowanie smoków
-5. Generowanie imienia smoka
-
-### 6.3. Historia wersji
+### 6.2. Historia wersji
 
 | Wersja | Data | Zmiany |
 |---|---|---|
+| 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN) |
 | 0.13.1 | 2025-04-07 | Drobna korekta |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Uproszczona ściągawka<br>Rozszerzenie możliwej liczby graczy |
 | 0.12.1 | 2025-01-02 | Struktura i stylistyka strony<br>Uściślenia zasad |
