@@ -22,7 +22,7 @@
    1. Akcje śmiałków
    2. Akcje smoka
    3. Efekty wynikające z punktów życia
-5. Pomocnicze zestawienia
+5. Ściągawka
    1. Obrażenia
    2. Modyfikatory obrażeń (pozycja na smokometrze)
    3. Czas wykonywania akcji
@@ -52,7 +52,7 @@ W grze wcielacie się w drużynę śmiałków, wspólnie stawiających czoła gr
 | **Gracze** | 4–6 osób | |
 | **Karty** | 2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach | Jedna talia przedstawia możliwe akcje śmiałków, a druga akcje smoka. |
 | **Pionki** | 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)<br><br>2 znaczniki | Każdy ze śmiałków otrzymuje po 1 pionku. Smok otrzymuje 4 pionki, po jednym dla każdej części ciała (paszcza, łapy, nogi, ogon).<br><br>Pozycja pionków na planszy przedstawia pozostałe punkty życia śmiałków i smoka (od 0 do 25). Dodatkowy stan pionka służy do oznaczenia statusu (leżący śmiałek / oplątana część ciała smoka).<br><br>Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje cel ataków smoka. |
-| **Do pobrania i wydrukowania** | `board_v0.12_pl.pdf` — Plansza<br>`board_extension_v0.13_pl.pdf` — Rozszerzenie planszy (5–6 graczy)<br>`cheat-sheet_v0.13.1_pl.pdf` — Ściągawka zasad | |
+| **Do pobrania i wydrukowania** | `board_pl.pdf` — Plansza<br>`board_extension_pl.pdf` — Rozszerzenie planszy (5–6 graczy) | |
 
 W skrajnym wypadku można grać również bez pionków lub wydrukowanej planszy, zamiast tego notując potrzebne informacje na kartce.
 
@@ -254,7 +254,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-## 5. Pomocnicze zestawienia
+## 5. Ściągawka
 
 ### 5.1. Obrażenia
 
@@ -317,8 +317,7 @@ Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytuj
 
 | Wersja | Data | Zmiany |
 |---|---|---|
-| 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN) |
-| 0.13.1 | 2025-04-07 | Drobna korekta |
+| 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN)<br>Ściągawka włączona do zasad |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Uproszczona ściągawka<br>Rozszerzenie możliwej liczby graczy |
 | 0.12.1 | 2025-01-02 | Struktura i stylistyka strony<br>Uściślenia zasad |
 | 0.12 | 2024-11-12 | Poprawki mechaniki (wybór celu, modyfikatory)<br>Rozbudowana ściągawka |

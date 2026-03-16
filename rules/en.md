@@ -22,7 +22,7 @@
    1. Daredevils' Actions
    2. Dragon's Actions
    3. Health Points
-5. Summary Sheets
+5. Cheat-Sheet
    1. Damage Dealt
    2. Modifiers to Damage Dealt
    3. Warm-up Time
@@ -52,7 +52,7 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 | **Players** | 4–6 people | |
 | **Cards** | 2 standard 54-card decks (including 2 jokers), preferably in two different colours | One deck represents the daredevils' possible actions, the other the dragon's actions. |
 | **Pieces** | 8–10 distinguishable tokens, able to represent 2 states (like chess pieces or meeples, that can stand or lie down)<br><br>2 tokens | Each daredevil receives 1 token. The dragon receives 4 tokens, one for each body part (jaws, paws, legs, tail).<br><br>The position of tokens on the board represents the remaining health points of the daredevils and the dragon (from 0 to 25). The secondary token state indicates status (daredevil lying down / dragon body part entangled).<br><br>One token tracks the current turn. The other marks the dragon's attack target. |
-| **Printables** | `board_v0.12.pdf` — Board<br>`board_extension_v0.13.pdf` — Board Extension (5–6 players)<br>`cheat-sheet_v0.13.1.pdf` — Cheat-sheet | |
+| **Printables** | `board.pdf` — Board<br>`board_extension.pdf` — Board Extension (5–6 players) | |
 
 In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
 
@@ -254,7 +254,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ---
 
-## 5. Summary Sheets
+## 5. Cheat-Sheet
 
 ### 5.1. Damage Dealt
 
@@ -317,8 +317,7 @@ Some of the dragon's attacks might appear "unfairly" powerful or annoying… Wel
 
 | Version | Date | Changes |
 |---|---|---|
-| 0.13.2 | 2025-03-16 | Migrated to Markdown sources<br>Instructions (EN) |
-| 0.13.1 | 2025-04-07 | Small corrections |
+| 0.13.2 | 2025-03-16 | Migrated to Markdown sources<br>Instructions (EN)<br>Moved cheat-sheet into rules |
 | 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Simplified cheat-sheet<br>Extended supported number of players |
 | 0.12.1 | 2025-01-02 | Structure and style of page<br>Rules clarification |
 | 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers)<br>Extended cheat-sheet |
