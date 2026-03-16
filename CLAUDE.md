@@ -10,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```
 rules/
-  pl.md              # Polish rules — canonical, v0.14
+  pl.md              # Polish rules — v0.14
   en.md              # English rules — v0.14
   extensions_pl.md   # Polish rules extensions — new ideas, WIP, optional mechanics
   extensions_en.md   # English rules extensions
