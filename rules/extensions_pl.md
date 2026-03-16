@@ -4,6 +4,58 @@ Zbiór nowych pomysłów, zasad w opracowaniu oraz mechanik zbyt złożonych lub
 
 ---
 
+## Gracz automatyczny (Manekin)
+
+Umożliwia grę w dokładnie 3 osoby bez zmiany podstawowych zasad zaprojektowanych dla 4 graczy. Zainspirowane konceptem bridżowego mannekina.
+
+Jedna pozycja gracza zajmowana jest przez gracza automatycznego — Manekina. Manekin podlega wszystkim standardowym zasadom dotyczącym śmiałków. Poniższe uzupełnienia definiują, jak jego działania są wybierane automatycznie, na podstawie jednoznacznego algorytmu. Żadne decyzje nie są podejmowane przez człowieka w jego imieniu.
+
+### Ustawienie
+
+Karty ręki Manekina leżą zakryte w jednym stosie, umieszczonym przy odpowiedniej krawędzi planszy. Na początku gry Manekin otrzymuje normalnie 2 karty.
+
+### Algorytm
+
+W turze Manekina:
+
+1. **Odkryj** wierzchnią kartę stosu ręki Manekina.
+2. **Sprawdzenie poprawności.** Jeśli zagranie karty byłoby nieważne lub bezcelowe w bieżącej sytuacji (patrz niżej), przesuń ją na spód stosu ręki i wykonaj akcję Dobierz karty. Koniec tury.
+3. **Policz karty.** Zsumuj wszystkie karty aktualnie trzymane przez pozostałych (ludzkich) graczy.
+4. **Sprawdzenie prawdopodobieństwa.** Na podstawie liczby kart ustal warunek, porównując kolory odkrytej karty i wierzchniej karty wspólnego stosu kart odrzuconych:
+
+| Karty w rękach pozostałych | Warunek zagrania | Prawdopodobieństwo |
+|---|---|---|
+| 0–6 | Odkryta karta i wierzchnia odrzuconego mają **ten sam kolor karty** | 25% |
+| 7–12 | Odkryta karta i wierzchnia odrzuconego mają **ten sam kolor** | 50% |
+| ≥13 | Odkryta karta i wierzchnia odrzuconego mają **inny kolor karty** | 75% |
+
+5. **Jeśli warunek jest spełniony:** zagraj odkrytą kartę normalnie.
+6. **Jeśli warunek nie jest spełniony:** przesuń odkrytą kartę na spód stosu ręki i wykonaj akcję Dobierz karty.
+
+### Sprawdzenie poprawności
+
+Karta jest uznawana za nieważną lub bezcelową, gdy:
+
+- **Unik interwencyjny / Tarcza**: smok aktualnie nie wykonuje ataku.
+- **Pomocna dłoń** (4, 3, 2): żaden inny śmiałek nie leży na ziemi.
+- **Pierwsza pomoc** (Joker): żaden inny śmiałek nie ma mniej niż 8 PŻ ani nie jest unieszkodliwiony.
+- Wszystkie pozostałe karty są uznawane za poprawne.
+
+### Wybór celu
+
+Gdy Manekin zagrywa kartę ataku, celuje w część ciała smoka z **najniższym aktualnym PŻ** (najbardziej uszkodzoną, dążąc do jej unieszkodliwienia). Kolejność przy remisie: Paszcza → Łapy → Nogi → Ogon.
+
+Gdy Manekin zagrywa kartę wsparcia skierowaną do innego śmiałka, celuje w śmiałka z **najniższym aktualnym PŻ**. Przy remisie: gracz siedzący po lewej stronie Manekina.
+
+### Uwagi
+
+- Limit kart ręki Manekina podlega tym samym zasadom opartym na PŻ co u zwykłych graczy.
+- Jeśli ręka Manekina przekroczy limit (np. po otrzymaniu kart), odrzuć karty ze **spodu** stosu.
+- Jeśli stos kart odrzuconych jest pusty, traktuj warunek zagrania jako niespełniony (dobierz karty).
+- Joker (ręka Manekina) vs Joker (odrzucone): traktuj jako ten sam kolor karty — warunek spełniony we wszystkich przedziałach.
+
+---
+
 ## Generowanie imienia i cech smoka
 
 Imię smoka składa się z czterech sylab, po jednej dla każdej części ciała, w ustalonej kolejności: **Paszcza · Łapy · Nogi · Ogon**. Sylaby pochodzą ze starożytnego języka smoków (takie same we wszystkich wersjach gry). Każda sylaba określa cechę danej części ciała, nadając smokowi unikalny profil mechaniczny oraz imię.
