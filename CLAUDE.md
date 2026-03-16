@@ -15,6 +15,8 @@ rules/
 design/
   decisions.md       # Internal notes on mechanics and design choices
   style.md           # Notes on how rules are written and presented
+  story.md           # Story commentary: characters, dragon, lair
+board/               # Board SVG sources and generated PDFs (EN and _pl variants)
 ```
 
 ## Authoring Conventions
