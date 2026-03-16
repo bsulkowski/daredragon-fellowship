@@ -14,7 +14,7 @@ Gorrak is built like a small mountain that learned to hold a grudge. His axe is 
 
 Beneath the gruffness is someone who would — and has — walked into a burning building for each of his companions without pausing to ask questions. He has given each team member a dwarvish nickname. None of them can pronounce the real ones.
 
-**Motivation:** The dragon raided his clan's mine, collapsing the main shaft and burying the Great Axe of his great-great-grandmother Hildra under several tonnes of rock. Gorrak wants the axe back. He also wants revenge. If pressed, he will admit the axe is slightly more important.
+**Motivation:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He also wants revenge. If pressed, he will admit the axe is slightly more important.
 
 ---
 
@@ -24,7 +24,7 @@ Lirien has been alive for three hundred and forty-seven years and has the patien
 
 She keeps a journal of poetry about her companions. She has told no one about this journal. She never will.
 
-**Motivation:** The dragon's fire swept through the Heartwood Grove, an ancient forest she had been sworn to protect since before any of her current companions were born. Centuries of growth turned to ash in a single afternoon. For an elf, the destruction of an old forest is not just a loss — it is a personal insult across generations.
+**Motivation:** At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.
 
 ---
 
@@ -34,7 +34,7 @@ Pip barely reaches Gorrak's shoulder, which suits him fine — he has an excelle
 
 He always has food somewhere on his person. The origin and quantity of this food is unclear. It has never run out.
 
-**Motivation:** The dragon destroyed his prize mushroom patch — twelve years of careful cultivation, including two varieties he had spent six years developing himself — and knocked over his mother's apple cart on the way out. His mother told him it wasn't worth the trouble and that he should let it go. Pip is, politely but firmly, proving her wrong.
+**Motivation:** As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip's mother told him it wasn't worth the trouble and that he should let it go. Pip is, politely but firmly, proving her wrong.
 
 ---
 
@@ -44,7 +44,7 @@ Magnus carries a large enchanted hammer that once belonged to his warrior uncle.
 
 His cat, Theorem, survived the tower fire and now travels with the fellowship. Theorem is perpetually unimpressed by everyone, including the dragon.
 
-**Motivation:** The dragon incinerated his research tower, along with twelve years of notes and his only copy of *Advanced Draconic Theory, Vol. 7* — a book he had been waiting fourteen months to borrow from a colleague. He now has extremely personal reasons to study dragons up close.
+**Motivation:** Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of *Advanced Draconic Theory, Vol. 7* — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations.
 
 ---
 
@@ -70,7 +70,9 @@ Skeldrath is very old, very large, and very aware of both facts. He considers hi
 
 He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.
 
-He is also, beneath the terror, something of a collector. His hoard is meticulously sorted — gold by region of origin, jewels by colour, and stolen objects of sentimental value arranged on a separate shelf he thinks of as his "trophies." Gorrak's ancestral axe is on that shelf. So is a section of bark from Lirien's forest. So is a small framed portrait of Pip's mother, taken from the apple cart (he is not sure why he took it; he found her expression interesting). Magnus's scorched copy of *Advanced Draconic Theory, Vol. 7* has been partially read and annotated in the margins with the word *WRONG* in several places.
+Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.
+
+The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patch, the tower full of artifacts — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.
 
 **Personality in the story:** Skeldrath does not have conversations with the fellowship. He has pronouncements. He occasionally pauses mid-combat to make a remark he considers devastating. The fellowship has learned to use these pauses tactically.
 
@@ -88,8 +90,8 @@ The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has
 
 **The antechamber** is where previous visitors' equipment has ended up: dented shields, snapped spear hafts, one very melted cart wheel. It smells of smoke and sulphur and, faintly, of old mushrooms (from Pip's patch; the smell has travelled).
 
-**The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. The hoard glitters at the far end, catching the orange light from vents in the rock. In the centre, Skeldrath waits.
+**The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
 
 The board represents this hall. The circular track around its edge marks the positions of the daredevils as they move around the dragon, looking for openings, protecting each other, and trying not to be stood on.
 
-**Atmosphere notes for the story:** The hall is imposing but not hopeless. The light from the hoard is almost beautiful. The heat is oppressive but not unbearable. There is a faint sound — somewhere between a rumble and a snore — that turns out to be Skeldrath breathing. It stops when he notices them.
+**Atmosphere notes for the story:** The hall is imposing but not hopeless. The faint glow of half-drained artifacts gives the space an eerie, cold light — nothing warm about it. The heat from the rock is oppressive but not unbearable. There is a faint sound — somewhere between a rumble and a snore — that turns out to be Skeldrath breathing. It stops when he notices them.

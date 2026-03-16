@@ -26,6 +26,16 @@ Tone requirements:
 
 The story commentary is the one place where setting is fixed. Everywhere else in the rules, setting-neutral language is preferred.
 
+### Dragon archetype: magic predator, not treasure hoarder
+
+The story dragon (Skeldrath) is not the classic gold-hoarding dragon. He is indifferent to wealth and entirely uninterested in the inner lives of lesser creatures. His fixation is magical energy — he hunts artifacts of accumulated power and drains them to compound his own strength.
+
+This choice serves several purposes:
+- It gives each fellowship member a personal loss that is *specific* and *recoverable* (a rune-axe still in the lair, still faintly glowing) rather than just destroyed
+- It makes Skeldrath more threatening as a concept: he doesn't hate people, he simply doesn't register them. Indifference is scarier than malice for this age group.
+- It avoids the "greedy dragon" cliché while staying true to the game's design principle that the dragon is powerful and evil, not comedic or sympathetic
+- The lair becomes a graveyard of drained artifacts rather than a treasure room — visually distinct and tonally fitting
+
 ---
 
 ## The Dracometer
