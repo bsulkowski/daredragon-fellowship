@@ -34,7 +34,7 @@ Pip barely reaches Gorrak's shoulder, which suits him fine — he has an excelle
 
 He always has food somewhere on his person. The origin and quantity of this food is unclear. It has never run out.
 
-**Motivation:** As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip's mother told him it wasn't worth the trouble and that he should let it go. Pip is, politely but firmly, proving her wrong.
+**Motivation:** As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip finds this last part particularly unacceptable. He intends to be noticed.
 
 ---
 
