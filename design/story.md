@@ -14,7 +14,7 @@ Gorrak is built like a small mountain that learned to hold a grudge. His axe is 
 
 Beneath the gruffness is someone who would — and has — walked into a burning building for each of his companions without pausing to ask questions. He has given each team member a dwarvish nickname. None of them can pronounce the real ones.
 
-**Motivation:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He also wants revenge. If pressed, he will admit the axe is slightly more important.
+**Motivation:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.
 
 ---
 
