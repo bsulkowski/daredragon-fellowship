@@ -192,7 +192,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 | Action | Description |
 |---|---|
-| **Attack** | Deals damage to the chosen body part of the dragon.<br>+2Ϟ if immediately following the dragon's attack with that body part (riposte).<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last. |
+| **Attack** | Deals damage to the chosen body part of the dragon.<br>+2Ϟ if immediately following the dragon's attack with that body part (riposte).<br>Orchestrated attack: if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker landing on that turn.<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last. |
 | **Guard** | The action has no warm-up time. The daredevil stands guard until their next turn and performs the action on the first dragon attack. |
 | **Entangle** | Can only be applied to a body part of the dragon that is not currently being used in an attack. Daredevils receive a +1Ϟ bonus when attacking an entangled body part. When that body part is first used in an attack, it spends an additional turn at the start of the warm-up freeing itself from the entanglement. |
 | **Intervention Dodge** | The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance. The cool-down after the attack is extended by one turn, during which daredevils receive a +2Ϟ bonus to attacks. |
@@ -273,7 +273,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 | Modifier | Dragon's Attacks | Daredevils' Attacks |
 |---|---|---|
 | +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack with that body part.<br><br>Dragon knocked off balance (2 turns after Intervention Dodge). |
-| +1Ϟ | Attack during daredevil's warm-up.\*<br><br>More than 4 players. | Attack on entangled body part. |
+| +1Ϟ | Attack during daredevil's warm-up.\*<br><br>More than 4 players. | Attack on entangled body part.<br><br>Orchestrated attack: +1Ϟ per additional daredevil landing an attack on the same turn with the same suit. |
 | -1Ϟ | HP of body part between 1 and 13. | HP between 1 and 13. |
 | -2Ϟ | HP of body part equal 0. | Daredevil is lying on the ground. |
 | -3Ϟ | For each shield.\*\* | |

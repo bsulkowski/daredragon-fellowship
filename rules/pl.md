@@ -192,7 +192,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 | Akcja | Opis |
 |---|---|
-| **Atak** | Zadaje obrażenia wybranej części ciała smoka.<br>+2s, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni. |
+| **Atak** | Zadaje obrażenia wybranej części ciała smoka.<br>+2s, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1s za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni. |
 | **Czuwanie** | Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i wykonuje akcję przy pierwszym ataku smoka. |
 | **Oplątanie** | Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1s przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania. |
 | **Unik ratunkowy** | Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku. |
@@ -273,7 +273,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | Pozycja | Ataki smoka | Ataki śmiałków |
 |---|---|---|
 | +2s | Śmiałek leży na ziemi.\* | Riposta tuż po ataku smoka.<br><br>Smok wytrącony z równowagi (2 tury po uniku ratunkowym). |
-| +1s | Atak w czasie przygotowywania akcji śmiałka.\*<br><br>Więcej niż 4 graczy. | Atak na oplątaną część ciała smoka. |
+| +1s | Atak w czasie przygotowywania akcji śmiałka.\*<br><br>Więcej niż 4 graczy. | Atak na oplątaną część ciała smoka.<br><br>Skoordynowany atak: +1s za każdego kolejnego śmiałka kończącego atak w tej samej turze z kartą tego samego koloru. |
 | -1s | Punkty życia części ciała od 1 do 13. | Punkty życia śmiałka od 1 do 13. |
 | -2s | Punkty życia części ciała równe 0. | Śmiałek leży na ziemi. |
 | -3s | Za każdą osłonę.\*\* | |
