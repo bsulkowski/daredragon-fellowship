@@ -54,9 +54,15 @@ The four met seven years ago, answering the same notice tacked to a village boar
 
 > *WANTED: Brave souls. Dragon, probably small. Reward: negotiable.*
 
-The dragon was not small. The reward was never negotiated. But they won — barely, chaotically, and with significant damage to a barn — and somehow kept finding each other on subsequent jobs.
+They arrived separately, sized each other up with varying degrees of scepticism — Gorrak grunted twice, Lirien raised an eyebrow, Pip offered everyone a sandwich, Magnus accidentally set his sleeve on fire introducing himself — and agreed, after a short and not entirely civil discussion, to split the reward four ways.
 
-They are now an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker constantly and would not trade each other for anything.
+The dragon was not small. The reward was never negotiated. The barn that took the most damage still has not been fully repaired, and the village has asked the fellowship, politely but firmly, not to return. But they won, and in the aftermath — covered in soot, out of breath, Pip retrieving bolts from improbable locations, Gorrak already pretending the whole thing had been straightforward — something settled between them that none of them had a word for.
+
+They kept finding each other on subsequent jobs. After the third time, they stopped pretending it was coincidence.
+
+Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.
+
+They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.
 
 They are not family by blood. By every other measure, they are.
 
