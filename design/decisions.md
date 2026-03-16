@@ -14,6 +14,16 @@ Everything else — the world, the aesthetic, the character names — is left to
 
 Action names in the rules are abstract on purpose (Strike, Charge, Precision Strike, Shield, etc.) and are meant to be re-interpreted for the chosen setting. A "Charge" might be a cavalry rush, a rocket boost, or a sugar-fuelled sprint. A "Shield" might be a magical barrier, a riot shield, or an outstretched cape.
 
+## Spatial Agnosticism
+
+There is no notion of position or location in the game. Characters do not occupy specific squares, zones, or coordinates. No character is "closer" or "farther" from the dragon or from each other in any mechanical sense. Available actions are determined entirely by the cards a player holds — not by where they are standing.
+
+The board (or rather *boardlet* — it is deliberately small and minimal) does not represent a battlefield. It serves two purely administrative purposes: tracking HP levels and tracking turn sequence. The circular layout of the turn track is a convenience, not a map.
+
+This is an intentional design constraint, not an omission. Removing spatial logic eliminates a whole category of tactical complexity, keeping the game focused on timing, cooperation, and card management. It also makes the game playable anywhere — no table large enough for a map required.
+
+The AoE attack mechanic (hitting target and both neighbours) is the one exception that has a spatial flavour: players sit in a circle and "neighbours" are defined by seating order. This is a social/physical arrangement, not a tracked game state.
+
 ## Story Commentary in the Rulebook
 
 As an exception to the setting-agnostic principle, the rulebook will include a role-playing-style story that interleaves with the abstract rules sections. This story is set in a generic fantasy universe and serves as a worked example / flavour layer.
