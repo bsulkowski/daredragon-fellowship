@@ -14,6 +14,19 @@ Everything else — the world, the aesthetic, the character names — is left to
 
 Action names in the rules are abstract on purpose (Strike, Charge, Precision Strike, Shield, etc.) and are meant to be re-interpreted for the chosen setting. A "Charge" might be a cavalry rush, a rocket boost, or a sugar-fuelled sprint. A "Shield" might be a magical barrier, a riot shield, or an outstretched cape.
 
+## Warm-up as the Central Mechanic
+
+With few exceptions, actions are not resolved instantly. Both daredevils and the dragon spend several turns preparing before an action takes effect. This warm-up mechanic is the core of the game.
+
+Several consequences follow from this:
+
+- **Overlapping execution.** Multiple actions from multiple actors are in preparation simultaneously. At any given moment, a daredevil may be mid-charge while the dragon is mid-swing and another daredevil is deciding whether to shield or attack. The board edge serves as a timeline for all of this.
+- **Timing as skill.** Knowing when to start an action — so that it resolves at the right moment relative to what else is happening — is the primary tactical challenge. A riposte lands hardest immediately after a dragon attack; a slow charge started at the wrong time is a wasted turn.
+- **Tension and interruption.** A prepared action can be disrupted before it resolves: the dragon's Roar cancels all in-progress daredevil actions; a Knockdown cancels a specific one; a prone daredevil faces warm-up penalties. This creates persistent tension — committing to a slow, powerful action is a risk, not just a choice.
+- **Readable battlefield.** Because cards are placed face-up on the board edge at the turn they will resolve, all players can see what is coming — for both sides. This transparency is intentional: the challenge is not hidden information but coordination under pressure.
+
+The dragon's cool-down (a recovery period after its action resolves) is the complement to warm-up: it creates windows of vulnerability that reward well-timed attacks.
+
 ## Spatial Agnosticism
 
 There is no notion of position or location in the game. Characters do not occupy specific squares, zones, or coordinates. No character is "closer" or "farther" from the dragon or from each other in any mechanical sense. Available actions are determined entirely by the cards a player holds — not by where they are standing.
