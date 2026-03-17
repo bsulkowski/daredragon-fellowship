@@ -4,32 +4,32 @@
 
 ## Spis treści
 
-1. Wprowadzenie
-   1. Założenia projektowe
-   2. Wymagania
-2. Podstawowe zasady gry
-   1. Postacie w grze i ich atrybuty
-   2. Początkowa konfiguracja
-   3. Kolejność tur
-   4. Wykonywanie akcji przez śmiałków
-   5. Wykonywanie akcji przez smoka
-   6. Cel gry
-   7. Odgrywanie ról
-   8. Kooperacyjne dobieranie kart
-   9. Smokometr
-3. Przykładowa rozgrywka
-4. Tabele referencyjne
-   1. Akcje śmiałków
-   2. Akcje smoka
-   3. Efekty wynikające z punktów życia
-5. Ściągawka
-   1. Obrażenia
-   2. Modyfikatory obrażeń (pozycja na smokometrze)
-   3. Czas wykonywania akcji
-   4. Modyfikatory czasu wykonywania akcji
-6. Uwagi do wydania
-   1. Wyważenie gry
-   2. Historia wersji
+1. [Wprowadzenie](#1-wprowadzenie)
+   1. [Założenia projektowe](#11-założenia-projektowe)
+   2. [Wymagania](#12-wymagania)
+2. [Podstawowe zasady gry](#2-podstawowe-zasady-gry)
+   1. [Postacie w grze i ich atrybuty](#21-postacie-w-grze-i-ich-atrybuty)
+   2. [Początkowa konfiguracja](#22-początkowa-konfiguracja)
+   3. [Kolejność tur](#23-kolejność-tur)
+   4. [Wykonywanie akcji przez śmiałków](#24-wykonywanie-akcji-przez-śmiałków)
+   5. [Wykonywanie akcji przez smoka](#25-wykonywanie-akcji-przez-smoka)
+   6. [Cel gry](#26-cel-gry)
+   7. [Odgrywanie ról](#27-odgrywanie-ról)
+   8. [Kooperacyjne dobieranie kart](#28-kooperacyjne-dobieranie-kart)
+   9. [Smokometr](#29-smokometr)
+3. [Przykładowa rozgrywka](#3-przykładowa-rozgrywka)
+4. [Tabele referencyjne](#4-tabele-referencyjne)
+   1. [Akcje śmiałków](#41-akcje-śmiałków)
+   2. [Akcje smoka](#42-akcje-smoka)
+   3. [Efekty wynikające z punktów życia](#43-efekty-wynikające-z-punktów-życia)
+5. [Ściągawka](#5-ściągawka)
+   1. [Obrażenia](#51-obrażenia)
+   2. [Modyfikatory obrażeń (pozycja na smokometrze)](#52-modyfikatory-obrażeń-pozycja-na-smokometrze)
+   3. [Czas wykonywania akcji](#53-czas-wykonywania-akcji)
+   4. [Modyfikatory czasu wykonywania akcji](#54-modyfikatory-czasu-wykonywania-akcji)
+6. [Uwagi do wydania](#6-uwagi-do-wydania)
+   1. [Wyważenie gry](#61-wyważenie-gry)
+   2. [Historia wersji](#62-historia-wersji)
 
 ---
 

@@ -4,32 +4,32 @@
 
 ## Table of Contents
 
-1. Introduction
-   1. Design Principles
-   2. Prerequisites
-2. Core Game Rules
-   1. Actors and Their Attributes
-   2. Initial Setup
-   3. Turn Sequence
-   4. Performing Actions by Daredevils
-   5. Performing Actions by The Dragon
-   6. The Goal
-   7. Role-playing
-   8. Cooperative Card Draw
-   9. The Dracometer
-3. Sample Gameplay
-4. Reference Tables
-   1. Daredevils' Actions
-   2. Dragon's Actions
-   3. Health Points
-5. Cheat-Sheet
-   1. Damage Dealt
-   2. Modifiers to Damage Dealt
-   3. Warm-up Time
-   4. Modifiers to Warm-up Time
-6. Release Notes
-   1. Game Balance
-   2. Revision History
+1. [Introduction](#1-introduction)
+   1. [Design Principles](#11-design-principles)
+   2. [Prerequisites](#12-prerequisites)
+2. [Core Game Rules](#2-core-game-rules)
+   1. [Actors and Their Attributes](#21-actors-and-their-attributes)
+   2. [Initial Setup](#22-initial-setup)
+   3. [Turn Sequence](#23-turn-sequence)
+   4. [Performing Actions by Daredevils](#24-performing-actions-by-daredevils)
+   5. [Performing Actions by The Dragon](#25-performing-actions-by-the-dragon)
+   6. [The Goal](#26-the-goal)
+   7. [Role-playing](#27-role-playing)
+   8. [Cooperative Card Draw](#28-cooperative-card-draw)
+   9. [The Dracometer](#29-the-dracometer-ϟ)
+3. [Sample Gameplay](#3-sample-gameplay)
+4. [Reference Tables](#4-reference-tables)
+   1. [Daredevils' Actions](#41-daredevils-actions)
+   2. [Dragon's Actions](#42-dragons-actions)
+   3. [Health Points](#43-health-points)
+5. [Cheat-Sheet](#5-cheat-sheet)
+   1. [Damage Dealt](#51-damage-dealt)
+   2. [Modifiers to Damage Dealt](#52-modifiers-to-damage-dealt)
+   3. [Warm-up Time](#53-warm-up-time)
+   4. [Modifiers to Warm-up Time](#54-modifiers-to-warm-up-time)
+6. [Release Notes](#6-release-notes)
+   1. [Game Balance](#61-game-balance)
+   2. [Revision History](#62-revision-history)
 
 ---
 
