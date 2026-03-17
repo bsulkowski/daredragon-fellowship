@@ -18,6 +18,10 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 
 In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
 
+*Gorrak is built like a small mountain that learned to hold a grudge. His axe is ancient, his beard is legendary, and his sentences are short. He communicates mostly in grunts, but the fellowship has learned to read the grunts: one grunt means fine, two means not fine, three means run.*
+
+*Beneath the gruffness is someone who would — and has — walked into a burning building for each of his companions without pausing to ask questions. He has given each team member a dwarvish nickname. None of them can pronounce the real ones.*
+
 ### 1.2. Actors and Their Attributes
 
 Each player plays as one daredevil. Daredevils have endurance (health points; indicated by the position of their token on the board), stance (standing or lying on the ground; indicated by the token state) and a list of available actions (cards in hand; order does not matter).
@@ -28,6 +32,10 @@ Health points cannot drop below 0.
 
 The dragon can have one of the daredevils as its persistent attack target. This is indicated by placing the target token next to the corresponding player.
 
+*Lirien has been alive for three hundred and forty-seven years and has the patience to prove it — except when someone makes a tactical error she spotted two turns ago, in which case the patience evaporates immediately. She moves like water around obstacles, her blade finding gaps that shouldn't exist.*
+
+*She keeps a journal of poetry about her companions. She has told no one about this journal. She never will.*
+
 ### 1.3. Initial Setup
 
 At the start of the game, each daredevil and each of the dragon's body parts has 25 health points.
@@ -37,6 +45,10 @@ The first deck, containing the dragon's actions, is shuffled and placed in the c
 The second deck, containing the daredevils' actions, is shuffled and placed next to the board. Each player draws 2 cards to their hand. The hand limit is 6, but may be reduced later as the daredevil's health points drop.
 
 The dragon starts with no attack target. The target token is placed on the dragon's card deck in this case.
+
+*Pip barely reaches Gorrak's shoulder, which suits him fine — he has an excellent view of the battlefield from down there, and nobody expects the small one to be the most dangerous shot in three counties. His crossbow is almost as tall as he is. He has named it. He will not say what the name is.*
+
+*He always has food somewhere on his person. The origin and quantity of this food is unclear. It has never run out.*
 
 ### 1.4. Turn Sequence
 
@@ -60,6 +72,10 @@ For 4 players the sequence is:
 
 A token placed around the board helps track the current turn.
 
+*Magnus carries a large enchanted hammer that once belonged to his warrior uncle. He uses it as a walking staff. He uses it as a hammer when the spells get complicated. His spells work reliably about 95% of the time. The remaining 5% are, in his words, "instructive."*
+
+*His cat, Theorem, survived the tower fire and now travels with the fellowship. Theorem is perpetually unimpressed by everyone, including the dragon.*
+
 ### 1.5. Performing Actions by Daredevils
 
 Players keep their cards hidden from other players. It is important that each daredevil feels completely free to independently choose which action to perform, especially when it involves some sacrifice on their part.
@@ -72,6 +88,16 @@ Guard-type actions (Intervention Dodge and Shield) have no warm-up time; instead
 
 Daredevils decide the target of their actions at the very last moment — when the effect is triggered.
 
+*The four met seven years ago, answering the same notice tacked to a village board:*
+
+*> WANTED: Brave souls. Dragon, probably small. Reward: negotiable.*
+
+*They arrived separately, sized each other up with varying degrees of scepticism — Gorrak grunted twice, Lirien raised an eyebrow, Pip offered everyone a sandwich, Magnus accidentally set his sleeve on fire introducing himself — and agreed, after a short and not entirely civil discussion, to split the reward four ways.*
+
+*The dragon was not small. The reward was never negotiated. The barn that took the most damage still has not been fully repaired, and the village has asked the fellowship, politely but firmly, not to return. But they won, and in the aftermath — covered in soot, out of breath, Pip retrieving bolts from improbable locations, Gorrak already pretending the whole thing had been straightforward — something settled between them that none of them had a word for.*
+
+*They kept finding each other on subsequent jobs. After the third time, they stopped pretending it was coincidence.*
+
 ### 1.6. Performing Actions by The Dragon
 
 The dragon has no hand of cards. To determine its next action, on its turn it plays the top card of its deck. A warm-up phase begins, lasting a set number of dragon turns. The action card is placed on the edge of the board next to the turn on which the warm-up expires. At the start of that turn the action resolves, followed by a cool-down phase. The action card is placed face down next to the turn on which the cool-down expires. At the start of that turn the card is placed on the dragon's discard pile and the dragon is ready for its next action.
@@ -82,6 +108,12 @@ If a card has warm-up and cool-down of 0 (a Glare), it resolves with immediate e
 
 If the played card requires a target (direct or AoE attack) and the dragon has no target, the card is placed on the discard pile and the turn ends. The card triggers no effect. The dragon merely menaces the daredevils with a gesture alluding to the attack (baring its fangs, etc.).
 
+*Skeldrath is very old, very large, and very aware of both facts. He considers himself the apex of creation — a view he holds with complete sincerity and no supporting evidence beyond his own size. He gave himself the title "the Inexhaustible." Nobody else uses it.*
+
+*He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.*
+
+*Skeldrath does not have conversations with the fellowship. He has pronouncements. He occasionally pauses mid-combat to make a remark he considers devastating. The fellowship has learned to use these pauses tactically.*
+
 ### 1.7. The Goal
 
 Your shared goal is to defeat the dragon, by reducing the health points of all its body parts to 0. Any incapacitated daredevils are then revived and the whole fellowship can celebrate the victory.
@@ -90,6 +122,8 @@ Defeat occurs when all daredevils are incapacitated.
 
 There are no individual scores. The various acts of bravery and heroism in the game are not meant for comparing who is better, but to create positive experiences among you — ones that will leave a lasting impression even after the game ends.
 
+*Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of Advanced Draconic Theory, Vol. 7 — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations.*
+
 ### 1.8. Role-playing
 
 The game imposes no single aesthetic, leaving the choice to you, according to your sensibilities, interests and imagination.
@@ -97,6 +131,8 @@ The game imposes no single aesthetic, leaving the choice to you, according to yo
 You are invited to better immerse yourselves in the game world through role-playing. The game mechanics provide only a framework — what happens, what the outcome of actions is. All of this can be dressed in a colourful story as commentary, according to your fancy.
 
 For example, in one playtest session I ran with my children (aged 5–10), we chose the following heroes: Vege Knight, Snowman Chicken, Mistress of the Sweet, Cyber Ninja. The Mistress of the Sweet supported the rest of the fellowship, among other things by handing out sweets and gracing them with her sweet smile. Needless to say, the evil dragon didn't stand a chance against such a crew…
+
+*As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip finds this last part particularly unacceptable. He intends to be noticed.*
 
 ### 1.9. Cooperative Card Draw
 
@@ -107,6 +143,8 @@ This is the only way to get cards. Keep an eye on your co-players — otherwise 
 If at any time a player has more cards in hand than their limit, they must discard the excess cards of their choice.
 
 If the daredevils' deck runs out, shuffle the discard pile — it becomes the new deck.
+
+*At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.*
 
 ### 1.10. The Dracometer (Ϟ)
 
@@ -123,9 +161,19 @@ This solution achieves advanced attack scaling (linear for small values, roughly
 
 For players' convenience, the dracometer is also marked via the red fields on the board.
 
+*Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
+
+*The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patch, the tower full of artifacts — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
+
 ---
 
 ## 2. Sample Gameplay
+
+*Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.*
+
+*They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.*
+
+*They are not family by blood. By every other measure, they are.*
 
 *(to be done)*
 

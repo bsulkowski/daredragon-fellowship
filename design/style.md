@@ -22,15 +22,15 @@ Notes on how the rules are written and presented, independent of game logic.
 
 The rules are divided into two conceptually distinct parts:
 
-- **Sections 1–3**: Narrative, flowing prose intended to be read before the first game. Introduces the world, explains how to play step by step.
-- **Sections 4–5**: Reference tables intended for lookup during play. Dense, terse, table-heavy. Not meant to be read linearly.
-- **Section 6**: Meta-notes for the designer/player community (balance, future work, changelog).
+- **Sections 1–2**: Narrative, flowing prose intended to be read before the first game. Introduces the world, explains how to play step by step.
+- **Sections 3–4**: Reference tables intended for lookup during play. Dense, terse, table-heavy. Not meant to be read linearly.
+- **Section 5**: Meta-notes for the designer/player community (balance, future work, changelog).
 
-Keep these registers separate. Section 4–5 entries should be as short as possible. Section 2 explanations can use examples and narrative.
+Keep these registers separate. Section 3–4 entries should be as short as possible. Section 1 explanations can use examples and narrative.
 
 ## Table Conventions
 
-Two-table pattern for actions (sections 4.1, 4.2):
+Two-table pattern for actions (sections 3.1, 3.2):
 1. **Summary table**: card → action name, type, warm-up, damage. One row per card value. Quick lookup during play.
 2. **Description table**: action name → full rules text. One row per distinct action (not per card). Cross-referenced from the summary.
 
@@ -49,8 +49,8 @@ All modifiers are expressed as steps on the dracometer, not as absolute values. 
 ## Tone
 
 - Player-facing rules (sections 1–4) use second person plural ("you", "Wam/Wasze" in Polish). The game is addressed to the group, not an individual.
-- The role-playing section (2.7) is intentionally warmer and more personal in tone than the rest.
-- Balance notes (6.1) can be candid and informal — they address engaged players who want to tune the experience.
+- The role-playing section (1.8) is intentionally warmer and more personal in tone than the rest.
+- Balance notes (5.1) can be candid and informal — they address engaged players who want to tune the experience.
 
 ## Examples
 
@@ -60,3 +60,12 @@ Examples appear inline in the rules text, not in separate boxes. They follow a c
 The sample gameplay section (3) is a separate dedicated section, currently a placeholder.
 
 Story characters and world details are in `design/story.md`.
+
+## Story Commentary
+
+Story commentary is woven into the rules files alongside the technical content:
+
+- Story parts are written in **italics** to visually distinguish them from rules text.
+- Each story fragment in `design/story.md` is annotated with a **reveal** keyword indicating which section or subsection it belongs to.
+- Within that section, story commentary follows the technical information — rules text comes first, story text after.
+- Story sections do not interrupt or replace rules text; they are always appended at the end of the relevant block.
