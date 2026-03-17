@@ -2,50 +2,12 @@
 
 *Autor: Bartosz Sułkowski*
 
-## Spis treści
 
-1. [Wprowadzenie](#1-wprowadzenie)
-   1. [Założenia projektowe](#11-założenia-projektowe)
-   2. [Wymagania](#12-wymagania)
-2. [Podstawowe zasady gry](#2-podstawowe-zasady-gry)
-   1. [Postacie w grze i ich atrybuty](#21-postacie-w-grze-i-ich-atrybuty)
-   2. [Początkowa konfiguracja](#22-początkowa-konfiguracja)
-   3. [Kolejność tur](#23-kolejność-tur)
-   4. [Wykonywanie akcji przez śmiałków](#24-wykonywanie-akcji-przez-śmiałków)
-   5. [Wykonywanie akcji przez smoka](#25-wykonywanie-akcji-przez-smoka)
-   6. [Cel gry](#26-cel-gry)
-   7. [Odgrywanie ról](#27-odgrywanie-ról)
-   8. [Kooperacyjne dobieranie kart](#28-kooperacyjne-dobieranie-kart)
-   9. [Smokometr](#29-smokometr)
-3. [Przykładowa rozgrywka](#3-przykładowa-rozgrywka)
-4. [Tabele referencyjne](#4-tabele-referencyjne)
-   1. [Akcje śmiałków](#41-akcje-śmiałków)
-   2. [Akcje smoka](#42-akcje-smoka)
-   3. [Efekty wynikające z punktów życia](#43-efekty-wynikające-z-punktów-życia)
-5. [Ściągawka](#5-ściągawka)
-   1. [Obrażenia](#51-obrażenia)
-   2. [Modyfikatory obrażeń (pozycja na smokometrze)](#52-modyfikatory-obrażeń-pozycja-na-smokometrze)
-   3. [Czas wykonywania akcji](#53-czas-wykonywania-akcji)
-   4. [Modyfikatory czasu wykonywania akcji](#54-modyfikatory-czasu-wykonywania-akcji)
-6. [Uwagi do wydania](#6-uwagi-do-wydania)
-   1. [Wyważenie gry](#61-wyważenie-gry)
-   2. [Historia wersji](#62-historia-wersji)
-
----
-
-## 1. Wprowadzenie
+## 1. Podstawowe zasady gry
 
 W grze wcielacie się w drużynę śmiałków, wspólnie stawiających czoła groźnemu smokowi.
 
-### 1.1. Założenia projektowe
-
-1. Ekstremalna kooperacja: zbudowana na bezpośrednich pozytywnych interakcjach, poświęcaniu własnych korzyści i byciu mocno zależnym od siebie nawzajem.
-2. Pominięty aspekt przestrzenny: dostępne akcje graczy i zachowanie przeciwnika wyznaczone przez karty.
-3. Prosta taktyczna rozgrywka, oparta na odpowiednim zgraniu w czasie akcji, dostosowanych do dynamicznie rozwijającej się sytuacji.
-4. Epicka przygoda i doświadczenie odgrywania ról rodem z gier fabularnych.
-5. Otwarte podejście do projektowania gry: szeroko dostępna dla graczy, twórców gier i wydawców.
-
-### 1.2. Wymagania
+### 1.1. Wymagania
 
 | | | |
 |---|---|---|
@@ -56,11 +18,7 @@ W grze wcielacie się w drużynę śmiałków, wspólnie stawiających czoła gr
 
 W skrajnym wypadku można grać również bez pionków lub wydrukowanej planszy, zamiast tego notując potrzebne informacje na kartce.
 
----
-
-## 2. Podstawowe zasady gry
-
-### 2.1. Postacie w grze i ich atrybuty
+### 1.2. Postacie w grze i ich atrybuty
 
 Każdy z graczy wciela się w jednego śmiałka. Śmiałkowie mają wytrzymałość (punkty życia; oznaczone przez miejsce pionka na planszy), pozycję (stoją lub leżą na ziemi; oznaczone przez stan pionka) oraz listę dostępnych akcji (karty na ręce; kolejność nie gra roli).
 
@@ -70,7 +28,7 @@ Punkty życia nie mogą spaść poniżej 0.
 
 Smok może mieć wybrany jako cel ataków jednego ze śmiałków. Oznaczone jest to przez umieszczenie znacznika celu przy odpowiednim graczu.
 
-### 2.2. Początkowa konfiguracja
+### 1.3. Początkowa konfiguracja
 
 Na początku gry każdy ze śmiałków i każda z części ciała smoka mają po 25 punktów życia.
 
@@ -80,7 +38,7 @@ Druga talia, zawierająca akcje śmiałków, zostaje potasowana i położona obo
 
 Smok zaczyna bez wybranego celu ataków. Znacznik celu w takim wypadku kładzie się na stosie kart smoka.
 
-### 2.3. Kolejność tur
+### 1.4. Kolejność tur
 
 Rozpoczyna gracz, który jako ostatni komuś pomógł.
 
@@ -102,7 +60,7 @@ Dla 4 graczy kolejność wygląda więc następująco:
 
 W śledzeniu bieżącej tury pomaga znacznik, umieszczany na polach dookoła planszy.
 
-### 2.4. Wykonywanie akcji przez śmiałków
+### 1.5. Wykonywanie akcji przez śmiałków
 
 Gracze trzymają swoje karty na ręce zakryte przed pozostałymi. Istotne jest, aby poszczególni śmiałkowie czuli się całkowicie wolni w samodzielnym wyborze wykonywanej akcji, zwłaszcza gdy jest ona związana z jakimś poświęceniem z ich strony.
 
@@ -114,7 +72,7 @@ Akcje typu czuwanie (unik ratunkowy i osłona) nie mają czasu przygotowania, a 
 
 O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wywołują one efekt.
 
-### 2.5. Wykonywanie akcji przez smoka
+### 1.6. Wykonywanie akcji przez smoka
 
 Smok nie ma kart na ręce. Aby określić kolejną akcję, w swojej turze gra pierwszą kartę z góry swojej talii. Następuje czas przygotowania akcji, trwający określoną liczbę tur smoka. Karta akcji zostaje położona na brzegu planszy, przy turze w której upływa czas przygotowania. Na początku tej tury akcja zostaje wykonana i następuje czas odpoczynku po akcji. Karta akcji jest kładziona zakryta przy turze, w której upływa czas odpoczynku. Na początku tej tury karta zostaje odłożona na stos kart odrzuconych smoka, a smok jest gotowy do kolejnej akcji.
 
@@ -124,7 +82,7 @@ Jeśli karta ma czas przygotowania i odpoczynku 0 (łypnięcie), to jest wykonyw
 
 Jeśli zagrana karta wymaga celu (atak lub atak obszarowy), a smok nie ma wybranego celu, to jest odkładana na stos kart odrzuconych smoka i kończy się tura. Karta nie wywołuje właściwego sobie efektu. Smok jedynie straszy śmiałków, wykonując gest nawiązujący do danego ataku (szczerzenie kłów itp.).
 
-### 2.6. Cel gry
+### 1.7. Cel gry
 
 Waszym wspólnym celem jest pokonanie smoka, poprzez całkowite uszkodzenie (obniżenie punktów życia do 0) wszystkich jego części ciała. Każdy obezwładniony śmiałek jest wówczas przywracany do życia i cała drużyna może świętować zwycięstwo.
 
@@ -132,7 +90,7 @@ Porażka następuje w przypadku, gdy wszyscy śmiałkowie zostaną obezwładnien
 
 Nie ma indywidualnych wyników. Różne konkretne dowody odwagi i bohaterstwa w grze nie mają służyć porównywaniu się ze sobą kto jest lepszy, lecz pozwolić na przeżycie między Wami pozytywnych doświadczeń, których ślad pozostanie nawet po zakończeniu gry.
 
-### 2.7. Odgrywanie ról
+### 1.8. Odgrywanie ról
 
 Gra nie narzuca jednej stylistyki, pozostawiając wypełnienie jej Wam, zgodnie z Waszą wrażliwością, zainteresowaniami, czy wyobraźnią.
 
@@ -140,7 +98,7 @@ Jesteście zaproszeni do tego, aby lepiej wczuć się w świat gry, przez odgryw
 
 Przykładowo w jednej z sesji prototypu gry, który rozegrałem z moimi dziećmi (5–10 lat), wybraliśmy następujących bohaterów: Vege rycerz, Bałwanek kurczak, Mistrzyni słodyczy, Cyber ninja. Mistrzyni słodyczy wspierała pozostałych członków drużyny, między innymi rozdając im cukierki oraz obdarzając ich swoim słodkim uśmiechem. Nie muszę chyba dodawać, czy zły smok miał szansę w starciu z taką ekipą…
 
-### 2.8. Kooperacyjne dobieranie kart
+### 1.9. Kooperacyjne dobieranie kart
 
 W swojej turze, gracz zamiast zagrać karty akcji może zdecydować się na dobranie kart. Wówczas rozdaje po 1 karcie każdemu ze współgraczy. Gracz nie może w ten sposób dostać karty bezpośrednio dla siebie.
 
@@ -150,7 +108,7 @@ Jeśli w dowolnej chwili gracz ma na ręce więcej kart niż jego limit, powinie
 
 Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty – staną się one nową talią.
 
-### 2.9. Smokometr
+### 1.10. Smokometr
 
 Obrażenia zadawane przez smoka lub śmiałków przyjmują zawsze wartości z ograniczonego zestawu, nazwanego „smokometrem".
 
@@ -167,15 +125,15 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-## 3. Przykładowa rozgrywka
+## 2. Przykładowa rozgrywka
 
 *(pojawi się w przyszłości)*
 
 ---
 
-## 4. Tabele referencyjne
+## 3. Tabele referencyjne
 
-### 4.1. Akcje śmiałków
+### 3.1. Akcje śmiałków
 
 | Karta | Akcja | Typ | Czas przygotowania | Obrażenia |
 |---|---|---|---|---|
@@ -203,7 +161,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | **Pierwsza pomoc** | Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnosi z ziemi. Nie można wykonać na samym sobie. |
 | **Powalony na ziemię** | Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2s. |
 
-### 4.2. Akcje smoka
+### 3.2. Akcje smoka
 
 | Karta | Część ciała | Akcja | Typ | Czas przygotowania | Czas odpoczynku | Obrażenia |
 |---|---|---|---|---|---|---|
@@ -232,7 +190,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | **Regeneracja** | Przywraca do 8 punktów życia najsłabszej części ciała. Jeśli remis, to w kolejności: paszcza, łapy, nogi, ogon. |
 | **Liczba graczy** | Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1s. |
 
-### 4.3. Efekty wynikające z punktów życia
+### 3.3. Efekty wynikające z punktów życia
 
 #### Śmiałkowie
 
@@ -254,9 +212,9 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-## 5. Ściągawka
+## 4. Ściągawka
 
-### 5.1. Obrażenia
+### 4.1. Obrażenia
 
 | Obrażenia | Ataki smoka | Ataki obszarowe smoka | Ataki śmiałków |
 |---|---|---|---|
@@ -268,7 +226,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 (\*) Powoduje powalenie.
 
-### 5.2. Modyfikatory obrażeń (pozycja na smokometrze)
+### 4.2. Modyfikatory obrażeń (pozycja na smokometrze)
 
 | Pozycja | Ataki smoka | Ataki śmiałków |
 |---|---|---|
@@ -281,7 +239,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 (\*) Nie dotyczy ataków obszarowych.
 (\*\*) Śmiałek w obszarze ataku nie osłania sam siebie.
 
-### 5.3. Czas wykonywania akcji
+### 4.3. Czas wykonywania akcji
 
 | Czas przyg. | Akcje smoka, czas odp. = 2 | Akcje smoka, czas odp. = 1 | Akcje śmiałków | Akcje śmiałków |
 |---|---|---|---|---|
@@ -290,7 +248,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | 2 | [10] [9] Stratowanie | [7] [6] Atak<br>[A♥♦] Ognisty oddech | [7] [6] Atak | [4] [3] [2] Pomocna dłoń |
 | 1 | | [5] Szybki atak<br>[A♠♣] Przeraźliwy ryk<br>[Joker] Regeneracja | [5] Szybki atak | [K] Odwrócenie uwagi |
 
-### 5.4. Modyfikatory czasu wykonywania akcji
+### 4.4. Modyfikatory czasu wykonywania akcji
 
 | Czas przyg. | Akcje smoka | Akcje śmiałków |
 |---|---|---|
@@ -301,11 +259,11 @@ Czas odpoczynku smoka +1, gdy wytrącony z równowagi przez unik ratunkowy.
 
 ---
 
-## 6. Uwagi do wydania
+## 5. Uwagi do wydania
 
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 
-### 6.1. Wyważenie gry
+### 5.1. Wyważenie gry
 
 Walka ze smokiem nie jest rutynową aktywnością. Powinna stanowić pewne wyzwanie, którego pokonanie wymaga od graczy szerokiej współpracy. Jeśli jednak uznacie, że gra jest za łatwa lub za trudna, by czerpać z niej przyjemność, możecie dostosować poziom trudności przez uczynienie ataków smoka silniejszymi lub słabszymi. Przykładowo zwiększenie siły ataków o 1 pozycję na smokometrze sprawi, że będą one silniejsze o około 25%.
 
@@ -313,7 +271,7 @@ Możecie także dostosować tempo gry, poprzez proporcjonalną zmianę siły ata
 
 Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytujące… Cóż, smok to nie jest fajny kumpel, który walczy fair.
 
-### 6.2. Historia wersji
+### 5.2. Historia wersji
 
 | Wersja | Data | Zmiany |
 |---|---|---|

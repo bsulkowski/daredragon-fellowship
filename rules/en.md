@@ -2,50 +2,12 @@
 
 *Author: Bartosz Sułkowski*
 
-## Table of Contents
 
-1. [Introduction](#1-introduction)
-   1. [Design Principles](#11-design-principles)
-   2. [Prerequisites](#12-prerequisites)
-2. [Core Game Rules](#2-core-game-rules)
-   1. [Actors and Their Attributes](#21-actors-and-their-attributes)
-   2. [Initial Setup](#22-initial-setup)
-   3. [Turn Sequence](#23-turn-sequence)
-   4. [Performing Actions by Daredevils](#24-performing-actions-by-daredevils)
-   5. [Performing Actions by The Dragon](#25-performing-actions-by-the-dragon)
-   6. [The Goal](#26-the-goal)
-   7. [Role-playing](#27-role-playing)
-   8. [Cooperative Card Draw](#28-cooperative-card-draw)
-   9. [The Dracometer](#29-the-dracometer-ϟ)
-3. [Sample Gameplay](#3-sample-gameplay)
-4. [Reference Tables](#4-reference-tables)
-   1. [Daredevils' Actions](#41-daredevils-actions)
-   2. [Dragon's Actions](#42-dragons-actions)
-   3. [Health Points](#43-health-points)
-5. [Cheat-Sheet](#5-cheat-sheet)
-   1. [Damage Dealt](#51-damage-dealt)
-   2. [Modifiers to Damage Dealt](#52-modifiers-to-damage-dealt)
-   3. [Warm-up Time](#53-warm-up-time)
-   4. [Modifiers to Warm-up Time](#54-modifiers-to-warm-up-time)
-6. [Release Notes](#6-release-notes)
-   1. [Game Balance](#61-game-balance)
-   2. [Revision History](#62-revision-history)
-
----
-
-## 1. Introduction
+## 1. Core Game Rules
 
 In the game you play as a fellowship of heroes dare to stand against a dreadful dragon.
 
-### 1.1. Design Principles
-
-1. Extreme cooperation: built upon direct positive interactions, sacrifice of personal gain and being heavily interdependent.
-2. Spatially agnostic: available player actions and enemy behaviour determined by cards.
-3. Simple tactical gameplay, based on proper timing of actions, adapted to dynamically evolving situation.
-4. Epic adventure and ad-hoc role-playing experience.
-5. Open game design: widely accessible for players, game developers and publishers.
-
-### 1.2. Prerequisites
+### 1.1. Prerequisites
 
 | | | |
 |---|---|---|
@@ -56,11 +18,7 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 
 In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
 
----
-
-## 2. Core Game Rules
-
-### 2.1. Actors and Their Attributes
+### 1.2. Actors and Their Attributes
 
 Each player plays as one daredevil. Daredevils have endurance (health points; indicated by the position of their token on the board), stance (standing or lying on the ground; indicated by the token state) and a list of available actions (cards in hand; order does not matter).
 
@@ -70,7 +28,7 @@ Health points cannot drop below 0.
 
 The dragon can have one of the daredevils as its persistent attack target. This is indicated by placing the target token next to the corresponding player.
 
-### 2.2. Initial Setup
+### 1.3. Initial Setup
 
 At the start of the game, each daredevil and each of the dragon's body parts has 25 health points.
 
@@ -80,7 +38,7 @@ The second deck, containing the daredevils' actions, is shuffled and placed next
 
 The dragon starts with no attack target. The target token is placed on the dragon's card deck in this case.
 
-### 2.3. Turn Sequence
+### 1.4. Turn Sequence
 
 The player who most recently helped someone goes first.
 
@@ -102,7 +60,7 @@ For 4 players the sequence is:
 
 A token placed around the board helps track the current turn.
 
-### 2.4. Performing Actions by Daredevils
+### 1.5. Performing Actions by Daredevils
 
 Players keep their cards hidden from other players. It is important that each daredevil feels completely free to independently choose which action to perform, especially when it involves some sacrifice on their part.
 
@@ -114,7 +72,7 @@ Guard-type actions (Intervention Dodge and Shield) have no warm-up time; instead
 
 Daredevils decide the target of their actions at the very last moment — when the effect is triggered.
 
-### 2.5. Performing Actions by The Dragon
+### 1.6. Performing Actions by The Dragon
 
 The dragon has no hand of cards. To determine its next action, on its turn it plays the top card of its deck. A warm-up phase begins, lasting a set number of dragon turns. The action card is placed on the edge of the board next to the turn on which the warm-up expires. At the start of that turn the action resolves, followed by a cool-down phase. The action card is placed face down next to the turn on which the cool-down expires. At the start of that turn the card is placed on the dragon's discard pile and the dragon is ready for its next action.
 
@@ -124,7 +82,7 @@ If a card has warm-up and cool-down of 0 (a Glare), it resolves with immediate e
 
 If the played card requires a target (direct or AoE attack) and the dragon has no target, the card is placed on the discard pile and the turn ends. The card triggers no effect. The dragon merely menaces the daredevils with a gesture alluding to the attack (baring its fangs, etc.).
 
-### 2.6. The Goal
+### 1.7. The Goal
 
 Your shared goal is to defeat the dragon, by reducing the health points of all its body parts to 0. Any incapacitated daredevils are then revived and the whole fellowship can celebrate the victory.
 
@@ -132,7 +90,7 @@ Defeat occurs when all daredevils are incapacitated.
 
 There are no individual scores. The various acts of bravery and heroism in the game are not meant for comparing who is better, but to create positive experiences among you — ones that will leave a lasting impression even after the game ends.
 
-### 2.7. Role-playing
+### 1.8. Role-playing
 
 The game imposes no single aesthetic, leaving the choice to you, according to your sensibilities, interests and imagination.
 
@@ -140,7 +98,7 @@ You are invited to better immerse yourselves in the game world through role-play
 
 For example, in one playtest session I ran with my children (aged 5–10), we chose the following heroes: Vege Knight, Snowman Chicken, Mistress of the Sweet, Cyber Ninja. The Mistress of the Sweet supported the rest of the fellowship, among other things by handing out sweets and gracing them with her sweet smile. Needless to say, the evil dragon didn't stand a chance against such a crew…
 
-### 2.8. Cooperative Card Draw
+### 1.9. Cooperative Card Draw
 
 On their turn, a player may opt to draw cards instead of playing an action. They do this by dealing one card to each of their fellow players. A player cannot directly get a card for themselves.
 
@@ -150,7 +108,7 @@ If at any time a player has more cards in hand than their limit, they must disca
 
 If the daredevils' deck runs out, shuffle the discard pile — it becomes the new deck.
 
-### 2.9. The Dracometer (Ϟ)
+### 1.10. The Dracometer (Ϟ)
 
 Damage dealt by the dragon or daredevils always takes a value from a fixed sequence called the "dracometer".
 
@@ -167,15 +125,15 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ---
 
-## 3. Sample Gameplay
+## 2. Sample Gameplay
 
 *(to be done)*
 
 ---
 
-## 4. Reference Tables
+## 3. Reference Tables
 
-### 4.1. Daredevils' Actions
+### 3.1. Daredevils' Actions
 
 | Card | Action | Type | Warm-up | Damage |
 |---|---|---|---|---|
@@ -203,7 +161,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 | **First Aid** | Restores up to 8 health points, even if the daredevil is incapacitated. Helps them up. Cannot be used on yourself. |
 | **On the ground** | When a daredevil is knocked to the ground, they cannot perform Guard-type actions or actions with a base warm-up of 4, i.e.:<br>— Intervention Dodge,<br>— Shield,<br>— Charge,<br>— First Aid.<br>Warm-up of remaining actions +1.<br>Damage dealt by the daredevil -2Ϟ. |
 
-### 4.2. Dragon's Actions
+### 3.2. Dragon's Actions
 
 | Card | Body Part | Action | Type | Warm-up | Cool-down | Damage |
 |---|---|---|---|---|---|---|
@@ -232,7 +190,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 | **Health Regeneration** | Restores up to 8 health points to the weakest body part. In case of a tie, priority order is: jaws, paws, legs, tail. |
 | **Number of Players** | If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on every attack. |
 
-### 4.3. Health Points
+### 3.3. Health Points
 
 #### Daredevils
 
@@ -254,9 +212,9 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ---
 
-## 5. Cheat-Sheet
+## 4. Cheat-Sheet
 
-### 5.1. Damage Dealt
+### 4.1. Damage Dealt
 
 | Damage | Dragon's Direct Attacks | Dragon's AoE Attacks | Daredevils' Attacks |
 |---|---|---|---|
@@ -268,7 +226,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 (\*) Causes knockdown.
 
-### 5.2. Modifiers to Damage Dealt
+### 4.2. Modifiers to Damage Dealt
 
 | Modifier | Dragon's Attacks | Daredevils' Attacks |
 |---|---|---|
@@ -281,7 +239,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 (\*) Not applicable to AoE attacks.
 (\*\*) Daredevil in AoE does not shield themselves.
 
-### 5.3. Warm-up Time
+### 4.3. Warm-up Time
 
 | Warm-up Time | Dragon's Actions, Cool-down = 2 | Dragon's Actions, Cool-down = 1 | Daredevils' Actions | Daredevils' Actions |
 |---|---|---|---|---|
@@ -290,7 +248,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 | 2 | [10] [9] Trample | [7] [6] Strike<br>[A♥♦] Fire Breath | [7] [6] Strike | [4] [3] [2] Helping Hand |
 | 1 | | [5] Quick Strike<br>[A♠♣] Roar<br>[Joker] Health Regeneration | [5] Quick Strike | [K] Draw Aggro |
 
-### 5.4. Modifiers to Warm-up Time
+### 4.4. Modifiers to Warm-up Time
 
 | Warm-up Time | Dragon's Actions | Daredevils' Actions |
 |---|---|---|
@@ -301,11 +259,11 @@ Dragon's cool-down time +1, if lost balance due to Intervention Dodge.
 
 ---
 
-## 6. Release Notes
+## 5. Release Notes
 
 At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
 
-### 6.1. Game Balance
+### 5.1. Game Balance
 
 Fighting the dragon is not a routine activity. It is supposed to be a challenge, that forces players to cooperate extensively. However, if you find the game too easy or too hard to enjoy, you can adjust the difficulty by making dragon's attacks stronger or weaker. For example adding +1Ϟ modifier to all attacks will make the dragon stronger by roughly 25%.
 
@@ -313,7 +271,7 @@ You can also adjust the pace of the game, by adjusting strength of attacks for b
 
 Some of the dragon's attacks might appear "unfairly" powerful or annoying… Well, the dragon was never meant to be your sparring buddy.
 
-### 6.2. Revision History
+### 5.2. Revision History
 
 | Version | Date | Changes |
 |---|---|---|
