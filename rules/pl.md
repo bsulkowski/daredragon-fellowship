@@ -7,20 +7,42 @@
 
 W grze wcielacie się w drużynę śmiałków, wspólnie stawiających czoła groźnemu smokowi.
 
+Gracze: 4–6 osób
+
 ### 1.1. Wymagania
 
-| | | |
-|---|---|---|
-| **Gracze** | 4–6 osób | |
-| **Karty** | 2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach | Jedna talia przedstawia możliwe akcje śmiałków, a druga akcje smoka. |
-| **Pionki** | 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)<br><br>2 znaczniki | Każdy ze śmiałków otrzymuje po 1 pionku. Smok otrzymuje 4 pionki, po jednym dla każdej części ciała (paszcza, łapy, nogi, ogon).<br><br>Pozycja pionków na planszy przedstawia pozostałe punkty życia śmiałków i smoka (od 0 do 25). Dodatkowy stan pionka służy do oznaczenia statusu (leżący śmiałek / oplątana część ciała smoka).<br><br>Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje cel ataków smoka. |
-| **Do pobrania i wydrukowania** | `board_pl.pdf` — Plansza<br>`board_extension_pl.pdf` — Rozszerzenie planszy (5–6 graczy) | |
+#### Karty
+
+2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach
+
+Jedna talia przedstawia możliwe akcje śmiałków, a druga akcje smoka.
+
+#### Pionki
+
+* 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)
+* 2 znaczniki
+
+Każdy ze śmiałków otrzymuje po 1 pionku. Smok otrzymuje 4 pionki, po jednym dla każdej części ciała (paszcza, łapy, nogi, ogon).
+ 
+Pozycja pionków na planszy przedstawia pozostałe punkty życia śmiałków i smoka (od 0 do 25). Dodatkowy stan pionka służy do oznaczenia statusu (leżący śmiałek / oplątana część ciała smoka).
+ 
+Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje cel ataków smoka.
+ 
+#### Do pobrania i wydrukowania
+
+[Plansza](/board/board_pl.pdf)
+ 
+[Rozszerzenie planszy](/board/board_extension_pl.pdf) (5–6 graczy)
 
 W skrajnym wypadku można grać również bez pionków lub wydrukowanej planszy, zamiast tego notując potrzebne informacje na kartce.
+
+---
 
 *Gorrak jest zbudowany jak mała góra, która nauczyła się pielęgnować urazę. Jego topór jest starożytny, broda legendarna, a zdania krótkie. Porozumiewa się głównie mruczeniem, ale drużyna nauczyła się je odczytywać: jedno mruknięcie oznacza w porządku, dwa — nie w porządku, trzy — uciekajcie.*
 
 *Pod tą szorstkością kryje się ktoś, kto — i to wielokrotnie — wchodził do płonącego budynku dla każdego ze swoich towarzyszy, nie zatrzymując się, by zadawać pytania. Każdemu z członków drużyny nadał krasnoludzki przydomek. Żadne z nich nie potrafi wymówić oryginałów.*
+
+---
 
 ### 1.2. Postacie w grze i ich atrybuty
 
@@ -32,9 +54,13 @@ Punkty życia nie mogą spaść poniżej 0.
 
 Smok może mieć wybrany jako cel ataków jednego ze śmiałków. Oznaczone jest to przez umieszczenie znacznika celu przy odpowiednim graczu.
 
+---
+
 *Lirien żyje od trzystu czterdziestu siedmiu lat i ma cierpliwość, by to udowodnić — chyba że ktoś popełni taktyczny błąd, który ona dostrzegła dwie tury wcześniej, w którym to momencie cierpliwość natychmiast wyparowuje. Porusza się jak woda omijająca przeszkody, a jej ostrze trafia w szczeliny, których nie powinno być.*
 
 *Prowadzi dziennik z wierszami o swoich towarzyszach. Nikomu o tym dzienniku nie powiedziała. Nigdy nie powie.*
+
+---
 
 ### 1.3. Początkowa konfiguracja
 
@@ -46,9 +72,13 @@ Druga talia, zawierająca akcje śmiałków, zostaje potasowana i położona obo
 
 Smok zaczyna bez wybranego celu ataków. Znacznik celu w takim wypadku kładzie się na stosie kart smoka.
 
+---
+
 *Pip sięga zaledwie do ramienia Gorraka, co mu odpowiada — ma stąd doskonały widok na pole bitwy, a nikt nie spodziewa się, że to ten mały jest najlepszym strzelcem w trzech hrabstwach. Jego kusza jest prawie tak wysoka jak on. Nadał jej imię. Nie powie jakie.*
 
 *Zawsze ma przy sobie jedzenie. Jego pochodzenie i ilość są niejasne. Nigdy mu się nie skończyło.*
+
+---
 
 ### 1.4. Kolejność tur
 
@@ -72,9 +102,13 @@ Dla 4 graczy kolejność wygląda więc następująco:
 
 W śledzeniu bieżącej tury pomaga znacznik, umieszczany na polach dookoła planszy.
 
+---
+
 *Magnus nosi duży zaczarowany młot, który należał niegdyś do jego wuja — wojownika. Używa go jako laski. Używa go jako młota, gdy zaklęcia zaczynają się komplikować. Jego zaklęcia działają niezawodnie przez około 95% czasu. Pozostałe 5% jest, jak sam mówi, „pouczające".*
 
 *Jego kot, Twierdzenie, przeżył pożar wieży i teraz podróżuje z drużyną. Twierdzenie jest nieodmiennie niezrobionym na niczym wrażeniu — włącznie ze smokiem.*
+
+---
 
 ### 1.5. Wykonywanie akcji przez śmiałków
 
@@ -88,6 +122,8 @@ Akcje typu czuwanie (unik ratunkowy i osłona) nie mają czasu przygotowania, a 
 
 O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wywołują one efekt.
 
+---
+
 *Czwórka spotkała się siedem lat temu, odpowiadając na to samo ogłoszenie przyklejone do wiejskiej tablicy:*
 
 *> POSZUKIWANI: Odważne dusze. Smok, prawdopodobnie mały. Nagroda: do uzgodnienia.*
@@ -97,6 +133,8 @@ O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wyw
 *Smok nie był mały. Nagroda nigdy nie została wynegocjowana. Stodoła, która najbardziej ucierpiała, wciąż nie jest w pełni naprawiona, a wieś poprosiła drużynę — uprzejmie, lecz stanowczo — by nie wracała. Ale wygrali, a potem — pokryci sadzą, bez tchu, Pip wyciągający bełty z nieprawdopodobnych miejsc, Gorrak już udający, że to było proste — między nimi coś się osiadło, na co żadne z nich nie miało słowa.*
 
 *Nadal znajdowali się na kolejnych zleceniach. Po trzecim razie przestali udawać, że to przypadek.*
+
+---
 
 ### 1.6. Wykonywanie akcji przez smoka
 
@@ -108,11 +146,15 @@ Jeśli karta ma czas przygotowania i odpoczynku 0 (łypnięcie), to jest wykonyw
 
 Jeśli zagrana karta wymaga celu (atak lub atak obszarowy), a smok nie ma wybranego celu, to jest odkładana na stos kart odrzuconych smoka i kończy się tura. Karta nie wywołuje właściwego sobie efektu. Smok jedynie straszy śmiałków, wykonując gest nawiązujący do danego ataku (szczerzenie kłów itp.).
 
+---
+
 *Skeldrath jest bardzo stary, bardzo duży i w pełni świadomy obu tych faktów. Uważa się za szczyt stworzenia — pogląd, który wyznaje z całą szczerością i bez żadnych dowodów poza własnym rozmiarem. Sam nadał sobie tytuł „Nieznużonego". Nikt inny go nie używa.*
 
 *Jest naprawdę niebezpieczny. Jego ogień obrócił twierdze w gruzy, jego szczęki kruszyły machiny oblężnicze, a ogon zrównał z ziemią wieżę strażniczą, która — trzeba przyznać — już i tak się przechylała. Nie należy go lekceważyć, i on o tym wie, i przy każdej nadarzającej się okazji wam o tym przypomni.*
 
 *Skeldrath nie prowadzi rozmów z drużyną. On wygłasza oświadczenia. Czasem zatrzymuje się w połowie walki, by powiedzieć coś, co uważa za druzgocące. Drużyna nauczyła się taktycznie wykorzystywać te pauzy.*
+
+---
 
 ### 1.7. Cel gry
 
@@ -122,7 +164,11 @@ Porażka następuje w przypadku, gdy wszyscy śmiałkowie zostaną obezwładnien
 
 Nie ma indywidualnych wyników. Różne konkretne dowody odwagi i bohaterstwa w grze nie mają służyć porównywaniu się ze sobą kto jest lepszy, lecz pozwolić na przeżycie między Wami pozytywnych doświadczeń, których ślad pozostanie nawet po zakończeniu gry.
 
+---
+
 *Magnus przez lata zbierał kolekcję magicznych artefaktów do badań — część zdobytą, część pożyczoną, kilka w stanach prawnej niejednoznaczności, których wolał nie analizować zbyt dokładnie. Skeldrath zabrał wszystko. Spalił też wieżę, razem z dwunastoma latami notatek i jedynym egzemplarzem Zaawansowanej teorii drakologicznej, tom 7 — książki, na którą Magnus czekał czternaście miesięcy, by pożyczyć ją od kolegi. Smok najwyraźniej w ogóle nie zauważył Magnusa podczas incydentu, co Magnus uznał za jednocześnie obraźliwe i — po namyśle — fortunne. Ma teraz niezwykle osobiste powody, by studiować smoki z bliska. Jest też winny kilku osobom kilka istotnych wyjaśnień.*
+
+---
 
 ### 1.8. Odgrywanie ról
 
@@ -132,7 +178,11 @@ Jesteście zaproszeni do tego, aby lepiej wczuć się w świat gry, przez odgryw
 
 Przykładowo w jednej z sesji prototypu gry, który rozegrałem z moimi dziećmi (5–10 lat), wybraliśmy następujących bohaterów: Vege rycerz, Bałwanek kurczak, Mistrzyni słodyczy, Cyber ninja. Mistrzyni słodyczy wspierała pozostałych członków drużyny, między innymi rozdając im cukierki oraz obdarzając ich swoim słodkim uśmiechem. Nie muszę chyba dodawać, czy zły smok miał szansę w starciu z taką ekipą…
 
+---
+
 *Jak się okazuje, grządka grzybów Pipa znajdowała się dokładnie nad starożytnym węzłem magii ziemi — splotem linii ley, który hobbici z wioski uprawiali od pokoleń, nie wiedząc o tym (grzyby były bardzo dobre, co wydawało się wystarczającym wytłumaczeniem). Skeldrath wyczuł to z trzech gór. Przyszedł, wyciągnął energię i zrównał większość wioski z ziemią po drodze — włącznie z grządką grzybów i wózkiem jabłkowym jego matki — bez najwyraźniejszej świadomości, że cokolwiek tam żyło. Pip uznaje tę ostatnią część za szczególnie niedopuszczalną. Zamierza dać się zauważyć.*
+
+---
 
 ### 1.9. Kooperacyjne dobieranie kart
 
@@ -144,7 +194,11 @@ Jeśli w dowolnej chwili gracz ma na ręce więcej kart niż jego limit, powinie
 
 Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty – staną się one nową talią.
 
+---
+
 *W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath go wyczerpał. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
+
+---
 
 ### 1.10. Smokometr
 
@@ -160,6 +214,8 @@ Przykładowo, przy bazowej sile ataku 8, modyfikator +1s powoduje zwiększenie o
 Jest to rozwiązanie pozwalające uzyskać zaawansowane skalowanie siły ataków (dla małych wartości liniowa, a później podwaja się mniej więcej co 3 poziomy), a jednocześnie nie obarczać graczy złożoną arytmetyką.
 
 Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na planszy.
+
+---
 
 *Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, wyczerpuje — pochłaniając ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
 
@@ -196,18 +252,45 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | 4, 3, 2 | Pomocna dłoń | Wsparcie | 2 | — |
 | Joker | Pierwsza pomoc | Wsparcie | 4 | (8) |
 
-| Akcja | Opis |
-|---|---|
-| **Atak** | Zadaje obrażenia wybranej części ciała smoka.<br>+2s, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1s za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni. |
-| **Czuwanie** | Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i wykonuje akcję przy pierwszym ataku smoka. |
-| **Oplątanie** | Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1s przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania. |
-| **Unik ratunkowy** | Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku. |
-| **Odwrócenie uwagi** | Śmiałek zostaje nowym celem smoka.<br>Jeśli w czasie przygotowania akcji smoka, wydłuża ten czas +1. |
-| **Osłona vs atak** | Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3s otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający. |
-| **Osłona vs atak obszarowy** | Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3s.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1. |
-| **Pomocna dłoń** | Podnosi z ziemi innego śmiałka. Nie można w ten sposób podnieść samego siebie. |
-| **Pierwsza pomoc** | Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnosi z ziemi. Nie można wykonać na samym sobie. |
-| **Powalony na ziemię** | Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2s. |
+#### Atak
+
+Zadaje obrażenia wybranej części ciała smoka.<br>+2s, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1s za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
+
+#### Czuwanie
+
+Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i wykonuje akcję przy pierwszym ataku smoka.
+
+#### Oplątanie
+
+Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1s przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania.
+
+#### Unik ratunkowy
+
+Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku.
+
+#### Odwrócenie uwagi
+
+Śmiałek zostaje nowym celem smoka.<br>Jeśli w czasie przygotowania akcji smoka, wydłuża ten czas +1.
+
+#### Osłona vs atak
+
+Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3s otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający.
+
+#### Osłona vs atak obszarowy
+
+Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3s.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1.
+
+#### Pomocna dłoń
+
+Podnosi z ziemi innego śmiałka. Nie można w ten sposób podnieść samego siebie.
+
+#### Pierwsza pomoc
+
+Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnosi z ziemi. Nie można wykonać na samym sobie.
+
+#### Powalony na ziemię
+
+Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2s.
 
 ### 3.2. Akcje smoka
 
@@ -228,15 +311,33 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 | 3, 2 ♠♣ | — | Łypnięcie okiem w lewo | Specjalna | 0 | 0 | — |
 | Joker | — | Regeneracja | Specjalna | 1 | 1 | (8) |
 
-| Akcja | Opis |
-|---|---|
-| **Atak** | Zadaje obrażenia celowi.<br>Jeśli w trakcie przygotowywania akcji przez śmiałka:<br>— obrażenia +1s,<br>— powoduje powalenie, o ile nie ma żadnej osłony.<br><br>+2s, jeśli śmiałek leży na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę. |
-| **Atak obszarowy** | Zadaje obrażenia dla celu oraz jego obu sąsiadów. Przykładowo dla 4 graczy sąsiadami śmiałka A są śmiałek D i B.<br>Nie ma wpływu na śmiałków leżących na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę. |
-| **Powalenie** | Przerywa akcję śmiałka i powala go na ziemię. |
-| **Przeraźliwy ryk** | Przerywa akcje wszystkich śmiałków. Każdy gracz odrzuca 2 wybrane karty z ręki. |
-| **Łypnięcie okiem** | Gdy smok zagra łypnięcie okiem, to zmienia cel ataków, obracając się odpowiednio:<br>— dla łypnięcia o 1 w prawo/lewo,<br>— dla dalekiego łypnięcia o 2 w prawo/lewo.<br><br>Można sobie wyobrażać, że smok stoi pośrodku planszy, otoczony śmiałkami. Obrócenie w prawo oznacza wybór kolejnego śmiałka, zgodnie ze wskazówkami zegara, a obrót w lewo odwrotnie.<br><br>Przykładowo dla 4 graczy, gdy do tej pory celem ataków był śmiałek B, to łypnięcie w lewo zmienia cel na śmiałka A, a dalekie łypnięcie w prawo na śmiałka D.<br><br>W przypadku, gdy smok nie miał wybranego celu, to przygląda się działaniom śmiałków, więc zaczyna łypać okiem obrócony w stronę pomiędzy śmiałkiem, który poprzednio miał turę, a kolejnym. Przykładowo, jeśli przed smokiem była tura śmiałka B, to łypnięcie w lewo ustawia cel na śmiałka B, a łypnięcie w prawo na śmiałka C. |
-| **Regeneracja** | Przywraca do 8 punktów życia najsłabszej części ciała. Jeśli remis, to w kolejności: paszcza, łapy, nogi, ogon. |
-| **Liczba graczy** | Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1s. |
+#### Atak
+
+Zadaje obrażenia celowi.<br>Jeśli w trakcie przygotowywania akcji przez śmiałka:<br>— obrażenia +1s,<br>— powoduje powalenie, o ile nie ma żadnej osłony.<br><br>+2s, jeśli śmiałek leży na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
+
+#### Atak obszarowy
+
+Zadaje obrażenia dla celu oraz jego obu sąsiadów. Przykładowo dla 4 graczy sąsiadami śmiałka A są śmiałek D i B.<br>Nie ma wpływu na śmiałków leżących na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
+
+#### Powalenie
+
+Przerywa akcję śmiałka i powala go na ziemię.
+
+#### Przeraźliwy ryk
+
+Przerywa akcje wszystkich śmiałków. Każdy gracz odrzuca 2 wybrane karty z ręki.
+
+#### Łypnięcie okiem
+
+Gdy smok zagra łypnięcie okiem, to zmienia cel ataków, obracając się odpowiednio:<br>— dla łypnięcia o 1 w prawo/lewo,<br>— dla dalekiego łypnięcia o 2 w prawo/lewo.<br><br>Można sobie wyobrażać, że smok stoi pośrodku planszy, otoczony śmiałkami. Obrócenie w prawo oznacza wybór kolejnego śmiałka, zgodnie ze wskazówkami zegara, a obrót w lewo odwrotnie.<br><br>Przykładowo dla 4 graczy, gdy do tej pory celem ataków był śmiałek B, to łypnięcie w lewo zmienia cel na śmiałka A, a dalekie łypnięcie w prawo na śmiałka D.<br><br>W przypadku, gdy smok nie miał wybranego celu, to przygląda się działaniom śmiałków, więc zaczyna łypać okiem obrócony w stronę pomiędzy śmiałkiem, który poprzednio miał turę, a kolejnym. Przykładowo, jeśli przed smokiem była tura śmiałka B, to łypnięcie w lewo ustawia cel na śmiałka B, a łypnięcie w prawo na śmiałka C.
+
+#### Regeneracja
+
+Przywraca do 8 punktów życia najsłabszej części ciała. Jeśli remis, to w kolejności: paszcza, łapy, nogi, ogon.
+
+#### Liczba graczy
+
+Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1s.
 
 ### 3.3. Efekty wynikające z punktów życia
 
@@ -323,6 +424,7 @@ Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytuj
 
 | Wersja | Data | Zmiany |
 |---|---|---|
+| 0.14.1 | 2026-03-18 | Przebudowa formatowania |
 | 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
 | 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN)<br>Ściągawka włączona do zasad |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Uproszczona ściągawka<br>Rozszerzenie możliwej liczby graczy |
