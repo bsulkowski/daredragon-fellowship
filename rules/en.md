@@ -30,9 +30,9 @@ One token tracks the current turn. The other marks the dragon's attack target.
 
 #### Printables
 
-[Board](/board/board.pdf)
+[Board](/board/base_en.pdf)
 
-[Board Extension](/board/extension.pdf) (5–6 players)
+[Board Extension](/board/extension_en.pdf) (5–6 players)
 
 In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
 

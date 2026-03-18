@@ -30,9 +30,9 @@ Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje ce
  
 #### Do pobrania i wydrukowania
 
-[Plansza](/board/board_pl.pdf)
+[Plansza](/board/base_pl.pdf)
  
-[Rozszerzenie planszy](/board/board_extension_pl.pdf) (5–6 graczy)
+[Rozszerzenie planszy](/board/extension_pl.pdf) (5–6 graczy)
 
 W skrajnym wypadku można grać również bez pionków lub wydrukowanej planszy, zamiast tego notując potrzebne informacje na kartce.
 
