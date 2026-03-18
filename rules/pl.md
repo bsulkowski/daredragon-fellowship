@@ -239,11 +239,11 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ### 3.1. Akcje śmiałków
 
-| Karta | Akcja | Typ | Czas przygotowania | Obrażenia |
+| Karta | Akcja | Typ | Czas przy-<br>gotowania | Obrażenia |
 |---|---|---|---|---|
-| A | Unik ratunkowy | Wsparcie, Czuwanie | — | — |
+| A | Unik ratunkowy | Wsparcie,<br>Czuwanie | — | — |
 | K | Odwrócenie uwagi | Wsparcie | 1 | — |
-| D, W | Osłona | Wsparcie, Czuwanie | — | — |
+| D, W | Osłona | Wsparcie,<br>Czuwanie | — | — |
 | 10 | Oplątanie | Atak | 3 | 0 |
 | 9 | Szarża | Atak | 4 | 8 |
 | 8 | Precyzyjny atak | Atak | 3 | 6 |
@@ -294,21 +294,21 @@ Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie
 
 ### 3.2. Akcje smoka
 
-| Karta | Część ciała | Akcja | Typ | Czas przygotowania | Czas odpoczynku | Obrażenia |
+| Karta | Część ciała | Akcja | Typ | Czas przy-<br>gotowania | Czas od-<br>poczynku | Obrażenia |
 |---|---|---|---|---|---|---|
 | A ♥♦ | — | Ognisty oddech | Atak obszarowy | 2 | 1 | 8 |
 | A ♠♣ | — | Przeraźliwy ryk | Specjalna | 1 | 1 | — |
 | K | Paszcza | Zmiażdżenie | Atak | 4 | 2 | 13 |
 | D | Paszcza | Ugryzienie | Atak | 3 | 2 | 10 |
-| W | Ogon | Machnięcie | Atak obszarowy, Powalenie | 3 | 2 | 6 |
-| 10, 9 | Nogi | Stratowanie | Atak, Powalenie | 2 | 2 | 8 |
+| W | Ogon | Machnięcie | Atak obszarowy,<br>Powalenie | 3 | 2 | 6 |
+| 10, 9 | Nogi | Stratowanie | Atak,<br>Powalenie | 2 | 2 | 8 |
 | 8 | Łapy | Ciężki atak | Atak | 3 | 1 | 8 |
 | 7, 6 | Łapy | Atak | Atak | 2 | 1 | 6 |
 | 5 | Łapy | Szybki atak | Atak | 1 | 1 | 5 |
-| 4 ♥♦ | — | Dalekie łypnięcie okiem w prawo | Specjalna | 0 | 0 | — |
-| 4 ♠♣ | — | Dalekie łypnięcie okiem w lewo | Specjalna | 0 | 0 | — |
-| 3, 2 ♥♦ | — | Łypnięcie okiem w prawo | Specjalna | 0 | 0 | — |
-| 3, 2 ♠♣ | — | Łypnięcie okiem w lewo | Specjalna | 0 | 0 | — |
+| 4 ♥♦ | — | Dalekie łypnięcie<br>w prawo | Specjalna | 0 | 0 | — |
+| 4 ♠♣ | — | Dalekie łypnięcie<br>w lewo | Specjalna | 0 | 0 | — |
+| 3, 2 ♥♦ | — | Łypnięcie okiem<br>w prawo | Specjalna | 0 | 0 | — |
+| 3, 2 ♠♣ | — | Łypnięcie okiem<br>w lewo | Specjalna | 0 | 0 | — |
 | Joker | — | Regeneracja | Specjalna | 1 | 1 | (8) |
 
 #### Atak
@@ -354,7 +354,9 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 
 #### Smok
 
-| Punkty życia danej części ciała | Efekt |
+Wpływ na ataki przy użyciu danej części ciała.
+
+| Punkty życia | Efekt |
 |---|---|
 | 13–1 | Zadawane obrażenia -1s. |
 | 0 | Czas przygotowania +1.<br>Zadawane obrażenia -2s. |
@@ -390,7 +392,7 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 
 ### 4.3. Czas wykonywania akcji
 
-| Czas przyg. | Akcje smoka, czas odp. = 2 | Akcje smoka, czas odp. = 1 | Akcje śmiałków | Akcje śmiałków |
+| Czas przyg. | Akcje smoka,<br>czas odp. = 2 | Akcje smoka,<br>czas odp. = 1 | Akcje śmiałków | Akcje śmiałków |
 |---|---|---|---|---|
 | 4 | [K] Zmiażdżenie | | [9] Szarża | [Joker] Pierwsza pomoc |
 | 3 | [D] Ugryzienie<br>[W] Machnięcie ogonem | [8] Ciężki atak | [8] Precyzyjny atak | [10] Oplątanie |
@@ -401,9 +403,10 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 
 | Czas przyg. | Akcje smoka | Akcje śmiałków |
 |---|---|---|
-| +1 | Punkty życia części ciała równe 0.<br><br>Część ciała jest oplątana.<br><br>Śmiałek odwraca uwagę smoka w czasie przygotowywania przez niego akcji. | Śmiałek leży na ziemi.\* |
+| +1 | Punkty życia części ciała równe 0.<br><br>Część ciała jest oplątana.<br><br>Odwrócenie uwagi smoka w czasie przygotowywania akcji. | Śmiałek leży na ziemi.\* |
 
-(\*) Niedostępne akcje o czasie przygotowania 4 ani akcje typu czuwanie: [A] Unik ratunkowy, [D] [W] Osłona.
+(\*) Akcje o czasie przygotowania 4 oraz akcje typu czuwanie stają się niedostępne.
+
 Czas odpoczynku smoka +1, gdy wytrącony z równowagi przez unik ratunkowy.
 
 ---

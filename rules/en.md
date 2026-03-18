@@ -241,9 +241,9 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 | Card | Action | Type | Warm-up | Damage |
 |---|---|---|---|---|
-| A | Intervention Dodge | Support, Guard | — | — |
+| A | Intervention Dodge | Support,<br>Guard | — | — |
 | K | Draw Aggro | Support | 1 | — |
-| Q, J | Shield | Support, Guard | — | — |
+| Q, J | Shield | Support,<br>Guard | — | — |
 | 10 | Entangle | Attack | 3 | 0 |
 | 9 | Charge | Attack | 4 | 8 |
 | 8 | Precision Strike | Attack | 3 | 6 |
@@ -299,16 +299,16 @@ When a daredevil is knocked to the ground, they cannot perform Guard-type action
 | A ♠♣ | — | Roar | Special | 1 | 1 | — |
 | K | Jaws | Crush | Direct Attack | 4 | 2 | 13 |
 | Q | Jaws | Bite | Direct Attack | 3 | 2 | 10 |
-| J | Tail | Swing | AoE Attack, Knockdown | 3 | 2 | 6 |
-| 10, 9 | Legs | Trample | Direct Attack, Knockdown | 2 | 2 | 8 |
+| J | Tail | Swing | AoE Attack,<br>Knockdown | 3 | 2 | 6 |
+| 10, 9 | Legs | Trample | Direct Attack,<br>Knockdown | 2 | 2 | 8 |
 | 8 | Paws | Heavy Strike | Direct Attack | 3 | 1 | 8 |
 | 7, 6 | Paws | Strike | Direct Attack | 2 | 1 | 6 |
 | 5 | Paws | Quick Strike | Direct Attack | 1 | 1 | 5 |
-| 4 ♥♦ | — | Far Glare Right | Special | 0 | 0 | — |
-| 4 ♠♣ | — | Far Glare Left | Special | 0 | 0 | — |
-| 3, 2 ♥♦ | — | Glare Right | Special | 0 | 0 | — |
-| 3, 2 ♠♣ | — | Glare Left | Special | 0 | 0 | — |
-| Joker | — | Health Regeneration | Special | 1 | 1 | (8) |
+| 4 ♥♦ | — | Far Glare<br>Right | Special | 0 | 0 | — |
+| 4 ♠♣ | — | Far Glare<br>Left | Special | 0 | 0 | — |
+| 3, 2 ♥♦ | — | Glare<br>Right | Special | 0 | 0 | — |
+| 3, 2 ♠♣ | — | Glare<br>Left | Special | 0 | 0 | — |
+| Joker | — | Health<br>Regeneration | Special | 1 | 1 | (8) |
 
 #### Direct Attack
 
@@ -353,7 +353,9 @@ If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on ever
 
 #### The Dragon
 
-| HP of given body part | Impact on attacks using this body part |
+Affects attacks using given body part.
+
+| HP | Impact |
 |---|---|
 | 13–1 | Damage dealt -1Ϟ. |
 | 0 | Warm-up time +1.<br>Damage dealt -2Ϟ. |
@@ -389,7 +391,7 @@ If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on ever
 
 ### 4.3. Warm-up Time
 
-| Warm-up Time | Dragon's Actions, Cool-down = 2 | Dragon's Actions, Cool-down = 1 | Daredevils' Actions | Daredevils' Actions |
+| Warm-up | Dragon's Actions,<br>Cool-down = 2 | Dragon's Actions,<br>Cool-down = 1 | Daredevils' Actions | Daredevils' Actions |
 |---|---|---|---|---|
 | 4 | [K] Crush | | [9] Charge | [Joker] First Aid |
 | 3 | [Q] Bite<br>[J] Tail Swing | [8] Heavy Strike | [8] Precision Strike | [10] Entangle |
@@ -398,11 +400,12 @@ If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on ever
 
 ### 4.4. Modifiers to Warm-up Time
 
-| Warm-up Time | Dragon's Actions | Daredevils' Actions |
+| Warm-up | Dragon's Actions | Daredevils' Actions |
 |---|---|---|
 | +1 | HP of body part equals 0.<br><br>Body part used in attack is entangled.<br><br>Draw Aggro is performed during warm-up. | Daredevil is lying on the ground.\* |
 
-(\*) Not available: actions with warm-up time 4 nor Guard-type actions: [A] Intervention Dodge, [Q] [J] Shield.
+(\*) Actions with warm-up time 4 and Guard-type actions become unavailable.
+
 Dragon's cool-down time +1, if lost balance due to Intervention Dodge.
 
 ---
