@@ -8,17 +8,24 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Structure
 
+Language versions have suffix: `<lang> = en | pl`
+
 ```
 rules/
-  pl.md              # Polish rules — v0.14
-  en.md              # English rules — v0.14
-  extensions_pl.md   # Polish rules extensions — new ideas, WIP, optional mechanics
-  extensions_en.md   # English rules extensions
+  <lang>.md               # Base rules
+  cheat_sheet_<lang>.md   # Cheat sheet
+  extensions_<lang>.md    # Rules extensions — new ideas, WIP, optional mechanics
 design/
-  decisions.md       # Internal notes on mechanics and design choices
-  style.md           # Notes on how rules are written and presented
-  story.md           # Story commentary: characters, dragon, lair
-board/               # Board SVG sources and generated PDFs (EN and _pl variants)
+  decisions.md            # Internal notes on mechanics and design choices
+  style.md                # Notes on how rules are written and presented
+  story.md                # Story commentary: characters, dragon, lair
+board/
+  base_<lang>.svg         # Board SVG source
+  base_<lang>.pdf         # Board generated PDF
+  extension_<lang>.svg    # Board extension SVG source
+  extension_<lang>.pdf    # Board extension generated PDF
+  qrcode_web_<lang>       # QR Code link to rules on web page
+  dragon_background.jpeg      
 ```
 
 ## Authoring Conventions

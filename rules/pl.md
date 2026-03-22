@@ -34,7 +34,7 @@ Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje ce
  
 [Rozszerzenie planszy](/board/extension_pl.pdf) (5–6 graczy)
 
-W skrajnym wypadku można grać również bez pionków lub wydrukowanej planszy, zamiast tego notując potrzebne informacje na kartce.
+[Ściągawka](/rules/cheat_sheet_pl.md)
 
 ---
 
@@ -363,59 +363,11 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ---
 
-## 4. Ściągawka
-
-### 4.1. Obrażenia
-
-| Obrażenia | Ataki smoka | Ataki obszarowe smoka | Ataki śmiałków |
-|---|---|---|---|
-| 13 | [K] Zmiażdżenie | | |
-| 10 | [D] Ugryzienie | | |
-| 8 | [10] [9] Stratowanie\*<br>[8] Ciężki atak | [A♥♦] Ognisty oddech | [9] Szarża |
-| 6 | [7] [6] Atak | [W] Machnięcie ogonem\* | [8] Precyzyjny atak |
-| 5 | [5] Szybki atak | | [7] [6] Atak<br>[5] Szybki atak |
-
-(\*) Powoduje powalenie.
-
-### 4.2. Modyfikatory obrażeń (pozycja na smokometrze)
-
-| Pozycja | Ataki smoka | Ataki śmiałków |
-|---|---|---|
-| +2s | Śmiałek leży na ziemi.\* | Riposta tuż po ataku smoka.<br><br>Smok wytrącony z równowagi (2 tury po uniku ratunkowym). |
-| +1s | Atak w czasie przygotowywania akcji śmiałka.\*<br><br>Więcej niż 4 graczy. | Atak na oplątaną część ciała smoka.<br><br>Skoordynowany atak: +1s za każdego kolejnego śmiałka kończącego atak w tej samej turze z kartą tego samego koloru. |
-| -1s | Punkty życia części ciała od 1 do 13. | Punkty życia śmiałka od 1 do 13. |
-| -2s | Punkty życia części ciała równe 0. | Śmiałek leży na ziemi. |
-| -3s | Za każdą osłonę.\*\* | |
-
-(\*) Nie dotyczy ataków obszarowych.
-(\*\*) Śmiałek w obszarze ataku nie osłania sam siebie.
-
-### 4.3. Czas wykonywania akcji
-
-| Czas przyg. | Akcje smoka,<br>czas odp. = 2 | Akcje smoka,<br>czas odp. = 1 | Akcje śmiałków | Akcje śmiałków |
-|---|---|---|---|---|
-| 4 | [K] Zmiażdżenie | | [9] Szarża | [Joker] Pierwsza pomoc |
-| 3 | [D] Ugryzienie<br>[W] Machnięcie ogonem | [8] Ciężki atak | [8] Precyzyjny atak | [10] Oplątanie |
-| 2 | [10] [9] Stratowanie | [7] [6] Atak<br>[A♥♦] Ognisty oddech | [7] [6] Atak | [4] [3] [2] Pomocna dłoń |
-| 1 | | [5] Szybki atak<br>[A♠♣] Przeraźliwy ryk<br>[Joker] Regeneracja | [5] Szybki atak | [K] Odwrócenie uwagi |
-
-### 4.4. Modyfikatory czasu wykonywania akcji
-
-| Czas przyg. | Akcje smoka | Akcje śmiałków |
-|---|---|---|
-| +1 | Punkty życia części ciała równe 0.<br><br>Część ciała jest oplątana.<br><br>Odwrócenie uwagi smoka w czasie przygotowywania akcji. | Śmiałek leży na ziemi.\* |
-
-(\*) Akcje o czasie przygotowania 4 oraz akcje typu czuwanie stają się niedostępne.
-
-Czas odpoczynku smoka +1, gdy wytrącony z równowagi przez unik ratunkowy.
-
----
-
-## 5. Uwagi do wydania
+## 4. Uwagi do wydania
 
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 
-### 5.1. Wyważenie gry
+### 4.1. Wyważenie gry
 
 Walka ze smokiem nie jest rutynową aktywnością. Powinna stanowić pewne wyzwanie, którego pokonanie wymaga od graczy szerokiej współpracy. Jeśli jednak uznacie, że gra jest za łatwa lub za trudna, by czerpać z niej przyjemność, możecie dostosować poziom trudności przez uczynienie ataków smoka silniejszymi lub słabszymi. Przykładowo zwiększenie siły ataków o 1 pozycję na smokometrze sprawi, że będą one silniejsze o około 25%.
 
@@ -423,11 +375,12 @@ Możecie także dostosować tempo gry, poprzez proporcjonalną zmianę siły ata
 
 Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytujące… Cóż, smok to nie jest fajny kumpel, który walczy fair.
 
-### 5.2. Historia wersji
+### 4.2. Historia wersji
 
 | Wersja | Data | Zmiany |
 |---|---|---|
-| 0.14.1 | 2026-03-18 | Przebudowa formatowania |
+| 0.14.2 | 2026-03-22 | Ściagawka w osobnym pliku |
+| 0.14.1 | 2026-03-18 | Przebudowa formatowania<br>Dodany komentarz fabularny |
 | 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
 | 0.13.2 | 2026-03-16 | Migracja źródeł do plików Markdown<br>Instrukcja (EN)<br>Ściągawka włączona do zasad |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Uproszczona ściągawka<br>Rozszerzenie możliwej liczby graczy |

@@ -34,7 +34,7 @@ One token tracks the current turn. The other marks the dragon's attack target.
 
 [Board Extension](/board/extension_en.pdf) (5–6 players)
 
-In a pinch, the game can also be played without tokens or a printed board, noting the required information on paper instead.
+[Cheat Sheet](/rules/cheat_sheet_en.md)
 
 ---
 
@@ -362,59 +362,11 @@ Affects attacks using given body part.
 
 ---
 
-## 4. Cheat-Sheet
-
-### 4.1. Damage Dealt
-
-| Damage | Dragon's Direct Attacks | Dragon's AoE Attacks | Daredevils' Attacks |
-|---|---|---|---|
-| 13 | [K] Crush | | |
-| 10 | [Q] Bite | | |
-| 8 | [10] [9] Trample\*<br>[8] Heavy Strike | [A♥♦] Fire Breath | [9] Charge |
-| 6 | [7] [6] Strike | [J] Tail Swing\* | [8] Precision Strike |
-| 5 | [5] Quick Strike | | [7] [6] Strike<br>[5] Quick Strike |
-
-(\*) Causes knockdown.
-
-### 4.2. Modifiers to Damage Dealt
-
-| Modifier | Dragon's Attacks | Daredevils' Attacks |
-|---|---|---|
-| +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack with that body part.<br><br>Dragon knocked off balance (2 turns after Intervention Dodge). |
-| +1Ϟ | Attack during daredevil's warm-up.\*<br><br>More than 4 players. | Attack on entangled body part.<br><br>Orchestrated attack: +1Ϟ per additional daredevil landing an attack on the same turn with the same suit. |
-| -1Ϟ | HP of body part between 1 and 13. | HP between 1 and 13. |
-| -2Ϟ | HP of body part equal 0. | Daredevil is lying on the ground. |
-| -3Ϟ | For each shield.\*\* | |
-
-(\*) Not applicable to AoE attacks.
-(\*\*) Daredevil in AoE does not shield themselves.
-
-### 4.3. Warm-up Time
-
-| Warm-up | Dragon's Actions,<br>Cool-down = 2 | Dragon's Actions,<br>Cool-down = 1 | Daredevils' Actions | Daredevils' Actions |
-|---|---|---|---|---|
-| 4 | [K] Crush | | [9] Charge | [Joker] First Aid |
-| 3 | [Q] Bite<br>[J] Tail Swing | [8] Heavy Strike | [8] Precision Strike | [10] Entangle |
-| 2 | [10] [9] Trample | [7] [6] Strike<br>[A♥♦] Fire Breath | [7] [6] Strike | [4] [3] [2] Helping Hand |
-| 1 | | [5] Quick Strike<br>[A♠♣] Roar<br>[Joker] Health Regeneration | [5] Quick Strike | [K] Draw Aggro |
-
-### 4.4. Modifiers to Warm-up Time
-
-| Warm-up | Dragon's Actions | Daredevils' Actions |
-|---|---|---|
-| +1 | HP of body part equals 0.<br><br>Body part used in attack is entangled.<br><br>Draw Aggro is performed during warm-up. | Daredevil is lying on the ground.\* |
-
-(\*) Actions with warm-up time 4 and Guard-type actions become unavailable.
-
-Dragon's cool-down time +1, if lost balance due to Intervention Dodge.
-
----
-
-## 5. Release Notes
+## 4. Release Notes
 
 At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
 
-### 5.1. Game Balance
+### 4.1. Game Balance
 
 Fighting the dragon is not a routine activity. It is supposed to be a challenge, that forces players to cooperate extensively. However, if you find the game too easy or too hard to enjoy, you can adjust the difficulty by making dragon's attacks stronger or weaker. For example adding +1Ϟ modifier to all attacks will make the dragon stronger by roughly 25%.
 
@@ -422,17 +374,18 @@ You can also adjust the pace of the game, by adjusting strength of attacks for b
 
 Some of the dragon's attacks might appear "unfairly" powerful or annoying… Well, the dragon was never meant to be your sparring buddy.
 
-### 5.2. Revision History
+### 4.2. Revision History
 
 | Version | Date | Changes |
 |---|---|---|
-| 0.14.1 | 2026-03-18 | Formatting overhaul |
+| 0.14.2 | 2026-03-22 | Cheat sheet as a separate file |
+| 0.14.1 | 2026-03-18 | Formatting overhaul<br>Added story commentary |
 | 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
-| 0.13.2 | 2026-03-16 | Migrated to Markdown sources<br>Instructions (EN)<br>Moved cheat-sheet into rules |
-| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Simplified cheat-sheet<br>Extended supported number of players |
+| 0.13.2 | 2026-03-16 | Migrated to Markdown sources<br>Instructions (EN)<br>Moved cheat sheet into rules |
+| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Simplified cheat sheet<br>Extended supported number of players |
 | 0.12.1 | 2025-01-02 | Structure and style of page<br>Rules clarification |
-| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers)<br>Extended cheat-sheet |
-| 0.11.2 | 2024-11-11 | Downloadable board and cheat-sheet |
+| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers)<br>Extended cheat sheet |
+| 0.11.2 | 2024-11-11 | Downloadable board and cheat sheet |
 | 0.11.1 | 2024-08-24 | Instructions — detailed description of game rules (PL) |
 | 0.9 | 2023-12-29 | Designed the board |
 | 0.7 | 2023-09-24 | Introduced the dracometer |
