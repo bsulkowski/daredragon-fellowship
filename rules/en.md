@@ -378,13 +378,11 @@ Some of the dragon's attacks might appear "unfairly" powerful or annoying… Wel
 
 | Version | Date | Changes |
 |---|---|---|
-| 0.14.2 | 2026-03-22 | Cheat sheet as a separate file |
-| 0.14.1 | 2026-03-18 | Formatting overhaul<br>Added story commentary |
+| 0.14.1 | 2026-03-18 | Added story commentary |
 | 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
-| 0.13.2 | 2026-03-16 | Migrated to Markdown sources<br>Instructions (EN)<br>Moved cheat sheet into rules |
-| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Simplified cheat sheet<br>Extended supported number of players |
-| 0.12.1 | 2025-01-02 | Structure and style of page<br>Rules clarification |
-| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers)<br>Extended cheat sheet |
+| 0.13.2 | 2026-03-16 | Instructions (EN) |
+| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Extended supported number of players |
+| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers) |
 | 0.11.2 | 2024-11-11 | Downloadable board and cheat sheet |
 | 0.11.1 | 2024-08-24 | Instructions — detailed description of game rules (PL) |
 | 0.9 | 2023-12-29 | Designed the board |
