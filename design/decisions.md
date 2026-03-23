@@ -80,6 +80,12 @@ What the fellowship can do, what limits them, and how the game scales with group
 
 Players cannot draw cards for themselves — only for others. This is the sole source of new cards. The constraint is a core cooperation mechanic: players who focus on attacking will starve their hand unless teammates actively support them. It creates a natural tension between offensive and supportive play without requiring a dedicated "support role".
 
+### Target Selection at Execution, Not Warm-Up Start
+
+Players choose the target of their actions at the moment of execution, not when warm-up begins. This is a deliberate simplification: early playtests showed that committing to a target at warm-up start created significant overhead — players had to track and remember their declared target across multiple turns, which added cognitive load without meaningful strategic gain.
+
+The lore fit is imperfect (a warrior mid-charge probably has a target in mind), but the tradeoff favours playability. The game already asks players to track warm-up progress, prone states, and dragon timing; adding target tracking was one bookkeeping burden too many.
+
 ### Guard Actions (Standby Mechanic)
 
 Shield and Intervention Dodge have no warm-up time but are consumed at the first dragon attack. This models reactive defence: a player commits to guarding without knowing the exact timing or target of the attack. It creates meaningful decisions around when to guard vs. when to act offensively.
