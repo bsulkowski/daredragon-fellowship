@@ -60,14 +60,18 @@ When the Dummy plays a support card targeting another daredevil, it targets the 
 
 Each dragon has a name of four syllables, one per body part, in fixed order: **Jaws · Paws · Legs · Tail**. The syllables are drawn from an ancient dragon language (the same in all versions of the game). Each syllable encodes a trait that body part possesses, giving the dragon a unique mechanical profile alongside its name.
 
-### Trait Effects
+### Determining Traits in Play
 
-| Trait | Effect |
-|---|---|
-| **Power** | +1Ϟ to all damage dealt by attacks using this body part. |
-| **Durability** | -1Ϟ to all damage dealt by attacks *targeting* this body part. |
-| **Agility** | -1 warm-up time for all actions using this body part (minimum 0). |
-| **None** | No modification. |
+The trait of each body part is not set before the game — it is revealed during play. The **first action card played by the dragon** using a given body part determines that part's trait, based on the card's suit:
+
+| Suit | Trait | Effect |
+|---|---|---|
+| ♠ | **Power** | +1Ϟ to all damage dealt by attacks using this body part. |
+| ♥ | **Durability** | -1Ϟ to all damage dealt by attacks *targeting* this body part. |
+| ♣ | **Agility** | -1 warm-up time for all actions using this body part (minimum 0). |
+| ♦ | **None** | No modification. |
+
+Once the trait is determined, look up the corresponding syllable in the table below and record it. The dragon's full name is assembled as the game progresses, one body part at a time.
 
 ### Syllable Table
 

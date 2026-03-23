@@ -60,14 +60,18 @@ Gdy Manekin zagrywa kartę wsparcia skierowaną do innego śmiałka, celuje w ś
 
 Imię smoka składa się z czterech sylab, po jednej dla każdej części ciała, w ustalonej kolejności: **Paszcza · Łapy · Nogi · Ogon**. Sylaby pochodzą ze starożytnego języka smoków (takie same we wszystkich wersjach gry). Każda sylaba określa cechę danej części ciała, nadając smokowi unikalny profil mechaniczny oraz imię.
 
-### Efekty cech
+### Ustalanie cech w trakcie gry
 
-| Cecha | Efekt |
-|---|---|
-| **Siła** | +1s do wszystkich obrażeń zadawanych przez ataki daną częścią ciała. |
-| **Wytrzymałość** | -1s do wszystkich obrażeń zadawanych przez ataki *celowane* w tę część ciała. |
-| **Zwinność** | -1 do czasu przygotowania wszystkich akcji daną częścią ciała (minimum 0). |
-| **Brak** | Brak modyfikacji. |
+Cecha żadnej części ciała nie jest ustalona przed grą — ujawnia się w trakcie rozgrywki. **Pierwsza karta akcji zagrana przez smoka** dla danej części ciała określa jej cechę na podstawie koloru karty:
+
+| Kolor karty | Cecha | Efekt |
+|---|---|---|
+| ♠ | **Siła** | +1s do wszystkich obrażeń zadawanych przez ataki daną częścią ciała. |
+| ♥ | **Wytrzymałość** | -1s do wszystkich obrażeń zadawanych przez ataki *celowane* w tę część ciała. |
+| ♣ | **Zwinność** | -1 do czasu przygotowania wszystkich akcji daną częścią ciała (minimum 0). |
+| ♦ | **Brak** | Brak modyfikacji. |
+
+Po ustaleniu cechy odszukaj odpowiednią sylabę w poniższej tabeli i zanotuj ją. Imię smoka składa się stopniowo w trakcie gry — sylaba po sylabie.
 
 ### Tabela sylab
 
