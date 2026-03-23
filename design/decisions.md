@@ -92,6 +92,20 @@ What the fellowship can do, what limits them, and how the game scales with group
 
 Players cannot draw cards for themselves — only for others. This is the sole source of new cards. The constraint is a core cooperation mechanic: players who focus on attacking will starve their hand unless teammates actively support them. It creates a natural tension between offensive and supportive play without requiring a dedicated "support role".
 
+### Hand Size Tied to HP
+
+A player's maximum hand size is determined by their current HP via a stepped mapping (see rules 3.3): full health allows 6 cards; as HP drops through defined thresholds, the limit falls to 5, then 4, then 3, reaching 0 (incapacitated) at 0 HP. This is not a bookkeeping detail — it is a core expression of what HP means in this game.
+
+The intent is to make every threshold crossed feel like a real, immediate loss of capability, not just a countdown toward elimination. A player at low HP does not simply have less margin for error; they have fewer cards, which means fewer options, less influence over what actions they can even attempt. The degradation is felt at the table, not only on the HP track.
+
+This serves several purposes:
+
+- **HP loss is never "innocent".** Players cannot treat their HP as a resource to be spent freely until they hit zero. Each threshold crossed narrows what they can do right now, which creates pressure throughout the fight — not just at the end.
+- **Incapacitation is less of a cliff edge.** Because a player's effectiveness has already been declining across thresholds, the moment of being knocked out of play carries less shock. The game has been communicating the loss progressively. Elimination is a continuation of a trend, not a sudden surprise.
+- **Recovery actions gain weight.** Restoring HP (via First Aid or Helping Hand) is not just about survival thresholds — crossing a threshold back upward directly restores a player's range of action. Healing becomes tangibly empowering, not merely damage-undoing.
+
+The hand-limit mechanism keeps the game's emotional arc honest: the fellowship genuinely weakens as the fight wears on, and players feel it in their hands before they feel it on the board.
+
 ### Target Selection at Execution, Not Warm-Up Start
 
 Players choose the target of their actions at the moment of execution, not when warm-up begins. This is a deliberate simplification: early playtests showed that committing to a target at warm-up start created significant overhead — players had to track and remember their declared target across multiple turns, which added cognitive load without meaningful strategic gain.
