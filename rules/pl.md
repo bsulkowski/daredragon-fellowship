@@ -38,7 +38,7 @@ Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje ce
 
 ---
 
-*Gorrak jest zbudowany jak mała góra, która nauczyła się pielęgnować urazę. Jego topór jest starożytny, broda legendarna, a zdania krótkie. Porozumiewa się głównie mruczeniem, ale drużyna nauczyła się je odczytywać: jedno mruknięcie oznacza w porządku, dwa — nie w porządku, trzy — uciekajcie.*
+*Gorrak jest zbudowany jak mała góra, która nauczyła się pielęgnować urazę. Jego topór jest starożytny, broda legendarna, a wypowiedzi krótkie. Porozumiewa się głównie mruczeniem, ale drużyna nauczyła się je odczytywać: jedno mruknięcie oznacza w porządku, dwa — nie w porządku, trzy — w nogi.*
 
 *Pod tą szorstkością kryje się ktoś, kto — i to wielokrotnie — wchodził do płonącego budynku dla każdego ze swoich towarzyszy, nie zatrzymując się, by zadawać pytania. Każdemu z członków drużyny nadał krasnoludzki przydomek. Żadne z nich nie potrafi wymówić oryginałów.*
 
@@ -56,7 +56,7 @@ Smok może mieć wybrany jako cel ataków jednego ze śmiałków. Oznaczone jest
 
 ---
 
-*Lirien żyje od trzystu czterdziestu siedmiu lat i ma cierpliwość, by to udowodnić — chyba że ktoś popełni taktyczny błąd, który ona dostrzegła dwie tury wcześniej, w którym to momencie cierpliwość natychmiast wyparowuje. Porusza się jak woda omijająca przeszkody, a jej ostrze trafia w szczeliny, których nie powinno być.*
+*Lirien żyje od trzystu czterdziestu siedmiu lat i ma cierpliwość, by to udowodnić — chyba że ktoś popełni taktyczny błąd, który ona dostrzegła dwie tury wcześniej, w którym to momencie cierpliwość natychmiast wyparowuje. Porusza się jak woda, omijając przeszkody, a jej ostrze trafia w szczeliny, których teoretycznie nie powinno być.*
 
 *Prowadzi dziennik z wierszami o swoich towarzyszach. Nikomu o tym dzienniku nie powiedziała. Nigdy nie powie.*
 
@@ -104,9 +104,9 @@ W śledzeniu bieżącej tury pomaga znacznik, umieszczany na polach dookoła pla
 
 ---
 
-*Magnus nosi duży zaczarowany młot, który należał niegdyś do jego wuja — wojownika. Używa go jako laski. Używa go jako młota, gdy zaklęcia zaczynają się komplikować. Jego zaklęcia działają niezawodnie przez około 95% czasu. Pozostałe 5% jest, jak sam mówi, „pouczające".*
+*Magnus nosi duży zaczarowany młot, który należał niegdyś do jego wuja — wojownika. Używa go jako laski. Jako młota używa go, gdy zaklęcia zaczynają się komplikować. Jego zaklęcia działają niezawodnie przez około 95% czasu. Pozostałe 5% jest, jak sam mówi, „pouczające".*
 
-*Jego kot, Twierdzenie, przeżył pożar wieży i teraz podróżuje z drużyną. Twierdzenie jest nieodmiennie niezrobionym na niczym wrażeniu — włącznie ze smokiem.*
+*Jego kot, Lemat, przeżył pożar wieży i teraz podróżuje z drużyną. Lemat pozostaje nieodmiennie niewzruszony przez nikogo — włącznie ze smokiem.*
 
 ---
 
@@ -124,15 +124,15 @@ O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wyw
 
 ---
 
-*Czwórka spotkała się siedem lat temu, odpowiadając na to samo ogłoszenie przyklejone do wiejskiej tablicy:*
+*Czwórka spotkała się siedem lat temu, w odpowiedzi na to samo ogłoszenie przyklejone do wiejskiej tablicy:*
 
 *> POSZUKIWANI: Odważne dusze. Smok, prawdopodobnie mały. Nagroda: do uzgodnienia.*
 
-*Przyszli osobno, ocenili się wzajemnie z różnym stopniem sceptycyzmu — Gorrak mruknął dwa razy, Lirien uniosła brew, Pip zaproponował wszystkim kanapkę, Magnus przypadkowo podpalił swój rękaw, przedstawiając się — i zgodzili się, po krótkiej i niezbyt cywilizowanej dyskusji, podzielić nagrodę na cztery części.*
+*Przyszli osobno, ocenili się wzajemnie z różnym stopniem sceptycyzmu — Gorrak mruknął dwa razy, Lirien uniosła brew, Pip poczęstował wszystkich kanapkami, Magnus przypadkowo podpalił swój rękaw, przedstawiając się — i zgodzili się, po krótkiej i nie do końca cywilizowanej dyskusji, podzielić nagrodę na cztery części.*
 
-*Smok nie był mały. Nagroda nigdy nie została wynegocjowana. Stodoła, która najbardziej ucierpiała, wciąż nie jest w pełni naprawiona, a wieś poprosiła drużynę — uprzejmie, lecz stanowczo — by nie wracała. Ale wygrali, a potem — pokryci sadzą, bez tchu, Pip wyciągający bełty z nieprawdopodobnych miejsc, Gorrak już udający, że to było proste — między nimi coś się osiadło, na co żadne z nich nie miało słowa.*
+*Smok nie był mały. Nagroda nigdy nie została uzgodniona. Stodoła, która najbardziej ucierpiała, wciąż nie jest w pełni naprawiona, a wieś poprosiła drużynę — uprzejmie, lecz stanowczo — by nie wracała. Ale wygrali, a w tym wszystkim — pokryci sadzą, bez tchu, Pip wyciągający bełty z nieprawdopodobnych miejsc, Gorrak wmawiający sobie, że wszystko poszło gładko — między nimi zawiązało się coś, czego żadne z nich nie potrafiło ująć w słowa.*
 
-*Nadal znajdowali się na kolejnych zleceniach. Po trzecim razie przestali udawać, że to przypadek.*
+*Wciąż trafiali na siebie przy kolejnych zleceniach. Po trzecim razie przestali udawać, że to zbieg okoliczności.*
 
 ---
 
@@ -180,7 +180,7 @@ Przykładowo w jednej z sesji prototypu gry, który rozegrałem z moimi dziećmi
 
 ---
 
-*Jak się okazuje, grządka grzybów Pipa znajdowała się dokładnie nad starożytnym węzłem magii ziemi — splotem linii ley, który hobbici z wioski uprawiali od pokoleń, nie wiedząc o tym (grzyby były bardzo dobre, co wydawało się wystarczającym wytłumaczeniem). Skeldrath wyczuł to z trzech gór. Przyszedł, wyciągnął energię i zrównał większość wioski z ziemią po drodze — włącznie z grządką grzybów i wózkiem jabłkowym jego matki — bez najwyraźniejszej świadomości, że cokolwiek tam żyło. Pip uznaje tę ostatnią część za szczególnie niedopuszczalną. Zamierza dać się zauważyć.*
+*Jak się okazuje, grządka grzybów Pipa znajdowała się dokładnie nad starożytnym węzłem magii ziemi — splotem linii ley, który hobbici z wioski uprawiali od pokoleń, nie wiedząc o tym (grzyby były bardzo dobre, co wydawało się wystarczającym wytłumaczeniem). Skeldrath wyczuł go zza trzech gór. Przyszedł, wyssał energię i po drodze zrównał większość wioski z ziemią — włącznie z grządką grzybów i wózkiem jabłkowym matki Pipa — bez najwyraźniejszej świadomości, że cokolwiek tam żyło. Pip uznaje tę ostatnią część za szczególnie niedopuszczalną. Zamierza dać się zauważyć.*
 
 ---
 
@@ -196,7 +196,7 @@ Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty 
 
 ---
 
-*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath go wyczerpał. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
+*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath splądrował jego moc. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
 
 ---
 
@@ -217,7 +217,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, wyczerpuje — pochłaniając ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
+*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
 
 *Runiczny topór, Kamień Serca, węzeł linii ley pod grządką grzybów hobbita, wieża pełna artefaktów — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
 
@@ -225,9 +225,9 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ## 2. Przykładowa rozgrywka
 
-*Siedem lat później znają się tak, jak można się znać tylko po zbyt wielu wspólnych noclegach pod gołym niebem, zbyt wielu złych zakrętach i zbyt wielu sytuacjach, gdy plan przestawał działać i ktoś musiał improwizować. Gorrak wie, że milczenie Lirien oznacza, że już rozwiązała problem i czeka, aż wszyscy inni to dostrzegą. Lirien wie, że narzekania Gorraka są najgłośniejsze, gdy jest najbardziej zdeterminowany, by coś doprowadzić do końca. Pip wie, kiedy zaklęcia Magnusa mają zaraz stać się „pouczające", i wyrobił sobie instynkt stawania nieco na lewo. Magnus wie, że Pip zawsze ma jedzenie, i że jedzenie jest zawsze dokładnie tym, czego potrzeba, i przestał pytać jak.*
+*Siedem lat później znają się tak, jak można się znać tylko po zbyt wielu wspólnych noclegach pod gołym niebem, zbyt wielu złych zakrętach i zbyt wielu sytuacjach, gdy plan przestawał działać i ktoś musiał improwizować. Gorrak wie, że milczenie Lirien oznacza, że już rozwiązała problem i czeka, aż wszyscy inni to dostrzegą. Lirien wie, że narzekania Gorraka są najgłośniejsze, gdy jest najbardziej zdeterminowany, by coś doprowadzić do końca. Pip wie, kiedy zaklęcia Magnusa mają zaraz stać się „pouczające", i wyrobił sobie instynkt stawania nieco na lewo. Magnus wie, że Pip zawsze ma jedzenie, i że jedzenie jest zawsze dokładnie tym, czego potrzeba, i przestał pytać skąd.*
 
-*Są nieoficjalną, nielicencjonowaną kompanią poszukiwawczą bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. Ani razu, ani jednego, nie zostawili się nawzajem.*
+*Są nieoficjalną, nielicencjonowaną drużyną poszukiwaczy przygód bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. Ani razu, ani jednego, nie zostawili się nawzajem w potrzebie.*
 
 *Nie są rodziną z krwi. Pod każdym innym względem — są.*
 

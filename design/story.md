@@ -49,7 +49,7 @@ He always has food somewhere on his person. The origin and quantity of this food
 
 Magnus carries a large enchanted hammer that once belonged to his warrior uncle. He uses it as a walking staff. He uses it as a hammer when the spells get complicated. His spells work reliably about 95% of the time. The remaining 5% are, in his words, "instructive."
 
-His cat, Theorem, survived the tower fire and now travels with the fellowship. Theorem is perpetually unimpressed by everyone, including the dragon.
+His cat, Lemma, survived the tower fire and now travels with the fellowship. Lemma is perpetually unimpressed by everyone, including the dragon.
 
 **Motivation - revealed in section 1.7:** Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of *Advanced Draconic Theory, Vol. 7* — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations.
 

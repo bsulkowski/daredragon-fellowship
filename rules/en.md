@@ -106,7 +106,7 @@ A token placed around the board helps track the current turn.
 
 *Magnus carries a large enchanted hammer that once belonged to his warrior uncle. He uses it as a walking staff. He uses it as a hammer when the spells get complicated. His spells work reliably about 95% of the time. The remaining 5% are, in his words, "instructive."*
 
-*His cat, Theorem, survived the tower fire and now travels with the fellowship. Theorem is perpetually unimpressed by everyone, including the dragon.*
+*His cat, Lemma, survived the tower fire and now travels with the fellowship. Lemma is perpetually unimpressed by everyone, including the dragon.*
 
 ---
 
