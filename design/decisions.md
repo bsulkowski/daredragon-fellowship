@@ -70,6 +70,18 @@ Joker → exceptional effects (First Aid restores HP; Dragon's Joker = Regenerat
 
 This keeps card selection intuitive: drawing a high card generally means more power but more commitment.
 
+### The Dracometer
+
+Non-linear damage scale: `0 1 2 3 4 5 6 8 10 13 16 20 25`
+
+Values roughly double every 3 steps above 6. This achieves two goals simultaneously:
+- Low values scale linearly (fine-grained for small HP pools and weak attacks)
+- High values scale exponentially (a +1s modifier on a strong attack is much more impactful than on a weak one)
+
+Expressing all modifiers as steps on the scale (rather than flat additions) keeps in-game arithmetic trivial — players only ever look up a position on the scale, never add numbers. This is intentional to maintain game flow.
+
+The name "smokometr" (dracometer) and the symbol Ϟ (lightning) are flavour choices to reinforce the game's identity.
+
 ---
 
 ## Daredevil-Side Mechanics
@@ -111,18 +123,6 @@ For more than 4 players: dragon gets +1s on all attacks. This compensates for th
 
 How the dragon operates as a mechanical system — damage, structure, and targeting behaviour.
 
-### The Dracometer
-
-Non-linear damage scale: `0 1 2 3 4 5 6 8 10 13 16 20 25`
-
-Values roughly double every 3 steps above 6. This achieves two goals simultaneously:
-- Low values scale linearly (fine-grained for small HP pools and weak attacks)
-- High values scale exponentially (a +1s modifier on a strong attack is much more impactful than on a weak one)
-
-Expressing all modifiers as steps on the scale (rather than flat additions) keeps in-game arithmetic trivial — players only ever look up a position on the scale, never add numbers. This is intentional to maintain game flow.
-
-The name "smokometr" (dracometer) and the symbol Ϟ (lightning) are flavour choices to reinforce the game's identity.
-
 ### Separate HP per Body Part
 
 Each of the dragon's four body parts has independent HP. This means:
@@ -132,9 +132,16 @@ Each of the dragon's four body parts has independent HP. This means:
 
 The dragon is defeated only when all four parts reach 0, preventing a single concentrated attack strategy.
 
-### Dragon Without a Target
+### Dragon Target: Persistent, Not Random
 
-When the dragon has no target, attack cards are discarded without effect (the dragon "bluffs"). This means glare mechanics (target-shifting) are strategically interesting: letting the dragon lose its target is sometimes beneficial. It also means the initial phase of the game (before any daredevil attacks) is completely safe from direct dragon attacks.
+The dragon's target does not change each turn — once a daredevil draws aggro, the dragon fixates on them and attacks that same target repeatedly until the target shifts. This is a deliberate design choice with several cascading effects:
+
+- **Predictable threat, organised response.** The targeted player can anticipate incoming damage. This makes coordinated protection viable and meaningful: teammates know *who* to shield, *when*, and can plan around it. If the target changed every turn, organised defence would be guesswork.
+- **Draw Aggro becomes high-stakes.** Voluntarily drawing the dragon's attention is not a neutral repositioning — it is a commitment to absorb sustained fire. The action carries real personal risk, which makes it a genuine act of sacrifice when a teammate is low on HP.
+- **The targeted player is not helpless, but truly under pressure.** Knowing you are the target across multiple turns creates a distinct psychological experience: urgency, reliance on teammates, and the relief when the focus finally shifts. This is a narrative beat as much as a mechanical state.
+- **Glare actions matter precisely because the target is otherwise locked.** If the target shifted freely, glare effects would be unremarkable. Because the target is persistent, a glare is a meaningful disruption — either a lifeline for the current victim or a tactical redirect. No player is ever completely safe, since a glare can land the dragon's attention on anyone at any moment.
+
+When the dragon has no target, attack cards are discarded without effect (the dragon "bluffs"). This means deliberately letting the dragon lose its target is sometimes a valid strategy — and it means the opening phase of the game (before any daredevil has attacked) is completely safe from direct dragon attacks.
 
 ---
 
