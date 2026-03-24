@@ -8,6 +8,21 @@ Internal notes on game mechanics and design choices, not communicated directly t
 
 Foundational constraints that define what kind of game this is — and what it deliberately refuses to be.
 
+### Extreme Cooperation as the Core Value
+
+This game is built on a specific and deliberate vision of cooperation — not merely "work together to win", but something deeper and more intentional. Every mechanic is designed to produce direct positive interactions between players: you draw cards for others, not yourself; you shield someone else's body with your action; you sacrifice your turn to lift a fallen teammate. Personal gain is structurally subordinated to collective need.
+
+The interdependence is not a side effect — it is the point. Players cannot succeed, or even function well, in isolation. The game is engineered so that self-interested play is genuinely suboptimal, and acts of sacrifice are genuinely felt as such.
+
+The intended effect extends beyond the table. The emotions generated during play — gratitude, solidarity, the relief of being protected, the weight of protecting someone else — are meant to carry over into the real relationships between the people playing. The game is designed to be a shared emotional experience first, and a tactical puzzle second.
+
+This gives the game an educational and therapeutic dimension. Regular play is intended to:
+- Reinforce cooperative instincts and reduce purely competitive reflexes
+- Build trust and group cohesion among the players as real people
+- Help individual players internalise the value of interdependence and sacrifice in their own lives outside the game
+
+The game does not preach these values — it produces situations where players naturally enact them and feel their consequences. The lesson, if there is one, arrives through experience rather than instruction.
+
 ### Setting Agnosticism
 
 The rules are deliberately setting-agnostic. The only fixed elements of the fictional world are:
