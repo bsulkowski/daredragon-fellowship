@@ -4,6 +4,11 @@ A cooperative card-based board game for 4–6 players.
 
 *Author: Bartosz Sułkowski*
 
+## Available language versions
+
+- [English](README.md)
+- [Polish](README_pl.md)
+
 ## Overview
 
 A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's.
@@ -21,26 +26,21 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 | File | Description |
 |------|-------------|
-| [rules/en.md](rules/en.md) | Rules (English) |
-| [rules/pl.md](rules/pl.md) | Rules (Polish) |
-| [rules/cheat_sheet_en.md](rules/cheat_sheet_en.md) | Cheat sheet (English) |
-| [rules/cheat_sheet_pl.md](rules/cheat_sheet_pl.md) | Cheat sheet (Polish) |
+| [rules/en.md](rules/en.md) | Rules |
+| [rules/cheat_sheet_en.md](rules/cheat_sheet_en.md) | Cheat sheet |
 
 ### Board (print-ready PDFs)
 
 | File | Description |
 |------|-------------|
-| [board/base_en.pdf](board/base_en.pdf) | Board — base game (English) |
-| [board/base_pl.pdf](board/base_pl.pdf) | Board — base game (Polish) |
-| [board/extension_en.pdf](board/extension_en.pdf) | Board extension for 5–6 players (English) |
-| [board/extension_pl.pdf](board/extension_pl.pdf) | Board extension for 5–6 players (Polish) |
+| [board/base_en.pdf](board/base_en.pdf) | Board — base game |
+| [board/extension_en.pdf](board/extension_en.pdf) | Board extension for 5–6 players |
 
 ### Design Notes
 
 | File | Description |
 |------|-------------|
-| [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices (English) |
-| [design/decisions_pl.md](design/decisions_pl.md) | Internal notes on mechanics and design choices (Polish) |
+| [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices |
 
 ## License
 
