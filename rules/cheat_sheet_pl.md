@@ -18,7 +18,7 @@
 
 | Pozycja | Ataki smoka | Ataki śmiałków |
 |---|---|---|
-| +2s | Śmiałek leży na ziemi.\* | Riposta tuż po ataku smoka.<br><br>Smok wytrącony z równowagi (2 tury po uniku ratunkowym). |
+| +2s | Śmiałek leży na ziemi.\* | Riposta tuż po ataku smoka.<br><br>Smok wytrącony z równowagi (2 tury po uniku ratunkowym).\* |
 | +1s | Atak w czasie przygotowywania akcji śmiałka.\*<br><br>Więcej niż 4 graczy. | Atak na oplątaną część ciała smoka.<br><br>Skoordynowany atak: +1s za każdego kolejnego śmiałka kończącego atak w tej samej turze z kartą tego samego koloru. |
 | -1s | Punkty życia części ciała od 1 do 13. | Punkty życia śmiałka od 1 do 13. |
 | -2s | Punkty życia części ciała równe 0. | Śmiałek leży na ziemi. |

@@ -266,7 +266,7 @@ Can only be applied to a body part of the dragon that is not currently being use
 
 #### Intervention Dodge
 
-The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance. The cool-down after the attack is extended by one turn, during which daredevils receive a +2Ϟ bonus to attacks.
+The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance - does not apply to AoE attacks. The cool-down after the attack is extended by one turn, during which daredevils receive a +2Ϟ bonus to attacks.
 
 #### Draw Aggro
 

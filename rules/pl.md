@@ -266,7 +266,7 @@ Oplątana może zostać część ciała smoka, która nie jest w danej chwili u�
 
 #### Unik ratunkowy
 
-Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku.
+Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku.
 
 #### Odwrócenie uwagi
 

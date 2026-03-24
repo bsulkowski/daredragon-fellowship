@@ -18,7 +18,7 @@
 
 | Modifier | Dragon's Attacks | Daredevils' Attacks |
 |---|---|---|
-| +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack with that body part.<br><br>Dragon knocked off balance (2 turns after Intervention Dodge). |
+| +2Ϟ | Daredevil is lying on the ground.\* | Riposte right after dragon's attack with that body part.<br><br>Dragon knocked off balance (2 turns after Intervention Dodge).\* |
 | +1Ϟ | Attack during daredevil's warm-up.\*<br><br>More than 4 players. | Attack on entangled body part.<br><br>Orchestrated attack: +1Ϟ per additional daredevil landing an attack on the same turn with the same suit. |
 | -1Ϟ | HP of body part between 1 and 13. | HP between 1 and 13. |
 | -2Ϟ | HP of body part equal 0. | Daredevil is lying on the ground. |
