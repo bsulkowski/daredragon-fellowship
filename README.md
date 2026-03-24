@@ -39,7 +39,8 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 | File | Description |
 |------|-------------|
-| [design/decisions.md](design/decisions.md) | Internal notes on mechanics and design choices |
+| [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices (English) |
+| [design/decisions_pl.md](design/decisions_pl.md) | Internal notes on mechanics and design choices (Polish) |
 
 ## License
 

@@ -16,7 +16,7 @@ rules/
   cheat_sheet_<lang>.md   # Cheat sheet
   extensions_<lang>.md    # Rules extensions — new ideas, WIP, optional mechanics
 design/
-  decisions.md            # Internal notes on mechanics and design choices
+  decisions_<lang>.md     # Internal notes on mechanics and design choices
   style.md                # Notes on how rules are written and presented
   story.md                # Story commentary: characters, dragon, lair
 board/
