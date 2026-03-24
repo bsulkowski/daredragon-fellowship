@@ -200,7 +200,7 @@ Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty 
 
 ---
 
-### 1.10. Smokometr
+### 1.10. Smokometr (Ϟ)
 
 Obrażenia zadawane przez smoka lub śmiałków przyjmują zawsze wartości z ograniczonego zestawu, nazwanego „smokometrem".
 
@@ -209,7 +209,7 @@ Obrażenia zadawane przez smoka lub śmiałków przyjmują zawsze wartości z og
 
 Wszelkie modyfikatory do obrażeń są wyrażone przez odpowiednią zmianę poziomu na smokometrze.
 
-Przykładowo, przy bazowej sile ataku 8, modyfikator +1s powoduje zwiększenie obrażeń do 10, modyfikator +2s do 13, a modyfikator +3s do 16.
+Przykładowo, przy bazowej sile ataku 8, modyfikator +1Ϟ powoduje zwiększenie obrażeń do 10, modyfikator +2Ϟ do 13, a modyfikator +3Ϟ do 16.
 
 Jest to rozwiązanie pozwalające uzyskać zaawansowane skalowanie siły ataków (dla małych wartości liniowa, a później podwaja się mniej więcej co 3 poziomy), a jednocześnie nie obarczać graczy złożoną arytmetyką.
 
@@ -254,7 +254,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 #### Atak
 
-Zadaje obrażenia wybranej części ciała smoka.<br>+2s, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1s za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
+Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
 
 #### Czuwanie
 
@@ -262,11 +262,11 @@ Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i 
 
 #### Oplątanie
 
-Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1s przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania.
+Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1Ϟ przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania.
 
 #### Unik ratunkowy
 
-Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2s do ataku.
+Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2Ϟ do ataku.
 
 #### Odwrócenie uwagi
 
@@ -274,11 +274,11 @@ Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie mo�
 
 #### Osłona vs atak
 
-Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3s otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający.
+Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3Ϟ otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający.
 
 #### Osłona vs atak obszarowy
 
-Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3s.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1.
+Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3Ϟ.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1.
 
 #### Pomocna dłoń
 
@@ -290,7 +290,7 @@ Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnos
 
 #### Powalony na ziemię
 
-Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2s.
+Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2Ϟ.
 
 ### 3.2. Akcje smoka
 
@@ -313,7 +313,7 @@ Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie
 
 #### Atak
 
-Zadaje obrażenia celowi.<br>Jeśli w trakcie przygotowywania akcji przez śmiałka:<br>— obrażenia +1s,<br>— powoduje powalenie, o ile nie ma żadnej osłony.<br><br>+2s, jeśli śmiałek leży na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
+Zadaje obrażenia celowi.<br>Jeśli w trakcie przygotowywania akcji przez śmiałka:<br>— obrażenia +1Ϟ,<br>— powoduje powalenie, o ile nie ma żadnej osłony.<br><br>+2Ϟ, jeśli śmiałek leży na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
 
 #### Atak obszarowy
 
@@ -337,7 +337,7 @@ Przywraca do 8 punktów życia najsłabszej części ciała. Jeśli remis, to w 
 
 #### Liczba graczy
 
-Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1s.
+Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1Ϟ.
 
 ### 3.3. Efekty wynikające z punktów życia
 
@@ -347,7 +347,7 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 |---|---|
 | 25–21 | Limit kart na ręce 6. |
 | 20–14 | Limit kart na ręce 5. |
-| 13–1 | Zadawane obrażenia -1s. |
+| 13–1 | Zadawane obrażenia -1Ϟ. |
 | 13–7 | Limit kart na ręce 4. |
 | 6–1 | Limit kart na ręce 3. |
 | 0 | Limit kart na ręce 0 (obezwładniony).<br>Śmiałek przestaje być celem ataków smoka. |
@@ -358,8 +358,8 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 | Punkty życia | Efekt |
 |---|---|
-| 13–1 | Zadawane obrażenia -1s. |
-| 0 | Czas przygotowania +1.<br>Zadawane obrażenia -2s. |
+| 13–1 | Zadawane obrażenia -1Ϟ. |
+| 0 | Czas przygotowania +1.<br>Zadawane obrażenia -2Ϟ. |
 
 ---
 

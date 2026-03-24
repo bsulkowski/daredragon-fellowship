@@ -91,7 +91,7 @@ Nieliniowa skala obrażeń: `0 1 2 3 4 5 6 8 10 13 16 20 25`
 
 Wartości mniej więcej podwajają się co 3 kroki powyżej 6. Osiąga to dwa cele jednocześnie:
 - Niskie wartości skalują się liniowo (precyzja przy małych pulach HP i słabych atakach)
-- Wysokie wartości skalują się wykładniczo (modyfikator +1s przy silnym ataku ma znacznie większy wpływ niż przy słabym)
+- Wysokie wartości skalują się wykładniczo (modyfikator +1Ϟ przy silnym ataku ma znacznie większy wpływ niż przy słabym)
 
 Wyrażanie wszystkich modyfikatorów jako kroków na skali (zamiast płaskich dodawań) sprawia, że arytmetyka w grze jest trywialna — gracze jedynie wyszukują pozycję na skali, nigdy nie dodają liczb. Jest to celowe rozwiązanie podtrzymujące płynność gry.
 
@@ -137,14 +137,14 @@ Fakt, że mechanika czuwania nie jest dostępna dla powalonych śmiałków, ozna
 
 Bycie powalonym na ziemię to poważne osłabienie:
 - Czas przygotowania +1 dla większości akcji
-- Zadawane obrażenia -2s
+- Zadawane obrażenia -2Ϟ
 - Brak możliwości wykonywania akcji czuwania ani akcji o czasie przygotowania 4
 
 Tworzy to problem wychodzenia z trudnej sytuacji: powalony śmiałek potrzebuje pomocy (Pomocna dłoń, Pierwsza pomoc), ale ma ograniczoną zdolność do wkładu podczas leżenia. Wzajemna zależność zostaje wzmocniona.
 
 ### Skalowanie do liczby graczy
 
-Powyżej 4 graczy: smok otrzymuje premię +1s do wszystkich ataków. Kompensuje to zwiększone łączne HP drużyny i większą liczbę kart w obiegu. Nie stosuje się żadnego innego skalowania — rozszerzenie planszy obsługuje fizyczny układ dla 5–6 graczy.
+Powyżej 4 graczy: smok otrzymuje premię +1Ϟ do wszystkich ataków. Kompensuje to zwiększone łączne HP drużyny i większą liczbę kart w obiegu. Nie stosuje się żadnego innego skalowania — rozszerzenie planszy obsługuje fizyczny układ dla 5–6 graczy.
 
 ---
 
@@ -156,7 +156,7 @@ Jak smok działa jako system mechaniczny — obrażenia, struktura i zachowanie 
 
 Każda z czterech części ciała smoka ma niezależne HP. Oznacza to:
 - Gracze mogą podejmować strategiczne decyzje dotyczące tego, którą część ciała atakować
-- Osłabienie części ciała ma mechaniczne konsekwencje (-1s przy HP 1–13, +1 do czasu przygotowania i -2s przy HP 0)
+- Osłabienie części ciała ma mechaniczne konsekwencje (-1Ϟ przy HP 1–13, +1 do czasu przygotowania i -2Ϟ przy HP 0)
 - Cząstkowy postęp jest zawsze widoczny na planszy, co podtrzymuje motywację w długich walkach
 
 Smok zostaje pokonany dopiero gdy wszystkie cztery części ciała osiągną 0, uniemożliwiając strategię skupienia ataków na jednym miejscu.

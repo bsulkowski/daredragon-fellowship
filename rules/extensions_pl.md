@@ -66,8 +66,8 @@ Cecha żadnej części ciała nie jest ustalona przed grą — ujawnia się w tr
 
 | Kolor karty | Cecha | Efekt |
 |---|---|---|
-| ♠ | **Siła** | +1s do wszystkich obrażeń zadawanych przez ataki daną częścią ciała. |
-| ♥ | **Wytrzymałość** | -1s do wszystkich obrażeń zadawanych przez ataki *celowane* w tę część ciała. |
+| ♠ | **Siła** | +1Ϟ do wszystkich obrażeń zadawanych przez ataki daną częścią ciała. |
+| ♥ | **Wytrzymałość** | -1Ϟ do wszystkich obrażeń zadawanych przez ataki *celowane* w tę część ciała. |
 | ♣ | **Zwinność** | -1 do czasu przygotowania wszystkich akcji daną częścią ciała (minimum 0). |
 | ♦ | **Brak** | Brak modyfikacji. |
 
@@ -87,10 +87,10 @@ Po ustaleniu cechy odszukaj odpowiednią sylabę w poniższej tabeli i zanotuj j
 Aby odczytać cechy z imienia smoka, należy podzielić je na cztery sylaby i odszukać każdą w tabeli. Część ciała wyznaczona jest przez pozycję sylaby, nie przez jej brzmienie.
 
 **Przykład — Vrak·Zel·Dar·Kroth:**
-- *Vrak* (Paszcza, Siła): ataki paszczą zadają +1s obrażeń.
+- *Vrak* (Paszcza, Siła): ataki paszczą zadają +1Ϟ obrażeń.
 - *Zel* (Łapy, Zwinność): akcje łapami mają czas przygotowania skrócony o 1.
 - *Dar* (Nogi, Brak): nogi nie mają modyfikacji.
-- *Kroth* (Ogon, Wytrzymałość): ataki celowane w ogon zadają -1s obrażeń.
+- *Kroth* (Ogon, Wytrzymałość): ataki celowane w ogon zadają -1Ϟ obrażeń.
 
 **Przykład — Dru·Mur·Dar·Ash:** wszystkie cztery części ciała bez cech. Najsłabszy możliwy smok — i najbardziej upokarzające imię, jakie można nosić w smoczym towarzystwie.
 

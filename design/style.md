@@ -15,7 +15,7 @@ Notes on how the rules are written and presented, independent of game logic.
 ## Language Versions
 
 - Both language versions are kept in sync and treated as equals. Conflicts are resolved via git history.
-- The modifier notation differs by language: Polish uses `s` suffix (`+1s`, `-2s`), English uses the Ϟ symbol (`+1Ϟ`, `-2Ϟ`).
+- Both language versions use the Ϟ symbol for modifier notation (`+1Ϟ`, `-2Ϟ`).
 - Card face values differ: Polish uses `D` (Dama = Queen) and `W` (Walet = Jack); English uses `Q` and `J`.
 
 ## Section Structure
@@ -43,7 +43,7 @@ Healing amounts in parentheses, e.g. `(8)`, indicate restoration rather than dam
 ## Modifier Notation
 
 All modifiers are expressed as steps on the dracometer, not as absolute values. This should be reflected in the language used:
-- Correct: "obrażenia +1s" / "damage +1Ϟ"
+- Correct: "obrażenia +1Ϟ" / "damage +1Ϟ"
 - Avoid: "increases damage by 1" (ambiguous — could mean a flat +1 HP)
 
 ## Tone
