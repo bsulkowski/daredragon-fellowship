@@ -91,7 +91,7 @@ Non-linear damage scale: `0 1 2 3 4 5 6 8 10 13 16 20 25`
 
 Values roughly double every 3 steps above 6. This achieves two goals simultaneously:
 - Low values scale linearly (fine-grained for small HP pools and weak attacks)
-- High values scale exponentially (a +1s modifier on a strong attack is much more impactful than on a weak one)
+- High values scale exponentially (a +1Ϟ modifier on a strong attack is much more impactful than on a weak one)
 
 Expressing all modifiers as steps on the scale (rather than flat additions) keeps in-game arithmetic trivial — players only ever look up a position on the scale, never add numbers. This is intentional to maintain game flow.
 
@@ -137,14 +137,14 @@ The guard mechanic being a "czuwanie" (standby) type means it cannot be used by 
 
 Being knocked to the ground is a significant debuff:
 - Warm-up +1 on most actions
-- Damage dealt -2s
+- Damage dealt -2Ϟ
 - Cannot use standby actions or warm-up 4 actions
 
 This creates a recovery problem: the prone hero needs help (Helping Hand, First Aid) but has limited ability to contribute while down. Interdependence is reinforced.
 
 ### Number of Players Scaling
 
-For more than 4 players: dragon gets +1s on all attacks. This compensates for the increased total HP of the fellowship and the greater number of cards in circulation. No other scaling is applied — the board extension handles physical layout for 5–6 players.
+For more than 4 players: dragon gets +1Ϟ on all attacks. This compensates for the increased total HP of the fellowship and the greater number of cards in circulation. No other scaling is applied — the board extension handles physical layout for 5–6 players.
 
 ---
 
@@ -156,7 +156,7 @@ How the dragon operates as a mechanical system — damage, structure, and target
 
 Each of the dragon's four body parts has independent HP. This means:
 - Players can make strategic choices about which part to focus on
-- Weakening a body part has mechanical consequences (-1s at 1–13 HP, +1 warm-up and -2s at 0 HP)
+- Weakening a body part has mechanical consequences (-1Ϟ at 1–13 HP, +1 warm-up and -2Ϟ at 0 HP)
 - Partial progress is always visible on the board, maintaining motivation in long fights
 
 The dragon is defeated only when all four parts reach 0, preventing a single concentrated attack strategy.
