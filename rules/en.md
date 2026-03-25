@@ -349,7 +349,9 @@ If there are more than 4 players, the dragon gets a +1Ϟ bonus to damage on ever
 | 13–1 | Damage dealt -1Ϟ. |
 | 13–7 | Max 4 cards on hand. |
 | 6–1 | Max 3 cards on hand. |
-| 0 | No cards at hand (incapacitated).<br>Daredevil can no longer be a target of dragon's attacks. |
+| 0 | No cards at hand (incapacitated).\*<br>Daredevil can no longer be a target of dragon's attacks. |
+
+(\*) Daredevil cannot take any action that requires playing a card. Still, card draw is possible.
 
 #### The Dragon
 

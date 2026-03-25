@@ -350,7 +350,9 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 | 13–1 | Zadawane obrażenia -1Ϟ. |
 | 13–7 | Limit kart na ręce 4. |
 | 6–1 | Limit kart na ręce 3. |
-| 0 | Limit kart na ręce 0 (obezwładniony).<br>Śmiałek przestaje być celem ataków smoka. |
+| 0 | Limit kart na ręce 0 (obezwładniony).\*<br>Śmiałek przestaje być celem ataków smoka. |
+
+(\*) Śmiałek nie może wykonać żadnej akcji, która wymaga zagrania karty. Wciąż możliwe jest jednak dobranie kart.
 
 #### Smok
 
