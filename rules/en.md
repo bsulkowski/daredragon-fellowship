@@ -366,6 +366,8 @@ Affects attacks using given body part.
 
 ## 4. Release Notes
 
+*Version: 0.14.1*
+
 At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
 
 ### 4.1. Game Balance
@@ -375,20 +377,3 @@ Fighting the dragon is not a routine activity. It is supposed to be a challenge,
 You can also adjust the pace of the game, by adjusting strength of attacks for both the dragon and daredevils, while keeping the same level of HP.
 
 Some of the dragon's attacks might appear "unfairly" powerful or annoying… Well, the dragon was never meant to be your sparring buddy.
-
-### 4.2. Revision History
-
-| Version | Date | Changes |
-|---|---|---|
-| 0.14.1 | 2026-03-18 | Added story commentary |
-| 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
-| 0.13.2 | 2026-03-16 | Instructions (EN) |
-| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Extended supported number of players |
-| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers) |
-| 0.11.2 | 2024-11-11 | Downloadable board and cheat sheet |
-| 0.11.1 | 2024-08-24 | Instructions — detailed description of game rules (PL) |
-| 0.9 | 2023-12-29 | Designed the board |
-| 0.7 | 2023-09-24 | Introduced the dracometer |
-| 0.3 | 2023-06-18 | Introduced cooperative card drawing |
-| 0.2 | 2022-10-08 | Detailed mechanics prototype |
-| 0.1 | 2022-09-23 | Inception of design principles |

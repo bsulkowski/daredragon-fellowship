@@ -42,6 +42,23 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 |------|-------------|
 | [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices |
 
+## Revision History
+
+| Version | Date | Changes |
+|---|---|---|
+| 0.14.1 | 2026-03-18 | Added story commentary |
+| 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
+| 0.13.2 | 2026-03-16 | Instructions (EN) |
+| 0.13 | 2025-02-05 | Redesigned shield and dodge mechanics<br>Extended supported number of players |
+| 0.12 | 2024-11-12 | Mechanics adjustment (target selection, modifiers) |
+| 0.11.2 | 2024-11-11 | Downloadable board and cheat sheet |
+| 0.11.1 | 2024-08-24 | Instructions — detailed description of game rules (PL) |
+| 0.9 | 2023-12-29 | Designed the board |
+| 0.7 | 2023-09-24 | Introduced the dracometer |
+| 0.3 | 2023-06-18 | Introduced cooperative card drawing |
+| 0.2 | 2022-10-08 | Detailed mechanics prototype |
+| 0.1 | 2022-09-23 | Inception of design principles |
+
 ## License
 
 See [LICENSE](LICENSE).

@@ -367,6 +367,8 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ## 4. Uwagi do wydania
 
+*Wersja: 0.14.1*
+
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 
 ### 4.1. Wyważenie gry
@@ -376,20 +378,3 @@ Walka ze smokiem nie jest rutynową aktywnością. Powinna stanowić pewne wyzwa
 Możecie także dostosować tempo gry, poprzez proporcjonalną zmianę siły ataków smoka i graczy, przy zachowaniu tego samego limitu punktów życia.
 
 Niektóre ataki smoka mogą wydać się „niesprawiedliwie" za mocne lub irytujące… Cóż, smok to nie jest fajny kumpel, który walczy fair.
-
-### 4.2. Historia wersji
-
-| Wersja | Data | Zmiany |
-|---|---|---|
-| 0.14.1 | 2026-03-18 | Dodany komentarz fabularny |
-| 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
-| 0.13.2 | 2026-03-16 | Instrukcja (EN) |
-| 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Rozszerzenie możliwej liczby graczy |
-| 0.12 | 2024-11-12 | Poprawki mechaniki (wybór celu, modyfikatory) |
-| 0.11.2 | 2024-11-11 | Do pobrania plansza i ściągawka |
-| 0.11.1 | 2024-08-24 | Instrukcja — szczegółowy opis zasad gry (PL) |
-| 0.9 | 2023-12-29 | Zaprojektowana plansza |
-| 0.7 | 2023-09-24 | Wprowadzony „smokometr" |
-| 0.3 | 2023-06-18 | Wprowadzone kooperacyjne dobieranie kart |
-| 0.2 | 2022-10-08 | Szczegółowy prototyp mechaniki gry |
-| 0.1 | 2022-09-23 | Incepcja założeń projektowych |

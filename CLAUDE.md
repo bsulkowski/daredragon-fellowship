@@ -30,7 +30,9 @@ board/
 
 ## Authoring Conventions
 
-- Rules files are versioned in their own **6.x Revision History** table — update it when making changes
+- When making changes, update the version number in two places:
+  - The *Version: x.y.z* annotation near the top of section 4 in both `rules/en.md` and `rules/pl.md`
+  - The **Revision History** table in both `README.md` and `README_pl.md`
 - **Major version** (`0.13` → `0.14`): any change to game mechanics
 - **Minor version** (`0.13.2` → `0.13.3`): wording, story, formatting — no mechanic change
 - Version numbers kept identical between PL and EN at all times
