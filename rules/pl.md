@@ -9,6 +9,20 @@ W grze wcielacie się w drużynę śmiałków, wspólnie stawiających czoła gr
 
 Gracze: 4–6 osób
 
+---
+
+*Góra Szarego Płaszcza tli się słabo od niepamiętnych czasów. Wyraźniej od czterdziestu lat, odkąd zamieszkał w niej Skeldrath.*
+
+*Wejście do tunelu łatwo znaleźć. Jest tylko jedno — co jest albo uspokajające, albo złowróżbne, zależnie od Waszej kondycji psychicznej. Jest na tyle szerokie, by smok mógł przez nie przejść swobodnie, co wiele mówi o tym, kto je stworzył. Czworo ludzi może iść obok siebie — i czworo idzie teraz obok siebie — choć co najmniej dwójka z nich już żałuje wyborów życiowych, które doprowadziły ich do tego konkretnego korytarza, na tej konkretnej górze, tego konkretnego popołudnia.*
+
+*Ściany są regularnie ponacinane śladami pazurów. Jedna z czwórki ma teorię, czy to oznaczenia terytorialne, czy bardzo konsekwentny zły nawyk. Pozostałych troje poprosiło, żeby przestała o tym mówić.*
+
+*Przedsionek pachnie dymem, siarką i — słabo — czymś ziemistym i organicznym, czego nikt nie zidentyfikował. Podłoga jest usiana pozostałościami po poprzednich odwiedzających: wgięta tarcza tu, trzonek złamanej włóczni tam, jedno bardzo stopione koło od wozu, którego obecność nasuwa pytania, na które nikt się nie spieszy odpowiadać. Ktoś był tu przed nimi. Kilkoro, sądząc po pozostawionych śladach. Żadne z nich nie opuściło tunelu tą samą drogą.*
+
+*Czworo stoi na skraju ciemności i patrzy w głąb. To nieprawdopodobna grupa. Obiektywnie rzecz biorąc, nie są to najrozsądniejsze osoby, które mogłyby tu stać. Wchodzą mimo to.*
+
+---
+
 ### 1.1. Wymagania
 
 #### Karty
@@ -367,7 +381,7 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ## 4. Uwagi do wydania
 
-*Wersja: 0.14.1*
+*Wersja: 0.14.2*
 
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 

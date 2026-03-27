@@ -9,6 +9,20 @@ In the game you play as a fellowship of heroes dare to stand against a dreadful 
 
 Players: 4–6 people
 
+---
+
+*Mount Greymantle has smouldered faintly for as long as anyone can remember. More visibly since Skeldrath moved in, forty years ago.*
+
+*The tunnel entrance is easy enough to find. There is only one, which is either reassuring or ominous, depending on your constitution. It is wide enough for a dragon to pass through comfortably, which tells you something about who built it. Four people can walk side by side, and four people are walking side by side now — though at least two of them are already regretting the life choices that led to this particular corridor, on this particular mountain, on this particular afternoon.*
+
+*The walls are scored with claw marks at regular intervals. One of the four has a theory about whether these are territorial markings or a very consistent nervous habit. The others have asked them to stop talking about it.*
+
+*The antechamber smells of smoke and sulphur and, faintly, of something earthy and organic that nobody has identified. The floor is scattered with the remnants of previous visitors: a dented shield here, the haft of a broken spear there, one very melted cart wheel whose presence raises questions nobody is in a hurry to pursue. Someone came this way before them. Several someones, it seems. None of them appear to have left the way they came in.*
+
+*Four figures stand at the edge of the dark, looking in. They are an improbable group. They are, by any objective measure, not the most sensible people to be standing here. They are going in anyway.*
+
+---
+
 ### 1.1. Prerequisites
 
 #### Cards
@@ -366,7 +380,7 @@ Affects attacks using given body part.
 
 ## 4. Release Notes
 
-*Version: 0.14.1*
+*Version: 0.14.2*
 
 At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
 

@@ -103,15 +103,19 @@ The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patc
 
 ## The Lair
 
-**Revealed later**
-
 ### The Ashen Halls of Skeldrath
 
 The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has smouldered faintly for as long as anyone can remember — and more visibly since Skeldrath moved in forty years ago.
 
+**Revealed at the beginning of section 1 (before 1.1):** Daredevils are not named or described — kept generic and teasing.
+
 **The approach** is a long tunnel of blackened stone, wide enough for a dragon to pass through comfortably and for four adventurers to walk side by side while deeply regretting their life choices. The walls are scored with claw marks at regular intervals, which Magnus has theorised are either territorial markings or a very consistent nervous habit.
 
 **The antechamber** is where previous visitors' equipment has ended up: dented shields, snapped spear hafts, one very melted cart wheel. It smells of smoke and sulphur and, faintly, of old mushrooms (from Pip's patch; the smell has travelled).
+
+---
+
+**Revealed at the beginning of section 2 (sample gameplay):**
 
 **The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
 
