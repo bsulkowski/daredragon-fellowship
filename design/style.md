@@ -57,11 +57,75 @@ All modifiers are expressed as steps on the dracometer, not as absolute values. 
 Examples appear inline in the rules text, not in separate boxes. They follow a consistent pattern:
 > "For example, for 4 players, if [condition], then [outcome]."
 
-The sample gameplay section (3) is a separate dedicated section, currently a placeholder.
+## Sample Gameplay Template (Section 2)
 
-Story characters and world details are in `design/story.md`.
+Section 2 presents a concrete play-through split into subsections (e.g. 2.1 Overture, 2.2 Trial of Strength, 2.3 Finale), each covering roughly 30 turns.
+
+### Turn numbering
+
+Turns are numbered in pairs: daredevil turns use plain integers, the dragon turn immediately following uses the same number with ❖. For 4 players:
+
+**1** (Gorrak) → **1❖** (Skeldrath) → **2** (Lirien) → **2❖** (Skeldrath) → **3** (Pip) → **3❖** (Skeldrath) → **4** (Magnus) → **4❖** (Skeldrath) → **5** (Gorrak) → …
+
+### Daredevil turn block
+
+```
+---
+
+**Turn [N] — [Daredevil name]**
+
+**Hand:** [Card] [Card] [Card]  *(Lirien: 2 cards · Pip: 3 cards · Magnus: 1 card)*
+
+**State:**
+Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Target: Gorrak
+Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+
+**Pending:** Lirien's Strike (7♠) → Turn 3 · Dragon's Trample (10♥) → Turn 2❖
+
+**Resolves:** [e.g. "Gorrak's Strike (7♠): 5 damage to Jaws (25→20 HP)"]
+
+**Plays:** [Card] — [Action name], warm-up [N], card placed at Turn [M]
+
+> **Mechanics:** [Technical note — damage formula, rule interaction. Omit if straightforward.]
+
+*[Story — 1–3 sentences in italics, from the perspective of the acting player or the player whose action just fired.]*
+```
+
+### Dragon turn block
+
+```
+---
+
+**Turn [N❖] — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Target: Gorrak
+Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+
+**Dragon:** Trample (10♥) · warm-up 2/2 — **resolves**
+
+**Resolves:** [Effect, if any]
+
+**Plays:** [New card, if action slot is free]
+
+> **Mechanics:** [Technical note — omit if straightforward.]
+
+*[Story — Skeldrath's action described from the daredevils' perspective.]*
+```
+
+### State line notation
+
+| Symbol | Meaning |
+|---|---|
+| `↓` suffix on daredevil | On the ground (standing is default, not shown) |
+| `~` suffix on dragon body part | Entangled |
+| `(25→20 HP)` in Resolves | HP change this turn |
+| `warm-up N/M` | Currently on warm-up step N of M total |
+| `cool-down N/M` | Currently on cool-down step N of M total |
 
 ## Story Commentary
+
+Story characters and world details are in `design/story.md`.
 
 Story commentary is woven into the rules files alongside the technical content:
 
