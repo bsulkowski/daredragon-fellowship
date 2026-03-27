@@ -247,6 +247,434 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ### 2.1. Overture
 
+In this section, four daredevils take their first steps into the dragon's lair. The following turns illustrate the basic flow of the game: drawing cards, the dragon choosing a target, and the first exchanges of blows.
+
+**Setup**
+
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+Gorrak's hand: 9♣ 7♠
+Lirien's hand: 8♦ Q♣
+Pip's hand: 6♥ A♦
+Magnus's hand: J♠ 3♥
+
+---
+
+**Turn 1 — Gorrak**
+
+**Hand:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Plays:** Draws — deals one card to Lirien (3♦), Pip (5♦), Magnus (6♣).
+
+> **Mechanics:** Instead of performing an action, a daredevil may deal one card from the deck to each of their fellow players. A player cannot draw a card for themselves.
+
+*Gorrak holds two cards and says nothing. He deals cards to his companions — a gesture that, for him, counts as a speech.*
+
+---
+
+**Turn 1❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** —
+
+**Plays:** 6♠ — Paws Strike (Direct Attack, warm-up 2). No target → menaces. Card discarded.
+
+> **Mechanics:** The dragon plays a Direct Attack, but has no target. The card is discarded with no effect — the dragon merely menaces the daredevils with a gesture.
+
+*Skeldrath flexes one enormous forepaw, claws scraping the stone. The sound echoes through the hall. Nobody moves.*
+
+---
+
+**Turn 2 — Lirien**
+
+**Hand:** 8♦ Q♣ 3♦ *(Gorrak: 2 · Pip: 3 · Magnus: 3)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Plays:** Draws — deals one card to Gorrak (7♦), Pip (4♥), Magnus (8♣).
+
+*Lirien distributes cards without looking up. She has counted every weapon the dragon has. She is not ready yet.*
+
+---
+
+**Turn 2❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** —
+
+**Plays:** 3♥ — Glare Right. No target → starts from between Lirien and Pip, right → **target: Pip**. Then 7♣ — Paws Strike (Direct Attack, warm-up 2), card placed at Turn 4❖.
+
+> **Mechanics:** Glare has warm-up and cool-down of 0, so it resolves immediately and the dragon plays the next card. With no existing target, the dragon starts from between the daredevil who had the previous turn (Lirien) and the next one (Pip). Glare Right selects the next clockwise → Pip.
+
+*The great head turns. One yellow eye settles on Pip. The small one stands very still.*
+
+---
+
+**Turn 3 — Pip**
+
+**Hand:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Pending:** Dragon's Paws Strike (7♣) → Turn 4❖
+
+**Plays:** Draws — deals one card to Gorrak (4♠), Lirien (J♥), Magnus (9♠).
+
+> **Mechanics:** Pip is targeted, but the dragon's strike won't land until Turn 4❖. Rather than panic, he deals cards — if his companions are going to fight a dragon, they need options.
+
+*Pip swallows, then deals cards to the others with steady hands. If he's going to be stared at, the others had better be armed.*
+
+---
+
+**Turn 3❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** Paws Strike (7♣) · warm-up 1/2 — warming up
+
+*The forepaw rises, slowly, deliberately.*
+
+---
+
+**Turn 4 — Magnus**
+
+**Hand:** J♠ 3♥ 6♣ 8♣ 9♠ *(Gorrak: 4 · Lirien: 4 · Pip: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Pending:** Dragon's Paws Strike (7♣) → Turn 4❖
+
+**Plays:** J♠ — Shield (Guard). Active until Turn 8.
+
+> **Mechanics:** Shield is a Guard-type action — it has no warm-up and stays active until Magnus's next turn (Turn 8). If the dragon attacks Pip before then, Magnus will step in and take the hit instead, with damage reduced by -3Ϟ.
+
+*Magnus steps forward, hammer raised, and plants himself between Pip and the incoming blow.*
+
+---
+
+**Turn 4❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** Paws Strike (7♣) · warm-up 2/2 — **resolves**
+
+**Resolves:** Paws Strike hits Pip. Magnus's Shield triggers — Magnus takes the damage with -3Ϟ. Base damage 6 → -3Ϟ on the dracometer (position 6 → position 3, value 3). Magnus takes 3 damage (25→22 HP).
+
+Cool-down 1 → Turn 5❖.
+
+> **Mechanics:** The dracometer reads: 0, 1, 2, 3, 4, 5, **6**, 8, 10, 13… Base damage 6 sits at position 6. The shield subtracts 3 steps → position 3, value 3. Magnus absorbs 3 HP instead of Pip taking 6. Paws Strike has no inherent knockdown, and Pip is not warming up, so there is no knockdown effect to transfer to the shielder.
+
+*The paw crashes down. Magnus catches it on the hammer's head — the impact drives him back two steps, but he holds.*
+
+---
+
+**Turn 5 — Gorrak**
+
+**Hand:** 9♣ 7♠ 7♦ 4♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Pending:** Dragon cooling down → Turn 5❖
+
+**Plays:** 7♠ — Strike (Attack, warm-up 2), card placed at Turn 7.
+
+> **Mechanics:** This is the first daredevil turn after the Paws Strike — riposte is available (+2Ϟ against Paws). But Gorrak's Strike won't resolve until Turn 7, after the window closes. Timing attacks to land within the riposte window requires coordination.
+
+*Gorrak has seen enough. He steps forward, axe low, eyes on the nearest forepaw.*
+
+---
+
+**Turn 5❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Pip
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** Paws Strike — cool-down 1/1 → expires
+
+**Plays:** 2♦ — Glare Right. Target shifts: Pip → next clockwise → **Magnus**. Then Q♦ — Bite (Jaws, Direct Attack, warm-up 3), card placed at Turn 8❖.
+
+> **Mechanics:** The dragon shifts its gaze to Magnus — the one who dared to block the last strike. Glare resolves immediately (warm-up and cool-down 0), then the next card is played. The Bite is a devastating Jaws attack dealing 10 base damage, arriving on Turn 8❖.
+
+*Skeldrath's gaze shifts. The eye tracks past Pip and fixes on Magnus. The jaws begin to open.*
+
+---
+
+**Turn 6 — Lirien**
+
+**Hand:** 8♦ Q♣ 3♦ J♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Pending:** Gorrak's Strike (7♠) → Turn 7 · Dragon's Bite (Q♦) → Turn 8❖
+
+**Plays:** 8♦ — Precision Strike (Attack, warm-up 3), card placed at Turn 9.
+
+*Lirien draws her blade and moves toward the dragon's flank. Precise. Deliberate. Unhurried.*
+
+---
+
+**Turn 6❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Dragon:** Bite (Q♦) · warm-up 1/3 — warming up
+
+*The jaws part wider. Heat shimmers between the teeth.*
+
+---
+
+**Turn 7 — Pip**
+
+**Hand:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Dragon's Bite (Q♦) → Turn 8❖
+
+**Resolves:** Gorrak's Strike (7♠) fires — Gorrak targets Dragon Paws: 5 damage (25→20 HP).
+
+**Plays:** A♦ — Intervention Dodge (Guard). Active until Turn 11.
+
+> **Mechanics:** Gorrak's Strike resolves at the start of this turn — daredevils choose the target body part at the moment of resolution. Pip then plays Intervention Dodge, a Guard action that stays active until his next turn (Turn 11), ready to save Magnus from the incoming Bite on Turn 8❖. It cannot be used on yourself and cannot save a daredevil already on the ground.
+
+*Gorrak's axe finds the forepaw and bites deep. Meanwhile, Pip lays down his crossbow and readies himself — not to shoot, but to shove Magnus aside when the time comes.*
+
+---
+
+**Turn 7❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Bite (Q♦) · warm-up 2/3 — warming up
+
+*The neck draws back, coiling. The jaws are fully open now.*
+
+---
+
+**Turn 8 — Magnus**
+
+**Hand:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Pip's Intervention Dodge active · Dragon's Bite (Q♦) → Turn 8❖
+
+**Plays:** Draws — deals one card to Gorrak (2♠), Lirien (K♥), Pip (7♥).
+
+> **Mechanics:** Magnus knows the Bite is coming but trusts Pip's positioning. He uses his turn to deal cards — the fellowship will need firepower once this blow is deflected.
+
+*Magnus knows what is coming. He deals out cards with one eye on the dragon's jaws, trusting Pip's judgement more than his own options.*
+
+---
+
+**Turn 8❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Bite (Q♦) · warm-up 3/3 — **resolves**
+
+**Resolves:** Bite targets Magnus. Pip's Intervention Dodge triggers — Magnus avoids all damage but is knocked to the ground (↓). The dragon's attack hits nothing — Skeldrath loses balance. Cool-down extended by 1 (2→3), expiring Turn 11❖. Riposte window extends to the first 2 daredevil turns (Turn 9 and Turn 10) instead of 1.
+
+> **Mechanics:** Intervention Dodge saves the target from all damage, but knocks them to the ground. When a direct attack hits nothing, the dragon loses its balance — cool-down is extended by 1 turn, and the riposte window (normally 1 daredevil turn) doubles to 2. Here the Bite used Jaws, so attacks against Jaws on Turns 9 and 10 receive +2Ϟ.
+
+*The jaws snap shut like a trap — but Pip is already there, shoving Magnus sideways. Magnus hits the ground hard. The bite closes on empty air, and Skeldrath staggers, thrown off balance by the force of his own missed strike.*
+
+---
+
+**Turn 9 — Gorrak**
+
+**Hand:** 9♣ 7♦ 4♠ 2♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Dragon's Bite cool-down → Turn 11❖
+
+**Resolves:** Lirien's Precision Strike (8♦) fires — Lirien targets Dragon Jaws with riposte: 6 base +2Ϟ on the dracometer (position 6 → position 8, value 10). Jaws take 10 damage (25→15 HP).
+
+**Plays:** 9♣ — Charge (Attack, warm-up 4), card placed at Turn 13.
+
+> **Mechanics:** Precision Strike deals 6 base damage. Lirien targets the jaws — the body part that attacked on Turn 8❖. This is the first daredevil turn after that attack, so riposte applies: +2Ϟ (dracometer: position 6 → 8, value 10). Thanks to the Intervention Dodge extending the window, a second riposte turn (Turn 10) is also available. Gorrak begins a Charge, the heaviest daredevil attack: 8 base damage with warm-up 4, arriving on his own next turn.
+
+*Lirien's blade finds the hinge of the jaw — a surgeon's cut. Gorrak grunts once (approval) and begins a long, deliberate run toward the dragon's legs.*
+
+---
+
+**Turn 9❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Bite — cool-down 1/3
+
+*Skeldrath shakes his head, disoriented. Saliva drips from the jaws.*
+
+---
+
+**Turn 10 — Lirien**
+
+**Hand:** Q♣ 3♦ J♥ K♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Gorrak's Charge (9♣) → Turn 13 · Dragon's Bite cool-down → Turn 11❖
+
+**Plays:** 3♦ — Helping Hand (Support, warm-up 2), card placed at Turn 12.
+
+> **Mechanics:** Helping Hand helps another daredevil up from the ground. Warm-up 2 means Magnus will stand at the start of Turn 12 — just before the dragon recovers.
+
+*Lirien sheathes her blade and crouches beside Magnus. "Get up," she says — two words, which for her is generous.*
+
+---
+
+**Turn 10❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Bite — cool-down 2/3
+
+*A low growl builds in the dragon's throat. The eye, unfocused, is beginning to clear.*
+
+---
+
+**Turn 11 — Pip**
+
+**Hand:** 6♥ 5♦ 4♥ 7♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Gorrak's Charge (9♣) → Turn 13 · Lirien's Helping Hand (3♦) → Turn 12 · Dragon's Bite cool-down → Turn 11❖
+
+**Plays:** 7♥ — Strike (Attack, warm-up 2), card placed at Turn 13.
+
+*Pip picks up his crossbow, takes aim at the forepaw, and waits for the right moment.*
+
+---
+
+**Turn 11❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Bite — cool-down 3/3 → expires
+
+**Plays:** 10♠ — Trample (Legs, Direct Attack + Knockdown, warm-up 2), card placed at Turn 13❖.
+
+*Skeldrath recovers and stamps his feet, testing the ground. The floor shudders.*
+
+---
+
+**Turn 12 — Magnus**
+
+**Hand:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Gorrak's Charge (9♣) → Turn 13 · Pip's Strike (7♥) → Turn 13 · Dragon's Trample (10♠) → Turn 13❖
+
+**Resolves:** Lirien's Helping Hand (3♦) fires — Magnus stands up.
+
+**Plays:** 8♣ — Precision Strike (Attack, warm-up 3), card placed at Turn 15.
+
+> **Mechanics:** Helping Hand resolves at the start of the turn, getting Magnus back on his feet. He seizes the moment to begin a Precision Strike. But the Trample arrives on Turn 13❖ — if Magnus is hit during warm-up, the consequences will be severe.
+
+*Magnus takes Lirien's hand and stands. He rolls his shoulder, winces, picks up his hammer, and begins to channel a spell toward the dragon's jaws.*
+
+---
+
+**Turn 12❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Dragon:** Trample (10♠) · warm-up 1/2 — warming up
+
+*The legs tense. Dust falls from the ceiling.*
+
+---
+
+**Turn 13 — Gorrak**
+
+**Hand:** 7♦ 4♠ 2♠ *(Lirien: 3 · Pip: 3 · Magnus: 3)*
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Pending:** Magnus's Precision Strike (8♣) → Turn 15 · Dragon's Trample (10♠) → Turn 13❖
+
+**Resolves:** Gorrak's Charge (9♣) fires — Gorrak targets Dragon Legs: 8 damage (25→17 HP). Pip's Strike (7♥) fires — Pip targets Dragon Paws: 5 damage (20→15 HP).
+
+**Plays:** 7♦ — Strike (Attack, warm-up 2), card placed at Turn 15.
+
+> **Mechanics:** Two attacks resolve on the same turn. The orchestrated attack bonus applies when the cards share the same suit — Gorrak's 9♣ (clubs) and Pip's 7♥ (hearts) do not match, so no bonus this time. Each daredevil independently chooses their target body part at the moment of resolution.
+
+*Gorrak reaches full stride and buries his axe in the dragon's shin. Simultaneously, a crossbow bolt thuds into the forepaw from across the chamber. Pip raises a hand in acknowledgement.*
+
+---
+
+**Turn 13❖ — Skeldrath**
+
+**State:**
+Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
+Jaws 15 · Paws 15 · Legs 17 · Tail 25
+
+**Dragon:** Trample (10♠) · warm-up 2/2 — **resolves**
+
+**Resolves:** Trample targets Magnus. Magnus is warming up (Precision Strike) → Direct Attack during warm-up: damage +1Ϟ and knockdown. Base damage 8 +1Ϟ on the dracometer (position 7 → position 8, value 10). Magnus takes 10 damage (22→12 HP), is knocked to the ground (↓). Precision Strike (8♣) is cancelled. Cool-down 2 → Turn 15❖.
+
+> **Mechanics:** Trample deals 8 base damage and has inherent knockdown. On top of that, because Magnus is warming up, the Direct Attack rule adds +1Ϟ to the damage (8→10 on the dracometer) and would cause knockdown even without Trample's inherent effect — only a Shield would prevent the warm-up knockdown. Knockdown cancels Magnus's current action: the Precision Strike card is discarded without effect. This is the price of attacking while targeted.
+
+*The legs come down like hammers. Magnus, still channelling, takes the full force and is thrown to the ground. His spell dissipates. The hammer skids across the stone.*
+
 ---
 
 *The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.*
@@ -292,7 +720,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 #### Attack
 
-Deals damage to the chosen body part of the dragon.<br>+2Ϟ if immediately following the dragon's attack with that body part (riposte).<br>Orchestrated attack: if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker landing on that turn.<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last.
+Deals damage to the chosen body part of the dragon.<br>+2Ϟ on the first daredevil turn after the dragon's attack with that body part resolves (riposte).<br>Orchestrated attack: if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker landing on that turn.<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last.
 
 #### Guard
 
@@ -304,7 +732,7 @@ Can only be applied to a body part of the dragon that is not currently being use
 
 #### Intervention Dodge
 
-The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance - does not apply to AoE attacks. The cool-down after the attack is extended by one turn, during which daredevils receive a +2Ϟ bonus to attacks.
+The dragon's attack target avoids damage, but at the cost of being knocked to the ground. Cannot be used to save yourself. Cannot be performed on a daredevil already on the ground.<br>When the dragon's attack hits nothing, it loses its balance - does not apply to AoE attacks. The cool-down after the attack is extended by one turn. The riposte window extends to the first 2 daredevil turns instead of 1.
 
 #### Draw Aggro
 

@@ -292,7 +292,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 #### Atak
 
-Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ, jeśli tuż po ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
+Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ w pierwszej turze śmiałka po rozstrzygnięciu ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
 
 #### Czuwanie
 
@@ -304,7 +304,7 @@ Oplątana może zostać część ciała smoka, która nie jest w danej chwili u�
 
 #### Unik ratunkowy
 
-Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę, podczas której śmiałkowie otrzymują premię +2Ϟ do ataku.
+Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę. Okno riposty rozszerza się do pierwszych 2 tur śmiałków zamiast 1.
 
 #### Odwrócenie uwagi
 
