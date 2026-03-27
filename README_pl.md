@@ -46,7 +46,7 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 | Wersja | Data | Zmiany |
 |---|---|---|
-| 0.14.2 | 2026-03-27 | Dodane wprowadzenie fabularne na początku sekcji 1 |
+| 0.14.2 | 2026-03-27 | Uzupełniony i przeorganizowany komentarz fabularny |
 | 0.14.1 | 2026-03-18 | Dodany komentarz fabularny |
 | 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
 | 0.13.2 | 2026-03-16 | Instrukcja (EN) |

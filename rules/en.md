@@ -166,8 +166,6 @@ If the played card requires a target (direct or AoE attack) and the dragon has n
 
 *He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.*
 
-*Skeldrath does not have conversations with the fellowship. He has pronouncements. He occasionally pauses mid-combat to make a remark he considers devastating. The fellowship has learned to use these pauses tactically.*
-
 ---
 
 ### 1.7. The Goal
@@ -210,7 +208,9 @@ If the daredevils' deck runs out, shuffle the discard pile — it becomes the ne
 
 ---
 
-*At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.*
+*Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
+
+*The tower full of artifacts, the ley-line node beneath a hobbit's mushroom patch — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
 
 ---
 
@@ -231,21 +231,45 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ---
 
-*Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
+*The great hall is vast. The ceiling disappears into smoke and shadow somewhere above the reach of any light they carry. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat.*
 
-*The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patch, the tower full of artifacts — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
+*Along the walls lie the artifacts: dozens of them, heaped without ceremony in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape.*
+
+*Under the far wall, a rune-axe leans at an angle, its engravings still faintly lit. Nobody looks at Gorrak. He says nothing.*
+
+*From somewhere deeper in the hall comes a sound — somewhere between a rumble and a snore. Then silence. Then a long, slow exhale that moves the air like bellows.*
+
+*In the centre of the hall, something opens one eye.*
 
 ---
 
 ## 2. Sample Gameplay
+
+### 2.1. Overture
+
+---
+
+*The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.*
+
+---
+
+### 2.2. Trial of Strength
+
+---
+
+*At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.*
+
+---
+
+### 2.3. Finale
+
+---
 
 *Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.*
 
 *They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.*
 
 *They are not family by blood. By every other measure, they are.*
-
-*(to be done)*
 
 ---
 

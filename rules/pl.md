@@ -166,8 +166,6 @@ Jeśli zagrana karta wymaga celu (atak lub atak obszarowy), a smok nie ma wybran
 
 *Jest naprawdę niebezpieczny. Jego ogień obrócił twierdze w gruzy, jego szczęki kruszyły machiny oblężnicze, a ogon zrównał z ziemią wieżę strażniczą, która — trzeba przyznać — już i tak się przechylała. Nie należy go lekceważyć, i on o tym wie, i przy każdej nadarzającej się okazji wam o tym przypomni.*
 
-*Skeldrath nie prowadzi rozmów z drużyną. On wygłasza oświadczenia. Czasem zatrzymuje się w połowie walki, by powiedzieć coś, co uważa za druzgocące. Drużyna nauczyła się taktycznie wykorzystywać te pauzy.*
-
 ---
 
 ### 1.7. Cel gry
@@ -210,7 +208,9 @@ Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty 
 
 ---
 
-*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath splądrował jego moc. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
+*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
+
+*Wieża pełna artefaktów, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
 
 ---
 
@@ -231,21 +231,45 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
+*Wielka sala jest ogromna. Sufit ginie w dymie i mroku gdzieś powyżej zasięgu jakiegokolwiek światła, które ze sobą niosą. Podłoga jest z czarnego kamienia, ciepła pod stopami, popękana w miejscach, gdzie góra oddycha żarem.*
 
-*Runiczny topór, Kamień Serca, węzeł linii ley pod grządką grzybów hobbita, wieża pełna artefaktów — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
+*Wzdłuż ścian leżą artefakty: dziesiątki z nich, nagromadzonych bez żadnego porządku, w różnym stopniu wyczerpania. Niektóre wciąż pulsują słabą poświatą — jeszcze nie do końca osuszone. Większość jest ciemna i zimna, wydrążona, rozpoznawalna jako to, czym niegdyś była, jedynie po kształcie.*
+
+*Pod daleką ścianą opiera się ukośnie runiczna siekiera, jej zdobienia wciąż słabo świecą. Nikt nie patrzy na Gorraka. Nie odzywa się.*
+
+*Gdzieś w głębi sali rozlega się dźwięk — coś pomiędzy mruczeniem a chrapaniem. Potem cisza. Potem długi, powolny wydech, który porusza powietrze niczym miechy.*
+
+*W centrum sali coś otwiera jedno oko.*
 
 ---
 
 ## 2. Przykładowa rozgrywka
+
+### 2.1. Uwertura
+
+---
+
+*W kopalni klanu przechowywano Wielką Siekierę jego praprababki Hildry — runiczną siekierę wykutą z pomocą krasnoludzkiej magii przez trzy pokolenia. Skeldrath po nią przyszedł. Zabrał ją ze skarbca, zasypał za sobą szyb bez zatrzymywania kroku i odleciał, gdy krasnoludy wciąż jeszcze odkrztuszały pył. Gorrak chce odzyskać siekierę. Nie mówi o zemście. Ci, którzy go znają, rozumieją, że to nie są dwie osobne sprawy.*
+
+---
+
+### 2.2. Próba sił
+
+---
+
+*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath splądrował jego moc. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
+
+---
+
+### 2.3. Finał
+
+---
 
 *Siedem lat później znają się tak, jak można się znać tylko po zbyt wielu wspólnych noclegach pod gołym niebem, zbyt wielu złych zakrętach i zbyt wielu sytuacjach, gdy plan przestawał działać i ktoś musiał improwizować. Gorrak wie, że milczenie Lirien oznacza, że już rozwiązała problem i czeka, aż wszyscy inni to dostrzegą. Lirien wie, że narzekania Gorraka są najgłośniejsze, gdy jest najbardziej zdeterminowany, by coś doprowadzić do końca. Pip wie, kiedy zaklęcia Magnusa mają zaraz stać się „pouczające", i wyrobił sobie instynkt stawania nieco na lewo. Magnus wie, że Pip zawsze ma jedzenie, i że jedzenie jest zawsze dokładnie tym, czego potrzeba, i przestał pytać skąd.*
 
 *Są nieoficjalną, nielicencjonowaną drużyną poszukiwaczy przygód bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. Ani razu, ani jednego, nie zostawili się nawzajem w potrzebie.*
 
 *Nie są rodziną z krwi. Pod każdym innym względem — są.*
-
-*(pojawi się w przyszłości)*
 
 ---
 

@@ -46,7 +46,7 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 | Version | Date | Changes |
 |---|---|---|
-| 0.14.2 | 2026-03-27 | Added story kick-off at the beginning of section 1 |
+| 0.14.2 | 2026-03-27 | Filled and reorganized story commentary |
 | 0.14.1 | 2026-03-18 | Added story commentary |
 | 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
 | 0.13.2 | 2026-03-16 | Instructions (EN) |
