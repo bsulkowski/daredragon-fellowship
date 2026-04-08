@@ -87,7 +87,11 @@ Dzięki temu dobór kart jest intuicyjny: wylosowanie wysokiej karty oznacza na 
 
 ### Smokometr
 
-Nieliniowa skala obrażeń: `0 1 2 3 4 5 6 8 10 13 16 20 25`
+Nieliniowa skala obrażeń:
+
+| Pozycja  |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+|----------|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Obrażenia|  0 |  1 |  2 |  3 |  4 |  5 |  6 |  8 | 10 | 13 | 16 | 20 | 25 |
 
 Wartości mniej więcej podwajają się co 3 kroki powyżej 6. Osiąga to dwa cele jednocześnie:
 - Niskie wartości skalują się liniowo (precyzja przy małych pulach HP i słabych atakach)

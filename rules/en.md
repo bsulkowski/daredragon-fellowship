@@ -218,8 +218,7 @@ If the daredevils' deck runs out, shuffle the discard pile — it becomes the ne
 
 Damage dealt by the dragon or daredevils always takes a value from a fixed sequence called the "dracometer".
 
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 13 | 16 | 20 | 25 |
-|---|---|---|---|---|---|---|---|----|----|----|----|-----|
+`0 · 1 · 2 · 3 · 4 · 5 · 6 · 8 · 10 · 13 · 16 · 20 · 25`
 
 All damage modifiers are expressed as the corresponding change in position on the dracometer.
 

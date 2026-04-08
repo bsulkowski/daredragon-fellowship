@@ -87,7 +87,11 @@ This keeps card selection intuitive: drawing a high card generally means more po
 
 ### The Dracometer
 
-Non-linear damage scale: `0 1 2 3 4 5 6 8 10 13 16 20 25`
+Non-linear damage scale:
+
+| Position |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+|----------|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Damage   |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  8 | 10 | 13 | 16 | 20 | 25 |
 
 Values roughly double every 3 steps above 6. This achieves two goals simultaneously:
 - Low values scale linearly (fine-grained for small HP pools and weak attacks)

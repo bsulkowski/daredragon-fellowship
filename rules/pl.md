@@ -218,8 +218,7 @@ Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty 
 
 Obrażenia zadawane przez smoka lub śmiałków przyjmują zawsze wartości z ograniczonego zestawu, nazwanego „smokometrem".
 
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 13 | 16 | 20 | 25 |
-|---|---|---|---|---|---|---|---|----|----|----|----|-----|
+`0 · 1 · 2 · 3 · 4 · 5 · 6 · 8 · 10 · 13 · 16 · 20 · 25`
 
 Wszelkie modyfikatory do obrażeń są wyrażone przez odpowiednią zmianę poziomu na smokometrze.
 
