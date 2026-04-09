@@ -687,7 +687,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 **Setup**
 
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 Pip's hand: 2♣ 5♠ K♥
 Magnus's hand: 8♦ 4♥
@@ -706,7 +706,7 @@ Lirien's hand: Q♦ 6♣
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
@@ -720,7 +720,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush (K♠) · warm-up 1/4 — warming up
 
@@ -734,7 +734,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Pip's Helping Hand (2♣) → Turn 53 · Dragon's Crush (K♠) → Turn 54❖
 
@@ -750,7 +750,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush (K♠) · warm-up 2/4 — warming up
 
@@ -764,7 +764,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
@@ -782,7 +782,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush (K♠) · warm-up 3/4 — warming up
 
@@ -796,7 +796,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Gorrak's Draw Aggro (3♦) → Turn 54 · Dragon's Crush (K♠) → Turn 54❖
 
@@ -816,7 +816,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush (K♠) · warm-up 4/5 — warming up
 
@@ -830,7 +830,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Lirien's Shield active (→ Turn 58) · Dragon's Crush (K♠) → Turn 55❖
 
@@ -846,7 +846,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush (K♠) · warm-up 5/5 — **resolves**
 
@@ -871,13 +871,13 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Dragon's Crush → cooling down (1/2)
 
 **Plays:** [10] — Entangle (Attack, warm-up 3 + 1 on ground = **warm-up 4**), card placed at Turn 60. Target: Paws.
 
-> **Mechanics:** Legs are already entangled — Entangle cannot be applied to an already-entangled body part. Paws are the next best target: 12 HP and the body part used in previous attacks. On the ground, Magnus's warm-up is +1 (base 3 → 4). Entangle itself deals 0 damage; its value is the +1Ϟ bonus on all future attacks against Paws, and the freeing delay it imposes on the dragon if Paws is used for an attack. **Card inconsistency:** Magnus's hand (8♦ 4♥) contains no 10 — to be corrected in a future revision.
+> **Mechanics:** Magnus targets Paws — the body part the dragon has been attacking with. On the ground, Magnus's warm-up is +1 (base 3 → 4). Entangle itself deals 0 damage; its value is the +1Ϟ bonus on all future attacks against Paws, and the freeing delay it imposes on the dragon when Paws is next used for an attack. **Card inconsistency:** Magnus's hand (8♦ 4♥) contains no 10 — to be corrected in a future revision.
 
 *Magnus studies the battlefield from the floor. His hammer is just out of reach. His cards are not. He chooses the slower option and begins channelling — not a blow, but a binding.*
 
@@ -887,7 +887,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush — cooldown 1/2
 
@@ -901,7 +901,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Magnus's Entangle → Turn 60 · Dragon's Crush → cooling down (1/2 → expires T57❖)
 
@@ -915,17 +915,18 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Crush — cooldown 2/2 → **expires**
 
-**Plays (two cards, resolving immediately in sequence):**
-1. **4♥** — Far Glare Right (Special, warm-up 0, cooldown 0). Target shifts from Gorrak +2 clockwise. Seating order: Gorrak → Lirien → Pip → Magnus. +2 from Gorrak → **Pip**. New target: Pip.
-2. **A♥** — Fire Breath (AoE Attack, warm-up 2, cooldown 1), card placed at Turn 59❖.
+**Plays (three cards, resolving immediately in sequence):**
+1. **3♣** — Glare Left (Special, warm-up 0, cooldown 0). Target shifts from Gorrak −1 counter-clockwise. Seating order: Gorrak → Lirien → Pip → Magnus. −1 from Gorrak → **Magnus**. New target: Magnus.
+2. **2♣** — Glare Left (Special, warm-up 0, cooldown 0). Target shifts −1 counter-clockwise from Magnus → **Pip**. New target: Pip.
+3. **A♥** — Fire Breath (AoE Attack, warm-up 2, cooldown 1), card placed at Turn 59❖.
 
-> **Mechanics:** Far Glare resolves with no warm-up or cooldown — it is discarded immediately and the next card is played in the same dragon turn. The dragon shifts its attention two positions clockwise from Gorrak, landing on Pip. Fire Breath is now warming up: it will hit Pip and both his neighbours (Gorrak and Magnus) at Turn 59❖.
+> **Mechanics:** Glare cards have warm-up 0 and cooldown 0 — each resolves immediately and the next card is drawn in the same dragon turn. Two consecutive Glare Lefts sweep the target counter-clockwise from Gorrak, landing on Pip. The same result as a single Far Glare Right, but the path differs: the eye moves left, pausing at Magnus before settling on Pip. Fire Breath is now warming up and will hit Pip and both his neighbours (Lirien and Magnus) at Turn 59❖.
 
-*The great eye moves. It slides past Lirien, past Gorrak, and settles on Pip. Pip, for his part, does not step back. He does reload his crossbow, very quickly.*
+*The great eye slides left. It pauses on Magnus — a moment, only — then slides left again, and settles on Pip. Pip, for his part, does not step back. He does reload his crossbow, very quickly.*
 
 ---
 
@@ -935,13 +936,13 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 1/2)
 
 **Plays:** [Q or J] — Shield (Guard). Active until Turn 62.
 
-> **Mechanics:** Lirien is outside the AoE area. When Fire Breath resolves, her Shield will pull her into the area of effect (she is then shielded herself) and reduce damage for everyone in the area by -3Ϟ. Gorrak's Shield (T57) is also active and will contribute its own -3Ϟ — but since Gorrak will be inside the AoE, his Shield does not protect him. **Card inconsistency:** Lirien's hand (6♣ 8♣) contains no Q or J — to be corrected in a future revision.
+> **Mechanics:** Gorrak is outside the AoE area. When Fire Breath resolves, his Shield will pull him into the area of effect (he is then shielded himself) and reduce damage for everyone in the area by -3Ϟ. Lirien's Shield (T58) is also active — but since Lirien will be inside the AoE as Pip's neighbour, her Shield does not protect her. **Card inconsistency:** Lirien's hand (6♣ 8♣) contains no Q or J — to be corrected in a future revision.
 
 *Lirien watches the fire building in the dragon's throat and positions herself. She has run these numbers already.*
 
@@ -951,7 +952,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Fire Breath (A♥) · warm-up 2/2 — warming up
 
@@ -965,7 +966,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Fire Breath (A♥) → Turn 59❖
 
@@ -981,29 +982,29 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **State:**
 Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Dragon:** Fire Breath (A♥) · warm-up 2/2 — **resolves**
 
-**AoE area:** Pip (target) + both neighbours: **Gorrak** and **Magnus**.
+**AoE area:** Pip (target) + both neighbours: **Lirien** and **Magnus**.
 Magnus is on the ground (↓) → AoE has no effect on daredevils on the ground. Magnus is not affected.
 
-**Active shields:** Gorrak (J♠, in area) · Lirien ([Q/J], outside area).
+**Active shields:** Gorrak (J♠, outside area) · Lirien ([Q/J], in area).
 
 Fire Breath base damage 8 → dracometer position 7.
 
 | Daredevil | Position in area | Shields applied | Dracometer | Damage | HP |
 |---|---|---|---|---|---|
 | Pip | in area (target) | Gorrak −3Ϟ · Lirien −3Ϟ | 7 → 4 → **1** | **1** | 12 → **11** |
-| Gorrak | in area (neighbour) | Lirien −3Ϟ only\* | 7 → **4** | **4** | 16 → **12** |
-| Lirien | outside → enters area | Gorrak −3Ϟ · Lirien −3Ϟ | 7 → 4 → **1** | **1** | 20 → **19** |
+| Lirien | in area (neighbour) | Gorrak −3Ϟ only\* | 7 → **4** | **4** | 20 → **16** |
+| Gorrak | outside → enters area | Gorrak −3Ϟ · Lirien −3Ϟ | 7 → 4 → **1** | **1** | 16 → **15** |
 | Magnus | on ground | — | — | **0** | 14 |
 
-\* Gorrak's own Shield does not protect him — a daredevil inside the AoE cannot shield themselves.
+\* Lirien's own Shield does not protect her — a daredevil inside the AoE cannot shield themselves.
 
 Cooldown 1 → expires Turn 60❖.
 
-> **Mechanics:** The AoE shield rules distinguish between daredevils inside and outside the attack area. Gorrak is inside: his Shield contributes -3Ϟ to everyone else but provides him no protection. Lirien is outside: she enters the area (and is herself shielded), and her Shield contributes -3Ϟ to everyone including herself. The two -3Ϟ modifiers stack — Pip and Lirien receive the full -6Ϟ reduction, Gorrak receives only -3Ϟ. Magnus, prone, is skipped entirely. After this turn, Gorrak drops to 12 HP — crossing into the 1–13 HP range. His hand limit reduces to 4 cards and his damage dealt is reduced by -1Ϟ going forward.
+> **Mechanics:** The AoE shield rules distinguish between daredevils inside and outside the attack area. Lirien is inside: her Shield contributes -3Ϟ to everyone else but provides her no protection. Gorrak is outside: he enters the area (and is himself shielded), and his Shield contributes -3Ϟ to everyone including himself. The two -3Ϟ modifiers stack — Pip and Gorrak receive the full -6Ϟ reduction, Lirien receives only -3Ϟ. Magnus, prone, is skipped entirely. After this turn, Lirien drops to 16 HP and Gorrak to 15 HP — both remain above the 13-HP threshold.
 
 *The fire fills the hall. Pip ducks into it, which is counterintuitive but correct — the shields are already in place. When the light fades, three of them are still standing. Magnus is still on the floor, which technically counts as below the blast.*
 
@@ -1014,8 +1015,8 @@ Cooldown 1 → expires Turn 60❖.
 **Hand:** 8♦ 4♥  *(Pip: 2 cards · Gorrak: 2 cards · Lirien: 2 cards)*
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
+Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Pending:** Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon cooling down (→ Turn 60❖)
 
@@ -1032,7 +1033,7 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 **Turn 60❖ — Skeldrath**
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Dragon:** Fire Breath — cooldown 1/1 → **expires**
@@ -1052,7 +1053,7 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 **Hand:** 7♣ 9♠  *(Pip: 2 cards · Magnus: 2 cards · Lirien: 2 cards)*
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖ (warm-up 1/2, freeing)
@@ -1068,7 +1069,7 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 **Turn 61❖ — Skeldrath**
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Dragon:** Quick Strike (Paws) · warm-up 2/2 — freeing complete. Paws entanglement cleared. Resolves next dragon turn (T62❖).
@@ -1082,7 +1083,7 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 **Hand:** 6♣ 8♣ 4♠  *(Pip: 3 cards · Magnus: 3 cards · Gorrak: 2 cards)*
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **Pending:** Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖
@@ -1115,7 +1116,7 @@ Check orchestrated attack: two attacks resolve simultaneously. Orchestrated bonu
 **Turn 62❖ — Skeldrath**
 
 **State:**
-Pip 11 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Dragon:** Quick Strike (Paws) · warm-up 2/2 — **resolves**
@@ -1142,14 +1143,14 @@ Cooldown 1 → expires Turn 63❖.
 **Hand:** 5♠ K♥ 6♥ 3♥  *(Magnus: 3 cards · Gorrak: 2 cards · Lirien: 3 cards)*
 
 **State:**
-Pip 7 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Pending:** Lirien's Helping Hand (4♠) → Turn 64 · Dragon cooling down (→ Turn 63❖)
 
-**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 45. Target (chosen at resolution): Paws.
+**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 65. Target (chosen at resolution): Paws.
 
-> **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T45, this penalty will apply. Paws at 2 HP are also entangled — wait, the entanglement on Paws was cleared during the dragon's warm-up freeing at T61❖. Paws are no longer entangled. The penalty to dragon Paws attacks (−1Ϟ for 1–13 HP) remains in effect.
+> **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T65, this penalty will apply. Paws entanglement was cleared at T61❖ when the dragon's freeing turn completed — Paws are no longer entangled, but remain at 2 HP (1–13 range), so dragon Paws attacks continue to carry −1Ϟ.
 
 *Pip wipes soot from his face and keeps moving. Seven HP. Still enough.*
 
@@ -1158,7 +1159,7 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 **Turn 63❖ — Skeldrath**
 
 **State:**
-Pip 7 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Dragon:** Quick Strike — cooldown 1/1 → **expires**
@@ -1174,10 +1175,10 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 **Hand:** 8♦ 4♥ 10♦  *(Pip: 3 cards · Gorrak: 2 cards · Lirien: 2 cards)*
 
 **State:**
-Pip 7 · Magnus 14↓ · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
-**Pending:** Pip's Strike (6♥) → Turn 45 · Lirien's Helping Hand (4♠) → Turn 64 · Dragon's Roar (A♣) → Turn 64❖
+**Pending:** Pip's Strike (6♥) → Turn 65 · Lirien's Helping Hand (4♠) → Turn 64 · Dragon's Roar (A♣) → Turn 64❖
 
 **Resolves:** Lirien's Helping Hand fires — **Magnus stands up**.
 
@@ -1192,14 +1193,14 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 **Turn 64❖ — Skeldrath**
 
 **State:**
-Pip 7 · Magnus 14 · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Dragon:** Roar (A♣) · warm-up 1/1 — **resolves**
 
-**Resolves:** All daredevil pending actions are cancelled and discarded — Pip's Strike (6♥, placed at T45) is removed. Each player discards **2 cards of their choice** from their hand.
+**Resolves:** All daredevil pending actions are cancelled and discarded — Pip's Strike (6♥, placed at T65) is removed. Each player discards **2 cards of their choice** from their hand.
 
-Cooldown 1 → expires Turn 45❖.
+Cooldown 1 → expires Turn 65❖.
 
 > **Mechanics:** Roar erases the entire queue of pending daredevil actions in a single move. Pip loses his Strike before it fires. Every player also discards 2 cards — a significant hand drain at a point where hands are already limited by HP thresholds. The fellowship must rebuild from scratch. This is the dragon's sharpest momentum swing: it punishes long warm-up investments and resets the board entirely in the dragon's favour.
 
@@ -1209,7 +1210,7 @@ Cooldown 1 → expires Turn 45❖.
 
 **State at end of Turn 64❖**
 
-Pip 7 · Magnus 14 · Gorrak 12 · Lirien 19 | Target: Pip
+Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Target: Pip
 Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 ### 2.3. Finale
