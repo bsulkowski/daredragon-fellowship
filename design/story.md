@@ -16,7 +16,7 @@ Gorrak is built like a small mountain that learned to hold a grudge. His axe is 
 
 Beneath the gruffness is someone who would — and has — walked into a burning building for each of his companions without pausing to ask questions. He has given each team member a dwarvish nickname. None of them can pronounce the real ones.
 
-**Motivation - revealed in section 2.1:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.
+**Motivation - revealed in section 2.2:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.
 
 ---
 
@@ -28,7 +28,7 @@ Lirien has been alive for three hundred and forty-seven years and has the patien
 
 She keeps a journal of poetry about her companions. She has told no one about this journal. She never will.
 
-**Motivation - revealed in section 2.2:** At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.
+**Motivation - revealed in section 1.9:** At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.
 
 ---
 
@@ -89,7 +89,7 @@ Skeldrath is very old, very large, and very aware of both facts. He considers hi
 
 He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.
 
-**Revealed in section 1.9:**
+**Revealed in section 1.10:**
 
 Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.
 
@@ -115,7 +115,7 @@ The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has
 
 ---
 
-**Revealed in section 1.10:**
+**Revealed in section 2.1:**
 
 **The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
 

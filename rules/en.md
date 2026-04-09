@@ -208,9 +208,7 @@ If the daredevils' deck runs out, shuffle the discard pile — it becomes the ne
 
 ---
 
-*Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
-
-*The tower full of artifacts, the ley-line node beneath a hobbit's mushroom patch — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
+*At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.*
 
 ---
 
@@ -230,15 +228,9 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ---
 
-*The great hall is vast. The ceiling disappears into smoke and shadow somewhere above the reach of any light they carry. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat.*
+*Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
 
-*Along the walls lie the artifacts: dozens of them, heaped without ceremony in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape.*
-
-*Under the far wall, a rune-axe leans at an angle, its engravings still faintly lit. Nobody looks at Gorrak. He says nothing.*
-
-*From somewhere deeper in the hall comes a sound — somewhere between a rumble and a snore. Then silence. Then a long, slow exhale that moves the air like bellows.*
-
-*In the centre of the hall, something opens one eye.*
+*The tower full of artifacts, the ley-line node beneath a hobbit's mushroom patch — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
 
 ---
 
@@ -257,6 +249,18 @@ Gorrak's hand: 9♣ 7♠
 Lirien's hand: 8♦ Q♣
 Pip's hand: 6♥ A♦
 Magnus's hand: J♠ 3♥
+
+---
+
+*The great hall is vast. The ceiling disappears into smoke and shadow somewhere above the reach of any light they carry. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat.*
+
+*Along the walls lie the artifacts: dozens of them, heaped without ceremony in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape.*
+
+*Under the far wall, a rune-axe leans at an angle, its engravings still faintly lit. Nobody looks at Gorrak. He says nothing.*
+
+*From somewhere deeper in the hall comes a sound — somewhere between a rumble and a snore. Then silence. Then a long, slow exhale that moves the air like bellows.*
+
+*In the centre of the hall, something opens one eye.*
 
 ---
 
@@ -676,10 +680,6 @@ Jaws 15 · Paws 15 · Legs 17 · Tail 25
 
 ---
 
-*The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.*
-
----
-
 ### 2.2. Trial of Strength
 
 The fight has been going for some time. The fellowship has drawn blood — and taken some. Both sides are measuring each other now. This section illustrates mid-game mechanics: coordinating guards, redirecting the dragon's focus, stacking shield effects, and the cost of the dragon's most disruptive card.
@@ -696,7 +696,9 @@ Lirien's hand: Q♦ 6♣
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖ (warm-up 0/4)
 
-*At the heart of the Heartwood Grove stood the Heartstone — an ancient node of nature magic that had accumulated its power across centuries, and that Lirien had been sworn to protect since long before any of her current companions were born. Skeldrath drained it. The grove, stripped of its magical source, died within days; the fire that followed felt almost incidental. He did not look back. For an elf, the loss of an old forest is already a wound across generations — but being treated as irrelevant while it happened is something else entirely.*
+---
+
+*The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.*
 
 ---
 

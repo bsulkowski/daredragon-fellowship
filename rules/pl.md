@@ -208,9 +208,7 @@ Jeśli zabraknie kart w talii śmiałków, należy przetasować odrzucone karty 
 
 ---
 
-*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
-
-*Wieża pełna artefaktów, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
+*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath splądrował jego moc. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
 
 ---
 
@@ -230,6 +228,18 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
+*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
+
+*Wieża pełna artefaktów, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
+
+---
+
+## 2. Przykładowa rozgrywka
+
+### 2.1. Uwertura
+
+---
+
 *Wielka sala jest ogromna. Sufit ginie w dymie i mroku gdzieś powyżej zasięgu jakiegokolwiek światła, które ze sobą niosą. Podłoga jest z czarnego kamienia, ciepła pod stopami, popękana w miejscach, gdzie góra oddycha żarem.*
 
 *Wzdłuż ścian leżą artefakty: dziesiątki z nich, nagromadzonych bez żadnego porządku, w różnym stopniu wyczerpania. Niektóre wciąż pulsują słabą poświatą — jeszcze nie do końca osuszone. Większość jest ciemna i zimna, wydrążona, rozpoznawalna jako to, czym niegdyś była, jedynie po kształcie.*
@@ -242,21 +252,11 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-## 2. Przykładowa rozgrywka
-
-### 2.1. Uwertura
-
----
-
-*W kopalni klanu przechowywano Wielką Siekierę jego praprababki Hildry — runiczną siekierę wykutą z pomocą krasnoludzkiej magii przez trzy pokolenia. Skeldrath po nią przyszedł. Zabrał ją ze skarbca, zasypał za sobą szyb bez zatrzymywania kroku i odleciał, gdy krasnoludy wciąż jeszcze odkrztuszały pył. Gorrak chce odzyskać siekierę. Nie mówi o zemście. Ci, którzy go znają, rozumieją, że to nie są dwie osobne sprawy.*
-
----
-
 ### 2.2. Próba sił
 
 ---
 
-*W sercu Gaju Sercowego stał Kamień Serca — starożytny węzeł magii natury, który gromadził swoją moc przez stulecia i który Lirien była przysięgła chronić na długo przed narodzinami któregokolwiek z jej obecnych towarzyszy. Skeldrath splądrował jego moc. Gaj, pozbawiony magicznego źródła, obumarł w ciągu kilku dni; pożar, który nastąpił, wydawał się niemal przypadkowy. Smok nie obejrzał się za siebie. Dla elfa utrata starego lasu jest już raną rozciągającą się na pokolenia — ale bycie potraktowanym jako nieistotny w trakcie tego zdarzenia to coś zupełnie innego.*
+*W kopalni klanu przechowywano Wielką Siekierę jego praprababki Hildry — runiczną siekierę wykutą z pomocą krasnoludzkiej magii przez trzy pokolenia. Skeldrath po nią przyszedł. Zabrał ją ze skarbca, zasypał za sobą szyb bez zatrzymywania kroku i odleciał, gdy krasnoludy wciąż jeszcze odkrztuszały pył. Gorrak chce odzyskać siekierę. Nie mówi o zemście. Ci, którzy go znają, rozumieją, że to nie są dwie osobne sprawy.*
 
 ---
 
