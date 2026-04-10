@@ -26,7 +26,8 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 | Plik | Opis |
 |------|------|
-| [rules/pl.md](rules/pl.md) | Zasady |
+| [rules/base_pl.md](rules/base_pl.md) | Zasady |
+| [rules/sample_gameplay_pl.md](rules/sample_gameplay_pl.md) | Przykładowa rozgrywka |
 | [rules/cheat_sheet_pl.md](rules/cheat_sheet_pl.md) | Ściągawka |
 
 ### Plansza (gotowe do druku PDFy)

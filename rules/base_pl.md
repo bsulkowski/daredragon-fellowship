@@ -234,47 +234,9 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-## 2. Przykładowa rozgrywka
+## 2. Tabele referencyjne
 
-### 2.1. Uwertura
-
----
-
-*Wielka sala jest ogromna. Sufit ginie w dymie i mroku gdzieś powyżej zasięgu jakiegokolwiek światła, które ze sobą niosą. Podłoga jest z czarnego kamienia, ciepła pod stopami, popękana w miejscach, gdzie góra oddycha żarem.*
-
-*Wzdłuż ścian leżą artefakty: dziesiątki z nich, nagromadzonych bez żadnego porządku, w różnym stopniu wyczerpania. Niektóre wciąż pulsują słabą poświatą — jeszcze nie do końca osuszone. Większość jest ciemna i zimna, wydrążona, rozpoznawalna jako to, czym niegdyś była, jedynie po kształcie.*
-
-*Pod daleką ścianą opiera się ukośnie runiczna siekiera, jej zdobienia wciąż słabo świecą. Nikt nie patrzy na Gorraka. Nie odzywa się.*
-
-*Gdzieś w głębi sali rozlega się dźwięk — coś pomiędzy mruczeniem a chrapaniem. Potem cisza. Potem długi, powolny wydech, który porusza powietrze niczym miechy.*
-
-*W centrum sali coś otwiera jedno oko.*
-
----
-
-### 2.2. Próba sił
-
----
-
-*W kopalni klanu przechowywano Wielką Siekierę jego praprababki Hildry — runiczną siekierę wykutą z pomocą krasnoludzkiej magii przez trzy pokolenia. Skeldrath po nią przyszedł. Zabrał ją ze skarbca, zasypał za sobą szyb bez zatrzymywania kroku i odleciał, gdy krasnoludy wciąż jeszcze odkrztuszały pył. Gorrak chce odzyskać siekierę. Nie mówi o zemście. Ci, którzy go znają, rozumieją, że to nie są dwie osobne sprawy.*
-
----
-
-### 2.3. Finał
-
----
-
-*Siedem lat później znają się tak, jak można się znać tylko po zbyt wielu wspólnych noclegach pod gołym niebem, zbyt wielu złych zakrętach i zbyt wielu sytuacjach, gdy plan przestawał działać i ktoś musiał improwizować. Gorrak wie, że milczenie Lirien oznacza, że już rozwiązała problem i czeka, aż wszyscy inni to dostrzegą. Lirien wie, że narzekania Gorraka są najgłośniejsze, gdy jest najbardziej zdeterminowany, by coś doprowadzić do końca. Pip wie, kiedy zaklęcia Magnusa mają zaraz stać się „pouczające", i wyrobił sobie instynkt stawania nieco na lewo. Magnus wie, że Pip zawsze ma jedzenie, i że jedzenie jest zawsze dokładnie tym, czego potrzeba, i przestał pytać skąd.*
-
-*Są nieoficjalną, nielicencjonowaną drużyną poszukiwaczy przygód bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. Ani razu, ani jednego, nie zostawili się nawzajem w potrzebie.*
-
-*Nie są rodziną z krwi. Pod każdym innym względem — są.*
-
----
-
-## 3. Tabele referencyjne
-
-### 3.1. Akcje śmiałków
+### 2.1. Akcje śmiałków
 
 | Karta | Akcja | Typ | Czas przy-<br>gotowania | Obrażenia |
 |---|---|---|---|---|
@@ -329,7 +291,7 @@ Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnos
 
 Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2Ϟ.
 
-### 3.2. Akcje smoka
+### 2.2. Akcje smoka
 
 | Karta | Część ciała | Akcja | Typ | Czas przy-<br>gotowania | Czas od-<br>poczynku | Obrażenia |
 |---|---|---|---|---|---|---|
@@ -376,7 +338,7 @@ Przywraca do 8 punktów życia najsłabszej części ciała. Jeśli remis, to w 
 
 Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obrażeń +1Ϟ.
 
-### 3.3. Efekty wynikające z punktów życia
+### 2.3. Efekty wynikające z punktów życia
 
 #### Śmiałkowie
 
@@ -402,13 +364,13 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ---
 
-## 4. Uwagi do wydania
+## 3. Uwagi do wydania
 
 *Wersja: 0.14.2*
 
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 
-### 4.1. Wyważenie gry
+### 3.1. Wyważenie gry
 
 Walka ze smokiem nie jest rutynową aktywnością. Powinna stanowić pewne wyzwanie, którego pokonanie wymaga od graczy szerokiej współpracy. Jeśli jednak uznacie, że gra jest za łatwa lub za trudna, by czerpać z niej przyjemność, możecie dostosować poziom trudności przez uczynienie ataków smoka silniejszymi lub słabszymi. Przykładowo zwiększenie siły ataków o 1 pozycję na smokometrze sprawi, że będą one silniejsze o około 25%.
 

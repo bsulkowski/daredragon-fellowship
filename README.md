@@ -26,7 +26,8 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 | File | Description |
 |------|-------------|
-| [rules/en.md](rules/en.md) | Rules |
+| [rules/base_en.md](rules/base_en.md) | Rules |
+| [rules/sample_gameplay_en.md](rules/sample_gameplay_en.md) | Sample gameplay |
 | [rules/cheat_sheet_en.md](rules/cheat_sheet_en.md) | Cheat sheet |
 
 ### Board (print-ready PDFs)

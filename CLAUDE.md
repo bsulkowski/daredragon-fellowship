@@ -12,26 +12,27 @@ Language versions have suffix: `<lang> = en | pl`
 
 ```
 rules/
-  <lang>.md               # Base rules
-  cheat_sheet_<lang>.md   # Cheat sheet
-  extensions_<lang>.md    # Rules extensions — new ideas, WIP, optional mechanics
+  base_<lang>.md            # Base rules
+  sample_gameplay_<lang>.md # Sample gameplay (extracted from base rules)
+  cheat_sheet_<lang>.md     # Cheat sheet
+  extensions_<lang>.md      # Rules extensions — new ideas, WIP, optional mechanics
 design/
-  decisions_<lang>.md     # Internal notes on mechanics and design choices
-  style.md                # Notes on how rules are written and presented
-  story.md                # Story commentary: characters, dragon, lair
+  decisions_<lang>.md       # Internal notes on mechanics and design choices
+  style.md                  # Notes on how rules are written and presented
+  story.md                  # Story commentary: characters, dragon, lair
 board/
-  base_<lang>.svg         # Board SVG source
-  base_<lang>.pdf         # Board generated PDF
-  extension_<lang>.svg    # Board extension SVG source
-  extension_<lang>.pdf    # Board extension generated PDF
-  qrcode_web_<lang>       # QR Code link to rules on web page
+  base_<lang>.svg           # Board SVG source
+  base_<lang>.pdf           # Board generated PDF
+  extension_<lang>.svg      # Board extension SVG source
+  extension_<lang>.pdf      # Board extension generated PDF
+  qrcode_web_<lang>         # QR Code link to rules on web page
   dragon_background.jpeg      
 ```
 
 ## Authoring Conventions
 
 - When making changes, update the version number in two places:
-  - The *Version: x.y.z* annotation near the top of section 4 in both `rules/en.md` and `rules/pl.md`
+  - The *Version: x.y.z* annotation near the top of section 3 in both `rules/base_en.md` and `rules/base_pl.md`
   - The **Revision History** table in both `README.md` and `README_pl.md`
 - **Major version** (`0.13` → `0.14`): any change to game mechanics
 - **Minor version** (`0.13.2` → `0.13.3`): wording, story, formatting — no mechanic change
