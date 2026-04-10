@@ -291,7 +291,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 #### Atak
 
-Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ w pierwszej turze śmiałka po rozstrzygnięciu ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli śmiałek wykona atak, to smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
+Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ w pierwszej turze śmiałka po rozstrzygnięciu ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli atak śmiałka zostaje rozstrzygnięty, smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
 
 #### Czuwanie
 
@@ -366,7 +366,7 @@ Przerywa akcje wszystkich śmiałków. Każdy gracz odrzuca 2 wybrane karty z r�
 
 #### Łypnięcie okiem
 
-Gdy smok zagra łypnięcie okiem, to zmienia cel ataków, obracając się odpowiednio:<br>— dla łypnięcia o 1 w prawo/lewo,<br>— dla dalekiego łypnięcia o 2 w prawo/lewo.<br><br>Można sobie wyobrażać, że smok stoi pośrodku planszy, otoczony śmiałkami. Obrócenie w prawo oznacza wybór kolejnego śmiałka, zgodnie ze wskazówkami zegara, a obrót w lewo odwrotnie.<br><br>Przykładowo dla 4 graczy, gdy do tej pory celem ataków był śmiałek B, to łypnięcie w lewo zmienia cel na śmiałka A, a dalekie łypnięcie w prawo na śmiałka D.<br><br>W przypadku, gdy smok nie miał wybranego celu, to przygląda się działaniom śmiałków, więc zaczyna łypać okiem obrócony w stronę pomiędzy śmiałkiem, który poprzednio miał turę, a kolejnym. Przykładowo, jeśli przed smokiem była tura śmiałka B, to łypnięcie w lewo ustawia cel na śmiałka B, a łypnięcie w prawo na śmiałka C.
+Gdy smok zagra łypnięcie okiem, to zmienia cel ataków, obracając się odpowiednio:<br>— dla łypnięcia o 1 w prawo/lewo,<br>— dla dalekiego łypnięcia o 2 w prawo/lewo.<br><br>Można sobie wyobrażać, że smok stoi pośrodku planszy, otoczony śmiałkami. Obrócenie w prawo oznacza wybór kolejnego śmiałka, zgodnie ze wskazówkami zegara, a obrót w lewo odwrotnie.<br><br>Obezwładnieni śmiałkowie są pomijani przy liczeniu kroków — nie mogą być celem smoka.<br><br>Przykładowo dla 4 graczy, gdy do tej pory celem ataków był śmiałek B, to łypnięcie w lewo zmienia cel na śmiałka A, a dalekie łypnięcie w prawo na śmiałka D.<br><br>W przypadku, gdy smok nie miał wybranego celu, to przygląda się działaniom śmiałków, więc zaczyna łypać okiem obrócony w stronę pomiędzy śmiałkiem, który poprzednio miał turę, a kolejnym. Przykładowo, jeśli przed smokiem była tura śmiałka B, to łypnięcie w lewo ustawia cel na śmiałka B, a łypnięcie w prawo na śmiałka C.
 
 #### Regeneracja
 

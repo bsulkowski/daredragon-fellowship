@@ -1217,6 +1217,20 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 ### 2.3. Finale
 
+This section covers the endgame. Both sides are at their limits — the dragon has been broken across most of its body, and the fellowship is barely standing. The following turns illustrate late-game mechanics: attacking with HP penalties stacked on both sides, the dragon's Glare skipping an incapacitated daredevil, and a Guard action absorbing the last great sweep.
+
+**Setup**
+
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+Gorrak's hand: 7♦ 3♠
+Lirien's hand: Joker 8♣ 4♦
+Pip's hand: —
+Magnus's hand: Q♣ 6♠
+
+**Pending:** None
+
 ---
 
 *Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.*
@@ -1224,6 +1238,425 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 *They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.*
 
 *They are not family by blood. By every other measure, they are.*
+
+---
+
+**Turn 101 — Gorrak**
+
+**Hand:** 7♦ 3♠  *(Lirien: 3 cards · Pip: — · Magnus: 2 cards)*
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** None
+
+**Plays:** 7♦ — Strike (Attack, warm-up 2), card placed at Turn 103.
+
+> **Mechanics:** Gorrak is at 5 HP (1–6 range) — his damage is already reduced by −1Ϟ. Lirien is at 6 HP (also 1–6 range) — her damage and hand limit (max 3 cards) are similarly constrained throughout this section. The dragon's target is Magnus, so the attack places without triggering a target change. Paws and Legs are at 0 HP — both carry warm-up +1 and −2Ϟ damage penalties when the dragon uses them, evaluated at resolution. Jaws and Tail are in the 1–13 range, carrying a −1Ϟ penalty on the dragon's own attacks with those body parts.
+
+*The hall is quieter than it was. Gorrak's axe leaves a mark on the stone when he moves — not weakness, just efficiency. He has stopped lifting it higher than he needs to. The dragon still breathes. That is the only thing that matters.*
+
+---
+
+**Turn 101❖ — Skeldrath**
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Plays J — Swing (Tail, AoE Attack + Knockdown, warm-up 3), card placed at Turn 104❖.
+
+*The tail lifts slowly. It has been still for several turns — saving itself. The sound it makes as it coils is like a millstone settling.*
+
+---
+
+**Turn 102 — Lirien**
+
+**Hand:** Joker 8♣ 4♦  *(Gorrak: 1 card · Pip: — · Magnus: 2 cards)*
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Dragon's Swing (J) → Turn 104❖
+
+**Plays:** Joker — First Aid (Support, warm-up 4), card placed at Turn 106. Target: Pip.
+
+> **Mechanics:** First Aid has base warm-up 4. Lirien is standing — no ground penalty. It resolves on Lirien's next turn (Turn 106), restoring up to 8 HP to Pip and getting him back on his feet. Pip is at 0 HP (incapacitated) — First Aid works even in that state.
+
+*Lirien does not look at Pip when she plays the card. She does not need to. Her blade has not left her hand in three turns. She will see to him when the moment allows. The moment will allow.*
+
+---
+
+**Turn 103 — Pip↓**
+
+**Hand:** —
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Strike (7♦) → Turn 103 · Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
+
+**Resolves:** Gorrak's Strike (7♦): Gorrak targets Jaws. Gorrak at 5 HP → damage −1Ϟ. Strike base 5 −1Ϟ on the dracometer (position 5 → position 4, value 4). Jaws take 4 damage (6→2 HP).
+
+**Plays:** Draw Cards — deals one card to each of Gorrak (5♣), Lirien (7♠), Magnus (9♦).
+
+> **Mechanics:** Pip is incapacitated — he cannot play action cards, but card draw is always available. Gorrak's damage is reduced by his HP penalty; the Jaws' own 1–13 HP range only penalises the *dragon's* attacks using Jaws, not daredevil attacks against them.
+
+*Pip does not move. He has not moved in several turns. But his hands still work, and he deals the cards with the quiet precision of someone who has done it ten thousand times and intends to do it ten thousand more.*
+
+---
+
+**Turn 103❖ — Skeldrath**
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Swing (J) · warm-up 1/3 — warming up
+
+*Skeldrath draws the tail back another degree. The air in the hall compresses. Nobody says anything.*
+
+---
+
+**Turn 104 — Magnus**
+
+**Hand:** Q♣ 6♠ 9♦  *(Gorrak: 2 cards · Lirien: 3 cards · Pip: —)*
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
+
+**Plays:** Q♣ — Shield (Guard). Active until Turn 108.
+
+> **Mechanics:** Shield is a Guard-type action — no warm-up, active until Magnus's next turn. Magnus is standing at 3 HP — on-ground restrictions do not apply. When the Swing resolves next dragon turn as an AoE, Magnus's Shield reduces damage by −3Ϟ for the entire area — but since he is inside the area of effect, he does not shield himself.
+
+*Magnus raises his hammer. At 3 HP it is not a gesture he makes lightly. He positions himself between the tail's sweep and the others. Lemma, somewhere in the dark behind him, makes a sound of disapproval. He ignores it.*
+
+---
+
+**Turn 104❖ — Skeldrath**
+
+**State:**
+Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Swing (J) · warm-up 3/3 — **resolves**
+
+**Resolves:** Swing targets Magnus. AoE hits Magnus, Gorrak, and Pip (Magnus's neighbours). Tail at 6 HP (1–13 range) → −1Ϟ on dragon Tail attacks: base damage 6 −1Ϟ (position 6 → position 5, value 5). Magnus's Shield triggers (AoE): −3Ϟ for the whole area, but Magnus is inside the area and does not shield himself.
+
+- **Pip** (on the ground) → AoE has no effect on daredevils lying on the ground. Unaffected.
+- **Gorrak** → damage 5 −3Ϟ (position 5 → position 2, value 2). Gorrak takes 2 damage (5→3 HP). Swing has inherent Knockdown → Gorrak is knocked to the ground (↓).
+- **Magnus** → unshielded; takes full 5 damage (3→0 HP, **incapacitated**). Knockdown is moot.
+
+Dragon's target: Magnus is now at 0 HP — he can no longer be the dragon's target. **Dragon has no target.**
+
+Cool-down 2 → expires Turn 106❖.
+
+> **Mechanics:** Magnus's Shield (AoE) reduces damage by −3Ϟ for everyone in the area, but a shielder inside the area does not protect themselves. Gorrak takes only 2 damage; Magnus absorbs the full 5 and is incapacitated. Pip on the ground is skipped entirely by the AoE. The Swing's inherent Knockdown applies to all standing daredevils in the area — Gorrak goes down; Magnus, already at 0 HP, is incapacitated.
+
+*The tail comes down. Magnus catches it — not with the shield, exactly, but with himself. Gorrak is knocked flat anyway. When the echo fades, two of them are on their feet: Lirien and exactly Lirien. She looks at what remains of the fellowship and recalculates. The numbers still work. Just barely.*
+
+---
+
+**Turn 105 — Gorrak↓**
+
+**Hand:** 5♣ 3♠  *(Lirien: 3 cards · Pip: — · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Lirien's First Aid (Joker) → Turn 106
+
+**Plays:** 5♣ — Strike (Attack, warm-up 2 + 1 on ground = **warm-up 3**), card placed at Turn 108.
+
+> **Mechanics:** Gorrak is on the ground → warm-up +1 for all non-guard actions (base 2 → 3), placing the card at Turn 108. The dragon has no target. Per the updated rule, targeting triggers only when the attack **resolves** — the dragon's target will be set to Gorrak at Turn 108 when the Strike fires, if no other targeting event occurs first.
+
+*Gorrak does not get up. He plays the card from where he is, flat on the stone, and then lies there staring at the ceiling. The ceiling is very high. He has time to appreciate this.*
+
+---
+
+**Turn 105❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Swing — cool-down 1/2
+
+*The tail settles. Skeldrath watches the hall with the patience of something very old.*
+
+---
+
+**Turn 106 — Lirien**
+
+**Hand:** 8♣ 4♦ 7♠  *(Gorrak: 1 card · Pip: — · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Strike (5♣) → Turn 108 · Dragon's Swing cool-down 1/2
+
+**Resolves:** Lirien's First Aid (Joker): Pip restored up to 8 HP (0→8 HP) and stands up.
+
+**Plays:** Draw Cards — deals one card to each of Gorrak (2♥), Pip (6♦), Magnus (K♦).
+
+> **Mechanics:** First Aid resolves at the start of Lirien's turn. Pip is back on his feet at 8 HP (7–13 range: max 4 cards, damage −1Ϟ). Lirien follows with Draw Cards to replenish the fellowship — she cannot draw for herself. Magnus at 0 HP cannot hold cards and does not benefit from the draw.
+
+*Pip opens his eyes. Lirien is there. He looks at the ceiling, then at her, then at the dragon. "Right," he says. He does not say anything else. He gets up.*
+
+---
+
+**Turn 106❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Swing — cool-down 2/2 → **expires**
+
+**Plays:** Joker — Health Regeneration (Special, warm-up 1), card placed at Turn 107❖.
+
+*The body shifts. Something in the dragon's chest is trying to knit itself back together.*
+
+---
+
+**Turn 107 — Pip**
+
+**Hand:** 6♦ K♣  *(Gorrak: 2 cards · Lirien: 2 cards · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Strike (5♣) → Turn 108 · Dragon's Health Regeneration (Joker) → Turn 107❖
+
+**Plays:** 6♦ — Strike (Attack, warm-up 2), card placed at Turn 109.
+
+> **Mechanics:** Pip is standing and at 8 HP — damage −1Ϟ applies throughout this section. The dragon has no target; targeting will be set when Pip's Strike resolves at Turn 109, unless another event changes it first.
+
+*Pip sights down the crossbow. He has seven bolts left — he counted without looking, out of habit. He does not need many. He needs one good one.*
+
+---
+
+**Turn 107❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
+Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Health Regeneration (Joker) · warm-up 1/1 — **resolves**
+
+**Resolves:** Weakest body part: Paws 0 and Legs 0 (tied) — priority order is jaws, paws, legs, tail → Paws. Paws 0→8 HP.
+
+Cool-down 1 → expires Turn 108❖.
+
+> **Mechanics:** Health Regeneration targets the weakest body part at the moment of resolution. Paws and Legs are both at 0, but Paws holds priority. The dragon's Paws attacks will no longer carry the 0 HP penalties — though at 8 HP (1–13 range), the −1Ϟ damage penalty on Paws attacks still applies.
+
+*Something clicks back into place. The paws flex against the stone floor. The dragon has not finished yet.*
+
+---
+
+**Turn 108 — Magnus↓**
+
+**Hand:** K♦  *(Gorrak: 2 cards · Lirien: 2 cards · Pip: 1 card)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
+Jaws 2 · Paws 8 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Strike (5♣) → Turn 108 · Pip's Strike (6♦) → Turn 109 · Dragon's Health Regeneration cool-down → Turn 108❖
+
+**Resolves:** Gorrak's Strike (5♣): Gorrak targets Jaws. Gorrak at 3 HP → damage −1Ϟ. Gorrak on the ground → damage −2Ϟ. Combined: −3Ϟ. Strike base 5 −3Ϟ on the dracometer (position 5 → position 2, value 2). Jaws take 2 damage (2→0 HP).
+
+Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak as its target**.
+
+**Plays:** Draw Cards — deals one card to each of Gorrak (4♣), Lirien (J♥), Pip (8♠).
+
+> **Mechanics:** Gorrak's HP penalty (−1Ϟ) and ground penalty (−2Ϟ) stack for a combined −3Ϟ, bringing his Strike from 5 down to 2 damage — exactly enough to finish Jaws. Targeting triggers at the moment of resolution: the dragon immediately takes Gorrak as its target. Magnus is incapacitated and cannot play action cards, but card draw is always available.
+
+*Magnus cannot stand. He deals cards anyway. His hands move steadily, which surprises even him. When Gorrak's strike lands on the jaws and they finally go dark, Magnus permits himself one small nod.*
+
+---
+
+**Turn 108❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
+Jaws 0 · Paws 8 · Legs 0 · Tail 6
+
+**Dragon:** Health Regeneration — cool-down 1/1 → **expires**
+
+**Plays (two cards, resolving in sequence):**
+1. **4♣** — Far Glare Left (Special, warm-up 0, cool-down 0). Target shifts 2 steps counter-clockwise from Gorrak, skipping incapacitated daredevils: Magnus (skipped — incapacitated) → Pip (−1) → Lirien (−2). **New target: Lirien.** New card immediately drawn.
+2. **Q♥** — Bite (Jaws, Direct Attack, warm-up 3 + 1 for Jaws at 0 HP = **warm-up 4**, cool-down 2, damage 10). Card placed at Turn 112❖.
+
+> **Mechanics:** Far Glare cards resolve with immediate effect and trigger an immediate card draw in the same dragon turn. Incapacitated daredevils are skipped when counting steps — Magnus is passed over entirely, so two counter-clockwise steps from Gorrak land on Lirien. Bite has base warm-up 3; Jaws are at 0 HP, so warm-up +1 applies at placement — the card is placed at Turn 112❖ (4 warm-up steps from T108❖). Draw Aggro will extend this by a further +1 turn when it resolves.
+
+*One eye sweeps the hall. It passes over Magnus — nothing there — and pauses on Pip, then slides on to Lirien with the slow, deliberate focus of something that has decided. Then the jaws open. Even broken, they are still jaws.*
+
+---
+
+**Turn 109 — Gorrak↓**
+
+**Hand:** 4♣ 3♠  *(Lirien: 3 cards · Pip: 2 cards · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
+Jaws 0 · Paws 8 · Legs 0 · Tail 6
+
+**Pending:** Pip's Strike (6♦) → Turn 109 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 0/4)
+
+**Resolves:** Pip's Strike (6♦): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (8→4 HP).
+
+**Plays:** 4♣ — Draw Aggro (Support, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 111.
+
+> **Mechanics:** Gorrak is on the ground — warm-up +1 (base 1 → 2), placing Draw Aggro at Turn 111. When it resolves, it will redirect the dragon's target to Gorrak and — because Bite will still be warming up — extend Bite's warm-up by +1. This is deliberate: Lirien is about to start a Charge and must not be the target when Bite fires.
+
+*Gorrak watches Lirien from the floor. She is the only one still standing — her and Pip, now. He knows what he has to do. He slides the card across the stone with one finger and waits.*
+
+---
+
+**Turn 110 — Lirien**
+
+**Hand:** 8♣ J♥ 4♦  *(Gorrak: 1 card · Pip: 2 cards · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
+Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Draw Aggro (4♣) → Turn 111 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 1/4)
+
+**Plays:** J♥ — Charge (Attack, warm-up 4), card placed at Turn 114. Target (chosen at resolution): Tail.
+
+> **Mechanics:** Charge deals 8 base damage with warm-up 4, resolving on Lirien's next turn (Turn 114). Lirien is the dragon's current target and will be warming up when Bite resolves — a Direct Attack against a warming-up daredevil deals +1Ϟ damage and causes knockdown. Gorrak's Draw Aggro at Turn 111 will redirect the target to Gorrak before Bite fires, protecting the Charge.
+
+*Lirien takes a breath. She has been waiting for this — not for it to be easy, but for it to be correct. She plants her feet and begins the sequence. Everything else will have to take care of itself.*
+
+---
+
+**Turn 111 — Pip**
+
+**Hand:** 8♠ K♣  *(Gorrak: 1 card · Lirien: 2 cards · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
+Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Pending:** Gorrak's Draw Aggro (4♣) → Turn 111 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 2/4)
+
+**Resolves:** Gorrak's Draw Aggro (4♣): dragon's new target is **Gorrak**. Draw Aggro resolves during Bite's warm-up (2/4) → Bite warm-up extended by +1 (now resolves at **Turn 113❖**).
+
+**Plays:** [6] — Strike (Attack, warm-up 2), card placed at Turn 113. Target (chosen at resolution): Paws.
+
+**Card inconsistency:** Pip's hand (8♠ K♣) contains no 6 or 7 — to be corrected in a future revision.
+
+> **Mechanics:** Draw Aggro redirects the dragon's target to Gorrak and extends Bite's warm-up by +1 — it now resolves at Turn 113❖ rather than 112❖. The Jaws 0 HP penalty already pushed the warm-up from 3 to 4 at placement; Draw Aggro adds one more, giving 5 total. Pip's Strike is placed at Turn 113, resolving on Gorrak's daredevil turn before the dragon's action.
+
+*Pip fires. Gorrak grunts from the floor — not in pain, in acknowledgement. The target shifts. Gorrak knows what it means. He does not object.*
+
+---
+
+**Turn 112 — Magnus↓**
+
+**Hand:** —  *(Gorrak: 1 card · Lirien: 2 cards · Pip: 1 card)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
+Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Pending:** Pip's Strike ([6]) → Turn 113 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 3/5)
+
+**Plays:** Draw Cards — deals one card to each of Gorrak (A♠), Lirien (5♦), Pip (3♥).
+
+*Magnus has no cards. He deals from the deck. It is all he can do, and he does it.*
+
+---
+
+**Turn 112❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
+Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Dragon:** Bite (Q♥) · warm-up 4/5 — warming up
+
+*The jaws open wider. A sound builds from somewhere beneath the stone floor. Skeldrath has been preparing this for a long time.*
+
+---
+
+**Turn 113 — Gorrak↓**
+
+**Hand:** A♠ 3♠  *(Lirien: 3 cards · Pip: 2 cards · Magnus: —)*
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
+Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Pending:** Pip's Strike ([6]) → Turn 113 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 5/5)
+
+**Resolves:** Pip's Strike ([6]): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (4→0 HP).
+
+**Plays:** Draw Cards — deals one card to each of Lirien (2♣), Pip (10♦), Magnus (skipped — 0 HP).
+
+> **Mechanics:** Gorrak has cards but plays Draw Cards — at 3 HP on the ground with no action that would arrive before Bite, dealing to Lirien and Pip is the best use of his turn. Magnus at 0 HP cannot receive cards.
+
+*Gorrak has two cards and nothing to play that would help more than keeping the others armed. He deals.*
+
+---
+
+**Turn 113❖ — Skeldrath**
+
+**State:**
+Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
+Jaws 0 · Paws 0 · Legs 0 · Tail 6
+
+**Dragon:** Bite (Q♥) · warm-up 5/5 — **resolves**
+
+**Resolves:** Bite targets Gorrak. Jaws at 0 HP (evaluated at resolution) → damage −2Ϟ. Bite base damage 10 −2Ϟ on the dracometer (position 8 → position 6, value 6). Gorrak is on the ground → +2Ϟ (position 6 → position 8, value 10). Gorrak takes 10 damage (3→0 HP, **incapacitated**).
+
+Dragon's target: Gorrak is now at 0 HP — he can no longer be the dragon's target. **Dragon has no target.**
+
+Cool-down 2 → expires Turn 115❖.
+
+> **Mechanics:** The Jaws 0 HP penalty (−2Ϟ) and the ground bonus (+2Ϟ) cancel exactly, leaving Bite at its base damage of 10. Gorrak had no action warming up when Bite fires, so the Direct Attack warm-up rule does not add further damage. The full 10 lands.
+
+*The jaws come down. Gorrak does not try to move. He has played his last card and he knows it. When the sound stops and the dust settles, he is still there — breathing, just barely, at the edge of the hall. He will be buying drinks when this is over. This is already decided.*
+
+---
+
+**Turn 114 — Lirien**
+
+**Hand:** 8♣ 4♦ 5♦  *(Gorrak: — · Pip: 3 cards · Magnus: —)*
+
+**State:**
+Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
+Jaws 0 · Paws 0 · Legs 0 · Tail 6
+
+**Pending:** Lirien's Charge (J♥) → Turn 114 · Dragon's Bite cool-down → Turn 115❖
+
+**Resolves:** Lirien's Charge (J♥): Lirien targets Tail. Lirien at 7 HP → damage −1Ϟ. Charge base 8 −1Ϟ on the dracometer (position 7 → position 6, value 6). Tail takes 6 damage (6→0 HP).
+
+**Dragon defeated.**
+
+> **Mechanics:** All four dragon body parts are now at 0 HP — Jaws (Turn 108), Paws (Turn 113), Legs (pre-existing), Tail (this turn). Lirien is at 6 HP (1–6 range) — damage −1Ϟ brings Charge from 8 to 6, which is exactly Tail's remaining HP. No riposte applies — the Tail's last attack was the Swing at Turn 104❖, well outside the one-turn window.
+
+*Lirien's blade finds the gap in the tail's scales — the same gap she has been watching for four turns, since the Swing, since it first moved. The sound the dragon makes is not a roar. It is something quieter, and much more final.*
+
+*The rune-axe on the wall is still faintly lit. Gorrak will see to that.*
+
+---
+
+**State at end of Turn 114**
+
+Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Dragon defeated
+Jaws 0 · Paws 0 · Legs 0 · Tail 0
 
 ---
 
@@ -1246,7 +1679,7 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 #### Attack
 
-Deals damage to the chosen body part of the dragon.<br>+2Ϟ on the first daredevil turn after the dragon's attack with that body part resolves (riposte).<br>Orchestrated attack: if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker landing on that turn.<br>If there is no target and a daredevil performs an attack, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last.
+Deals damage to the chosen body part of the dragon.<br>+2Ϟ on the first daredevil turn after the dragon's attack with that body part resolves (riposte).<br>Orchestrated attack: if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker landing on that turn.<br>If there is no target and a daredevil's attack resolves, the dragon takes them as its target. If multiple attacks resolve on the same turn, the dragon targets the daredevil who initiated their attack last.
 
 #### Guard
 
@@ -1320,7 +1753,7 @@ Cancels all daredevils' actions currently placed on the board (cards in hand are
 
 #### Glare
 
-When the dragon plays a Glare, it shifts its attack target accordingly:<br>— Glare: by 1 to the right/left,<br>— Far Glare: by 2 to the right/left.<br><br>Imagine the dragon standing in the centre of the board, surrounded by daredevils. Turning right means selecting the next daredevil clockwise, turning left counter-clockwise.<br><br>For example with 4 players, if the current target was daredevil B, a Glare Left shifts the target to daredevil A, and a Far Glare Right to daredevil D.<br><br>If the dragon had no target, it has been watching the daredevils' actions, so it starts glaring from a position between the daredevil who had the previous turn and the next one. For example, if the turn before the dragon was daredevil B's, a Glare Left sets the target to daredevil B and a Glare Right to daredevil C.
+When the dragon plays a Glare, it shifts its attack target accordingly:<br>— Glare: by 1 to the right/left,<br>— Far Glare: by 2 to the right/left.<br><br>Imagine the dragon standing in the centre of the board, surrounded by daredevils. Turning right means selecting the next daredevil clockwise, turning left counter-clockwise.<br><br>Incapacitated daredevils are skipped when counting steps — they cannot be the dragon's target.<br><br>For example with 4 players, if the current target was daredevil B, a Glare Left shifts the target to daredevil A, and a Far Glare Right to daredevil D.<br><br>If the dragon had no target, it has been watching the daredevils' actions, so it starts glaring from a position between the daredevil who had the previous turn and the next one. For example, if the turn before the dragon was daredevil B's, a Glare Left sets the target to daredevil B and a Glare Right to daredevil C.
 
 #### Health Regeneration
 
