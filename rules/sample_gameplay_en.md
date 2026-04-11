@@ -1170,7 +1170,7 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Resolves:** Lirien's First Aid (Joker): Pip restored up to 8 HP (0→8 HP) and stands up.
 
-**Plays:** Draw Cards — deals one card to each of Gorrak (2♥), Pip (6♦), Magnus (K♦).
+**Plays:** Draw Cards — deals one card to each of Gorrak (2♥), Pip (6♦), Magnus (skipped — 0 HP).
 
 > **Mechanics:** First Aid resolves at the start of Lirien's turn. Pip is back on his feet at 8 HP (7–13 range: max 4 cards, damage −1Ϟ). Lirien follows with Draw Cards to replenish the fellowship — she cannot draw for herself. Magnus at 0 HP cannot hold cards and does not benefit from the draw.
 
@@ -1194,7 +1194,7 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 107 — Pip**
 
-**Hand:** 6♦ K♣  *(Gorrak: 2 cards · Lirien: 2 cards · Magnus: —)*
+**Hand:** 6♦  *(Gorrak: 2 cards · Lirien: 3 cards · Magnus: —)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
@@ -1230,7 +1230,7 @@ Cool-down 1 → expires Turn 108❖.
 
 **Turn 108 — Magnus↓**
 
-**Hand:** K♦  *(Gorrak: 2 cards · Lirien: 2 cards · Pip: 1 card)*
+**Hand:** -  *(Gorrak: 2 cards · Lirien: 3 cards · Pip: 0 cards)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
@@ -1242,7 +1242,7 @@ Jaws 2 · Paws 8 · Legs 0 · Tail 6
 
 Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak as its target**.
 
-**Plays:** Draw Cards — deals one card to each of Gorrak (4♣), Lirien (J♥), Pip (8♠).
+**Plays:** Draw Cards — deals one card to each of Gorrak (K♣), Lirien (9♥), Pip (6♥). Lirien discards 4♦.
 
 > **Mechanics:** Gorrak's HP penalty (−1Ϟ) and ground penalty (−2Ϟ) stack for a combined −3Ϟ, bringing his Strike from 5 down to 2 damage — exactly enough to finish Jaws. Targeting triggers at the moment of resolution: the dragon immediately takes Gorrak as its target. Magnus is incapacitated and cannot play action cards, but card draw is always available.
 
@@ -1270,7 +1270,7 @@ Jaws 0 · Paws 8 · Legs 0 · Tail 6
 
 **Turn 109 — Gorrak↓**
 
-**Hand:** 4♣ 3♠  *(Lirien: 3 cards · Pip: 2 cards · Magnus: —)*
+**Hand:** 3♠ 2♥ K♣  *(Lirien: 3 cards · Pip: 1 card · Magnus: —)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
@@ -1280,7 +1280,7 @@ Jaws 0 · Paws 8 · Legs 0 · Tail 6
 
 **Resolves:** Pip's Strike (6♦): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (8→4 HP).
 
-**Plays:** 4♣ — Draw Aggro (Support, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 111.
+**Plays:** K♣ — Draw Aggro (Support, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 111.
 
 > **Mechanics:** Gorrak is on the ground — warm-up +1 (base 1 → 2), placing Draw Aggro at Turn 111. When it resolves, it will redirect the dragon's target to Gorrak and — because Bite will still be warming up — extend Bite's warm-up by +1. This is deliberate: Lirien is about to start a Charge and must not be the target when Bite fires.
 
@@ -1290,15 +1290,15 @@ Jaws 0 · Paws 8 · Legs 0 · Tail 6
 
 **Turn 110 — Lirien**
 
-**Hand:** 8♣ J♥ 4♦  *(Gorrak: 1 card · Pip: 2 cards · Magnus: —)*
+**Hand:** 8♣ 7♠ 9♥  *(Gorrak: 2 cards · Pip: 1 cards · Magnus: —)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
 Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
-**Pending:** Gorrak's Draw Aggro (4♣) → Turn 111 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 1/4)
+**Pending:** Gorrak's Draw Aggro (K♣) → Turn 111 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 1/4)
 
-**Plays:** J♥ — Charge (Attack, warm-up 4), card placed at Turn 114. Target (chosen at resolution): Tail.
+**Plays:** 9♥ — Charge (Attack, warm-up 4), card placed at Turn 114. Target (chosen at resolution): Tail.
 
 > **Mechanics:** Charge deals 8 base damage with warm-up 4, resolving on Lirien's next turn (Turn 114). Lirien is the dragon's current target and will be warming up when Bite resolves — a Direct Attack against a warming-up daredevil deals +1Ϟ damage and causes knockdown. Gorrak's Draw Aggro at Turn 111 will redirect the target to Gorrak before Bite fires, protecting the Charge.
 
@@ -1308,19 +1308,17 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 111 — Pip**
 
-**Hand:** 8♠ K♣  *(Gorrak: 1 card · Lirien: 2 cards · Magnus: —)*
+**Hand:** 6♥  *(Gorrak: 2 cards · Lirien: 2 cards · Magnus: —)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
 Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
-**Pending:** Gorrak's Draw Aggro (4♣) → Turn 111 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 2/4)
+**Pending:** Gorrak's Draw Aggro (K♣) → Turn 111 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 2/4)
 
-**Resolves:** Gorrak's Draw Aggro (4♣): dragon's new target is **Gorrak**. Draw Aggro resolves during Bite's warm-up (2/4) → Bite warm-up extended by +1 (now resolves at **Turn 113❖**).
+**Resolves:** Gorrak's Draw Aggro (K♣): dragon's new target is **Gorrak**. Draw Aggro resolves during Bite's warm-up (2/4) → Bite warm-up extended by +1 (now resolves at **Turn 113❖**).
 
-**Plays:** [6] — Strike (Attack, warm-up 2), card placed at Turn 113. Target (chosen at resolution): Paws.
-
-**Card inconsistency:** Pip's hand (8♠ K♣) contains no 6 or 7 — to be corrected in a future revision.
+**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 113. Target (chosen at resolution): Paws.
 
 > **Mechanics:** Draw Aggro redirects the dragon's target to Gorrak and extends Bite's warm-up by +1 — it now resolves at Turn 113❖ rather than 112❖. The Jaws 0 HP penalty already pushed the warm-up from 3 to 4 at placement; Draw Aggro adds one more, giving 5 total. Pip's Strike is placed at Turn 113, resolving on Gorrak's daredevil turn before the dragon's action.
 
@@ -1330,13 +1328,13 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 112 — Magnus↓**
 
-**Hand:** —  *(Gorrak: 1 card · Lirien: 2 cards · Pip: 1 card)*
+**Hand:** —  *(Gorrak: 2 cards · Lirien: 2 cards · Pip: 0 cards)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
 Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
-**Pending:** Pip's Strike ([6]) → Turn 113 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 3/5)
+**Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 3/5)
 
 **Plays:** Draw Cards — deals one card to each of Gorrak (A♠), Lirien (5♦), Pip (3♥).
 
@@ -1358,17 +1356,17 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 113 — Gorrak↓**
 
-**Hand:** A♠ 3♠  *(Lirien: 3 cards · Pip: 2 cards · Magnus: —)*
+**Hand:** 3♠ 2♥ A♠  *(Lirien: 3 cards · Pip: 1 card · Magnus: —)*
 
 **State:**
 Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
 Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
-**Pending:** Pip's Strike ([6]) → Turn 113 · Lirien's Charge (J♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 5/5)
+**Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 5/5)
 
-**Resolves:** Pip's Strike ([6]): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (4→0 HP).
+**Resolves:** Pip's Strike (6♥): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (4→0 HP).
 
-**Plays:** Draw Cards — deals one card to each of Lirien (2♣), Pip (10♦), Magnus (skipped — 0 HP).
+**Plays:** Draw Cards — deals one card to each of Lirien (2♣), Pip (10♦), Magnus (skipped — 0 HP). Lirien discards 8♣.
 
 > **Mechanics:** Gorrak has cards but plays Draw Cards — at 3 HP on the ground with no action that would arrive before Bite, dealing to Lirien and Pip is the best use of his turn. Magnus at 0 HP cannot receive cards.
 
@@ -1398,15 +1396,15 @@ Cool-down 2 → expires Turn 115❖.
 
 **Turn 114 — Lirien**
 
-**Hand:** 8♣ 4♦ 5♦  *(Gorrak: — · Pip: 3 cards · Magnus: —)*
+**Hand:** 7♠ 5♦ 2♣ *(Gorrak: — · Pip: 2 cards · Magnus: —)*
 
 **State:**
 Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
 Jaws 0 · Paws 0 · Legs 0 · Tail 6
 
-**Pending:** Lirien's Charge (J♥) → Turn 114 · Dragon's Bite cool-down → Turn 115❖
+**Pending:** Lirien's Charge (9♥) → Turn 114 · Dragon's Bite cool-down → Turn 115❖
 
-**Resolves:** Lirien's Charge (J♥): Lirien targets Tail. Lirien at 7 HP → damage −1Ϟ. Charge base 8 −1Ϟ on the dracometer (position 7 → position 6, value 6). Tail takes 6 damage (6→0 HP).
+**Resolves:** Lirien's Charge (9♥): Lirien targets Tail. Lirien at 7 HP → damage −1Ϟ. Charge base 8 −1Ϟ on the dracometer (position 7 → position 6, value 6). Tail takes 6 damage (6→0 HP).
 
 **Dragon defeated.**
 
