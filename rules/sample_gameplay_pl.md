@@ -475,9 +475,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Oczekujące:** Zgniecenie smoka (K♠) → Tura 54❖
 
-**Gra:** 2♣ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 53. Cel: Gorrak.
+**Gra:** 2♣ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 53.
 
-*Dwóch z nich na ziemi. Pip ocenia pole, chowa bełt, którego jeszcze nie potrzebuje, i przesuwa kartę w stronę pozycji Gorraka. „Wstań, jak będziesz mógł" — mówi. To nie jest pytanie.*
+*Dwóch z nich na ziemi. Pip ocenia pole, chowa bełt, którego jeszcze nie potrzebuje, i przesuwa kartę w stronę jednego z towarzyszy. „Wstań, jak będziesz mógł" — mówi. To nie jest pytanie.*
 
 ---
 
@@ -533,7 +533,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Oczekujące:** Zgniecenie smoka (K♠) → Tura 54❖
 
-**Rozstrzygnięcie:** Pomocna dłoń Pip'a (2♣) odpala — Gorrak wstaje.
+**Rozstrzygnięcie:** Pomocna dłoń Pip'a (2♣) odpala — cel: Gorrak. Gorrak wstaje.
 
 **Gra:** K♦ — Prowokacja (Wsparcie, czas przygotowania 1), karta kładziona na Turę 54.
 
@@ -640,9 +640,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Oczekujące:** Zgniecenie smoka → ochładzanie (1/2)
 
-**Gra:** 10♦ — Splątanie (Atak, czas przygotowania 3 + 1 na ziemi = **czas przygotowania 4**), karta kładziona na Turę 60. Cel: Łapy.
+**Gra:** 10♦ — Splątanie (Atak, czas przygotowania 3 + 1 na ziemi = **czas przygotowania 4**), karta kładziona na Turę 60.
 
-> **Mechanika:** Magnus celuje w Łapy — część ciała, którą smok atakuje. Leżąc na ziemi, czas przygotowania Magnusa wynosi +1 (bazowy 3 → 4). Splątanie samo w sobie zadaje 0 obrażeń; jego wartość to premia +1Ϟ do wszystkich przyszłych ataków na Łapy oraz opóźnienie, które narzuca smokowi gdy użyje Łap do kolejnego ataku.
+> **Mechanika:** Leżąc na ziemi, czas przygotowania Magnusa wynosi +1 (bazowy 3 → 4). Splątanie samo w sobie zadaje 0 obrażeń; jego wartość to premia +1Ϟ do wszystkich przyszłych ataków na splątaną część ciała oraz opóźnienie, które narzuca smokowi gdy użyje tej części do kolejnego ataku.
 
 *Magnus studiuje pole bitwy z podłogi. Jego młot jest tuż poza zasięgiem. Jego karty — nie. Wybiera wolniejszą opcję i zaczyna kanalizować — nie cios, lecz więzy.*
 
@@ -735,11 +735,11 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Zionięcie ogniem smoka (A♥) → Tura 59❖
 
-**Gra:** 8♠ — Precyzyjny atak (Atak, czas przygotowania 3), karta kładziona na Turę 62. Cel (wybrany przy rozstrzygnięciu): Łapy.
+**Gra:** 8♠ — Precyzyjny atak (Atak, czas przygotowania 3), karta kładziona na Turę 62.
 
 > **Mechanika:** Pip stoi (Zgniecenie w T55❖ nie miało przewrócenia, a Pip nie był w trakcie przygotowania ataku gdy go trafiło). Precyzyjny atak ma bazowy czas przygotowania 3, rozstrzyga się w T59+3 = T62 — tura Lirien, ta sama, w której dotrze Szybki Atak Magnusa. Skoordynowany atak jest tworzony z premedytacją.
 
-*Ogień już leci. Pip ufa osłonom i ustawia strzał — nie teraz, ale na później, gdy dym opadnie i Łapy będą odkryte.*
+*Ogień już leci. Pip ufa osłonom i ustawia strzał — nie teraz, ale na później, gdy dym opadnie.*
 
 ---
 
@@ -787,11 +787,11 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Rozstrzygnięcie:** Splątanie Magnusa odpala — **Łapy zostają splątane (~)**. Wszystkie ataki śmiałków na Łapy zyskują teraz +1Ϟ.
 
-**Gra:** 5♠ — Szybki atak (Atak, czas przygotowania 1 + 1 na ziemi = **czas przygotowania 2**), karta kładziona na Turę 62. Cel (wybrany przy rozstrzygnięciu): Nogi.
+**Gra:** 5♠ — Szybki atak (Atak, czas przygotowania 1 + 1 na ziemi = **czas przygotowania 2**), karta kładziona na Turę 62.
 
 > **Mechanika:** Łapy są teraz splątane, tak jak Nogi. Magnus wciąż leży na ziemi → czas przygotowania +1 (bazowy 1 → 2), rozstrzyga się w T60+2 = T62. Kara -2Ϟ za leżenie na ziemi zostanie zastosowana do obrażeń gdy Szybki atak odpali.
 
-*Więzy chwytają. Magnus czuje to przez podłogę — Łapy, skrępowane. Ustawia kolejny strzał z ziemi, celując w nogi. Wolniej, słabiej. Wciąż warto.*
+*Więzy chwytają. Magnus czuje to przez podłogę — Łapy, skrępowane. Ustawia kolejny strzał z ziemi. Wolniej, słabiej. Wciąż warto.*
 
 ---
 
@@ -868,11 +868,11 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 - Skoordynowany atak: +1Ϟ → pozycja 5 = **obrażenia 5**.
 - Nogi: 8 → **3 PŻ**.
 
-**Akcja:** Lirien gra 2♥ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 64. Cel: Magnus.
+**Akcja:** Lirien gra 2♥ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 64.
 
 > **Mechanika:** Trzy modyfikatory współdziałają przy każdym ataku. Dla Pip'a: splątanie (+1Ϟ) i skoordynowany (+1Ϟ) dodają się do podstawy 6 — pozycja 6 → 8, obrażenia 10. Dla Magnusa: kara za ziemię (-2Ϟ) częściowo niweluje premie za splątanie i koordynację; wynik netto to pozycja 5, obrażenia 5. Gorrak jest teraz na 12 PŻ (zakres 1–13), więc jego własne ataki zadają -1Ϟ — ale w tej turze atakują Pip i Magnus, więc kara tu nie dotyczy. Po tej turze Łapy spadają do 2 PŻ, a Nogi do 3 PŻ — obie teraz w zakresie 1–13. Ataki Łapami i Nogami smoka będą odtąd obarczone karą -1Ϟ.
 
-*Dwa ciosy lądują jednocześnie — jeden z powietrza, jeden z podłogi. Łapy się cofają. Nogi się uginają. Lirien patrzy na liczby i natychmiast przykuca przy Magnusie. „Twoja kolej" — mówi.*
+*Dwa ciosy lądują jednocześnie — jeden z powietrza, jeden z podłogi. Łapy się cofają. Nogi się uginają. Lirien patrzy na liczby i natychmiast przykuca. „Twoja kolej" — mówi.*
 
 ---
 
@@ -911,7 +911,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Oczekujące:** Pomocna dłoń Lirien (4♠) → Tura 64 · Smok ochładza się (→ Tura 63❖)
 
-**Gra:** 6♥ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 65. Cel (wybrany przy rozstrzygnięciu): Łapy.
+**Gra:** 6♥ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 65.
 
 > **Mechanika:** Pip jest na 7 PŻ (zakres 1–13) → zadawane obrażenia -1Ϟ. Gdy Atak rozstrzygnie się w T65, kara ta zostanie zastosowana. Splątanie Łap zostało usunięte w T61❖ gdy zakończyła się tura uwalniania smoka — Łapy nie są już splątane, ale pozostają na 2 PŻ (zakres 1–13), więc ataki smoka Łapami nadal niosą -1Ϟ.
 
@@ -1041,11 +1041,11 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Oczekujące:** Zamach smoka (W) → Tura 104❖
 
-**Gra:** Joker — Pierwsza pomoc (Wsparcie, czas przygotowania 4), karta kładziona na Turę 106. Cel: Pip.
+**Gra:** Joker — Pierwsza pomoc (Wsparcie, czas przygotowania 4), karta kładziona na Turę 106.
 
-> **Mechanika:** Pierwsza pomoc ma bazowy czas przygotowania 4. Lirien stoi — brak kary za ziemię. Rozstrzyga się w następnej turze Lirien (Tura 106), przywracając Pip'owi do 8 PŻ i stawiając go na nogi. Pip jest na 0 PŻ (ubezwłasnowolniony) — Pierwsza pomoc działa nawet w tym stanie.
+> **Mechanika:** Pierwsza pomoc ma bazowy czas przygotowania 4. Lirien stoi — brak kary za ziemię. Rozstrzyga się w następnej turze Lirien (Tura 106), przywracając celowi do 8 PŻ i stawiając go na nogi. Pierwsza pomoc działa nawet na ubezwłasnowolnionych śmiałków.
 
-*Lirien nie patrzy na Pip'a gdy kładzie kartę. Nie musi. Jej ostrze nie opuściło dłoni od trzech tur. Zajmie się nim gdy chwila pozwoli. Chwila pozwoli.*
+*Lirien nie rozgląda się gdy kładzie kartę. Nie musi. Jej ostrze nie opuściło dłoni od trzech tur. Zajmie się tym gdy chwila pozwoli. Chwila pozwoli.*
 
 ---
 
@@ -1163,7 +1163,7 @@ Czas ochłodzenia 2 → wygasa w Turze 106❖.
 
 **Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Czas ochłodzenia Zamachu smoka 1/2
 
-**Rozstrzygnięcie:** Pierwsza pomoc Lirien (Joker): Pip przywrócony do maks. 8 PŻ (0→8 PŻ) i wstaje.
+**Rozstrzygnięcie:** Pierwsza pomoc Lirien (Joker) — cel: Pip. Pip przywrócony do maks. 8 PŻ (0→8 PŻ) i wstaje.
 
 **Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (2♥), Pip (6♦), Magnusowi (pominięty — 0 PŻ).
 
@@ -1293,7 +1293,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 **Oczekujące:** Prowokacja Gorraka (K♣) → Tura 111 · Ugryzienie smoka (D♥) → Tura 112❖ (czas przygotowania 1/4)
 
-**Gra:** 9♥ — Szarża (Atak, czas przygotowania 4), karta kładziona na Turę 114. Cel (wybrany przy rozstrzygnięciu): Ogon.
+**Gra:** 9♥ — Szarża (Atak, czas przygotowania 4), karta kładziona na Turę 114.
 
 > **Mechanika:** Szarża zadaje 8 podstawowych obrażeń z czasem przygotowania 4, rozstrzygając się w następnej turze Lirien (Tura 114). Lirien jest aktualnym celem smoka i będzie w trakcie przygotowania gdy Ugryzienie rozstrzygnie — Bezpośredni Atak przeciwko śmiałkowi w trakcie przygotowania zadaje +1Ϟ obrażeń i powoduje przewrócenie. Prowokacja Gorraka w Turze 111 przekieruje cel na Gorraka przed odpaleniem Ugryzienia, chroniąc Szarżę.
 
@@ -1313,7 +1313,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 **Rozstrzygnięcie:** Prowokacja Gorraka (K♣): nowy cel smoka to **Gorrak**. Prowokacja rozstrzyga się w trakcie przygotowania Ugryzienia (2/4) → czas przygotowania Ugryzienia wydłuża się o +1 (rozstrzyga się teraz w **Turze 113❖**).
 
-**Gra:** 6♥ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 113. Cel (wybrany przy rozstrzygnięciu): Łapy.
+**Gra:** 6♥ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 113.
 
 > **Mechanika:** Prowokacja przekierowuje cel smoka na Gorraka i wydłuża czas przygotowania Ugryzienia o +1 — rozstrzygnie się teraz w Turze 113❖ zamiast 112❖. Kara za 0 PŻ Paszczany wydłużyła już czas przygotowania z 3 do 4 przy kładzeniu; Prowokacja dodaje jeszcze jeden, dając łącznie 5. Atak Pip'a jest kładziony na Turę 113, rozstrzygając się w turze śmiałka Gorraka przed akcją smoka.
 

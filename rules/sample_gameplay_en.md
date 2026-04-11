@@ -475,9 +475,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
-**Plays:** 2♣ — Helping Hand (Support, warm-up 2), card placed at Turn 53. Target: Gorrak.
+**Plays:** 2♣ — Helping Hand (Support, warm-up 2), card placed at Turn 53.
 
-*Two of them on the ground. Pip surveys the field, pockets a bolt he won't need yet, and slides a card across to Gorrak's position. "Up when you can," he says. It is not a question.*
+*Two of them on the ground. Pip surveys the field, pockets a bolt he won't need yet, and slides a card across to one of his companions. "Up when you can," he says. It is not a question.*
 
 ---
 
@@ -533,7 +533,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
-**Resolves:** Pip's Helping Hand (2♣) fires — Gorrak stands up.
+**Resolves:** Pip's Helping Hand (2♣) fires — target: Gorrak. Gorrak stands up.
 
 **Plays:** K♦ — Draw Aggro (Support, warm-up 1), card placed at Turn 54.
 
@@ -640,9 +640,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Pending:** Dragon's Crush → cooling down (1/2)
 
-**Plays:** 10♦ — Entangle (Attack, warm-up 3 + 1 on ground = **warm-up 4**), card placed at Turn 60. Target: Paws.
+**Plays:** 10♦ — Entangle (Attack, warm-up 3 + 1 on ground = **warm-up 4**), card placed at Turn 60.
 
-> **Mechanics:** Magnus targets Paws — the body part the dragon has been attacking with. On the ground, Magnus's warm-up is +1 (base 3 → 4). Entangle itself deals 0 damage; its value is the +1Ϟ bonus on all future attacks against Paws, and the freeing delay it imposes on the dragon when Paws is next used for an attack.
+> **Mechanics:** On the ground, Magnus's warm-up is +1 (base 3 → 4). Entangle itself deals 0 damage; its value is the +1Ϟ bonus on all future attacks against the targeted body part, and the freeing delay it imposes on the dragon when that body part is next used for an attack.
 
 *Magnus studies the battlefield from the floor. His hammer is just out of reach. His cards are not. He chooses the slower option and begins channelling — not a blow, but a binding.*
 
@@ -735,11 +735,11 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Fire Breath (A♥) → Turn 59❖
 
-**Plays:** 8♠ — Precision Strike (Attack, warm-up 3), card placed at Turn 62. Target (chosen at resolution): Paws.
+**Plays:** 8♠ — Precision Strike (Attack, warm-up 3), card placed at Turn 62.
 
 > **Mechanics:** Pip is standing (the Crush at T55❖ had no knockdown and he was not warming up an attack when it hit). Precision Strike has base warm-up 3, resolving at T59+3 = T62 — Lirien's turn, the same turn Magnus's Quick Strike will arrive. The orchestrated attack is being set up deliberately.
 
-*The fire is already on its way. Pip trusts the shields and lines up a shot — not for now, but for later, when the smoke clears and Paws is exposed.*
+*The fire is already on its way. Pip trusts the shields and lines up a shot — not for now, but for later, when the smoke clears.*
 
 ---
 
@@ -787,11 +787,11 @@ Cooldown 1 → expires Turn 60❖.
 
 **Resolves:** Magnus's Entangle fires — **Paws become entangled (~)**. All daredevil attacks against Paws now gain +1Ϟ.
 
-**Plays:** 5♠ — Quick Strike (Attack, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 62. Target (chosen at resolution): Legs.
+**Plays:** 5♠ — Quick Strike (Attack, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 62.
 
 > **Mechanics:** Paws are now entangled in addition to Legs. Magnus is still on the ground → warm-up +1 (base 1 → 2), resolving at T60+2 = T62. The -2Ϟ on-ground penalty to damage will apply when the Quick Strike fires.
 
-*The binding takes hold. Magnus feels it through the floor — Paws, wrapped tight. He lines up his next shot from the ground, aiming at the legs. Slower, weaker. Still worth it.*
+*The binding takes hold. Magnus feels it through the floor — Paws, wrapped tight. He lines up his next shot from the ground. Slower, weaker. Still worth it.*
 
 ---
 
@@ -868,11 +868,11 @@ Cooldown 1 → expires Turn 60❖.
 - Orchestrated attack: +1Ϟ → position 5 = **damage 5**.
 - Legs: 8 → **3 HP**.
 
-**Action:** Lirien plays 2♥ — Helping Hand (Support, warm-up 2), card placed at Turn 64. Target: Magnus.
+**Action:** Lirien plays 2♥ — Helping Hand (Support, warm-up 2), card placed at Turn 64.
 
 > **Mechanics:** Three modifiers interact on each attack. For Pip: entangle (+1Ϟ) and orchestrated (+1Ϟ) both add to a base of 6 — position 6 → 8, damage 10. For Magnus: the ground penalty (−2Ϟ) partially cancels the entangle and orchestrated bonuses; the net is position 5, damage 5. Gorrak is now at 12 HP (1–13 range), so his own attacks deal −1Ϟ — but this turn it is Pip and Magnus attacking, so no penalty applies here. After this turn, Paws drops to 2 HP and Legs to 3 HP — both now in the 1–13 range. Dragon Paws and Legs attacks will carry −1Ϟ from here on.
 
-*Two strikes land at once — one from the air, one from the floor. Paws recoils. The legs buckle. Lirien watches the numbers and immediately crouches beside Magnus. "Your turn," she says.*
+*Two strikes land at once — one from the air, one from the floor. Paws recoils. The legs buckle. Lirien watches the numbers and immediately crouches down. "Your turn," she says.*
 
 ---
 
@@ -911,7 +911,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Pending:** Lirien's Helping Hand (4♠) → Turn 64 · Dragon cooling down (→ Turn 63❖)
 
-**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 65. Target (chosen at resolution): Paws.
+**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 65.
 
 > **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T65, this penalty will apply. Paws entanglement was cleared at T61❖ when the dragon's freeing turn completed — Paws are no longer entangled, but remain at 2 HP (1–13 range), so dragon Paws attacks continue to carry −1Ϟ.
 
@@ -1041,11 +1041,11 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Pending:** Dragon's Swing (J) → Turn 104❖
 
-**Plays:** Joker — First Aid (Support, warm-up 4), card placed at Turn 106. Target: Pip.
+**Plays:** Joker — First Aid (Support, warm-up 4), card placed at Turn 106.
 
-> **Mechanics:** First Aid has base warm-up 4. Lirien is standing — no ground penalty. It resolves on Lirien's next turn (Turn 106), restoring up to 8 HP to Pip and getting him back on his feet. Pip is at 0 HP (incapacitated) — First Aid works even in that state.
+> **Mechanics:** First Aid has base warm-up 4. Lirien is standing — no ground penalty. It resolves on Lirien's next turn (Turn 106), restoring up to 8 HP to the target and getting them back on their feet. First Aid works even on incapacitated daredevils.
 
-*Lirien does not look at Pip when she plays the card. She does not need to. Her blade has not left her hand in three turns. She will see to him when the moment allows. The moment will allow.*
+*Lirien does not look around when she plays the card. She does not need to. Her blade has not left her hand in three turns. She will see to it when the moment allows. The moment will allow.*
 
 ---
 
@@ -1163,7 +1163,7 @@ Cool-down 2 → expires Turn 106❖.
 
 **Pending:** Gorrak's Strike (5♣) → Turn 108 · Dragon's Swing cool-down 1/2
 
-**Resolves:** Lirien's First Aid (Joker): Pip restored up to 8 HP (0→8 HP) and stands up.
+**Resolves:** Lirien's First Aid (Joker) — target: Pip. Pip restored up to 8 HP (0→8 HP) and stands up.
 
 **Plays:** Draw Cards — deals one card to each of Gorrak (2♥), Pip (6♦), Magnus (skipped — 0 HP).
 
@@ -1293,7 +1293,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 **Pending:** Gorrak's Draw Aggro (K♣) → Turn 111 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 1/4)
 
-**Plays:** 9♥ — Charge (Attack, warm-up 4), card placed at Turn 114. Target (chosen at resolution): Tail.
+**Plays:** 9♥ — Charge (Attack, warm-up 4), card placed at Turn 114.
 
 > **Mechanics:** Charge deals 8 base damage with warm-up 4, resolving on Lirien's next turn (Turn 114). Lirien is the dragon's current target and will be warming up when Bite resolves — a Direct Attack against a warming-up daredevil deals +1Ϟ damage and causes knockdown. Gorrak's Draw Aggro at Turn 111 will redirect the target to Gorrak before Bite fires, protecting the Charge.
 
@@ -1313,7 +1313,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 **Resolves:** Gorrak's Draw Aggro (K♣): dragon's new target is **Gorrak**. Draw Aggro resolves during Bite's warm-up (2/4) → Bite warm-up extended by +1 (now resolves at **Turn 113❖**).
 
-**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 113. Target (chosen at resolution): Paws.
+**Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 113.
 
 > **Mechanics:** Draw Aggro redirects the dragon's target to Gorrak and extends Bite's warm-up by +1 — it now resolves at Turn 113❖ rather than 112❖. The Jaws 0 HP penalty already pushed the warm-up from 3 to 4 at placement; Draw Aggro adds one more, giving 5 total. Pip's Strike is placed at Turn 113, resolving on Gorrak's daredevil turn before the dragon's action.
 
