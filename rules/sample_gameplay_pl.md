@@ -9,13 +9,11 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 **Ustawienie**
 
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: brak
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
-Ręka Gorraka: 9♣ 7♠
-Ręka Lirien: 8♦ D♣
-Ręka Pip'a: 6♥ A♦
-Ręka Magnusa: W♠ 3♥
+**Cel:** brak
+
+**Ręce:** Gorrak: 9♣ 7♠ · Lirien: 8♦ D♣ · Pip: 6♥ A♦ · Magnus: W♠ 3♥
 
 ---
 
@@ -35,9 +33,9 @@ Ręka Magnusa: W♠ 3♥
 
 **Ręka:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: brak
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** brak
 
 **Gra:** Dobiera — rozdaje po jednej karcie Lirien (3♦), Pip (5♦), Magnusowi (6♣).
 
@@ -49,9 +47,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 1❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: brak
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** brak
 
 **Smok:** —
 
@@ -67,9 +65,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Ręka:** 8♦ D♣ 3♦ *(Gorrak: 2 · Pip: 3 · Magnus: 3)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: brak
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** brak
 
 **Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (7♦), Pip (4♥), Magnusowi (8♣).
 
@@ -79,9 +77,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 2❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: brak
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** brak
 
 **Smok:** —
 
@@ -97,9 +95,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Ręka:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Oczekujące:** Atak smoka (7♣) → Tura 4❖
 
@@ -113,9 +111,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 3❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Smok:** Atak (7♣) · czas przygotowania 1/2 — w przygotowaniu
 
@@ -127,9 +125,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Ręka:** W♠ 3♥ 6♣ 8♣ 9♠ *(Gorrak: 4 · Lirien: 4 · Pip: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Oczekujące:** Atak smoka (7♣) → Tura 4❖
 
@@ -143,9 +141,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 4❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Smok:** Atak (7♣) · czas przygotowania 2/2 — **rozstrzyga się**
 
@@ -163,9 +161,9 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 **Ręka:** 9♣ 7♠ 7♦ 4♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Oczekujące:** Smok się ochładza → Tura 5❖
 
@@ -179,9 +177,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 5❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Pip
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Pip
 
 **Smok:** Atak Łapami — czas ochłodzenia 1/1 → wygasa
 
@@ -197,9 +195,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Ręka:** 8♦ D♣ 3♦ W♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Atak Gorraka (7♠) → Tura 7 · Ugryzienie smoka (D♦) → Tura 8❖
 
@@ -211,9 +209,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 6❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie (D♦) · czas przygotowania 1/3 — w przygotowaniu
 
@@ -225,9 +223,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Ręka:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Precyzyjny atak Lirien (8♦) → Tura 9 · Ugryzienie smoka (D♦) → Tura 8❖
 
@@ -243,9 +241,9 @@ Paszcza 25 · Łapy 25 · Nogi 25 · Ogon 25
 
 **Tura 7❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie (D♦) · czas przygotowania 2/3 — w przygotowaniu
 
@@ -257,9 +255,9 @@ Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Precyzyjny atak Lirien (8♦) → Tura 9 · Unik ratunkowy Pip'a aktywny · Ugryzienie smoka (D♦) → Tura 8❖
 
@@ -273,9 +271,9 @@ Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 8❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie (D♦) · czas przygotowania 3/3 — **rozstrzyga się**
 
@@ -291,9 +289,9 @@ Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** 9♣ 7♦ 4♠ 2♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Czas ochłodzenia Ugryzienia smoka → Tura 11❖
 
@@ -309,9 +307,9 @@ Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 9❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie — czas ochłodzenia 1/3
 
@@ -323,9 +321,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** D♣ 3♦ W♥ K♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Szarża Gorraka (9♣) → Tura 13 · Czas ochłodzenia Ugryzienia smoka → Tura 11❖
 
@@ -339,9 +337,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 10❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie — czas ochłodzenia 2/3
 
@@ -353,9 +351,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** 6♥ 5♦ 4♥ 7♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Szarża Gorraka (9♣) → Tura 13 · Pomocna dłoń Lirien (3♦) → Tura 12 · Czas ochłodzenia Ugryzienia smoka → Tura 11❖
 
@@ -367,9 +365,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 11❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Ugryzienie — czas ochłodzenia 3/3 → wygasa
 
@@ -383,9 +381,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Szarża Gorraka (9♣) → Tura 13 · Atak Pip'a (7♥) → Tura 13 · Stratowanie smoka (10♠) → Tura 13❖
 
@@ -401,9 +399,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 12❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Stratowanie (10♠) · czas przygotowania 1/2 — w przygotowaniu
 
@@ -415,9 +413,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Ręka:** 7♦ 4♠ 2♠ *(Lirien: 3 · Pip: 3 · Magnus: 3)*
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
+
+**Cel:** Magnus
 
 **Oczekujące:** Precyzyjny atak Magnusa (8♣) → Tura 15 · Stratowanie smoka (10♠) → Tura 13❖
 
@@ -433,9 +431,9 @@ Paszcza 15 · Łapy 20 · Nogi 25 · Ogon 25
 
 **Tura 13❖ — Skeldrath**
 
-**Stan:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Cel: Magnus
-Paszcza 15 · Łapy 15 · Nogi 17 · Ogon 25
+**PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 15 · Łapy 15 · Nogi 17 · Ogon 25
+
+**Cel:** Magnus
 
 **Smok:** Stratowanie (10♠) · czas przygotowania 2/2 — **rozstrzyga się**
 
@@ -453,13 +451,11 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Ustawienie**
 
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
-Ręka Pip'a: 2♣ 8♠ W♥
-Ręka Magnusa: 10♦ 5♠
-Ręka Gorraka: 7♣ W♠ K♦
-Ręka Lirien: D♦ 6♣ 2♥
+**Cel:** Magnus
+
+**Ręce:** Pip: 2♣ 8♠ W♥ · Magnus: 10♦ 5♠ · Gorrak: 7♣ W♠ K♦ · Lirien: D♦ 6♣ 2♥
 
 **Oczekujące:** Zgniecenie smoka (K♠) → Tura 54❖ (czas przygotowania 0/4)
 
@@ -471,11 +467,11 @@ Ręka Lirien: D♦ 6♣ 2♥
 
 **Tura 51 — Pip**
 
-**Ręka:** 2♣ 8♠ W♥ *(Magnus: 2 karty · Gorrak: 3 karty · Lirien: 3 karty)*
+**Ręka:** 2♣ 8♠ W♥ *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Oczekujące:** Zgniecenie smoka (K♠) → Tura 54❖
 
@@ -487,9 +483,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 51❖ — Skeldrath**
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 1/4 — w przygotowaniu
 
@@ -499,11 +495,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 52 — Magnus**
 
-**Ręka:** 10♦ 5♠ *(Pip: 2 karty · Gorrak: 3 karty · Lirien: 3 karty)*
+**Ręka:** 10♦ 5♠ *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Oczekujące:** Pomocna dłoń Pip'a (2♣) → Tura 53 · Zgniecenie smoka (K♠) → Tura 54❖
 
@@ -517,9 +513,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 52❖ — Skeldrath**
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 2/4 — w przygotowaniu
 
@@ -529,11 +525,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 53 — Gorrak**
 
-**Ręka:** 7♣ W♠ K♦ 9♠ *(Pip: 3 karty · Magnus: 2 karty · Lirien: 4 karty)*
+**Ręka:** 7♣ W♠ K♦ 9♠ *(Pip: 3 · Magnus: 2 · Lirien: 4)*
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Oczekujące:** Zgniecenie smoka (K♠) → Tura 54❖
 
@@ -549,9 +545,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 53❖ — Skeldrath**
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 3/4 — w przygotowaniu
 
@@ -561,11 +557,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 54 — Lirien**
 
-**Ręka:** D♦ 6♣ 2♥ D♣ *(Pip: 3 karty · Magnus: 2 karty · Gorrak: 3 karty)*
+**Ręka:** D♦ 6♣ 2♥ D♣ *(Pip: 3 · Magnus: 2 · Gorrak: 3)*
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Magnus
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Magnus
 
 **Oczekujące:** Prowokacja Gorraka (K♦) → Tura 54 · Zgniecenie smoka (K♠) → Tura 54❖
 
@@ -583,9 +579,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 54❖ — Skeldrath**
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 4/5 — w przygotowaniu
 
@@ -595,11 +591,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 55 — Pip**
 
-**Ręka:** 8♠ W♥ 6♥ *(Magnus: 2 karty · Gorrak: 3 karty · Lirien: 3 karty)*
+**Ręka:** 8♠ W♥ 6♥ *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Oczekujące:** Osłona Lirien aktywna (→ Tura 58) · Zgniecenie smoka (K♠) → Tura 55❖
 
@@ -613,9 +609,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 55❖ — Skeldrath**
 
-**Stan:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 5/5 — **rozstrzyga się**
 
@@ -636,11 +632,11 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 56 — Magnus**
 
-**Ręka:** 10♦ 5♠ *(Pip: 2 karty · Gorrak: 3 karty · Lirien: 3 karty)*
+**Ręka:** 10♦ 5♠ *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Oczekujące:** Zgniecenie smoka → ochładzanie (1/2)
 
@@ -654,9 +650,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 56❖ — Skeldrath**
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Smok:** Zgniecenie — czas ochłodzenia 1/2
 
@@ -666,11 +662,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 57 — Gorrak**
 
-**Ręka:** 7♣ W♠ 9♠ *(Pip: 2 karty · Magnus: 1 karta · Lirien: 3 karty)*
+**Ręka:** 7♣ W♠ 9♠ *(Pip: 2 · Magnus: 1 · Lirien: 3)*
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Oczekujące:** Splątanie Magnusa → Tura 60 · Zgniecenie smoka → ochładzanie (1/2 → wygasa T57❖)
 
@@ -682,9 +678,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 57❖ — Skeldrath**
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Gorrak
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Gorrak
 
 **Smok:** Zgniecenie — czas ochłodzenia 2/2 → **wygasa**
 
@@ -701,11 +697,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 58 — Lirien**
 
-**Ręka:** 6♣ 2♥ D♣ *(Pip: 2 karty · Magnus: 1 karta · Gorrak: 2 karty)*
+**Ręka:** 6♣ 2♥ D♣ *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka aktywna (→ Tura 61) · Zionięcie ogniem smoka (A♥) → Tura 59❖ (czas przygotowania 1/2)
 
@@ -719,9 +715,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 58❖ — Skeldrath**
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Zionięcie ogniem (A♥) · czas przygotowania 2/2 — w przygotowaniu
 
@@ -731,11 +727,11 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 59 — Pip**
 
-**Ręka:** 8♠ 6♥ *(Magnus: 1 karta · Gorrak: 2 karty · Lirien: 2 karty)*
+**Ręka:** 8♠ 6♥ *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Zionięcie ogniem smoka (A♥) → Tura 59❖
 
@@ -749,9 +745,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 59❖ — Skeldrath**
 
-**Stan:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Zionięcie ogniem (A♥) · czas przygotowania 2/2 — **rozstrzyga się**
 
@@ -781,11 +777,11 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 60 — Magnus**
 
-**Ręka:** 5♠ *(Pip: 1 karta · Gorrak: 2 karty · Lirien: 2 karty)*
+**Ręka:** 5♠ *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Smok ochładza się (→ Tura 60❖)
 
@@ -801,9 +797,9 @@ Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Tura 60❖ — Skeldrath**
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Zionięcie ogniem — czas ochłodzenia 1/1 → **wygasa**
 
@@ -819,11 +815,11 @@ Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Tura 61 — Gorrak**
 
-**Ręka:** 7♣ 9♠ *(Pip: 1 karta · Magnus: 0 kart · Lirien: 2 karty)*
+**Ręka:** 7♣ 9♠ *(Pip: 1 · Magnus: 0 · Lirien: 2)*
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Szybki atak smoka (Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
 
@@ -837,9 +833,9 @@ Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Tura 61❖ — Skeldrath**
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Szybki atak (Łapy) · czas przygotowania 2/2 — uwalnianie zakończone. Splątanie Łap usunięte. Rozstrzyga się w następnej turze smoka (T62❖).
 
@@ -849,11 +845,11 @@ Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Tura 62 — Lirien**
 
-**Ręka:** 6♣ 2♥ 4♠ *(Pip: 2 karty · Magnus: 1 karta · Gorrak: 2 karty)*
+**Ręka:** 6♣ 2♥ 4♠ *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Osłona Lirien aktywna (→ Tura 62) · Szybki atak smoka (Łapy) → Tura 62❖
 
@@ -882,9 +878,9 @@ Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
 
 **Tura 62❖ — Skeldrath**
 
-**Stan:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Szybki atak (Łapy) · czas przygotowania 2/2 — **rozstrzyga się**
 
@@ -907,11 +903,11 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 63 — Pip**
 
-**Ręka:** 6♥ 3♥ *(Magnus: 1 karta · Gorrak: 2 karty · Lirien: 2 karty)*
+**Ręka:** 6♥ 3♥ *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
 
-**Stan:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Pomocna dłoń Lirien (4♠) → Tura 64 · Smok ochładza się (→ Tura 63❖)
 
@@ -925,9 +921,9 @@ Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Tura 63❖ — Skeldrath**
 
-**Stan:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Szybki atak — czas ochłodzenia 1/1 → **wygasa**
 
@@ -939,11 +935,11 @@ Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Tura 64 — Magnus**
 
-**Ręka:** 10♦ *(Pip: 1 karta · Gorrak: 2 karty · Lirien: 2 karty)*
+**Ręka:** 10♦ *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
 
-**Stan:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 **Oczekujące:** Atak Pip'a (6♥) → Tura 65 · Pomocna dłoń Lirien (4♠) → Tura 64 · Ryk smoka (A♣) → Tura 64❖
 
@@ -959,9 +955,9 @@ Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Tura 64❖ — Skeldrath**
 
-**Stan:**
-Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 **Smok:** Ryk (A♣) · czas przygotowania 1/1 — **rozstrzyga się**
 
@@ -977,8 +973,9 @@ Czas ochłodzenia 1 → wygasa w Turze 65❖.
 
 **Stan na koniec Tury 64❖**
 
-Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Cel: Pip
-Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+
+**Cel:** Pip
 
 ## 3. Finał
 
@@ -986,13 +983,11 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Ustawienie**
 
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
 
-Ręka Gorraka: 7♦ 3♠
-Ręka Lirien: Joker 8♣ 4♦
-Ręka Pip'a: —
-Ręka Magnusa: D♣ 6♠
+**Cel:** Magnus
+
+**Ręce:** Gorrak: 7♦ 3♠ · Lirien: Joker 8♣ 4♦ · Pip: — · Magnus: D♣ 6♠
 
 **Oczekujące:** Brak
 
@@ -1008,11 +1003,11 @@ Ręka Magnusa: D♣ 6♠
 
 **Tura 101 — Gorrak**
 
-**Ręka:** 7♦ 3♠ *(Lirien: 3 karty · Pip: — · Magnus: 2 karty)*
+**Ręka:** 7♦ 3♠ *(Lirien: 3 · Pip: — · Magnus: 2)*
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Oczekujące:** Brak
 
@@ -1026,9 +1021,9 @@ Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 101❖ — Skeldrath**
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Smok:** Gra W — Zamach (Ogon, Atak na obszar + Powalenie, czas przygotowania 3), karta kładziona na Turę 104❖.
 
@@ -1038,11 +1033,11 @@ Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 102 — Lirien**
 
-**Ręka:** Joker 8♣ 4♦ *(Gorrak: 1 karta · Pip: — · Magnus: 2 karty)*
+**Ręka:** Joker 8♣ 4♦ *(Gorrak: 1 · Pip: — · Magnus: 2)*
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Oczekujące:** Zamach smoka (W) → Tura 104❖
 
@@ -1058,9 +1053,9 @@ Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Ręka:** —
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Oczekujące:** Atak Gorraka (7♦) → Tura 103 · Pierwsza pomoc Lirien (Joker) → Tura 106 · Zamach smoka (W) → Tura 104❖
 
@@ -1076,9 +1071,9 @@ Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 103❖ — Skeldrath**
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Smok:** Zamach (W) · czas przygotowania 1/3 — w przygotowaniu
 
@@ -1088,11 +1083,11 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 104 — Magnus**
 
-**Ręka:** D♣ 6♠ 9♦ *(Gorrak: 2 karty · Lirien: 3 karty · Pip: —)*
+**Ręka:** D♣ 6♠ 9♦ *(Gorrak: 2 · Lirien: 3 · Pip: —)*
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Oczekujące:** Pierwsza pomoc Lirien (Joker) → Tura 106 · Zamach smoka (W) → Tura 104❖
 
@@ -1106,9 +1101,9 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 104❖ — Skeldrath**
 
-**Stan:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Cel: Magnus
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
 
 **Smok:** Zamach (W) · czas przygotowania 3/3 — **rozstrzyga się**
 
@@ -1130,11 +1125,11 @@ Czas ochłodzenia 2 → wygasa w Turze 106❖.
 
 **Tura 105 — Gorrak↓**
 
-**Ręka:** 5♣ 3♠ *(Lirien: 3 karty · Pip: — · Magnus: —)*
+**Ręka:** 5♣ 3♠ *(Lirien: 3 · Pip: — · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Oczekujące:** Pierwsza pomoc Lirien (Joker) → Tura 106
 
@@ -1148,9 +1143,9 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 105❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Smok:** Zamach — czas ochłodzenia 1/2
 
@@ -1160,11 +1155,11 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 106 — Lirien**
 
-**Ręka:** 8♣ 4♦ 7♠ *(Gorrak: 1 karta · Pip: — · Magnus: —)*
+**Ręka:** 8♣ 4♦ 7♠ *(Gorrak: 1 · Pip: — · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Czas ochłodzenia Zamachu smoka 1/2
 
@@ -1180,9 +1175,9 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 106❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Smok:** Zamach — czas ochłodzenia 2/2 → **wygasa**
 
@@ -1194,11 +1189,11 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 107 — Pip**
 
-**Ręka:** 6♦ *(Gorrak: 2 karty · Lirien: 3 karty · Magnus: —)*
+**Ręka:** 6♦ *(Gorrak: 2 · Lirien: 3 · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Regeneracja zdrowia smoka (Joker) → Tura 107❖
 
@@ -1212,9 +1207,9 @@ Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
 **Tura 107❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Smok:** Regeneracja zdrowia (Joker) · czas przygotowania 1/1 — **rozstrzyga się**
 
@@ -1230,11 +1225,11 @@ Czas ochłodzenia 1 → wygasa w Turze 108❖.
 
 **Tura 108 — Magnus↓**
 
-**Ręka:** — *(Gorrak: 2 karty · Lirien: 3 karty · Pip: 0 kart)*
+**Ręka:** — *(Gorrak: 2 · Lirien: 3 · Pip: 0)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: brak
-Paszcza 2 · Łapy 8 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 2 · Łapy 8 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Atak Pip'a (6♦) → Tura 109 · Czas ochłodzenia Regeneracji zdrowia smoka → Tura 108❖
 
@@ -1252,9 +1247,9 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 **Tura 108❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Gorrak
-Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
+
+**Cel:** Gorrak
 
 **Smok:** Regeneracja zdrowia — czas ochłodzenia 1/1 → **wygasa**
 
@@ -1270,11 +1265,11 @@ Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
 
 **Tura 109 — Gorrak↓**
 
-**Ręka:** 3♠ 2♥ K♣ *(Lirien: 3 karty · Pip: 1 karta · Magnus: —)*
+**Ręka:** 3♠ 2♥ K♣ *(Lirien: 3 · Pip: 1 · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Lirien
-Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
+
+**Cel:** Lirien
 
 **Oczekujące:** Atak Pip'a (6♦) → Tura 109 · Ugryzienie smoka (D♥) → Tura 112❖ (czas przygotowania 0/4)
 
@@ -1290,11 +1285,11 @@ Paszcza 0 · Łapy 8 · Nogi 0 · Ogon 6
 
 **Tura 110 — Lirien**
 
-**Ręka:** 8♣ 7♠ 9♥ *(Gorrak: 2 karty · Pip: 1 karta · Magnus: —)*
+**Ręka:** 8♣ 7♠ 9♥ *(Gorrak: 2 · Pip: 1 · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Lirien
-Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+
+**Cel:** Lirien
 
 **Oczekujące:** Prowokacja Gorraka (K♣) → Tura 111 · Ugryzienie smoka (D♥) → Tura 112❖ (czas przygotowania 1/4)
 
@@ -1308,11 +1303,11 @@ Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
 
 **Tura 111 — Pip**
 
-**Ręka:** 6♥ *(Gorrak: 2 karty · Lirien: 2 karty · Magnus: —)*
+**Ręka:** 6♥ *(Gorrak: 2 · Lirien: 2 · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Lirien
-Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+
+**Cel:** Lirien
 
 **Oczekujące:** Prowokacja Gorraka (K♣) → Tura 111 · Szarża Lirien (9♥) → Tura 114 · Ugryzienie smoka (D♥) → Tura 112❖ (czas przygotowania 2/4)
 
@@ -1328,11 +1323,11 @@ Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
 
 **Tura 112 — Magnus↓**
 
-**Ręka:** — *(Gorrak: 2 karty · Lirien: 2 karty · Pip: 0 kart)*
+**Ręka:** — *(Gorrak: 2 · Lirien: 2 · Pip: 0)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Gorrak
-Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+
+**Cel:** Gorrak
 
 **Oczekujące:** Atak Pip'a (6♥) → Tura 113 · Szarża Lirien (9♥) → Tura 114 · Ugryzienie smoka (D♥) → Tura 113❖ (czas przygotowania 3/5)
 
@@ -1344,9 +1339,9 @@ Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
 
 **Tura 112❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Gorrak
-Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+
+**Cel:** Gorrak
 
 **Smok:** Ugryzienie (D♥) · czas przygotowania 4/5 — w przygotowaniu
 
@@ -1356,11 +1351,11 @@ Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
 
 **Tura 113 — Gorrak↓**
 
-**Ręka:** 3♠ 2♥ A♠ *(Lirien: 3 karty · Pip: 1 karta · Magnus: —)*
+**Ręka:** 3♠ 2♥ A♠ *(Lirien: 3 · Pip: 1 · Magnus: —)*
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Gorrak
-Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
+
+**Cel:** Gorrak
 
 **Oczekujące:** Atak Pip'a (6♥) → Tura 113 · Szarża Lirien (9♥) → Tura 114 · Ugryzienie smoka (D♥) → Tura 113❖ (czas przygotowania 5/5)
 
@@ -1376,9 +1371,9 @@ Paszcza 0 · Łapy 4 · Nogi 0 · Ogon 6
 
 **Tura 113❖ — Skeldrath**
 
-**Stan:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: Gorrak
-Paszcza 0 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Gorrak
 
 **Smok:** Ugryzienie (D♥) · czas przygotowania 5/5 — **rozstrzyga się**
 
@@ -1396,11 +1391,11 @@ Czas ochłodzenia 2 → wygasa w Turze 115❖.
 
 **Tura 114 — Lirien**
 
-**Ręka:** 7♠ 5♦ 2♣ *(Gorrak: — · Pip: 2 karty · Magnus: —)*
+**Ręka:** 7♠ 5♦ 2♣ *(Gorrak: — · Pip: 2 · Magnus: —)*
 
-**Stan:**
-Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Cel: brak
-Paszcza 0 · Łapy 0 · Nogi 0 · Ogon 6
+**PŻ:** Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Paszcza 0 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** brak
 
 **Oczekujące:** Szarża Lirien (9♥) → Tura 114 · Czas ochłodzenia Ugryzienia smoka → Tura 115❖
 

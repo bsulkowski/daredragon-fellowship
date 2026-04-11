@@ -9,13 +9,11 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 **Setup**
 
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
-Gorrak's hand: 9♣ 7♠
-Lirien's hand: 8♦ Q♣
-Pip's hand: 6♥ A♦
-Magnus's hand: J♠ 3♥
+**Target:** none
+
+**Hands:** Gorrak: 9♣ 7♠ · Lirien: 8♦ Q♣ · Pip: 6♥ A♦ · Magnus: J♠ 3♥
 
 ---
 
@@ -35,9 +33,9 @@ Magnus's hand: J♠ 3♥
 
 **Hand:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** none
 
 **Plays:** Draws — deals one card to Lirien (3♦), Pip (5♦), Magnus (6♣).
 
@@ -49,9 +47,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 1❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** none
 
 **Dragon:** —
 
@@ -67,9 +65,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Hand:** 8♦ Q♣ 3♦ *(Gorrak: 2 · Pip: 3 · Magnus: 3)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** none
 
 **Plays:** Draws — deals one card to Gorrak (7♦), Pip (4♥), Magnus (8♣).
 
@@ -79,9 +77,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 2❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: none
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** none
 
 **Dragon:** —
 
@@ -97,9 +95,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Hand:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Pending:** Dragon's Paws Strike (7♣) → Turn 4❖
 
@@ -113,9 +111,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 3❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Dragon:** Paws Strike (7♣) · warm-up 1/2 — warming up
 
@@ -127,9 +125,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Hand:** J♠ 3♥ 6♣ 8♣ 9♠ *(Gorrak: 4 · Lirien: 4 · Pip: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Pending:** Dragon's Paws Strike (7♣) → Turn 4❖
 
@@ -143,9 +141,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 4❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Dragon:** Paws Strike (7♣) · warm-up 2/2 — **resolves**
 
@@ -163,9 +161,9 @@ Cool-down 1 → Turn 5❖.
 
 **Hand:** 9♣ 7♠ 7♦ 4♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Pending:** Dragon cooling down → Turn 5❖
 
@@ -179,9 +177,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 5❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Pip
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Pip
 
 **Dragon:** Paws Strike — cool-down 1/1 → expires
 
@@ -197,9 +195,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Hand:** 8♦ Q♣ 3♦ J♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Strike (7♠) → Turn 7 · Dragon's Bite (Q♦) → Turn 8❖
 
@@ -211,9 +209,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 6❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite (Q♦) · warm-up 1/3 — warming up
 
@@ -225,9 +223,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Hand:** 6♥ A♦ 5♦ 4♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 25 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Dragon's Bite (Q♦) → Turn 8❖
 
@@ -243,9 +241,9 @@ Jaws 25 · Paws 25 · Legs 25 · Tail 25
 
 **Turn 7❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite (Q♦) · warm-up 2/3 — warming up
 
@@ -257,9 +255,9 @@ Jaws 25 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Pip's Intervention Dodge active · Dragon's Bite (Q♦) → Turn 8❖
 
@@ -273,9 +271,9 @@ Jaws 25 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 8❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 25 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite (Q♦) · warm-up 3/3 — **resolves**
 
@@ -291,9 +289,9 @@ Jaws 25 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** 9♣ 7♦ 4♠ 2♠ *(Lirien: 4 · Pip: 4 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 25 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 25 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Dragon's Bite cool-down → Turn 11❖
 
@@ -309,9 +307,9 @@ Jaws 25 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 9❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite — cool-down 1/3
 
@@ -323,9 +321,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** Q♣ 3♦ J♥ K♥ *(Gorrak: 3 · Pip: 4 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Charge (9♣) → Turn 13 · Dragon's Bite cool-down → Turn 11❖
 
@@ -339,9 +337,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 10❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite — cool-down 2/3
 
@@ -353,9 +351,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** 6♥ 5♦ 4♥ 7♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 4)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Charge (9♣) → Turn 13 · Lirien's Helping Hand (3♦) → Turn 12 · Dragon's Bite cool-down → Turn 11❖
 
@@ -367,9 +365,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 11❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Bite — cool-down 3/3 → expires
 
@@ -383,9 +381,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** 3♥ 6♣ 8♣ 9♠ *(Gorrak: 3 · Lirien: 3 · Pip: 3)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22↓ | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Charge (9♣) → Turn 13 · Pip's Strike (7♥) → Turn 13 · Dragon's Trample (10♠) → Turn 13❖
 
@@ -401,9 +399,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 12❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Trample (10♠) · warm-up 1/2 — warming up
 
@@ -415,9 +413,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Hand:** 7♦ 4♠ 2♠ *(Lirien: 3 · Pip: 3 · Magnus: 3)*
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 15 · Paws 20 · Legs 25 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 15 · Paws 20 · Legs 25 · Tail 25
+
+**Target:** Magnus
 
 **Pending:** Magnus's Precision Strike (8♣) → Turn 15 · Dragon's Trample (10♠) → Turn 13❖
 
@@ -433,9 +431,9 @@ Jaws 15 · Paws 20 · Legs 25 · Tail 25
 
 **Turn 13❖ — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Target: Magnus
-Jaws 15 · Paws 15 · Legs 17 · Tail 25
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 15 · Paws 15 · Legs 17 · Tail 25
+
+**Target:** Magnus
 
 **Dragon:** Trample (10♠) · warm-up 2/2 — **resolves**
 
@@ -453,13 +451,11 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Setup**
 
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
-Pip's hand: 2♣ 8♠ J♥
-Magnus's hand: 10♦ 5♠
-Gorrak's hand: 7♣ J♠ K♦
-Lirien's hand: Q♦ 6♣ 2♥
+**Target:** Magnus
+
+**Hands:** Pip: 2♣ 8♠ J♥ · Magnus: 10♦ 5♠ · Gorrak: 7♣ J♠ K♦ · Lirien: Q♦ 6♣ 2♥
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖ (warm-up 0/4)
 
@@ -471,11 +467,11 @@ Lirien's hand: Q♦ 6♣ 2♥
 
 **Turn 51 — Pip**
 
-**Hand:** 2♣ 8♠ J♥  *(Magnus: 2 cards · Gorrak: 3 cards · Lirien: 3 cards)*
+**Hand:** 2♣ 8♠ J♥  *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
@@ -487,9 +483,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 51❖ — Skeldrath**
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Dragon:** Crush (K♠) · warm-up 1/4 — warming up
 
@@ -499,11 +495,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 52 — Magnus**
 
-**Hand:** 10♦ 5♠  *(Pip: 2 cards · Gorrak: 3 cards · Lirien: 3 cards)*
+**Hand:** 10♦ 5♠  *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Pending:** Pip's Helping Hand (2♣) → Turn 53 · Dragon's Crush (K♠) → Turn 54❖
 
@@ -517,9 +513,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 52❖ — Skeldrath**
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Dragon:** Crush (K♠) · warm-up 2/4 — warming up
 
@@ -529,11 +525,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 53 — Gorrak**
 
-**Hand:** 7♣ J♠ K♦ 9♠  *(Pip: 3 cards · Magnus: 2 cards · Lirien: 4 cards)*
+**Hand:** 7♣ J♠ K♦ 9♠  *(Pip: 3 · Magnus: 2 · Lirien: 4)*
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Pending:** Dragon's Crush (K♠) → Turn 54❖
 
@@ -549,9 +545,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 53❖ — Skeldrath**
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Dragon:** Crush (K♠) · warm-up 3/4 — warming up
 
@@ -561,11 +557,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 54 — Lirien**
 
-**Hand:** Q♦ 6♣ 2♥ Q♣  *(Pip: 3 cards · Magnus: 2 cards · Gorrak: 3 cards)*
+**Hand:** Q♦ 6♣ 2♥ Q♣  *(Pip: 3 · Magnus: 2 · Gorrak: 3)*
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Magnus
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Draw Aggro (K♦) → Turn 54 · Dragon's Crush (K♠) → Turn 54❖
 
@@ -583,9 +579,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 54❖ — Skeldrath**
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Dragon:** Crush (K♠) · warm-up 4/5 — warming up
 
@@ -595,11 +591,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 55 — Pip**
 
-**Hand:** 8♠ J♥ 6♥  *(Magnus: 2 cards · Gorrak: 3 cards · Lirien: 3 cards)*
+**Hand:** 8♠ J♥ 6♥  *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Pending:** Lirien's Shield active (→ Turn 58) · Dragon's Crush (K♠) → Turn 55❖
 
@@ -613,9 +609,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 55❖ — Skeldrath**
 
-**State:**
-Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Dragon:** Crush (K♠) · warm-up 5/5 — **resolves**
 
@@ -636,11 +632,11 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 56 — Magnus**
 
-**Hand:** 10♦ 5♠  *(Pip: 2 cards · Gorrak: 3 cards · Lirien: 3 cards)*
+**Hand:** 10♦ 5♠  *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Pending:** Dragon's Crush → cooling down (1/2)
 
@@ -654,9 +650,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 56❖ — Skeldrath**
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Dragon:** Crush — cooldown 1/2
 
@@ -666,11 +662,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 57 — Gorrak**
 
-**Hand:** 7♣ J♠ 9♠  *(Pip: 2 cards · Magnus: 1 card · Lirien: 3 cards)*
+**Hand:** 7♣ J♠ 9♠  *(Pip: 2 · Magnus: 1 · Lirien: 3)*
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Pending:** Magnus's Entangle → Turn 60 · Dragon's Crush → cooling down (1/2 → expires T57❖)
 
@@ -682,9 +678,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 57❖ — Skeldrath**
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Gorrak
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Gorrak
 
 **Dragon:** Crush — cooldown 2/2 → **expires**
 
@@ -701,11 +697,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 58 — Lirien**
 
-**Hand:** 6♣ 2♥ Q♣  *(Pip: 2 cards · Magnus: 1 card · Gorrak: 2 cards)*
+**Hand:** 6♣ 2♥ Q♣  *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Pip
 
 **Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 1/2)
 
@@ -719,9 +715,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 58❖ — Skeldrath**
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Fire Breath (A♥) · warm-up 2/2 — warming up
 
@@ -731,11 +727,11 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 59 — Pip**
 
-**Hand:** 8♠ 6♥  *(Magnus: 1 card · Gorrak: 2 cards · Lirien: 2 cards)*
+**Hand:** 8♠ 6♥  *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Pip
 
 **Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Fire Breath (A♥) → Turn 59❖
 
@@ -749,9 +745,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 59❖ — Skeldrath**
 
-**State:**
-Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Fire Breath (A♥) · warm-up 2/2 — **resolves**
 
@@ -781,11 +777,11 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 60 — Magnus**
 
-**Hand:** 5♠  *(Pip: 1 card · Gorrak: 2 cards · Lirien: 2 cards)*
+**Hand:** 5♠  *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+
+**Target:** Pip
 
 **Pending:** Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon cooling down (→ Turn 60❖)
 
@@ -801,9 +797,9 @@ Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Turn 60❖ — Skeldrath**
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Fire Breath — cooldown 1/1 → **expires**
 
@@ -819,11 +815,11 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Turn 61 — Gorrak**
 
-**Hand:** 7♣ 9♠  *(Pip: 1 card · Magnus: 0 cards · Lirien: 2 cards)*
+**Hand:** 7♣ 9♠  *(Pip: 1 · Magnus: 0 · Lirien: 2)*
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+
+**Target:** Pip
 
 **Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖ (warm-up 1/2, freeing)
 
@@ -837,9 +833,9 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Turn 61❖ — Skeldrath**
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Quick Strike (Paws) · warm-up 2/2 — freeing complete. Paws entanglement cleared. Resolves next dragon turn (T62❖).
 
@@ -849,11 +845,11 @@ Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Turn 62 — Lirien**
 
-**Hand:** 6♣ 2♥ 4♠  *(Pip: 2 cards · Magnus: 1 card · Gorrak: 2 cards)*
+**Hand:** 6♣ 2♥ 4♠  *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+
+**Target:** Pip
 
 **Pending:** Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖
 
@@ -882,9 +878,9 @@ Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **Turn 62❖ — Skeldrath**
 
-**State:**
-Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Quick Strike (Paws) · warm-up 2/2 — **resolves**
 
@@ -907,11 +903,11 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 63 — Pip**
 
-**Hand:** 6♥ 3♥  *(Magnus: 1 card · Gorrak: 2 cards · Lirien: 2 cards)*
+**Hand:** 6♥ 3♥  *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
 
-**State:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 **Pending:** Lirien's Helping Hand (4♠) → Turn 64 · Dragon cooling down (→ Turn 63❖)
 
@@ -925,9 +921,9 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Turn 63❖ — Skeldrath**
 
-**State:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Quick Strike — cooldown 1/1 → **expires**
 
@@ -939,11 +935,11 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Turn 64 — Magnus**
 
-**Hand:** 10♦  *(Pip: 1 card · Gorrak: 2 cards · Lirien: 2 cards)*
+**Hand:** 10♦  *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
 
-**State:**
-Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 **Pending:** Pip's Strike (6♥) → Turn 65 · Lirien's Helping Hand (4♠) → Turn 64 · Dragon's Roar (A♣) → Turn 64❖
 
@@ -959,9 +955,9 @@ Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Turn 64❖ — Skeldrath**
 
-**State:**
-Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 **Dragon:** Roar (A♣) · warm-up 1/1 — **resolves**
 
@@ -977,8 +973,9 @@ Cooldown 1 → expires Turn 65❖.
 
 **State at end of Turn 64❖**
 
-Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Target: Pip
-Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+
+**Target:** Pip
 
 ## 3. Finale
 
@@ -986,13 +983,11 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Setup**
 
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 6 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
 
-Gorrak's hand: 7♦ 3♠
-Lirien's hand: Joker 8♣ 4♦
-Pip's hand: —
-Magnus's hand: Q♣ 6♠
+**Target:** Magnus
+
+**Hands:** Gorrak: 7♦ 3♠ · Lirien: Joker 8♣ 4♦ · Pip: — · Magnus: Q♣ 6♠
 
 **Pending:** None
 
@@ -1008,11 +1003,11 @@ Magnus's hand: Q♣ 6♠
 
 **Turn 101 — Gorrak**
 
-**Hand:** 7♦ 3♠  *(Lirien: 3 cards · Pip: — · Magnus: 2 cards)*
+**Hand:** 7♦ 3♠  *(Lirien: 3 · Pip: — · Magnus: 2)*
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 6 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Pending:** None
 
@@ -1026,9 +1021,9 @@ Jaws 6 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 101❖ — Skeldrath**
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 6 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Dragon:** Plays J — Swing (Tail, AoE Attack + Knockdown, warm-up 3), card placed at Turn 104❖.
 
@@ -1038,11 +1033,11 @@ Jaws 6 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 102 — Lirien**
 
-**Hand:** Joker 8♣ 4♦  *(Gorrak: 1 card · Pip: — · Magnus: 2 cards)*
+**Hand:** Joker 8♣ 4♦  *(Gorrak: 1 · Pip: — · Magnus: 2)*
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 6 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Pending:** Dragon's Swing (J) → Turn 104❖
 
@@ -1058,9 +1053,9 @@ Jaws 6 · Paws 0 · Legs 0 · Tail 6
 
 **Hand:** —
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 6 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Pending:** Gorrak's Strike (7♦) → Turn 103 · Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
 
@@ -1076,9 +1071,9 @@ Jaws 6 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 103❖ — Skeldrath**
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Dragon:** Swing (J) · warm-up 1/3 — warming up
 
@@ -1088,11 +1083,11 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 104 — Magnus**
 
-**Hand:** Q♣ 6♠ 9♦  *(Gorrak: 2 cards · Lirien: 3 cards · Pip: —)*
+**Hand:** Q♣ 6♠ 9♦  *(Gorrak: 2 · Lirien: 3 · Pip: —)*
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Pending:** Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
 
@@ -1106,9 +1101,9 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 104❖ — Skeldrath**
 
-**State:**
-Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Target: Magnus
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
 
 **Dragon:** Swing (J) · warm-up 3/3 — **resolves**
 
@@ -1130,11 +1125,11 @@ Cool-down 2 → expires Turn 106❖.
 
 **Turn 105 — Gorrak↓**
 
-**Hand:** 5♣ 3♠  *(Lirien: 3 cards · Pip: — · Magnus: —)*
+**Hand:** 5♣ 3♠  *(Lirien: 3 · Pip: — · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Pending:** Lirien's First Aid (Joker) → Turn 106
 
@@ -1148,9 +1143,9 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 105❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Dragon:** Swing — cool-down 1/2
 
@@ -1160,11 +1155,11 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 106 — Lirien**
 
-**Hand:** 8♣ 4♦ 7♠  *(Gorrak: 1 card · Pip: — · Magnus: —)*
+**Hand:** 8♣ 4♦ 7♠  *(Gorrak: 1 · Pip: — · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Pending:** Gorrak's Strike (5♣) → Turn 108 · Dragon's Swing cool-down 1/2
 
@@ -1180,9 +1175,9 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 106❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Dragon:** Swing — cool-down 2/2 → **expires**
 
@@ -1194,11 +1189,11 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 107 — Pip**
 
-**Hand:** 6♦  *(Gorrak: 2 cards · Lirien: 3 cards · Magnus: —)*
+**Hand:** 6♦  *(Gorrak: 2 · Lirien: 3 · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Pending:** Gorrak's Strike (5♣) → Turn 108 · Dragon's Health Regeneration (Joker) → Turn 107❖
 
@@ -1212,9 +1207,9 @@ Jaws 2 · Paws 0 · Legs 0 · Tail 6
 
 **Turn 107❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
-Jaws 2 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 2 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Dragon:** Health Regeneration (Joker) · warm-up 1/1 — **resolves**
 
@@ -1230,11 +1225,11 @@ Cool-down 1 → expires Turn 108❖.
 
 **Turn 108 — Magnus↓**
 
-**Hand:** -  *(Gorrak: 2 cards · Lirien: 3 cards · Pip: 0 cards)*
+**Hand:** -  *(Gorrak: 2 · Lirien: 3 · Pip: 0)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
-Jaws 2 · Paws 8 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 2 · Paws 8 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Pending:** Gorrak's Strike (5♣) → Turn 108 · Pip's Strike (6♦) → Turn 109 · Dragon's Health Regeneration cool-down → Turn 108❖
 
@@ -1252,9 +1247,9 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 **Turn 108❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
-Jaws 0 · Paws 8 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 8 · Legs 0 · Tail 6
+
+**Target:** Gorrak
 
 **Dragon:** Health Regeneration — cool-down 1/1 → **expires**
 
@@ -1270,11 +1265,11 @@ Jaws 0 · Paws 8 · Legs 0 · Tail 6
 
 **Turn 109 — Gorrak↓**
 
-**Hand:** 3♠ 2♥ K♣  *(Lirien: 3 cards · Pip: 1 card · Magnus: —)*
+**Hand:** 3♠ 2♥ K♣  *(Lirien: 3 · Pip: 1 · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
-Jaws 0 · Paws 8 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 8 · Legs 0 · Tail 6
+
+**Target:** Lirien
 
 **Pending:** Pip's Strike (6♦) → Turn 109 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 0/4)
 
@@ -1290,11 +1285,11 @@ Jaws 0 · Paws 8 · Legs 0 · Tail 6
 
 **Turn 110 — Lirien**
 
-**Hand:** 8♣ 7♠ 9♥  *(Gorrak: 2 cards · Pip: 1 cards · Magnus: —)*
+**Hand:** 8♣ 7♠ 9♥  *(Gorrak: 2 · Pip: 1 · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
-Jaws 0 · Paws 4 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Target:** Lirien
 
 **Pending:** Gorrak's Draw Aggro (K♣) → Turn 111 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 1/4)
 
@@ -1308,11 +1303,11 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 111 — Pip**
 
-**Hand:** 6♥  *(Gorrak: 2 cards · Lirien: 2 cards · Magnus: —)*
+**Hand:** 6♥  *(Gorrak: 2 · Lirien: 2 · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Lirien
-Jaws 0 · Paws 4 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Target:** Lirien
 
 **Pending:** Gorrak's Draw Aggro (K♣) → Turn 111 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 112❖ (warm-up 2/4)
 
@@ -1328,11 +1323,11 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 112 — Magnus↓**
 
-**Hand:** —  *(Gorrak: 2 cards · Lirien: 2 cards · Pip: 0 cards)*
+**Hand:** —  *(Gorrak: 2 · Lirien: 2 · Pip: 0)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
-Jaws 0 · Paws 4 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Target:** Gorrak
 
 **Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 3/5)
 
@@ -1344,9 +1339,9 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 112❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
-Jaws 0 · Paws 4 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Target:** Gorrak
 
 **Dragon:** Bite (Q♥) · warm-up 4/5 — warming up
 
@@ -1356,11 +1351,11 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 113 — Gorrak↓**
 
-**Hand:** 3♠ 2♥ A♠  *(Lirien: 3 cards · Pip: 1 card · Magnus: —)*
+**Hand:** 3♠ 2♥ A♠  *(Lirien: 3 · Pip: 1 · Magnus: —)*
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
-Jaws 0 · Paws 4 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 4 · Legs 0 · Tail 6
+
+**Target:** Gorrak
 
 **Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 5/5)
 
@@ -1376,9 +1371,9 @@ Jaws 0 · Paws 4 · Legs 0 · Tail 6
 
 **Turn 113❖ — Skeldrath**
 
-**State:**
-Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: Gorrak
-Jaws 0 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 3↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Gorrak
 
 **Dragon:** Bite (Q♥) · warm-up 5/5 — **resolves**
 
@@ -1396,11 +1391,11 @@ Cool-down 2 → expires Turn 115❖.
 
 **Turn 114 — Lirien**
 
-**Hand:** 7♠ 5♦ 2♣ *(Gorrak: — · Pip: 2 cards · Magnus: —)*
+**Hand:** 7♠ 5♦ 2♣ *(Gorrak: — · Pip: 2 · Magnus: —)*
 
-**State:**
-Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Target: none
-Jaws 0 · Paws 0 · Legs 0 · Tail 6
+**HP:** Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** none
 
 **Pending:** Lirien's Charge (9♥) → Turn 114 · Dragon's Bite cool-down → Turn 115❖
 
@@ -1418,7 +1413,8 @@ Jaws 0 · Paws 0 · Legs 0 · Tail 6
 
 **State at end of Turn 114**
 
-Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Dragon defeated
-Jaws 0 · Paws 0 · Legs 0 · Tail 0
+**HP:** Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Jaws 0 · Paws 0 · Legs 0 · Tail 0
+
+**Dragon defeated.**
 
 ---

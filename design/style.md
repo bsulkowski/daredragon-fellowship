@@ -61,6 +61,20 @@ Examples appear inline in the rules text, not in separate boxes. They follow a c
 
 Section 2 presents a concrete play-through split into subsections (e.g. 2.1 Overture, 2.2 Trial of Strength, 2.3 Finale), each covering roughly 30 turns.
 
+### Setup block
+
+Each subsection opens with a setup block showing the initial state before Turn 1.
+
+```
+**Setup**
+
+**HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 25 | Jaws 25 · Paws 25 · Legs 25 · Tail 25
+
+**Target:** none
+
+**Hands:** Gorrak: [Card] [Card] · Lirien: [Card] [Card] · Pip: [Card] [Card] · Magnus: [Card] [Card]
+```
+
 ### Turn numbering
 
 Turns are numbered in pairs: daredevil turns use plain integers, the dragon turn immediately following uses the same number with ❖. For 4 players:
@@ -74,11 +88,11 @@ Turns are numbered in pairs: daredevil turns use plain integers, the dragon turn
 
 **Turn [N] — [Daredevil name]**
 
-**Hand:** [Card] [Card] [Card]  *(Lirien: 2 cards · Pip: 3 cards · Magnus: 1 card)*
+**Hand:** [Card] [Card] [Card]  *(Lirien: 2 · Pip: 3 · Magnus: 1)*
 
-**State:**
-Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Target: Gorrak
-Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+**HP:** Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+
+**Target:** Gorrak
 
 **Pending:** Lirien's Strike (7♠) → Turn 3 · Dragon's Trample (10♥) → Turn 2❖
 
@@ -98,9 +112,9 @@ Jaws 20 · Paws 25 · Legs 25~ · Tail 25
 
 **Turn [N❖] — Skeldrath**
 
-**State:**
-Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Target: Gorrak
-Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+**HP:** Gorrak 25 · Lirien 18↓ · Pip 25 · Magnus 22 | Jaws 20 · Paws 25 · Legs 25~ · Tail 25
+
+**Target:** Gorrak
 
 **Dragon:** Trample (10♥) · warm-up 2/2 — **resolves**
 
@@ -113,12 +127,13 @@ Jaws 20 · Paws 25 · Legs 25~ · Tail 25
 *[Story — Skeldrath's action described from the daredevils' perspective.]*
 ```
 
-### State line notation
+### Turn block notation
 
 | Symbol | Meaning |
 |---|---|
 | `↓` suffix on daredevil | On the ground (standing is default, not shown) |
 | `~` suffix on dragon body part | Entangled |
+| `\|` in **HP** line | Separator between daredevil HP and dragon HP |
 | `(25→20 HP)` in Resolves | HP change this turn |
 | `warm-up N/M` | Currently on warm-up step N of M total |
 | `cool-down N/M` | Currently on cool-down step N of M total |
