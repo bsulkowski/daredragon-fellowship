@@ -367,7 +367,7 @@ All HP-based penalties are evaluated at the moment an attack resolves, not when 
 
 ## 3. Release Notes
 
-*Version: 0.14.2*
+*Version: 0.15*
 
 At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
 

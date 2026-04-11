@@ -366,7 +366,7 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ## 3. Uwagi do wydania
 
-*Wersja: 0.14.2*
+*Wersja: 0.15*
 
 W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
 

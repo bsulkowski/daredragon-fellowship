@@ -47,6 +47,7 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 | Version | Date | Changes |
 |---|---|---|
+| 0.15 | 2026-04-11 | Added sample gameplay (EN)<br>Streamlined entangle mechanic |
 | 0.14.2 | 2026-03-27 | Filled and reorganized story commentary |
 | 0.14.1 | 2026-03-18 | Added story commentary |
 | 0.14 | 2026-03-16 | Added orchestrated attack mechanic. |
