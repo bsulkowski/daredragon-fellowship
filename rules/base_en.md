@@ -70,7 +70,7 @@ The dragon can have one of the daredevils as its persistent attack target. This 
 
 ---
 
-*Lirien has been alive for three hundred and forty-seven years and has the patience to prove it — except when someone makes a tactical error she spotted two turns ago, in which case the patience evaporates immediately. She moves like water around obstacles, her blade finding gaps that shouldn't exist.*
+*Lirien has been alive for three hundred and forty-seven years and has the patience to prove it — except when someone makes a tactical error she spotted long before, in which case the patience evaporates immediately. She moves like water around obstacles, her blade finding gaps that shouldn't exist.*
 
 *She keeps a journal of poetry about her companions. She has told no one about this journal. She never will.*
 

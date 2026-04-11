@@ -48,7 +48,7 @@ Beneath the gruffness is someone who would — and has — walked into a burning
 
 **Revealed in section 1.2:**
 
-Lirien has been alive for three hundred and forty-seven years and has the patience to prove it — except when someone makes a tactical error she spotted two turns ago, in which case the patience evaporates immediately. She moves like water around obstacles, her blade finding gaps that shouldn't exist.
+Lirien has been alive for three hundred and forty-seven years and has the patience to prove it — except when someone makes a tactical error she spotted long before, in which case the patience evaporates immediately. She moves like water around obstacles, her blade finding gaps that shouldn't exist.
 
 She keeps a journal of poetry about her companions. She has told no one about this journal. She never will.
 
@@ -142,7 +142,5 @@ The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has
 **Revealed in section 2.1:**
 
 **The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
-
-The board represents this hall. The circular track around its edge marks the positions of the daredevils as they move around the dragon, looking for openings, protecting each other, and trying not to be stood on.
 
 **Atmosphere notes for the story:** The hall is imposing but not hopeless. The faint glow of half-drained artifacts gives the space an eerie, cold light — nothing warm about it. The heat from the rock is oppressive but not unbearable. There is a faint sound — somewhere between a rumble and a snore — that turns out to be Skeldrath breathing. It stops when he notices them.

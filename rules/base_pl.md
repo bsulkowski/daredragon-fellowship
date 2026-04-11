@@ -70,7 +70,7 @@ Smok może mieć wybrany jako cel ataków jednego ze śmiałków. Oznaczone jest
 
 ---
 
-*Lirien żyje od trzystu czterdziestu siedmiu lat i ma cierpliwość, by to udowodnić — chyba że ktoś popełni taktyczny błąd, który ona dostrzegła dwie tury wcześniej, w którym to momencie cierpliwość natychmiast wyparowuje. Porusza się jak woda, omijając przeszkody, a jej ostrze trafia w szczeliny, których teoretycznie nie powinno być.*
+*Lirien żyje od trzystu czterdziestu siedmiu lat i ma cierpliwość, by to udowodnić — chyba że ktoś popełni taktyczny błąd, który ona dostrzegła na długo wcześniej, w którym to momencie cierpliwość natychmiast wyparowuje. Porusza się jak woda, omijając przeszkody, a jej ostrze trafia w szczeliny, których teoretycznie nie powinno być.*
 
 *Prowadzi dziennik z wierszami o swoich towarzyszach. Nikomu o tym dzienniku nie powiedziała. Nigdy nie powie.*
 
