@@ -236,6 +236,8 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 ## 2. Reference Tables
 
+> **New to the game?** Before diving into the tables, consider reading the [Sample Gameplay](sample_gameplay_en.md) alongside these rules. It walks through a full fight step by step and also continues the story.
+
 ### 2.1. Daredevils' Actions
 
 | Card | Action | Type | Warm-up | Damage |

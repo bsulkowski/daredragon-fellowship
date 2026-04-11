@@ -236,6 +236,8 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ## 2. Tabele referencyjne
 
+> **Uczysz się gry po raz pierwszy?** Zanim zagłębisz się w tabele, rozważ lekturę [Przykładowej rozgrywki](sample_gameplay_pl.md) razem z tymi zasadami. Przeprowadza przez całą walkę krok po kroku i kontynuuje też wątek fabularny.
+
 ### 2.1. Akcje śmiałków
 
 | Karta | Akcja | Typ | Czas przy-<br>gotowania | Obrażenia |
