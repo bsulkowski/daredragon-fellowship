@@ -6,6 +6,30 @@ Characters are introduced gradually across sections — readers learn who they a
 
 ---
 
+## Story Principles
+
+**Purpose:** Story provides a fantasy background — a prose illustration of abstract game mechanics translated into the fictional universe. It is not a summary of rules in disguise. It should read well on its own, even to someone who has never seen the rulebook.
+
+**No fourth-wall breaks:** Story prose must stay entirely within the fictional world. It must never reference concepts like cards, dealing, turns, or HP. Those belong to the rules layer. The story layer only speaks of what characters see, feel, do, and say in the fantasy world.
+
+A figure of speech is the one exception — "the fates dealt him a poor hand" or "when his turn came" can appear if they read as natural idiom, not mechanical instruction.
+
+**Translating mechanics into story:**
+
+- *Cards at hand* represent a daredevil's opportunities, potential, and morale — their readiness to act. A full hand is a focused, capable fighter; an empty hand is exhausted, cornered, running on instinct alone.
+- *Dealing a card to a fellow player* becomes: a word of tactical advice, a shout of encouragement, a steadying hand on a shoulder — or, for a daredevil who is down, the quiet inspiration of seeing someone worth fighting for. Story does not mention cards; it renders the human (or dwarven, elven, hobbit) act behind the gesture.
+
+**Two levels, two lenses:**
+
+In sample gameplay sections, player names serve double duty — the same name refers to both the player at the table and their avatar in the fiction — for simplicity. But the level being written from must always be deliberate:
+
+- *Mechanic layer (player lens):* "Gorrak deals a 10♠ card to Lirien."
+- *Story layer (avatar lens):* "Gorrak pulls a length of heavy chain from his pack and holds it out to Lirien. 'Rock-solid,' he says."
+
+Never let the two layers bleed into each other within a single sentence or passage.
+
+---
+
 ## The Fellowship
 
 ### Gorrak Copperfist — Dwarf, tough melee, axe
