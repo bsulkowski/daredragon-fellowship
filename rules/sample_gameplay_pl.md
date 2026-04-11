@@ -451,7 +451,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Ustawienie**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -467,9 +467,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 51 — Pip**
 
-**Ręka:** 2♣ 8♠ W♥ *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
+**Ręka:** 2♣ 8♠ W♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 2)*
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -483,7 +483,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 51❖ — Skeldrath**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -495,9 +495,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 52 — Magnus**
 
-**Ręka:** 10♦ 5♠ *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
+**Ręka:** 10♦ 5♠ *(Gorrak: 3 · Lirien: 3 · Pip: 2)*
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -513,7 +513,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 52❖ — Skeldrath**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -525,9 +525,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 53 — Gorrak**
 
-**Ręka:** 7♣ W♠ K♦ 9♠ *(Pip: 3 · Magnus: 2 · Lirien: 4)*
+**Ręka:** 7♣ W♠ K♦ 9♠ *(Lirien: 4 · Pip: 3 · Magnus: 2)*
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -545,7 +545,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 53❖ — Skeldrath**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -557,9 +557,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 54 — Lirien**
 
-**Ręka:** D♦ 6♣ 2♥ D♣ *(Pip: 3 · Magnus: 2 · Gorrak: 3)*
+**Ręka:** D♦ 6♣ 2♥ D♣ *(Gorrak: 3 · Pip: 3 · Magnus: 2)*
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Magnus
 
@@ -579,7 +579,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 54❖ — Skeldrath**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -591,9 +591,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 55 — Pip**
 
-**Ręka:** 8♠ W♥ 6♥ *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
+**Ręka:** 8♠ W♥ 6♥ *(Gorrak: 3 · Lirien: 3 · Magnus: 2)*
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -609,7 +609,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Tura 55❖ — Skeldrath**
 
-**PŻ:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -632,9 +632,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 56 — Magnus**
 
-**Ręka:** 10♦ 5♠ *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
+**Ręka:** 10♦ 5♠ *(Gorrak: 3 · Lirien: 3 · Pip: 2)*
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -650,7 +650,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 56❖ — Skeldrath**
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -662,9 +662,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 57 — Gorrak**
 
-**Ręka:** 7♣ W♠ 9♠ *(Pip: 2 · Magnus: 1 · Lirien: 3)*
+**Ręka:** 7♣ W♠ 9♠ *(Lirien: 3 · Pip: 2 · Magnus: 1)*
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -678,7 +678,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 57❖ — Skeldrath**
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Gorrak
 
@@ -697,9 +697,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 58 — Lirien**
 
-**Ręka:** 6♣ 2♥ D♣ *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
+**Ręka:** 6♣ 2♥ D♣ *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -715,7 +715,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 58❖ — Skeldrath**
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -727,9 +727,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 59 — Pip**
 
-**Ręka:** 8♠ 6♥ *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
+**Ręka:** 8♠ 6♥ *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -745,7 +745,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Tura 59❖ — Skeldrath**
 
-**PŻ:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -777,9 +777,9 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 60 — Magnus**
 
-**Ręka:** 5♠ *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
+**Ręka:** 5♠ *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -797,7 +797,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 60❖ — Skeldrath**
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Cel:** Pip
 
@@ -815,9 +815,9 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 61 — Gorrak**
 
-**Ręka:** 7♣ 9♠ *(Pip: 1 · Magnus: 0 · Lirien: 2)*
+**Ręka:** 7♣ 9♠ *(Lirien: 2 · Pip: 1 · Magnus: 0)*
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Cel:** Pip
 
@@ -833,7 +833,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 61❖ — Skeldrath**
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
 
 **Cel:** Pip
 
@@ -845,9 +845,9 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 62 — Lirien**
 
-**Ręka:** 6♣ 2♥ 4♠ *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
+**Ręka:** 6♣ 2♥ 4♠ *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
 
 **Cel:** Pip
 
@@ -878,7 +878,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 62❖ — Skeldrath**
 
-**PŻ:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 
@@ -903,9 +903,9 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 63 — Pip**
 
-**Ręka:** 6♥ 3♥ *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
+**Ręka:** 6♥ 3♥ *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 
@@ -921,7 +921,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 63❖ — Skeldrath**
 
-**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 
@@ -935,9 +935,9 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 64 — Magnus**
 
-**Ręka:** 10♦ *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
+**Ręka:** 10♦ *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**PŻ:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 
@@ -955,7 +955,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 64❖ — Skeldrath**
 
-**PŻ:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 
@@ -973,7 +973,7 @@ Czas ochłodzenia 1 → wygasa w Turze 65❖.
 
 **Stan na koniec Tury 64❖**
 
-**PŻ:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
 
 **Cel:** Pip
 

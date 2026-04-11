@@ -451,7 +451,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Setup**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -467,9 +467,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 51 — Pip**
 
-**Hand:** 2♣ 8♠ J♥  *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
+**Hand:** 2♣ 8♠ J♥  *(Gorrak: 3 · Lirien: 3 · Magnus: 2)*
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -483,7 +483,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 51❖ — Skeldrath**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -495,9 +495,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 52 — Magnus**
 
-**Hand:** 10♦ 5♠  *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
+**Hand:** 10♦ 5♠  *(Gorrak: 3 · Lirien: 3 · Pip: 2)*
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -513,7 +513,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 52❖ — Skeldrath**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -525,9 +525,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 53 — Gorrak**
 
-**Hand:** 7♣ J♠ K♦ 9♠  *(Pip: 3 · Magnus: 2 · Lirien: 4)*
+**Hand:** 7♣ J♠ K♦ 9♠  *(Lirien: 4 · Pip: 3 · Magnus: 2)*
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16↓ · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16↓ · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -545,7 +545,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 53❖ — Skeldrath**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -557,9 +557,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 54 — Lirien**
 
-**Hand:** Q♦ 6♣ 2♥ Q♣  *(Pip: 3 · Magnus: 2 · Gorrak: 3)*
+**Hand:** Q♦ 6♣ 2♥ Q♣  *(Gorrak: 3 · Pip: 3 · Magnus: 2)*
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Magnus
 
@@ -579,7 +579,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 54❖ — Skeldrath**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -591,9 +591,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 55 — Pip**
 
-**Hand:** 8♠ J♥ 6♥  *(Magnus: 2 · Gorrak: 3 · Lirien: 3)*
+**Hand:** 8♠ J♥ 6♥  *(Gorrak: 3 · Lirien: 3 · Magnus: 2)*
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -609,7 +609,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Turn 55❖ — Skeldrath**
 
-**HP:** Pip 15 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 15 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -632,9 +632,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 56 — Magnus**
 
-**Hand:** 10♦ 5♠  *(Pip: 2 · Gorrak: 3 · Lirien: 3)*
+**Hand:** 10♦ 5♠  *(Gorrak: 3 · Lirien: 3 · Pip: 2)*
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -650,7 +650,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 56❖ — Skeldrath**
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -662,9 +662,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 57 — Gorrak**
 
-**Hand:** 7♣ J♠ 9♠  *(Pip: 2 · Magnus: 1 · Lirien: 3)*
+**Hand:** 7♣ J♠ 9♠  *(Lirien: 3 · Pip: 2 · Magnus: 1)*
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -678,7 +678,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 57❖ — Skeldrath**
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Gorrak
 
@@ -697,9 +697,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 58 — Lirien**
 
-**Hand:** 6♣ 2♥ Q♣  *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
+**Hand:** 6♣ 2♥ Q♣  *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -715,7 +715,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 58❖ — Skeldrath**
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -727,9 +727,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 59 — Pip**
 
-**Hand:** 8♠ 6♥  *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
+**Hand:** 8♠ 6♥  *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -745,7 +745,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Turn 59❖ — Skeldrath**
 
-**HP:** Pip 12 · Magnus 14↓ · Gorrak 16 · Lirien 20 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -777,9 +777,9 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 60 — Magnus**
 
-**Hand:** 5♠  *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
+**Hand:** 5♠  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12 · Legs 8 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -797,7 +797,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 60❖ — Skeldrath**
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Target:** Pip
 
@@ -815,9 +815,9 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 61 — Gorrak**
 
-**Hand:** 7♣ 9♠  *(Pip: 1 · Magnus: 0 · Lirien: 2)*
+**Hand:** 7♣ 9♠  *(Lirien: 2 · Pip: 1 · Magnus: 0)*
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Target:** Pip
 
@@ -833,7 +833,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 61❖ — Skeldrath**
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
 
 **Target:** Pip
 
@@ -845,9 +845,9 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 62 — Lirien**
 
-**Hand:** 6♣ 2♥ 4♠  *(Pip: 2 · Magnus: 1 · Gorrak: 2)*
+**Hand:** 6♣ 2♥ 4♠  *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8~ · Tail 22
 
 **Target:** Pip
 
@@ -878,7 +878,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 62❖ — Skeldrath**
 
-**HP:** Pip 11 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
@@ -903,9 +903,9 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 63 — Pip**
 
-**Hand:** 6♥ 3♥  *(Magnus: 1 · Gorrak: 2 · Lirien: 2)*
+**Hand:** 6♥ 3♥  *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
@@ -921,7 +921,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 63❖ — Skeldrath**
 
-**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
@@ -935,9 +935,9 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 64 — Magnus**
 
-**Hand:** 10♦  *(Pip: 1 · Gorrak: 2 · Lirien: 2)*
+**Hand:** 10♦  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**HP:** Pip 7 · Magnus 14↓ · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
@@ -955,7 +955,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 64❖ — Skeldrath**
 
-**HP:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
@@ -973,7 +973,7 @@ Cooldown 1 → expires Turn 65❖.
 
 **State at end of Turn 64❖**
 
-**HP:** Pip 7 · Magnus 14 · Gorrak 15 · Lirien 16 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
 
 **Target:** Pip
 
