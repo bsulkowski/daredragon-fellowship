@@ -370,7 +370,7 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 *Wersja: 0.15*
 
-W obecnej postaci gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Natomiast może wciąż mieć problemy z wyważeniem i wymagać dalszych szlifów. Planuję także rozszerzenie jej o dodatkowe elementy.
+Gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Jest aktywnie rozwijana na podstawie feedbacku graczy — jeśli znajdziesz coś, co mogłoby działać lepiej, daj znać. Rozszerzenia są w przygotowaniu.
 
 ### 3.1. Wyważenie gry
 

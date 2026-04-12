@@ -371,7 +371,7 @@ All HP-based penalties are evaluated at the moment an attack resolves, not when 
 
 *Version: 0.15*
 
-At the current state, the game is complete, fully playable and enjoyable. However, there still might be balance issues that need polishing. I am also going to extend it with new features.
+The game is complete, fully playable and enjoyable. It is actively developed based on player feedback — if you find something that could be better, please let us know. Extensions are in the works.
 
 ### 3.1. Game Balance
 
