@@ -371,7 +371,7 @@ All HP-based penalties are evaluated at the moment an attack resolves, not when 
 
 *Version: 0.15*
 
-The game is complete, fully playable and enjoyable. It is actively developed based on player feedback — if you find something that could be better, please let us know. Extensions are in the works.
+The game is complete, fully playable and enjoyable. It is actively developed based on player feedback — if you find something that could be better, share it in [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19). For rules questions, visit [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20). Extensions are in the works.
 
 ### 3.1. Game Balance
 

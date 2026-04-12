@@ -43,6 +43,16 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 |------|-------------|
 | [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices |
 
+## Community
+
+| Discussion | Description |
+|---|---|
+| [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Q&A — ask questions and clarify rules |
+| [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19) | Feedback on balance, improvements, and new ideas |
+| [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Share your most epic moments from the game |
+| [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17) | Poll |
+| [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12) | Poll |
+
 ## Revision History
 
 | Version | Date | Changes |
