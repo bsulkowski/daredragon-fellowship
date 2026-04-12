@@ -111,6 +111,16 @@ What the fellowship can do, what limits them, and how the game scales with group
 
 Players cannot draw cards for themselves — only for others. This is the sole source of new cards. The constraint is a core cooperation mechanic: players who focus on attacking will starve their hand unless teammates actively support them. It creates a natural tension between offensive and supportive play without requiring a dedicated "support role".
 
+### Hidden Hand — Autonomy, Not Secrecy
+
+Cards are kept hidden from other players. This is a deliberate design choice, but its logic is not obvious: the goal is not to conceal tactical information, but to protect each player's decision-making autonomy.
+
+Hidden cards create a sense of privacy that makes space for independent choices without group pressure — especially when those choices involve sacrifice (playing a weaker card, skipping an attack to support a teammate). Without that privacy, a dominant player could effectively make decisions for others by seeing their options.
+
+**Banning communication is not the answer.** If the rules prohibited talking about cards, they would restrict the very autonomy they are meant to protect — players would feel abandoned rather than free. The game does not impose silence; each player simply has the right not to reveal their hand. That is the difference between a rule and a social norm.
+
+**Assertiveness as a side effect.** The hidden-hand dynamic creates a natural setting for practising assertiveness — particularly at a table with a more dominant player. Saying "I'll decide what I play myself" is fully legitimate and in the spirit of the game. For younger players especially, this is a valuable experience: the game's mechanics give context and legitimacy to saying no.
+
 ### Hand Size Tied to HP
 
 A player's maximum hand size is determined by their current HP via a stepped mapping (see rules 3.3): full health allows 6 cards; as HP drops through defined thresholds, the limit falls to 5, then 4, then 3, reaching 0 (incapacitated) at 0 HP. This is not a bookkeeping detail — it is a core expression of what HP means in this game.

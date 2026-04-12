@@ -126,7 +126,7 @@ A token placed around the board helps track the current turn.
 
 ### 1.5. Performing Actions by Daredevils
 
-Players keep their cards hidden from other players. It is important that each daredevil feels completely free to independently choose which action to perform, especially when it involves some sacrifice on their part.
+Players keep their cards hidden from other players. It is important that each daredevil feels completely free to independently choose which action to perform, especially when it involves some sacrifice on their part. Every daredevil has the full right to keep their cards to themselves — respecting that privacy is part of the spirit of the game.
 
 On their turn, a daredevil may initiate an action by playing a card from their hand. A warm-up phase then begins, lasting a set number of daredevil turns depending on the action type. This is indicated by placing the action card on the edge of the board next to the turn on which the warm-up expires (not next to the turn of the daredevil who played it). At the start of that turn the action resolves and triggers its effect, and the corresponding card is placed on the daredevils' discard pile.
 

@@ -126,7 +126,7 @@ W śledzeniu bieżącej tury pomaga znacznik, umieszczany na polach dookoła pla
 
 ### 1.5. Wykonywanie akcji przez śmiałków
 
-Gracze trzymają swoje karty na ręce zakryte przed pozostałymi. Istotne jest, aby poszczególni śmiałkowie czuli się całkowicie wolni w samodzielnym wyborze wykonywanej akcji, zwłaszcza gdy jest ona związana z jakimś poświęceniem z ich strony.
+Gracze trzymają swoje karty na ręce zakryte przed pozostałymi. Istotne jest, aby poszczególni śmiałkowie czuli się całkowicie wolni w samodzielnym wyborze wykonywanej akcji, zwłaszcza gdy jest ona związana z jakimś poświęceniem z ich strony. Każdy śmiałek ma pełne prawo zachować swoje karty dla siebie — respektowanie tej prywatności przez pozostałych jest częścią ducha gry.
 
 Śmiałek może w swojej turze zainicjować akcję, grając kartę z ręki. Następuje wówczas etap przygotowania akcji, który trwa określoną liczbę tur śmiałków, w zależności od rodzaju akcji. Jest to zaznaczane przez położenie tej karty akcji na brzegu planszy, przy turze w której upływa czas przygotowania (nie przy turze śmiałka, który ją zagrał). Na początku tej tury akcja zostaje wykonana i wywołuje właściwy sobie efekt, a odpowiadająca jej karta zostaje odłożona na stos odrzuconych kart śmiałków.
 

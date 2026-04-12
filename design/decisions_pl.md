@@ -111,6 +111,16 @@ Co drużyna może robić, co ją ogranicza i jak gra skaluje się do liczby grac
 
 Gracze nie mogą dobierać kart dla siebie — wyłącznie dla innych. Jest to jedyne źródło nowych kart. To ograniczenie to rdzenna mechanika współpracy: gracze skupieni na atakowaniu wyjałowią sobie rękę, jeśli towarzysze ich aktywnie nie wspierają. Tworzy to naturalne napięcie między grą ofensywną a wspomagającą bez konieczności wprowadzania dedykowanej „roli wspierającej".
 
+### Zakryte karty na ręce — autonomia, nie tajemnica
+
+Karty na ręce są zakryte przed pozostałymi graczami. Jest to celowy wybór projektowy, ale jego logika nie jest oczywista: celem nie jest ukrywanie informacji taktycznej, lecz ochrona autonomii decyzyjnej każdego gracza.
+
+Zakryte karty dają poczucie prywatności, które tworzy przestrzeń do samodzielnego decydowania bez presji grupy — zwłaszcza gdy chodzi o akcje wymagające poświęcenia (np. zagranie słabszej karty, rezygnacja z ataku na rzecz wsparcia). Bez tej prywatności dominujący gracz mógłby faktycznie podejmować decyzje za resztę, widząc ich opcje.
+
+**Zakaz rozmów nie wchodzi w grę.** Gdyby zasady zabraniały komunikacji o kartach, ograniczałoby to tę samą autonomię, którą mają chronić — gracze czuliby się zostawieni sami sobie, a nie wolni. Gra nie narzuca milczenia; każdy gracz ma po prostu prawo nie ujawniać swojej ręki. To różnica między regułą a normą społeczną.
+
+**Asertywność jako efekt uboczny.** Dynamika zakrytych kart tworzy naturalne środowisko do ćwiczenia asertywności — szczególnie przy stole z bardziej dominującym graczem. Powiedzenie „sam zdecyduję, co zagram" jest w pełni uprawnione i zgodne z duchem gry. Zwłaszcza dla młodszych graczy jest to wartościowe doświadczenie, gdzie mechanika gry daje kontekst i legitymizację dla odmowy.
+
 ### Limit kart na ręce powiązany z punktami życia
 
 Maksymalny limit kart na ręce gracza jest określony przez aktualne HP za pomocą schodkowego przypisania (patrz zasady 3.3): pełne zdrowie pozwala na 6 kart; w miarę jak HP spada przez kolejne progi, limit maleje do 5, potem do 4, potem do 3, osiągając 0 (obezwładnienie) przy HP równym 0. Nie jest to detal księgowy — to rdzenne wyrażenie tego, czym są punkty życia w tej grze.
