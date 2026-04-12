@@ -135,7 +135,7 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 > **Mechanika:** Osłona jest akcją typu Czuwanie — nie ma czasu przygotowania i pozostaje aktywna do następnej tury Magnusa (Tura 8). Jeśli smok zaatakuje Pip'a przed tym czasem, Magnus przejmie cios na siebie, redukując obrażenia o -3Ϟ.
 
-*Magnus wysuwa się do przodu, młot uniesiony, i staje między Pip'em a nadchodzącym ciosem.*
+*Magnus wysuwa się do przodu, młot uniesiony, i staje między Pip'em a nadchodzącym ciosem. Lemat, który przemierzał ścianę w absolutnej ciszy, zatrzymuje się, żeby to obserwować. Jego mina, o ile kot w ogóle posiada minę, sugeruje, że spodziewał się tego ciosu i niezbyt wysoko ocenia plan.*
 
 ---
 
@@ -539,7 +539,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 > **Mechanika:** Prowokacja rozstrzyga się w Turze 54, wciąż w trakcie przygotowania Zgniecenia. Ma to dwie konsekwencje, które ujawnią się w T54: cel przesuwa się na Gorraka, a czas przygotowania wydłuża się o +1. Oba efekty działają jednocześnie w chwili rozstrzygnięcia Prowokacji.
 
-*Gorrak wstaje, obraca ramieniem i idzie do ściany. Siekiera Hildry jest dokładnie tam, gdzie zostawił ją Skeldrath — oparta o kamień, jakby nic nie znaczyła. Gorrak ją podnosi. Nic nie mówi. Nie musi.*
+*Gorrak wstaje, obraca ramieniem i idzie do ściany. Siekiera Hildry jest dokładnie tam, gdzie zostawił ją Skeldrath — oparta o kamień, jakby nic nie znaczyła. Gorrak ją podnosi. Nic nie mówi. Nie musi. Gdzieś obok Lemat siedzi bardzo wyprostowany i obserwuje go z uwagą, której nie poświęcił niczemu innemu w tej sali. Gdy się odwraca, on odwraca wzrok.*
 
 ---
 
@@ -967,7 +967,7 @@ Czas ochłodzenia 1 → wygasa w Turze 65❖.
 
 > **Mechanika:** Ryk wymazuje całą kolejkę oczekujących akcji śmiałków jednym ruchem. Pip traci swój Atak zanim odpali. Każdy gracz odrzuca też 2 karty — znaczące uszczuplenie ręki w momencie, gdy ręce są już ograniczone przez progi PŻ. Drużyna musi budować siłę od zera. To najmocniejsza zmiana dynamiki w rękach smoka: karze za długie inwestycje w czas przygotowania i całkowicie resetuje planszę na korzyść smoka.
 
-*Dźwięk uderza jak ściana. Karty się rozsypują. Oczekujące akcje znikają — koncentracja potrzebna do ich utrzymania po prostu gdzieś odpłynęła. Gdy echo cichnie, sala jest bardzo cicha. Czworo stoi w mroku, trzymając mniej kart niż chwilę wcześniej, i patrzy na smoka, który już na nich patrzy.*
+*Dźwięk uderza jak ściana. Karty się rozsypują. Oczekujące akcje znikają — koncentracja potrzebna do ich utrzymania po prostu gdzieś odpłynęła. Gdy echo cichnie, sala jest bardzo cicha. Czworo stoi w mroku, trzymając mniej kart niż chwilę wcześniej, i patrzy na smoka, który już na nich patrzy. Lemat się nie ruszył. Siedzi na wyczerpanych relikwiach przy skraju sali, z wpółprzymkniętymi oczami, jakby Ryk był drobną niedogodnością. Być może rzeczywiście nią był.*
 
 ---
 
@@ -1095,7 +1095,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 > **Mechanika:** Osłona to akcja Czuwania — bez czasu przygotowania, aktywna do następnej tury Magnusa. Magnus stoi na 3 PŻ — ograniczenia za leżenie na ziemi nie mają zastosowania. Gdy Zamach rozstrzygnie się w następnej turze smoka jako Atak na obszar, Osłona Magnusa redukuje obrażenia o -3Ϟ dla całego obszaru — ale ponieważ on sam jest w obszarze ataku, nie osłania siebie.
 
-*Magnus unosi młot. Na 3 PŻ to nie jest gest, który wykonuje lekko. Ustawia się między zamachem ogona a pozostałymi. Lemma, gdzieś w mroku za nim, wydaje dźwięk dezaprobaty. Ignoruje to.*
+*Magnus unosi młot. Na 3 PŻ to nie jest gest, który wykonuje lekko. Ustawia się między zamachem ogona a pozostałymi. Lemat, gdzieś w mroku za nim, wydaje dźwięk dezaprobaty. Magnus go ignoruje.*
 
 ---
 
@@ -1169,7 +1169,7 @@ Czas ochłodzenia 2 → wygasa w Turze 106❖.
 
 > **Mechanika:** Pierwsza pomoc rozstrzyga się na początku tury Lirien. Pip znów stoi na nogach z 8 PŻ (zakres 7–13: maks. 4 karty, obrażenia -1Ϟ). Lirien kontynuuje Dobieraniem kart, by uzupełnić zasoby drużyny — nie może dobrać dla siebie. Magnus na 0 PŻ nie może trzymać kart i nie korzysta z dobrania.
 
-*Pip otwiera oczy. Lirien jest obok. Patrzy w sufit, potem na nią, potem na smoka. „Dobra" — mówi. Nic więcej nie mówi. Wstaje.*
+*Pip otwiera oczy. Lirien jest obok. Patrzy w sufit, potem na nią, potem na smoka. „Dobra" — mówi. Nic więcej nie mówi. Wstaje. Lemat pojawia się skądś i przez chwilę trze się o jego kostkę — raz, celowo — po czym odchodzi w przeciwnym kierunku, jakby to się nie zdarzyło.*
 
 ---
 

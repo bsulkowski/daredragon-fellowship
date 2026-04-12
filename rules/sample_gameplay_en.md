@@ -135,7 +135,7 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 > **Mechanics:** Shield is a Guard-type action — it has no warm-up and stays active until Magnus's next turn (Turn 8). If the dragon attacks Pip before then, Magnus will step in and take the hit instead, with damage reduced by -3Ϟ.
 
-*Magnus steps forward, hammer raised, and plants himself between Pip and the incoming blow.*
+*Magnus steps forward, hammer raised, and plants himself between Pip and the incoming blow. Lemma, who has been making his way along the wall in absolute silence, pauses to observe this. His expression, insofar as a cat has one, suggests he has been expecting the blow and does not think much of the plan.*
 
 ---
 
@@ -539,7 +539,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 > **Mechanics:** Draw Aggro resolves at Turn 54, which is still during the Crush's warm-up. This has two consequences that will play out at T54: the target shifts to Gorrak, and the warm-up is extended by +1. Both effects apply simultaneously when Draw Aggro resolves.
 
-*Gorrak gets to his feet, rolls his shoulder, and walks to the wall. Hildra's axe is right where Skeldrath left it — leaning against the stone like it means nothing. Gorrak picks it up. He says nothing. He doesn't need to.*
+*Gorrak gets to his feet, rolls his shoulder, and walks to the wall. Hildra's axe is right where Skeldrath left it — leaning against the stone like it means nothing. Gorrak picks it up. He says nothing. He doesn't need to. Somewhere nearby, Lemma sits very upright, watching him with an attention he has not given anything else in this hall. When he turns, he looks away.*
 
 ---
 
@@ -967,7 +967,7 @@ Cooldown 1 → expires Turn 65❖.
 
 > **Mechanics:** Roar erases the entire queue of pending daredevil actions in a single move. Pip loses his Strike before it fires. Every player also discards 2 cards — a significant hand drain at a point where hands are already limited by HP thresholds. The fellowship must rebuild from scratch. This is the dragon's sharpest momentum swing: it punishes long warm-up investments and resets the board entirely in the dragon's favour.
 
-*The sound hits like a wall. Cards scatter. Pending actions dissolve — the concentration required to hold them simply gone. When the echo fades, the hall is very quiet. Four people stand in the dark, holding fewer cards than they had a moment ago, looking at a dragon that is already watching them.*
+*The sound hits like a wall. Cards scatter. Pending actions dissolve — the concentration required to hold them simply gone. When the echo fades, the hall is very quiet. Four people stand in the dark, holding fewer cards than they had a moment ago, looking at a dragon that is already watching them. Lemma has not moved. He sits on a drained relic at the edge of the hall, eyes half-closed, as though the Roar was a minor inconvenience. It may, in fact, have been.*
 
 ---
 
@@ -1169,7 +1169,7 @@ Cool-down 2 → expires Turn 106❖.
 
 > **Mechanics:** First Aid resolves at the start of Lirien's turn. Pip is back on his feet at 8 HP (7–13 range: max 4 cards, damage −1Ϟ). Lirien follows with Draw Cards to replenish the fellowship — she cannot draw for herself. Magnus at 0 HP cannot hold cards and does not benefit from the draw.
 
-*Pip opens his eyes. Lirien is there. He looks at the ceiling, then at her, then at the dragon. "Right," he says. He does not say anything else. He gets up.*
+*Pip opens his eyes. Lirien is there. He looks at the ceiling, then at her, then at the dragon. "Right," he says. He does not say anything else. He gets up. Lemma appears from somewhere and briefly presses against his ankle — once, deliberately — then continues walking in the opposite direction as though this did not happen.*
 
 ---
 
