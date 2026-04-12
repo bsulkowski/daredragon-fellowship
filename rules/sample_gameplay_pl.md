@@ -41,7 +41,7 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 > **Mechanika:** Zamiast wykonać akcję, śmiałek może rozdać po jednej karcie z talii każdemu ze swoich towarzyszy. Gracz nie może dobrać karty dla siebie.
 
-*Gorrak trzyma dwie karty i nic nie mówi. Rozdaje karty towarzyszom — gest, który dla niego jest równoważny przemowie.*
+*Gorrak nic nie mówi. Wyciąga z sakiewki przy pasie trzy runiczne kamienie i kładzie po jednym przed każdym z towarzyszy — gest, który dla niego jest równoważny przemowie.*
 
 ---
 
@@ -71,7 +71,7 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 **Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (7♦), Pip (4♥), Magnusowi (8♣).
 
-*Lirien rozdaje karty, nie podnosząc wzroku. Policzyła każdą broń smoka. Jeszcze nie jest gotowa.*
+*Lirien mruczy po kolei słowo do każdego z nich — liczbę, kierunek, słaby punkt — nie odrywając wzroku od smoka. Policzyła każdą jego broń. Jeszcze nie jest gotowa.*
 
 ---
 
@@ -105,7 +105,7 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 > **Mechanika:** Pip jest celem, ale cios smoka nie dotrze aż do Tury 4❖. Zamiast panikować, rozdaje karty — jeśli jego towarzysze mają walczyć ze smokiem, potrzebują opcji.
 
-*Pip przełyka ślinę, po czym rozdaje karty innym spokojnymi rękami. Jeśli ma być obserwowany, inni lepiej żeby byli uzbrojeni.*
+*Pip przełyka ślinę. Potem, z rękoma spokojniejszymi niż miałyby prawo być, wydobywa skądś zza pazuchy trzy paski suszonego jabłka i wsuwa po jednym w dłoń każdego z towarzyszy. Jeśli ma być obserwowany, inni lepiej żeby byli gotowi.*
 
 ---
 
@@ -265,7 +265,7 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 > **Mechanika:** Magnus wie, że Ugryzienie nadchodzi, ale ufa pozycji Pip'a. Używa swojej tury na rozdanie kart — drużyna będzie potrzebować siły ognia, gdy ten cios zostanie odparty.
 
-*Magnus wie, co nadchodzi. Rozdaje karty z jednym okiem na szczęki smoka, ufając osądowi Pip'a bardziej niż własnym opcjom.*
+*Magnus wie, co nadchodzi. Mruczy krótkie zaklęcie ochronne do każdego z pozostałych po kolei — takie, które uspokaja nerwy, jeśli nie kości — z jednym okiem utkwionym w szczęki smoka, ufając osądowi Pip'a bardziej niż własnym instynktom.*
 
 ---
 
@@ -477,7 +477,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Gra:** 2♣ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 53.
 
-*Dwóch z nich na ziemi. Pip ocenia pole, chowa bełt, którego jeszcze nie potrzebuje, i przesuwa kartę w stronę jednego z towarzyszy. „Wstań, jak będziesz mógł" — mówi. To nie jest pytanie.*
+*Dwóch z nich na ziemi. Pip ocenia pole, chowa bełt, którego jeszcze nie potrzebuje. „Wstań, jak będziesz mógł" — woła do najbliższego z nich. To nie jest pytanie.*
 
 ---
 
@@ -507,7 +507,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 > **Mechanika:** Magnus nie może dobrać karty dla siebie — tylko dla towarzyszy. Używa swojej tury leżąc na ziemi, by dać innym opcje na to, co nadchodzi.
 
-*Magnus, leżąc na plecach, rozdaje karty ręką, która jeszcze w pełni działa. „Na wypadek gdyby ktoś potrzebował opcji" — mówi do sufitu.*
+*Magnus, leżąc na plecach, woła po kolei do każdego z towarzyszy — imiona, namiary, przypomnienia tego, co jeszcze działa. „Na wypadek gdyby ktoś potrzebował opcji" — mówi do sufitu.*
 
 ---
 
@@ -539,7 +539,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 > **Mechanika:** Prowokacja rozstrzyga się w Turze 54, wciąż w trakcie przygotowania Zgniecenia. Ma to dwie konsekwencje, które ujawnią się w T54: cel przesuwa się na Gorraka, a czas przygotowania wydłuża się o +1. Oba efekty działają jednocześnie w chwili rozstrzygnięcia Prowokacji.
 
-*Gorrak wstaje, obraca ramieniem i staje bezpośrednio w polu widzenia smoka. Nic nie mówi. Nie musi.*
+*Gorrak wstaje, obraca ramieniem i idzie do ściany. Siekiera Hildry jest dokładnie tam, gdzie zostawił ją Skeldrath — oparta o kamień, jakby nic nie znaczyła. Gorrak ją podnosi. Nic nie mówi. Nie musi.*
 
 ---
 
@@ -573,7 +573,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 > **Mechanika:** Wydłużenie czasu przygotowania przez Prowokację dotyczy każdej sytuacji, gdy rozstrzyga się ona w trakcie przygotowania ataku smoka. Tu Zgniecenie było na 3/4 — potrzebuje jeszcze 2 tur (dotrze do T55❖ zamiast T54❖). Cel to też teraz Gorrak, więc obie kolejne osłony będą go chronić, nie Magnusa.
 
-*Wzrok smoka przesuwa się z Magnusa na Gorraka. Gorrak przyjmuje go bez mrugnięcia. Lirien zajmuje pozycję bez słowa — już dawno policzyła tury.*
+*Artefakt łapie światło. Wzrok smoka przesuwa się z Magnusa na Gorraka — i zatrzymuje się. Gorrak przyjmuje go bez mrugnięcia. Lirien zajmuje pozycję bez słowa — już dawno odczytała ten moment.*
 
 ---
 
@@ -644,7 +644,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 > **Mechanika:** Leżąc na ziemi, czas przygotowania Magnusa wynosi +1 (bazowy 3 → 4). Splątanie samo w sobie zadaje 0 obrażeń; jego wartość to premia +1Ϟ do wszystkich przyszłych ataków na splątaną część ciała oraz opóźnienie, które narzuca smokowi gdy użyje tej części do kolejnego ataku.
 
-*Magnus studiuje pole bitwy z podłogi. Jego młot jest tuż poza zasięgiem. Jego karty — nie. Wybiera wolniejszą opcję i zaczyna kanalizować — nie cios, lecz więzy.*
+*Magnus studiuje pole bitwy z podłogi. Jego młot jest tuż poza zasięgiem. Skupienie — nie. Wybiera wolniejszą opcję i zaczyna kanalizować — nie cios, lecz więzy.*
 
 ---
 
@@ -809,7 +809,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 > **Mechanika:** Koszt uwolnienia ze splątania dotyczy też smoka. Gdy smok gra atak używający splątanej części ciała, pierwsza tura przygotowania jest poświęcona na uwolnienie — splątanie tej części ciała jest usuwane podczas tej tury, a atak przebiega normalnie od drugiej tury przygotowania. Dlatego Szybki atak (normalnie czas przygotowania 1) rozstrzyga się w T62❖, a nie T61❖.
 
-*Łapa napiera przeciwko więzom. Coś się rozrywa. Jeszcze jedna tura zanim się uwolni.*
+*Łapa napiera przeciwko więzom. Coś się rozrywa. Jeszcze nie wolna — ale blisko.*
 
 ---
 
@@ -827,7 +827,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 > **Mechanika:** Osłona Gorraka wygasa w tej turze (była aktywna do jego następnej tury, która właśnie nastała). Dwa ataki mają rozstrzygnąć się w T62 — Gorrak dostarcza Magnusowi i Pip'owi zasoby, których mogą potrzebować po rozstrzygnięciu. Nie może dobrać dla siebie.
 
-*Gorrak rozdaje karty szybko, z jednym okiem na zmagającą się łapę. „T62" — mówi. Lirien kiwa głową. Na tym kończy się cała rozmowa.*
+*Gorrak działa szybko, z jednym okiem na zmagającą się łapę. Mówi coś krótkiego do Lirien — imię albo może liczbę. Kiwa głową. Na tym kończy się cała rozmowa.*
 
 ---
 
@@ -915,7 +915,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 > **Mechanika:** Pip jest na 7 PŻ (zakres 1–13) → zadawane obrażenia -1Ϟ. Gdy Atak rozstrzygnie się w T65, kara ta zostanie zastosowana. Splątanie Łap zostało usunięte w T61❖ gdy zakończyła się tura uwalniania smoka — Łapy nie są już splątane, ale pozostają na 2 PŻ (zakres 1–13), więc ataki smoka Łapami nadal niosą -1Ϟ.
 
-*Pip wyciera sadzę z twarzy i rusza dalej. Siedem PŻ. Wystarczy.*
+*Pip wyciera sadzę z twarzy i rusza dalej. Oddycha. Wystarczy.*
 
 ---
 
@@ -949,7 +949,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 > **Mechanika:** Magnus znów stoi na nogach tuż przed uderzeniem Ryku. Natychmiast rozdaje karty — będą to zasoby drużyny po tym, jak Ryk wymaże wszystkie oczekujące akcje. Nie może dać sobie karty; to co ma — zachowuje.
 
-*Magnus wstaje. Nie świętuje — w klatce piersiowej smoka narasta dźwięk, który rozpoznaje i nie lubi. Szybko rozdaje karty. „Trzymajcie co możecie" — mówi. „Za chwilę będzie głośno."*
+*Magnus wstaje. Nie świętuje — w klatce piersiowej smoka narasta dźwięk, który rozpoznaje i nie lubi. „Trzymajcie co możecie" — krzyczy. „Za chwilę będzie głośno."*
 
 ---
 
@@ -1045,7 +1045,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 > **Mechanika:** Pierwsza pomoc ma bazowy czas przygotowania 4. Lirien stoi — brak kary za ziemię. Rozstrzyga się w następnej turze Lirien (Tura 106), przywracając celowi do 8 PŻ i stawiając go na nogi. Pierwsza pomoc działa nawet na ubezwłasnowolnionych śmiałków.
 
-*Lirien nie rozgląda się gdy kładzie kartę. Nie musi. Jej ostrze nie opuściło dłoni od trzech tur. Zajmie się tym gdy chwila pozwoli. Chwila pozwoli.*
+*Lirien nie rozgląda się gdy działa. Nie musi. Jej ostrze nie opuściło dłoni od początku walki. Zajmie się tym gdy chwila pozwoli. Chwila pozwoli.*
 
 ---
 
@@ -1065,7 +1065,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 > **Mechanika:** Pip jest ubezwłasnowolniony — nie może grać kart akcji, ale dobieranie kart jest zawsze dostępne. Obrażenia Gorraka są redukowane przez jego karę za PŻ; własny zakres 1–13 PŻ Paszczany karze jedynie ataki *smoka* używające Paszczany, nie ataki śmiałków przeciwko niej.
 
-*Pip się nie rusza. Nie ruszył się od kilku tur. Ale jego ręce wciąż działają, i rozdaje karty z cichą precyzją kogoś, kto robił to dziesięć tysięcy razy i zamierza robić jeszcze dziesięć tysięcy kolejnych.*
+*Pip się nie rusza. Nie może. Ale jego głos wciąż niesie, i woła do każdego z towarzyszy — imię, kierunek, okruch otuchy — z cichą precyzją kogoś, kto robił to dziesięć tysięcy razy i zamierza robić jeszcze dziesięć tysięcy kolejnych.*
 
 ---
 
@@ -1241,7 +1241,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 > **Mechanika:** Kara za PŻ Gorraka (-1Ϟ) i kara za ziemię (-2Ϟ) kumulują się do łącznego -3Ϟ, obniżając jego Atak z 5 do 2 obrażeń — dokładnie wystarczające do dobicia Paszczany. Ustalenie celu następuje w chwili rozstrzygnięcia: smok natychmiast bierze Gorraka jako cel. Magnus jest ubezwłasnowolniony i nie może grać kart akcji, ale dobieranie kart jest zawsze dostępne.
 
-*Magnus nie może wstać. Mimo to rozdaje karty. Jego ręce poruszają się stabilnie, co nawet jego samego zaskakuje. Gdy cios Gorraka ląduje na paszczany i ta ostatecznie gaśnie, Magnus pozwala sobie na jeden mały kiwnięcie głową.*
+*Magnus nie może wstać. Podpiera się na łokciu i mimo to woła — stabilnie, co nawet jego samego zaskakuje. Gdy cios Gorraka ląduje na szczęki i te ostatecznie gasną, Magnus pozwala sobie na jeden mały skłon głowy.*
 
 ---
 
@@ -1317,7 +1317,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 > **Mechanika:** Prowokacja przekierowuje cel smoka na Gorraka i wydłuża czas przygotowania Ugryzienia o +1 — rozstrzygnie się teraz w Turze 113❖ zamiast 112❖. Kara za 0 PŻ Paszczany wydłużyła już czas przygotowania z 3 do 4 przy kładzeniu; Prowokacja dodaje jeszcze jeden, dając łącznie 5. Atak Pip'a jest kładziony na Turę 113, rozstrzygając się w turze śmiałka Gorraka przed akcją smoka.
 
-*Pip strzela. Gorrak chrząka z podłogi — nie z bólu, z potwierdzenia. Cel się przesuwa. Gorrak wie co to oznacza. Nie protestuje.*
+*Pip strzela. Z podłogi Gorrak wyciąga rękę i przyciąga do siebie na wpół wyczerpany relikt — dość blisko, żeby go uszkodzić, dość blisko, żeby Skeldrath to zauważył. Wielkie oko się przesuwa. Gorrak wie co to oznacza. Nie protestuje.*
 
 ---
 
@@ -1333,7 +1333,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 **Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (A♠), Lirien (5♦), Pip (3♥).
 
-*Magnus nie ma kart. Dobiera z talii. To wszystko co może zrobić, i to robi.*
+*Magnus nie ma już nic własnego do dania. Leży i mówi — do Gorraka, do Lirien, do Pip'a, do kogokolwiek, kto jeszcze się rusza. To wszystko, co może zrobić, i to robi.*
 
 ---
 
@@ -1365,7 +1365,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 > **Mechanika:** Gorrak ma karty ale gra Dobieranie kart — na 3 PŻ leżąc na ziemi bez akcji, która dotarłaby przed Ugryzieniem, rozdawanie Lirien i Pip'owi jest najlepszym wykorzystaniem jego tury. Magnus na 0 PŻ nie może otrzymywać kart.
 
-*Gorrak ma dwie karty i nic do zagrania, co pomogłoby bardziej niż utrzymywanie reszty uzbrojonych. Rozdaje.*
+*Gorrak nie ma czym uderzyć, żeby dotarło na czas. Ryczy krasnoludowe imiona, które im nadał — te, których nikt inny nie używa. To jego ruch.*
 
 ---
 

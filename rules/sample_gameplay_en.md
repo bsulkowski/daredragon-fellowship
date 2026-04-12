@@ -41,7 +41,7 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 > **Mechanics:** Instead of performing an action, a daredevil may deal one card from the deck to each of their fellow players. A player cannot draw a card for themselves.
 
-*Gorrak holds two cards and says nothing. He deals cards to his companions — a gesture that, for him, counts as a speech.*
+*Gorrak says nothing. He pulls three runestones from his belt pouch and sets one in front of each of his companions — a gesture that, for him, counts as a speech.*
 
 ---
 
@@ -71,7 +71,7 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 **Plays:** Draws — deals one card to Gorrak (7♦), Pip (4♥), Magnus (8♣).
 
-*Lirien distributes cards without looking up. She has counted every weapon the dragon has. She is not ready yet.*
+*Lirien murmurs a word to each of them in turn — a number, a direction, a weakness — without looking up from the dragon. She has counted every weapon it has. She is not ready yet.*
 
 ---
 
@@ -105,7 +105,7 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 > **Mechanics:** Pip is targeted, but the dragon's strike won't land until Turn 4❖. Rather than panic, he deals cards — if his companions are going to fight a dragon, they need options.
 
-*Pip swallows, then deals cards to the others with steady hands. If he's going to be stared at, the others had better be armed.*
+*Pip swallows. Then, with hands steadier than they have any right to be, he produces three strips of dried apple from somewhere about his person and tucks one into each companion's grip. If he's going to be stared at, the others had better be ready.*
 
 ---
 
@@ -265,7 +265,7 @@ Cool-down 1 → Turn 5❖.
 
 > **Mechanics:** Magnus knows the Bite is coming but trusts Pip's positioning. He uses his turn to deal cards — the fellowship will need firepower once this blow is deflected.
 
-*Magnus knows what is coming. He deals out cards with one eye on the dragon's jaws, trusting Pip's judgement more than his own options.*
+*Magnus knows what is coming. He murmurs a short ward to each of the others in sequence — the kind that settles the nerves if not the bones — with one eye fixed on the dragon's jaws, trusting Pip's judgement more than his own instincts.*
 
 ---
 
@@ -477,7 +477,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Plays:** 2♣ — Helping Hand (Support, warm-up 2), card placed at Turn 53.
 
-*Two of them on the ground. Pip surveys the field, pockets a bolt he won't need yet, and slides a card across to one of his companions. "Up when you can," he says. It is not a question.*
+*Two of them on the ground. Pip surveys the field, pockets a bolt he won't need yet. "Up when you can," he calls to the nearest of them. It is not a question.*
 
 ---
 
@@ -507,7 +507,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 > **Mechanics:** Magnus cannot draw a card for himself — only for his companions. He uses his turn from the ground to supply options for what is coming.
 
-*Magnus, flat on his back, deals cards with the arm that still works properly. "In case anyone needs options," he says to the ceiling.*
+*Magnus, flat on his back, calls out to each of his companions in turn — names, bearings, reminders of what still works. "In case anyone needs options," he says to the ceiling.*
 
 ---
 
@@ -539,7 +539,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 > **Mechanics:** Draw Aggro resolves at Turn 54, which is still during the Crush's warm-up. This has two consequences that will play out at T54: the target shifts to Gorrak, and the warm-up is extended by +1. Both effects apply simultaneously when Draw Aggro resolves.
 
-*Gorrak gets to his feet, rolls his shoulder, and steps directly into the dragon's eyeline. He says nothing. He doesn't need to.*
+*Gorrak gets to his feet, rolls his shoulder, and walks to the wall. Hildra's axe is right where Skeldrath left it — leaning against the stone like it means nothing. Gorrak picks it up. He says nothing. He doesn't need to.*
 
 ---
 
@@ -573,7 +573,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 > **Mechanics:** Draw Aggro's warm-up extension applies whenever it resolves while the dragon has an attack in progress. Here, the Crush was at 3/4 — it now needs 2 more turns (arriving at T55❖ instead of T54❖). The target is also Gorrak now, so the two shields that follow will protect him, not Magnus.
 
-*The dragon's gaze slides from Magnus to Gorrak. Gorrak meets it without blinking. Lirien steps into position without a word — she had already counted the turns.*
+*The artifact catches the light. The dragon's gaze slides from Magnus to Gorrak — and stays. Gorrak meets it without blinking. Lirien steps into position without a word — she had already read the moment.*
 
 ---
 
@@ -644,7 +644,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 > **Mechanics:** On the ground, Magnus's warm-up is +1 (base 3 → 4). Entangle itself deals 0 damage; its value is the +1Ϟ bonus on all future attacks against the targeted body part, and the freeing delay it imposes on the dragon when that body part is next used for an attack.
 
-*Magnus studies the battlefield from the floor. His hammer is just out of reach. His cards are not. He chooses the slower option and begins channelling — not a blow, but a binding.*
+*Magnus studies the battlefield from the floor. His hammer is just out of reach. His focus is not. He chooses the slower option and begins channelling — not a blow, but a binding.*
 
 ---
 
@@ -809,7 +809,7 @@ Cooldown 1 → expires Turn 60❖.
 
 > **Mechanics:** The entangle freeing cost applies to the dragon too. When the dragon plays an attack using an entangled body part, the first warm-up turn is consumed by freeing — the body part's entanglement is removed during that turn, and the attack proceeds normally from the second warm-up turn onward. This is why Quick Strike (normally warm-up 1) resolves at T62❖ rather than T61❖.
 
-*The paw strains against the binding. Something tears. One more turn before it breaks free.*
+*The paw strains against the binding. Something tears. Not yet free — but close.*
 
 ---
 
@@ -827,7 +827,7 @@ Cooldown 1 → expires Turn 60❖.
 
 > **Mechanics:** Gorrak's Shield expires this turn (it was active until his next turn, which is now). Two attacks are due to resolve at T62 — Gorrak supplies Magnus and Pip with whatever they may need after the resolution. He cannot draw for himself.
 
-*Gorrak deals cards quickly, one eye on the struggling paw. "T62," he says. Lirien nods. That is the whole conversation.*
+*Gorrak moves quickly, one eye on the struggling paw. He says something short to Lirien — a name, or maybe a number. She nods. That is the whole conversation.*
 
 ---
 
@@ -915,7 +915,7 @@ Cooldown 1 → expires Turn 63❖.
 
 > **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T65, this penalty will apply. Paws entanglement was cleared at T61❖ when the dragon's freeing turn completed — Paws are no longer entangled, but remain at 2 HP (1–13 range), so dragon Paws attacks continue to carry −1Ϟ.
 
-*Pip wipes soot from his face and keeps moving. Seven HP. Still enough.*
+*Pip wipes soot from his face and keeps moving. Still breathing. Still enough.*
 
 ---
 
@@ -949,7 +949,7 @@ Cooldown 1 → expires Turn 63❖.
 
 > **Mechanics:** Magnus is back on his feet just before the Roar hits. He deals cards immediately — these will be the fellowship's resources after the Roar wipes all pending actions. He cannot give himself a card; whatever he holds is what he keeps.
 
-*Magnus gets to his feet. He doesn't celebrate — there's a sound building in the dragon's chest that he recognises and doesn't like. He deals cards fast. "Hold what you can," he says. "It's about to get loud."*
+*Magnus gets to his feet. He doesn't celebrate — there's a sound building in the dragon's chest that he recognises and doesn't like. "Hold what you can," he shouts. "It's about to get loud."*
 
 ---
 
@@ -1045,7 +1045,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 > **Mechanics:** First Aid has base warm-up 4. Lirien is standing — no ground penalty. It resolves on Lirien's next turn (Turn 106), restoring up to 8 HP to the target and getting them back on their feet. First Aid works even on incapacitated daredevils.
 
-*Lirien does not look around when she plays the card. She does not need to. Her blade has not left her hand in three turns. She will see to it when the moment allows. The moment will allow.*
+*Lirien does not look around when she acts. She does not need to. Her blade has not left her hand since the fight began. She will see to it when the moment allows. The moment will allow.*
 
 ---
 
@@ -1065,7 +1065,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 > **Mechanics:** Pip is incapacitated — he cannot play action cards, but card draw is always available. Gorrak's damage is reduced by his HP penalty; the Jaws' own 1–13 HP range only penalises the *dragon's* attacks using Jaws, not daredevil attacks against them.
 
-*Pip does not move. He has not moved in several turns. But his hands still work, and he deals the cards with the quiet precision of someone who has done it ten thousand times and intends to do it ten thousand more.*
+*Pip does not move. He cannot. But his voice still carries, and he calls out to each of his companions — a name, a direction, a scrap of encouragement — with the quiet precision of someone who has done it ten thousand times and intends to do it ten thousand more.*
 
 ---
 
@@ -1241,7 +1241,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 > **Mechanics:** Gorrak's HP penalty (−1Ϟ) and ground penalty (−2Ϟ) stack for a combined −3Ϟ, bringing his Strike from 5 down to 2 damage — exactly enough to finish Jaws. Targeting triggers at the moment of resolution: the dragon immediately takes Gorrak as its target. Magnus is incapacitated and cannot play action cards, but card draw is always available.
 
-*Magnus cannot stand. He deals cards anyway. His hands move steadily, which surprises even him. When Gorrak's strike lands on the jaws and they finally go dark, Magnus permits himself one small nod.*
+*Magnus cannot stand. He props himself up on one elbow and calls out anyway — steadily, which surprises even him. When Gorrak's strike lands on the jaws and they finally go dark, Magnus permits himself one small nod.*
 
 ---
 
@@ -1317,7 +1317,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 > **Mechanics:** Draw Aggro redirects the dragon's target to Gorrak and extends Bite's warm-up by +1 — it now resolves at Turn 113❖ rather than 112❖. The Jaws 0 HP penalty already pushed the warm-up from 3 to 4 at placement; Draw Aggro adds one more, giving 5 total. Pip's Strike is placed at Turn 113, resolving on Gorrak's daredevil turn before the dragon's action.
 
-*Pip fires. Gorrak grunts from the floor — not in pain, in acknowledgement. The target shifts. Gorrak knows what it means. He does not object.*
+*Pip fires. From the floor, Gorrak reaches out and drags a half-drained relic toward himself — close enough to damage, close enough for Skeldrath to notice. The great eye moves. Gorrak knows what it means. He does not object.*
 
 ---
 
@@ -1333,7 +1333,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 **Plays:** Draw Cards — deals one card to each of Gorrak (A♠), Lirien (5♦), Pip (3♥).
 
-*Magnus has no cards. He deals from the deck. It is all he can do, and he does it.*
+*Magnus has nothing left of his own to give. He lies there and talks — to Gorrak, to Lirien, to Pip, to whoever is still moving. It is all he can do, and he does it.*
 
 ---
 
@@ -1365,7 +1365,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 > **Mechanics:** Gorrak has cards but plays Draw Cards — at 3 HP on the ground with no action that would arrive before Bite, dealing to Lirien and Pip is the best use of his turn. Magnus at 0 HP cannot receive cards.
 
-*Gorrak has two cards and nothing to play that would help more than keeping the others armed. He deals.*
+*Gorrak has nothing to strike with that would land in time. He roars the dwarvish names he has for each of them — the ones nobody else uses. That is his move.*
 
 ---
 
