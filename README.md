@@ -11,7 +11,7 @@ A cooperative card-based board game for 4–6 players.
 
 ## Overview
 
-A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's.
+A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's. The story is family-friendly, with the drama unfolding through cooperation and sacrifice rather than dark themes.
 
 ## What You Need
 

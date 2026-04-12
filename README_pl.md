@@ -11,7 +11,7 @@ Kooperacyjna gra planszowa dla 4–6 graczy.
 
 ## Opis
 
-Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by pokonać smoka, zanim smok pokona ich — używając dwóch standardowych talii kart: jednej dla akcji bohaterów, drugiej dla akcji smoka.
+Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by pokonać smoka, zanim smok pokona ich — używając dwóch standardowych talii kart: jednej dla akcji bohaterów, drugiej dla akcji smoka. Historia jest bezpieczna dla całej rodziny — dramaturgia wyrasta ze współpracy i poświęcenia, nie z mrocznych motywów.
 
 ## Co jest potrzebne
 
