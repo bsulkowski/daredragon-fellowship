@@ -1,3 +1,10 @@
 theme: minima
 title: Daredragon Fellowship
-description: Board Game Instructions
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+minima:
+  show_excerpts: false
