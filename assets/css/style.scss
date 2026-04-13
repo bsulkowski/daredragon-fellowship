@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}";
+
+@media print {
+  header, footer, .site-nav { display: none; }
+  .site-header { display: none; }
+  body { font-size: 11pt; color: #000; }
+  a { color: #000; text-decoration: none; }
+}
