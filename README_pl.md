@@ -1,5 +1,7 @@
 # Daredragon Fellowship
 
+![The Dragon](board/dragon_black_red.jpg)
+
 Kooperacyjna gra planszowa dla 4–6 graczy.
 
 *Autor: Bartosz Sułkowski*
