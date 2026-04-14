@@ -228,7 +228,7 @@ For players' convenience, the dracometer is also marked via the red fields on th
 
 *Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser creatures. Such things are beneath him — the preoccupations of beings too small to think about anything that actually matters. What matters, to Skeldrath, is magic. Specifically: the magic held inside ancient artifacts, sacred objects, and places of accumulated power. He hunts them across the world, and when he finds them, he drains them — absorbing their energy to compound his own. The objects he leaves behind are husks. The places he leaves behind are dead. He does not consider this cruelty. He does not consider the inhabitants at all.*
 
-*The tower full of artifacts, the ley-line node beneath a hobbit's mushroom patch — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
+*The tower full of artifacts, the Heartstone of an ancient grove, the ley-line node beneath a hobbit's mushroom patch — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.*
 
 ---
 

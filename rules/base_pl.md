@@ -228,7 +228,7 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 *Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
 
-*Wieża pełna artefaktów, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
+*Wieża pełna artefaktów, Kamień Serca starożytnego gaju, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
 
 ---
 
