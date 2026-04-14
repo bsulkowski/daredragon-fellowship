@@ -49,7 +49,7 @@ All modifiers are expressed as steps on the dracometer, not as absolute values. 
 ## Tone
 
 - Player-facing rules (sections 1–4) use second person plural ("you", "Wam/Wasze" in Polish). The game is addressed to the group, not an individual.
-- The role-playing section (1.8) is intentionally warmer and more personal in tone than the rest.
+- Section 1.8 (role-playing) uses the same second-person plural tone as the rest of sections 1–4. Personal anecdotes do not belong here — the story commentary woven throughout the rules now provides sufficient flavour and example.
 - Balance notes (5.1) can be candid and informal — they address engaged players who want to tune the experience.
 
 ## Examples

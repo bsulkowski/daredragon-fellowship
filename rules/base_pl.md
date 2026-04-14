@@ -188,8 +188,6 @@ Gra nie narzuca jednej stylistyki, pozostawiając wypełnienie jej Wam, zgodnie 
 
 Jesteście zaproszeni do tego, aby lepiej wczuć się w świat gry, przez odgrywanie swoich ról. Mechanika gry wyznacza tylko ramy tego co się dzieje, jaki jest wynik podejmowanych działań. To wszystko możecie ubrać w barwną historię, będącą do nich komentarzem, wedle swojej fantazji.
 
-Przykładowo w jednej z sesji prototypu gry, który rozegrałem z moimi dziećmi (5–10 lat), wybraliśmy następujących bohaterów: Vege rycerz, Bałwanek kurczak, Mistrzyni słodyczy, Cyber ninja. Mistrzyni słodyczy wspierała pozostałych członków drużyny, między innymi rozdając im cukierki oraz obdarzając ich swoim słodkim uśmiechem. Nie muszę chyba dodawać, czy zły smok miał szansę w starciu z taką ekipą…
-
 ---
 
 *Jak się okazuje, grządka grzybów Pipa znajdowała się dokładnie nad starożytnym węzłem magii ziemi — splotem linii ley, który hobbici z wioski uprawiali od pokoleń, nie wiedząc o tym (grzyby były bardzo dobre, co wydawało się wystarczającym wytłumaczeniem). Skeldrath wyczuł go zza trzech gór. Przyszedł, wyssał energię i po drodze zrównał większość wioski z ziemią — włącznie z grządką grzybów i wózkiem jabłkowym matki Pipa — bez najwyraźniejszej świadomości, że cokolwiek tam żyło. Pip uznaje tę ostatnią część za szczególnie niedopuszczalną. Zamierza dać się zauważyć.*

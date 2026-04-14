@@ -188,8 +188,6 @@ The game imposes no single aesthetic, leaving the choice to you, according to yo
 
 You are invited to better immerse yourselves in the game world through role-playing. The game mechanics provide only a framework — what happens, what the outcome of actions is. All of this can be dressed in a colourful story as commentary, according to your fancy.
 
-For example, in one playtest session I ran with my children (aged 5–10), we chose the following heroes: Vege Knight, Snowman Chicken, Mistress of the Sweet, Cyber Ninja. The Mistress of the Sweet supported the rest of the fellowship, among other things by handing out sweets and gracing them with her sweet smile. Needless to say, the evil dragon didn't stand a chance against such a crew…
-
 ---
 
 *As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip finds this last part particularly unacceptable. He intends to be noticed.*
