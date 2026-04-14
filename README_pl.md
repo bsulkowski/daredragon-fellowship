@@ -47,7 +47,7 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 | Dyskusja | Opis |
 |---|---|
-| [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Q&A — pytania i wyjaśnienia zasad |
+| [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Pytania i wyjaśnienia zasad |
 | [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19) | Opinie o balansie, pomysły na ulepszenia i nowe mechaniki |
 | [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Podziel się najbardziej epicką chwilą z rozgrywki |
 | [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17) | Ankieta |
