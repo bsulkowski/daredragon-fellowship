@@ -301,7 +301,7 @@ Cool-down 1 → Turn 5❖.
 
 > **Mechanics:** Precision Strike deals 6 base damage. Lirien targets the jaws — the body part that attacked on Turn 8❖. This is the first daredevil turn after that attack, so riposte applies: +2Ϟ (dracometer: position 6 → 8, value 10). Thanks to the Intervention Dodge extending the window, a second riposte turn (Turn 10) is also available. Gorrak begins a Charge, the heaviest daredevil attack: 8 base damage with warm-up 4, arriving on his own next turn.
 
-*Lirien's blade finds the hinge of the jaw — a surgeon's cut. Gorrak grunts once (approval) and begins a long, deliberate run toward the dragon's legs.*
+*Lirien's blade finds the hinge of the jaw — a surgeon's cut. Gorrak grunts once (approval) and breaks into a long, deliberate run.*
 
 ---
 
@@ -359,7 +359,7 @@ Cool-down 1 → Turn 5❖.
 
 **Plays:** 7♥ — Strike (Attack, warm-up 2), card placed at Turn 13.
 
-*Pip picks up his crossbow, takes aim at the forepaw, and waits for the right moment.*
+*Pip picks up his crossbow, sights down the bolt, and waits for the right moment.*
 
 ---
 
@@ -393,7 +393,7 @@ Cool-down 1 → Turn 5❖.
 
 > **Mechanics:** Helping Hand resolves at the start of the turn, getting Magnus back on his feet. He seizes the moment to begin a Precision Strike. But the Trample arrives on Turn 13❖ — if Magnus is hit during warm-up, the consequences will be severe.
 
-*Magnus takes Lirien's hand and stands. He rolls his shoulder, winces, picks up his hammer, and begins to channel a spell toward the dragon's jaws.*
+*Magnus takes Lirien's hand and stands. He rolls his shoulder, winces, picks up his hammer, and begins to channel.*
 
 ---
 

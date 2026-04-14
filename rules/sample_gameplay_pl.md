@@ -301,7 +301,7 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 > **Mechanika:** Precyzyjny atak zadaje 6 podstawowych obrażeń. Lirien celuje w paszczę — część ciała, która atakowała w Turze 8❖. To jest pierwsza tura śmiałka po tym ataku, więc dostępna jest riposta: +2Ϟ (drakometr: pozycja 6 → 8, wartość 10). Dzięki Unikowi ratunkowemu, który rozszerzył okno, dostępna jest też druga tura riposty (Tura 10). Gorrak rozpoczyna Szarżę, najcięższą akcję śmiałka: 8 podstawowych obrażeń z czasem przygotowania 4, docierającą w jego następnej turze.
 
-*Ostrze Lirien trafia w zawias szczęki — cięcie chirurga. Gorrak chrząka raz (z uznaniem) i zaczyna długi, celowy bieg w stronę nóg smoka.*
+*Ostrze Lirien trafia w zawias szczęki — cięcie chirurga. Gorrak chrząka raz (z uznaniem) i rusza w długi, celowy bieg.*
 
 ---
 
@@ -359,7 +359,7 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 **Gra:** 7♥ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 13.
 
-*Pip chwyta kuszę, celuje w przednią łapę i czeka na odpowiedni moment.*
+*Pip chwyta kuszę, mierzy wzdłuż bełtu i czeka na odpowiedni moment.*
 
 ---
 
@@ -393,7 +393,7 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 > **Mechanika:** Pomocna dłoń rozstrzyga się na początku tury, przywracając Magnusa na nogi. Chwyta okazję, by rozpocząć Precyzyjny atak. Ale Stratowanie dociera w Turze 13❖ — jeśli Magnus zostanie trafiony w trakcie przygotowania, konsekwencje będą poważne.
 
-*Magnus bierze rękę Lirien i wstaje. Obraca ramieniem, krzywiąc się, podnosi młot i zaczyna kierować zaklęcie w stronę paszczy smoka.*
+*Magnus bierze rękę Lirien i wstaje. Obraca ramieniem, krzywiąc się, podnosi młot i zaczyna skupiać zaklęcie.*
 
 ---
 
