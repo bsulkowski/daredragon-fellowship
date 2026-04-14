@@ -797,7 +797,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 60❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -807,7 +807,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Paws are entangled (~)** → the dragon must spend one extra turn freeing Paws before the attack resolves. Warm-up becomes 1 (freeing) + 1 (strike) = **warm-up 2 total**. Card placed at **Turn 62❖**.
 
-> **Mechanics:** The entangle freeing cost applies to the dragon too. When the dragon plays an attack using an entangled body part, the first warm-up turn is consumed by freeing — the body part's entanglement is removed during that turn, and the attack proceeds normally from the second warm-up turn onward. This is why Quick Strike (normally warm-up 1) resolves at T62❖ rather than T61❖.
+> **Mechanics:** The entangle freeing cost applies to the dragon too. When the dragon plays an attack using an entangled body part, the first warm-up turn is consumed by freeing — the attack proceeds from the second warm-up turn onward, and the entanglement token is removed only when the attack resolves. Daredevil attacks landing during any warm-up turn still receive the +1Ϟ bonus. This is why Quick Strike (normally warm-up 1) resolves at T62❖ rather than T61❖.
 
 *The paw strains against the binding. Something tears. Not yet free — but close.*
 
@@ -817,7 +817,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Hand:** 7♣ 9♠  *(Lirien: 2 · Pip: 1 · Magnus: 0)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -833,13 +833,13 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 61❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8 · Tail 22
 
 **Target:** Pip
 
-**Dragon:** Quick Strike (Paws) · warm-up 2/2 — freeing complete. Paws entanglement cleared. Resolves next dragon turn (T62❖).
+**Dragon:** Quick Strike (Paws) · warm-up 1/2 — freeing.
 
-*The binding snaps. The paw hits the floor with a sound like a falling boulder.*
+*The paw strains against the binding. Almost free.*
 
 ---
 
@@ -847,7 +847,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Hand:** 6♣ 2♥ 4♠  *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 12~ · Legs 8 · Tail 22
 
 **Target:** Pip
 
@@ -864,13 +864,12 @@ Cooldown 1 → expires Turn 60❖.
 **Attack 2 — Magnus's Quick Strike (on ground):** Targets Legs.
 - Base damage 5 → position 5.
 - Magnus on ground: −2Ϟ → position 3.
-- Legs entangled: +1Ϟ → position 4.
-- Orchestrated attack: +1Ϟ → position 5 = **damage 5**.
-- Legs: 8 → **3 HP**.
+- Orchestrated attack: +1Ϟ → position 4 = **damage 4**.
+- Legs: 8 → **4 HP**.
 
 **Action:** Lirien plays 2♥ — Helping Hand (Support, warm-up 2), card placed at Turn 64.
 
-> **Mechanics:** Three modifiers interact on each attack. For Pip: entangle (+1Ϟ) and orchestrated (+1Ϟ) both add to a base of 6 — position 6 → 8, damage 10. For Magnus: the ground penalty (−2Ϟ) partially cancels the entangle and orchestrated bonuses; the net is position 5, damage 5. Gorrak is now at 12 HP (1–13 range), so his own attacks deal −1Ϟ — but this turn it is Pip and Magnus attacking, so no penalty applies here. After this turn, Paws drops to 2 HP and Legs to 3 HP — both now in the 1–13 range. Dragon Paws and Legs attacks will carry −1Ϟ from here on.
+> **Mechanics:** For Pip: entangle (+1Ϟ) and orchestrated (+1Ϟ) both add to a base of 6 — position 6 → 8, damage 10. For Magnus: the ground penalty (−2Ϟ) cancels the orchestrated bonus; the net is position 4, damage 4. Gorrak is now at 12 HP (1–13 range), so his own attacks deal −1Ϟ — but this turn it is Pip and Magnus attacking, so no penalty applies here. After this turn, Paws drops to 2 HP and Legs to 4 HP — both now in the 1–13 range. Dragon Paws and Legs attacks will carry −1Ϟ from here on.
 
 *Two strikes land at once — one from the air, one from the floor. Paws recoils. The legs buckle. Lirien watches the numbers and immediately crouches down. "Your turn," she says.*
 
@@ -878,11 +877,11 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 62❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 
-**Dragon:** Quick Strike (Paws) · warm-up 2/2 — **resolves**
+**Dragon:** Quick Strike (Paws) · warm-up 2/2 — **resolves**. Paws entanglement cleared.
 
 **Target:** Pip. Pip is **standing**.
 
@@ -897,7 +896,7 @@ Cooldown 1 → expires Turn 63❖.
 
 > **Mechanics:** Paws dropped to 2 HP this same turn (from Pip's Precision Strike at T62), so the −1Ϟ Paws penalty already applies when the dragon resolves its own Paws attack moments later. Pip is standing — no +2Ϟ ground bonus for the dragon. No shields remain. The damage is modest, but Pip is now at 7 HP — entering the 1–13 range, which reduces his own damage dealt by −1Ϟ going forward.
 
-*The paw connects — lighter than expected, the binding having taken something out of it. Pip staggers one step, then steadies.*
+*The binding snaps. The paw hits the floor with a sound like a falling boulder — then connects. Lighter than expected. Pip staggers one step, then steadies.*
 
 ---
 
@@ -905,7 +904,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Hand:** 6♥ 3♥  *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -921,7 +920,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 63❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -937,7 +936,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Hand:** 10♦  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -955,7 +954,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 64❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -973,7 +972,7 @@ Cooldown 1 → expires Turn 65❖.
 
 **State at end of Turn 64❖**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 3~ · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
 **Target:** Pip
 

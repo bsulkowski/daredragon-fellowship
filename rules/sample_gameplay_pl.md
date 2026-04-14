@@ -797,7 +797,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 60❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -807,7 +807,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Łapy są splątane (~)** → smok musi poświęcić jedną dodatkową turę na uwolnienie Łap przed rozstrzygnięciem ataku. Czas przygotowania wynosi teraz 1 (uwolnienie) + 1 (cios) = **łącznie czas przygotowania 2**. Karta kładziona na **Turę 62❖**.
 
-> **Mechanika:** Koszt uwolnienia ze splątania dotyczy też smoka. Gdy smok gra atak używający splątanej części ciała, pierwsza tura przygotowania jest poświęcona na uwolnienie — splątanie tej części ciała jest usuwane podczas tej tury, a atak przebiega normalnie od drugiej tury przygotowania. Dlatego Szybki atak (normalnie czas przygotowania 1) rozstrzyga się w T62❖, a nie T61❖.
+> **Mechanika:** Koszt uwolnienia ze splątania dotyczy też smoka. Gdy smok gra atak używający splątanej części ciała, pierwsza tura przygotowania jest poświęcona na uwolnienie — atak przebiega normalnie od drugiej tury przygotowania, a token splątania jest usuwany dopiero gdy atak się rozstrzyga. Ataki śmiałków trafiające w trakcie dowolnej tury przygotowania nadal otrzymują premię +1Ϟ. Dlatego Szybki atak (normalnie czas przygotowania 1) rozstrzyga się w T62❖, a nie T61❖.
 
 *Łapa napiera przeciwko więzom. Coś się rozrywa. Jeszcze nie wolna — ale blisko.*
 
@@ -817,7 +817,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Ręka:** 7♣ 9♠ *(Lirien: 2 · Pip: 1 · Magnus: 0)*
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -833,13 +833,13 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 61❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
-**Smok:** Szybki atak (Łapy) · czas przygotowania 2/2 — uwalnianie zakończone. Splątanie Łap usunięte. Rozstrzyga się w następnej turze smoka (T62❖).
+**Smok:** Szybki atak (Łapy) · czas przygotowania 1/2 — uwalnianie.
 
-*Więzy pękają. Łapa uderza w podłogę dźwiękiem jak spadający głaz.*
+*Łapa napiera przeciwko więzom. Prawie wolna.*
 
 ---
 
@@ -847,7 +847,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Ręka:** 6♣ 2♥ 4♠ *(Gorrak: 2 · Pip: 2 · Magnus: 1)*
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 12~ · Nogi 8 · Ogon 22
 
 **Cel:** Pip
 
@@ -864,13 +864,12 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 **Atak 2 — Szybki atak Magnusa (na ziemi):** Cel: Nogi.
 - Podstawowe obrażenia 5 → pozycja 5.
 - Magnus na ziemi: -2Ϟ → pozycja 3.
-- Nogi splątane: +1Ϟ → pozycja 4.
-- Skoordynowany atak: +1Ϟ → pozycja 5 = **obrażenia 5**.
-- Nogi: 8 → **3 PŻ**.
+- Skoordynowany atak: +1Ϟ → pozycja 4 = **obrażenia 4**.
+- Nogi: 8 → **4 PŻ**.
 
 **Akcja:** Lirien gra 2♥ — Pomocna dłoń (Wsparcie, czas przygotowania 2), karta kładziona na Turę 64.
 
-> **Mechanika:** Trzy modyfikatory współdziałają przy każdym ataku. Dla Pip'a: splątanie (+1Ϟ) i skoordynowany (+1Ϟ) dodają się do podstawy 6 — pozycja 6 → 8, obrażenia 10. Dla Magnusa: kara za ziemię (-2Ϟ) częściowo niweluje premie za splątanie i koordynację; wynik netto to pozycja 5, obrażenia 5. Gorrak jest teraz na 12 PŻ (zakres 1–13), więc jego własne ataki zadają -1Ϟ — ale w tej turze atakują Pip i Magnus, więc kara tu nie dotyczy. Po tej turze Łapy spadają do 2 PŻ, a Nogi do 3 PŻ — obie teraz w zakresie 1–13. Ataki Łapami i Nogami smoka będą odtąd obarczone karą -1Ϟ.
+> **Mechanika:** Dla Pip'a: splątanie (+1Ϟ) i skoordynowany (+1Ϟ) dodają się do podstawy 6 — pozycja 6 → 8, obrażenia 10. Dla Magnusa: kara za ziemię (-2Ϟ) niweluje premię za koordynację; wynik netto to pozycja 4, obrażenia 4. Gorrak jest teraz na 12 PŻ (zakres 1–13), więc jego własne ataki zadają -1Ϟ — ale w tej turze atakują Pip i Magnus, więc kara tu nie dotyczy. Po tej turze Łapy spadają do 2 PŻ, a Nogi do 4 PŻ — obie teraz w zakresie 1–13. Ataki Łapami i Nogami smoka będą odtąd obarczone karą -1Ϟ.
 
 *Dwa ciosy lądują jednocześnie — jeden z powietrza, jeden z podłogi. Łapy się cofają. Nogi się uginają. Lirien patrzy na liczby i natychmiast przykuca. „Twoja kolej" — mówi.*
 
@@ -878,11 +877,11 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Tura 62❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
-**Smok:** Szybki atak (Łapy) · czas przygotowania 2/2 — **rozstrzyga się**
+**Smok:** Szybki atak (Łapy) · czas przygotowania 2/2 — **rozstrzyga się**. Splątanie Łap usunięte.
 
 **Cel:** Pip. Pip **stoi**.
 
@@ -897,7 +896,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 > **Mechanika:** Łapy spadły do 2 PŻ w tej samej turze (od Precyzyjnego ataku Pip'a w T62), więc kara -1Ϟ za Łapy już obowiązuje gdy smok rozstrzyga swój własny atak Łapami chwilę później. Pip stoi — brak premii +2Ϟ za ziemię dla smoka. Nie ma osłon. Obrażenia są skromne, ale Pip jest teraz na 7 PŻ — wchodząc w zakres 1–13, co zmniejszy jego własne zadawane obrażenia o -1Ϟ od teraz.
 
-*Łapa trafia — lżej niż można było oczekiwać, bo więzy zabrały jej trochę siły. Pip zatacza się o krok, po czym stabilizuje.*
+*Więzy pękają. Łapa uderza w podłogę dźwiękiem jak spadający głaz — a potem trafia. Lżej niż można było oczekiwać. Pip zatacza się o krok, po czym stabilizuje.*
 
 ---
 
@@ -905,7 +904,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Ręka:** 6♥ 3♥ *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
@@ -921,7 +920,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 63❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
@@ -937,7 +936,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Ręka:** 10♦ *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
@@ -955,7 +954,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 64❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
@@ -973,7 +972,7 @@ Czas ochłodzenia 1 → wygasa w Turze 65❖.
 
 **Stan na koniec Tury 64❖**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 3~ · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
