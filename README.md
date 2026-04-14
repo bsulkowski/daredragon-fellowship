@@ -1,6 +1,4 @@
-# Daredragon Fellowship
-
-![The Dragon](board/dragon_black_red.jpg)
+![Daredragon Fellowship - The Dragon](board/title_dragon.svg)
 
 A cooperative card-based board game for 4–6 players.
 
