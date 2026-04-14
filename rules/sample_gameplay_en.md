@@ -585,7 +585,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Dragon:** Crush (K♠) · warm-up 4/5 — warming up
 
-*The jaws press forward. One more turn.*
+*The jaws press forward. Almost.*
 
 ---
 
@@ -967,7 +967,7 @@ Cooldown 1 → expires Turn 65❖.
 
 > **Mechanics:** Roar erases the entire queue of pending daredevil actions in a single move. Pip loses his Strike before it fires. Every player also discards 2 cards — a significant hand drain at a point where hands are already limited by HP thresholds. The fellowship must rebuild from scratch. This is the dragon's sharpest momentum swing: it punishes long warm-up investments and resets the board entirely in the dragon's favour.
 
-*The sound hits like a wall. Cards scatter. Pending actions dissolve — the concentration required to hold them simply gone. When the echo fades, the hall is very quiet. Four people stand in the dark, holding fewer cards than they had a moment ago, looking at a dragon that is already watching them. Lemma has not moved. He sits on a drained relic at the edge of the hall, eyes half-closed, as though the Roar was a minor inconvenience. It may, in fact, have been.*
+*The sound hits like a wall. Plans dissolve — the focus required to hold them simply gone. When the echo fades, the hall is very quiet. Four people stand in the dark, looking at a dragon that is already watching them. Lemma has not moved. He sits on a drained relic at the edge of the hall, eyes half-closed, as though the Roar was a minor inconvenience. It may, in fact, have been.*
 
 ---
 
@@ -1095,7 +1095,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 > **Mechanics:** Shield is a Guard-type action — no warm-up, active until Magnus's next turn. Magnus is standing at 3 HP — on-ground restrictions do not apply. When the Swing resolves next dragon turn as an AoE, Magnus's Shield reduces damage by −3Ϟ for the entire area — but since he is inside the area of effect, he does not shield himself.
 
-*Magnus raises his hammer. At 3 HP it is not a gesture he makes lightly. He positions himself between the tail's sweep and the others. Lemma, somewhere in the dark behind him, makes a sound of disapproval. He ignores it.*
+*Magnus raises his hammer. In the state he is in, it is not a gesture he makes lightly. He positions himself between the tail's sweep and the others. Lemma, somewhere in the dark behind him, makes a sound of disapproval. He ignores it.*
 
 ---
 
@@ -1137,7 +1137,7 @@ Cool-down 2 → expires Turn 106❖.
 
 > **Mechanics:** Gorrak is on the ground → warm-up +1 for all non-guard actions (base 2 → 3), placing the card at Turn 108. The dragon has no target. Per the updated rule, targeting triggers only when the attack **resolves** — the dragon's target will be set to Gorrak at Turn 108 when the Strike fires, if no other targeting event occurs first.
 
-*Gorrak does not get up. He plays the card from where he is, flat on the stone, and then lies there staring at the ceiling. The ceiling is very high. He has time to appreciate this.*
+*Gorrak does not get up. He commits to the strike from where he is, flat on the stone, and then lies there staring at the ceiling. The ceiling is very high. He has time to appreciate this.*
 
 ---
 
@@ -1279,7 +1279,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 > **Mechanics:** Gorrak is on the ground — warm-up +1 (base 1 → 2), placing Draw Aggro at Turn 111. When it resolves, it will redirect the dragon's target to Gorrak and — because Bite will still be warming up — extend Bite's warm-up by +1. This is deliberate: Lirien is about to start a Charge and must not be the target when Bite fires.
 
-*Gorrak watches Lirien from the floor. She is the only one still standing — her and Pip, now. He knows what he has to do. He slides the card across the stone with one finger and waits.*
+*Gorrak watches Lirien from the floor. She is the only one still standing — her and Pip, now. He knows what he has to do. He finds a half-drained relic within arm's reach and says nothing. He waits.*
 
 ---
 
@@ -1385,7 +1385,7 @@ Cool-down 2 → expires Turn 115❖.
 
 > **Mechanics:** The Jaws 0 HP penalty (−2Ϟ) and the ground bonus (+2Ϟ) cancel exactly, leaving Bite at its base damage of 10. Gorrak had no action warming up when Bite fires, so the Direct Attack warm-up rule does not add further damage. The full 10 lands.
 
-*The jaws come down. Gorrak does not try to move. He has played his last card and he knows it. When the sound stops and the dust settles, he is still there — breathing, just barely, at the edge of the hall. He will be buying drinks when this is over. This is already decided.*
+*The jaws come down. Gorrak does not try to move. He is out of moves and he knows it. When the sound stops and the dust settles, he is still there — breathing, just barely, at the edge of the hall. He will be buying drinks when this is over. This is already decided.*
 
 ---
 
@@ -1405,7 +1405,7 @@ Cool-down 2 → expires Turn 115❖.
 
 > **Mechanics:** All four dragon body parts are now at 0 HP — Jaws (Turn 108), Paws (Turn 113), Legs (pre-existing), Tail (this turn). Lirien is at 6 HP (1–6 range) — damage −1Ϟ brings Charge from 8 to 6, which is exactly Tail's remaining HP. No riposte applies — the Tail's last attack was the Swing at Turn 104❖, well outside the one-turn window.
 
-*Lirien's blade finds the gap in the tail's scales — the same gap she has been watching for four turns, since the Swing, since it first moved. The sound the dragon makes is not a roar. It is something quieter, and much more final.*
+*Lirien's blade finds the gap in the tail's scales — the same gap she has been watching since the Swing, since it first moved. The sound the dragon makes is not a roar. It is something quieter, and much more final.*
 
 *The rune-axe on the wall is still faintly lit. Gorrak will see to that.*
 

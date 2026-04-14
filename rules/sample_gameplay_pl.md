@@ -585,7 +585,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Smok:** Zgniecenie (K♠) · czas przygotowania 4/5 — w przygotowaniu
 
-*Paszcza napiera do przodu. Jeszcze jedna tura.*
+*Paszcza napiera do przodu. Prawie.*
 
 ---
 
@@ -967,7 +967,7 @@ Czas ochłodzenia 1 → wygasa w Turze 65❖.
 
 > **Mechanika:** Ryk wymazuje całą kolejkę oczekujących akcji śmiałków jednym ruchem. Pip traci swój Atak zanim odpali. Każdy gracz odrzuca też 2 karty — znaczące uszczuplenie ręki w momencie, gdy ręce są już ograniczone przez progi PŻ. Drużyna musi budować siłę od zera. To najmocniejsza zmiana dynamiki w rękach smoka: karze za długie inwestycje w czas przygotowania i całkowicie resetuje planszę na korzyść smoka.
 
-*Dźwięk uderza jak ściana. Karty się rozsypują. Oczekujące akcje znikają — koncentracja potrzebna do ich utrzymania po prostu gdzieś odpłynęła. Gdy echo cichnie, sala jest bardzo cicha. Czworo stoi w mroku, trzymając mniej kart niż chwilę wcześniej, i patrzy na smoka, który już na nich patrzy. Lemat się nie ruszył. Siedzi na wyczerpanych relikwiach przy skraju sali, z wpółprzymkniętymi oczami, jakby Ryk był drobną niedogodnością. Być może rzeczywiście nią był.*
+*Dźwięk uderza jak ściana. Plany znikają — koncentracja potrzebna do ich utrzymania po prostu gdzieś odpłynęła. Gdy echo cichnie, sala jest bardzo cicha. Czworo stoi w mroku i patrzy na smoka, który już na nich patrzy. Lemat się nie ruszył. Siedzi na wyczerpanych relikwiach przy skraju sali, z wpółprzymkniętymi oczami, jakby Ryk był drobną niedogodnością. Być może rzeczywiście nią był.*
 
 ---
 
@@ -1095,7 +1095,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 > **Mechanika:** Osłona to akcja Czuwania — bez czasu przygotowania, aktywna do następnej tury Magnusa. Magnus stoi na 3 PŻ — ograniczenia za leżenie na ziemi nie mają zastosowania. Gdy Zamach rozstrzygnie się w następnej turze smoka jako Atak na obszar, Osłona Magnusa redukuje obrażenia o -3Ϟ dla całego obszaru — ale ponieważ on sam jest w obszarze ataku, nie osłania siebie.
 
-*Magnus unosi młot. Na 3 PŻ to nie jest gest, który wykonuje lekko. Ustawia się między zamachem ogona a pozostałymi. Lemat, gdzieś w mroku za nim, wydaje dźwięk dezaprobaty. Magnus go ignoruje.*
+*Magnus unosi młot. W stanie, w jakim się znajduje, to nie jest gest, który wykonuje lekko. Ustawia się między zamachem ogona a pozostałymi. Lemat, gdzieś w mroku za nim, wydaje dźwięk dezaprobaty. Magnus go ignoruje.*
 
 ---
 
@@ -1137,7 +1137,7 @@ Czas ochłodzenia 2 → wygasa w Turze 106❖.
 
 > **Mechanika:** Gorrak leży na ziemi → czas przygotowania +1 dla wszystkich akcji niebędących Czuwaniem (bazowy 2 → 3), kładzenie karty na Turę 108. Smok nie ma celu. Zgodnie ze zaktualizowaną zasadą, celu nabiera dopiero gdy atak **rozstrzyga się** — cel smoka zostanie ustawiony na Gorraka w Turze 108 gdy Atak odpali, o ile wcześniej nie zajdzie inne zdarzenie zmieniające cel.
 
-*Gorrak nie wstaje. Kładzie kartę z miejsca, gdzie jest — płasko na kamieniu — po czym leży i patrzy w sufit. Sufit jest bardzo wysoki. Ma czas to docenić.*
+*Gorrak nie wstaje. Rzuca się w atak z miejsca, gdzie jest — płasko na kamieniu — po czym leży i patrzy w sufit. Sufit jest bardzo wysoki. Ma czas to docenić.*
 
 ---
 
@@ -1279,7 +1279,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 > **Mechanika:** Gorrak leży na ziemi — czas przygotowania +1 (bazowy 1 → 2), kładzenie Prowokacji na Turę 111. Gdy rozstrzygnie, przekieruje cel smoka na Gorraka i — ponieważ Ugryzienie wciąż będzie w przygotowaniu — wydłuży czas przygotowania Ugryzienia o +1. To celowe: Lirien zaraz zacznie Szarżę i nie może być celem gdy Ugryzienie odpali.
 
-*Gorrak obserwuje Lirien z podłogi. Ona jest jedyną, która wciąż stoi — ona i Pip, teraz. Wie co musi zrobić. Przesuwa kartę po kamieniu jednym palcem i czeka.*
+*Gorrak obserwuje Lirien z podłogi. Ona jest jedyną, która wciąż stoi — ona i Pip, teraz. Wie co musi zrobić. Sięga po na wpół wyczerpany relikt w zasięgu ręki i milczy. Czeka.*
 
 ---
 
@@ -1385,7 +1385,7 @@ Czas ochłodzenia 2 → wygasa w Turze 115❖.
 
 > **Mechanika:** Kara za 0 PŻ Paszczany (-2Ϟ) i premia za ziemię (+2Ϟ) dokładnie się znoszą, pozostawiając Ugryzienie na jego podstawowych obrażeniach wynoszących 10. Gorrak nie miał żadnej akcji w trakcie przygotowania gdy Ugryzienie odpala, więc zasada Bezpośredniego Ataku podczas przygotowania nie dodaje dalszych obrażeń. Pełne 10 ląduje.
 
-*Paszcza opada. Gorrak nie próbuje się ruszyć. Zagrał ostatnią kartę i to wie. Gdy dźwięk cichnie i pył opada, wciąż tam jest — oddycha, ledwo, na skraju sali. Będzie stawiał drinki gdy to się skończy. To już jest postanowione.*
+*Paszcza opada. Gorrak nie próbuje się ruszyć. Nie ma już czym walczyć i to wie. Gdy dźwięk cichnie i pył opada, wciąż tam jest — oddycha, ledwo, na skraju sali. Będzie stawiał drinki gdy to się skończy. To już jest postanowione.*
 
 ---
 
@@ -1405,7 +1405,7 @@ Czas ochłodzenia 2 → wygasa w Turze 115❖.
 
 > **Mechanika:** Wszystkie cztery części ciała smoka są teraz na 0 PŻ — Paszcza (Tura 108), Łapy (Tura 113), Nogi (stan początkowy), Ogon (ta tura). Lirien jest na 6 PŻ (zakres 1–6) — obrażenia -1Ϟ obniżają Szarżę z 8 do 6, co jest dokładnie tyle ile wynoszą pozostałe PŻ Ogona. Riposta nie dotyczy — ostatni atak Ogonem to był Zamach w Turze 104❖, daleko poza oknem jednej tury.
 
-*Ostrze Lirien trafia szczelinę między łuskami ogona — tę samą szczelinę, którą obserwowała od czterech tur, od Zamachu, od kiedy ten się po raz pierwszy poruszył. Dźwięk, który wydaje smok, to nie ryk. To coś cichszego, i o wiele bardziej ostatecznego.*
+*Ostrze Lirien trafia szczelinę między łuskami ogona — tę samą szczelinę, którą obserwowała od Zamachu, od kiedy ten się po raz pierwszy poruszył. Dźwięk, który wydaje smok, to nie ryk. To coś cichszego, i o wiele bardziej ostatecznego.*
 
 *Runiczna siekiera na ścianie wciąż słabo świeci. Gorrak zajmie się tym.*
 
