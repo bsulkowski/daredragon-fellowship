@@ -131,9 +131,9 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 **Pending:** Dragon's Paws Strike (7♣) → Turn 4❖
 
-**Plays:** J♠ — Shield (Guard). Active until Turn 8.
+**Plays:** J♠ — Shield (Guard).
 
-> **Mechanics:** Shield is a Guard-type action — it has no warm-up and stays active until Magnus's next turn (Turn 8). If the dragon attacks Pip before then, Magnus will step in and take the hit instead, with damage reduced by -3Ϟ.
+> **Mechanics:** Shield is a Guard-type action — it has no warm-up. If the dragon attacks Pip before Magnus's next turn, Magnus will step in and take the hit instead, with damage reduced by -3Ϟ.
 
 *Magnus steps forward, hammer raised, and plants himself between Pip and the incoming blow. Lemma, who has been making his way along the wall in absolute silence, pauses to observe this. His expression, insofar as a cat has one, suggests he has been expecting the blow and does not think much of the plan.*
 
@@ -231,9 +231,9 @@ Cool-down 1 → Turn 5❖.
 
 **Resolves:** Gorrak's Strike (7♠) fires — Gorrak targets Dragon Paws: 5 damage (25→20 HP).
 
-**Plays:** A♦ — Intervention Dodge (Guard). Active until Turn 11.
+**Plays:** A♦ — Intervention Dodge (Guard).
 
-> **Mechanics:** Gorrak's Strike resolves at the start of this turn — daredevils choose the target body part at the moment of resolution. Pip then plays Intervention Dodge, a Guard action that stays active until his next turn (Turn 11), ready to save Magnus from the incoming Bite on Turn 8❖. It cannot be used on yourself and cannot save a daredevil already on the ground.
+> **Mechanics:** Gorrak's Strike resolves at the start of this turn — daredevils choose the target body part at the moment of resolution. Pip then plays Intervention Dodge, a Guard action ready to save Magnus from the incoming Bite on Turn 8❖. It cannot be used on yourself and cannot save a daredevil already on the ground.
 
 *Gorrak's axe finds the forepaw and bites deep. Meanwhile, Pip lays down his crossbow and readies himself — not to shoot, but to shove Magnus aside when the time comes.*
 
@@ -569,7 +569,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 1. Target shifts: Magnus → **Gorrak**.
 2. Draw Aggro resolved during the Crush's warm-up → warm-up extends by +1 (3/4 → 3/5). Crush now resolves at **Turn 55❖**.
 
-**Plays:** Q♦ — Shield (Guard). Active until Turn 58.
+**Plays:** Q♦ — Shield (Guard).
 
 > **Mechanics:** Draw Aggro's warm-up extension applies whenever it resolves while the dragon has an attack in progress. Here, the Crush was at 3/4 — it now needs 2 more turns (arriving at T55❖ instead of T54❖). The target is also Gorrak now, so the two shields that follow will protect him, not Magnus.
 
@@ -597,9 +597,9 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 **Target:** Gorrak
 
-**Pending:** Lirien's Shield active (→ Turn 58) · Dragon's Crush (K♠) → Turn 55❖
+**Pending:** Lirien's Shield (Guard) · Dragon's Crush (K♠) → Turn 55❖
 
-**Plays:** J♥ — Shield (Guard). Active until Turn 59.
+**Plays:** J♥ — Shield (Guard).
 
 > **Mechanics:** Two shields are now active — Lirien's (T54) and Pip's (T55). Both will trigger when the Crush resolves next dragon turn. The order matters: Pip's shield was placed last, so Pip is the last shielder and will bear the final effects.
 
@@ -670,7 +670,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Pending:** Magnus's Entangle → Turn 60 · Dragon's Crush → cooling down (1/2 → expires T57❖)
 
-**Plays:** J♠ — Shield (Guard). Active until Turn 61.
+**Plays:** J♠ — Shield (Guard).
 
 *Gorrak plants himself. If the dragon is coming again, it is coming through him.*
 
@@ -703,9 +703,9 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Target:** Pip
 
-**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 1/2)
+**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield (Guard) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 1/2)
 
-**Plays:** Q♣ — Shield (Guard). Active until Turn 62.
+**Plays:** Q♣ — Shield (Guard).
 
 > **Mechanics:** Gorrak is outside the AoE area. When Fire Breath resolves, his Shield will pull him into the area of effect (he is then shielded himself) and reduce damage for everyone in the area by -3Ϟ. Lirien's Shield (T58) is also active — but since Lirien will be inside the AoE as Pip's neighbour, her Shield does not protect her.
 
@@ -733,7 +733,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Target:** Pip
 
-**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Fire Breath (A♥) → Turn 59❖
+**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield (Guard) · Lirien's Shield (Guard) · Dragon's Fire Breath (A♥) → Turn 59❖
 
 **Plays:** 8♠ — Precision Strike (Attack, warm-up 3), card placed at Turn 62.
 
@@ -783,7 +783,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon cooling down (→ Turn 60❖)
+**Pending:** Dragon cooling down (→ Turn 60❖)
 
 **Resolves:** Magnus's Entangle fires — **Paws become entangled (~)**. All daredevil attacks against Paws now gain +1Ϟ.
 
@@ -821,11 +821,11 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Gorrak's Shield active (→ Turn 61) · Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖ (warm-up 1/2, freeing)
+**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (Paws) → Turn 62❖ (warm-up 1/2, freeing)
 
 **Plays:** Draws — deals one card to Lirien (4♠), Pip (3♥), Magnus (10♦).
 
-> **Mechanics:** Gorrak's Shield expires this turn (it was active until his next turn, which is now). Two attacks are due to resolve at T62 — Gorrak supplies Magnus and Pip with whatever they may need after the resolution. He cannot draw for himself.
+> **Mechanics:** Two attacks are due to resolve at T62 — Gorrak supplies Magnus and Pip with whatever they may need after the resolution. He cannot draw for himself.
 
 *Gorrak moves quickly, one eye on the struggling paw. He says something short to Lirien — a name, or maybe a number. She nods. That is the whole conversation.*
 
@@ -851,7 +851,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Lirien's Shield active (→ Turn 62) · Dragon's Quick Strike (Paws) → Turn 62❖
+**Pending:** Dragon's Quick Strike (Paws) → Turn 62❖
 
 **Resolves — two attacks on the same turn:**
 
@@ -886,7 +886,7 @@ Cooldown 1 → expires Turn 60❖.
 **Target:** Pip. Pip is **standing**.
 
 Paws at 2 HP (1–13 range) → dragon Paws attacks: −1Ϟ.
-No active shields (Gorrak's expired T61; Lirien's expired at the start of T62).
+No active shields (both were spent at T59❖).
 
 Quick Strike base damage 5 → position 5. Paws −1Ϟ → position **4** = **damage 4**.
 
@@ -1090,9 +1090,9 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Pending:** Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
 
-**Plays:** Q♣ — Shield (Guard). Active until Turn 108.
+**Plays:** Q♣ — Shield (Guard).
 
-> **Mechanics:** Shield is a Guard-type action — no warm-up, active until Magnus's next turn. Magnus is standing at 3 HP — on-ground restrictions do not apply. When the Swing resolves next dragon turn as an AoE, Magnus's Shield reduces damage by −3Ϟ for the entire area — but since he is inside the area of effect, he does not shield himself.
+> **Mechanics:** Shield is a Guard-type action — no warm-up. Magnus is standing at 3 HP — on-ground restrictions do not apply. When the Swing resolves next dragon turn as an AoE, Magnus's Shield reduces damage by −3Ϟ for the entire area — but since he is inside the area of effect, he does not shield himself.
 
 *Magnus raises his hammer. In the state he is in, it is not a gesture he makes lightly. He positions himself between the tail's sweep and the others. Lemma, somewhere in the dark behind him, makes a sound of disapproval. He ignores it.*
 

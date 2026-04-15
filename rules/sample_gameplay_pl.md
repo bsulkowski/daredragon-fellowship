@@ -131,9 +131,9 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 **Oczekujące:** Atak smoka (7♣) → Tura 4❖
 
-**Gra:** W♠ — Osłona (Czuwanie). Aktywna do Tury 8.
+**Gra:** W♠ — Osłona (Czuwanie).
 
-> **Mechanika:** Osłona jest akcją typu Czuwanie — nie ma czasu przygotowania i pozostaje aktywna do następnej tury Magnusa (Tura 8). Jeśli smok zaatakuje Pip'a przed tym czasem, Magnus przejmie cios na siebie, redukując obrażenia o -3Ϟ.
+> **Mechanika:** Osłona jest akcją typu Czuwanie — nie ma czasu przygotowania. Jeśli smok zaatakuje Pip'a przed następną turą Magnusa, Magnus przejmie cios na siebie, redukując obrażenia o -3Ϟ.
 
 *Magnus wysuwa się do przodu, młot uniesiony, i staje między Pip'em a nadchodzącym ciosem. Lemat, który przemierzał ścianę w absolutnej ciszy, zatrzymuje się, żeby to obserwować. Jego mina, o ile kot w ogóle posiada minę, sugeruje, że spodziewał się tego ciosu i niezbyt wysoko ocenia plan.*
 
@@ -231,9 +231,9 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 **Rozstrzygnięcie:** Atak Gorraka (7♠) odpala — Gorrak celuje w Łapy Smoka: 5 obrażeń (25→20 PŻ).
 
-**Gra:** A♦ — Unik ratunkowy (Czuwanie). Aktywny do Tury 11.
+**Gra:** A♦ — Unik ratunkowy (Czuwanie).
 
-> **Mechanika:** Atak Gorraka rozstrzyga się na początku tej tury — śmiałkowie wybierają docelową część ciała w chwili rozstrzygnięcia. Pip gra następnie Unik ratunkowy, akcję Czuwania aktywną do jego następnej tury (Tura 11), gotową ocalić Magnusa przed nadchodzącym Ugryzieniem w Turze 8❖. Nie można go użyć na sobie i nie można ratować śmiałka, który już leży na ziemi.
+> **Mechanika:** Atak Gorraka rozstrzyga się na początku tej tury — śmiałkowie wybierają docelową część ciała w chwili rozstrzygnięcia. Pip gra następnie Unik ratunkowy, akcję Czuwania gotową ocalić Magnusa przed nadchodzącym Ugryzieniem w Turze 8❖. Nie można go użyć na sobie i nie można ratować śmiałka, który już leży na ziemi.
 
 *Siekiera Gorraka trafia w przednią łapę i wgryza się głęboko. Tymczasem Pip odkłada kuszę i stawia się w gotowości — nie żeby strzelić, ale żeby odepchnąć Magnusa w odpowiednim momencie.*
 
@@ -569,7 +569,7 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 1. Cel się przesuwa: Magnus → **Gorrak**.
 2. Prowokacja rozstrzygnęła się w trakcie przygotowania Zgniecenia → czas przygotowania wydłuża się o +1 (3/4 → 3/5). Zgniecenie rozstrzygnie się teraz w **Turze 55❖**.
 
-**Gra:** D♦ — Osłona (Czuwanie). Aktywna do Tury 58.
+**Gra:** D♦ — Osłona (Czuwanie).
 
 > **Mechanika:** Wydłużenie czasu przygotowania przez Prowokację dotyczy każdej sytuacji, gdy rozstrzyga się ona w trakcie przygotowania ataku smoka. Tu Zgniecenie było na 3/4 — potrzebuje jeszcze 2 tur (dotrze do T55❖ zamiast T54❖). Cel to też teraz Gorrak, więc obie kolejne osłony będą go chronić, nie Magnusa.
 
@@ -597,9 +597,9 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 
 **Cel:** Gorrak
 
-**Oczekujące:** Osłona Lirien aktywna (→ Tura 58) · Zgniecenie smoka (K♠) → Tura 55❖
+**Oczekujące:** Osłona Lirien (Czuwanie) · Zgniecenie smoka (K♠) → Tura 55❖
 
-**Gra:** W♥ — Osłona (Czuwanie). Aktywna do Tury 59.
+**Gra:** W♥ — Osłona (Czuwanie).
 
 > **Mechanika:** Aktywne są teraz dwie osłony — Lirien (T54) i Pip'a (T55). Obie zadziałają gdy Zgniecenie rozstrzygnie się w następnej turze smoka. Kolejność ma znaczenie: osłona Pip'a została położona jako ostatnia, więc Pip jest ostatnim osłaniającym i poniesie końcowe skutki.
 
@@ -670,7 +670,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Oczekujące:** Splątanie Magnusa → Tura 60 · Zgniecenie smoka → ochładzanie (1/2 → wygasa T57❖)
 
-**Gra:** W♠ — Osłona (Czuwanie). Aktywna do Tury 61.
+**Gra:** W♠ — Osłona (Czuwanie).
 
 *Gorrak zajmuje pozycję. Jeśli smok znów nadchodzi, przejdzie przez niego.*
 
@@ -703,9 +703,9 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka aktywna (→ Tura 61) · Zionięcie ogniem smoka (A♥) → Tura 59❖ (czas przygotowania 1/2)
+**Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka (Czuwanie) · Zionięcie ogniem smoka (A♥) → Tura 59❖ (czas przygotowania 1/2)
 
-**Gra:** D♣ — Osłona (Czuwanie). Aktywna do Tury 62.
+**Gra:** D♣ — Osłona (Czuwanie).
 
 > **Mechanika:** Gorrak jest poza obszarem Ataku na obszar. Gdy Zionięcie ogniem się rozstrzygnie, jego Osłona wciągnie go w obszar (sam będzie wtedy osłonięty) i zredukuje obrażenia wszystkim w obszarze o -3Ϟ. Osłona Lirien (T58) jest również aktywna — ale ponieważ Lirien będzie wewnątrz obszaru jako sąsiadka Pip'a, jej Osłona jej nie chroni.
 
@@ -733,7 +733,7 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Zionięcie ogniem smoka (A♥) → Tura 59❖
+**Oczekujące:** Splątanie Magnusa → Tura 60 · Osłona Gorraka (Czuwanie) · Osłona Lirien (Czuwanie) · Zionięcie ogniem smoka (A♥) → Tura 59❖
 
 **Gra:** 8♠ — Precyzyjny atak (Atak, czas przygotowania 3), karta kładziona na Turę 62.
 
@@ -783,7 +783,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Smok ochładza się (→ Tura 60❖)
+**Oczekujące:** Smok ochładza się (→ Tura 60❖)
 
 **Rozstrzygnięcie:** Splątanie Magnusa odpala — **Łapy zostają splątane (~)**. Wszystkie ataki śmiałków na Łapy zyskują teraz +1Ϟ.
 
@@ -821,11 +821,11 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Osłona Gorraka aktywna (→ Tura 61) · Osłona Lirien aktywna (→ Tura 62) · Szybki atak smoka (Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
+**Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
 
 **Gra:** Dobiera — rozdaje po jednej karcie Lirien (4♠), Pip (3♥), Magnusowi (10♦).
 
-> **Mechanika:** Osłona Gorraka wygasa w tej turze (była aktywna do jego następnej tury, która właśnie nastała). Dwa ataki mają rozstrzygnąć się w T62 — Gorrak dostarcza Magnusowi i Pip'owi zasoby, których mogą potrzebować po rozstrzygnięciu. Nie może dobrać dla siebie.
+> **Mechanika:** Dwa ataki mają rozstrzygnąć się w T62 — Gorrak dostarcza Magnusowi i Pip'owi zasoby, których mogą potrzebować po rozstrzygnięciu. Nie może dobrać dla siebie.
 
 *Gorrak działa szybko, z jednym okiem na zmagającą się łapę. Mówi coś krótkiego do Lirien — imię albo może liczbę. Kiwa głową. Na tym kończy się cała rozmowa.*
 
@@ -851,7 +851,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Osłona Lirien aktywna (→ Tura 62) · Szybki atak smoka (Łapy) → Tura 62❖
+**Oczekujące:** Szybki atak smoka (Łapy) → Tura 62❖
 
 **Rozstrzygnięcie — dwa ataki w tej samej turze:**
 
@@ -886,7 +886,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 **Cel:** Pip. Pip **stoi**.
 
 Łapy na 2 PŻ (zakres 1–13) → ataki smoka Łapami: -1Ϟ.
-Brak aktywnych osłon (Gorraka wygasła w T61; Lirien wygasła na początku T62).
+Brak aktywnych osłon (obie zostały zużyte w T59❖).
 
 Podstawowe obrażenia Szybkiego ataku 5 → pozycja 5. Łapy -1Ϟ → pozycja **4** = **obrażenia 4**.
 
@@ -1090,9 +1090,9 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Oczekujące:** Pierwsza pomoc Lirien (Joker) → Tura 106 · Zamach smoka (W) → Tura 104❖
 
-**Gra:** D♣ — Osłona (Czuwanie). Aktywna do Tury 108.
+**Gra:** D♣ — Osłona (Czuwanie).
 
-> **Mechanika:** Osłona to akcja Czuwania — bez czasu przygotowania, aktywna do następnej tury Magnusa. Magnus stoi na 3 PŻ — ograniczenia za leżenie na ziemi nie mają zastosowania. Gdy Zamach rozstrzygnie się w następnej turze smoka jako Atak na obszar, Osłona Magnusa redukuje obrażenia o -3Ϟ dla całego obszaru — ale ponieważ on sam jest w obszarze ataku, nie osłania siebie.
+> **Mechanika:** Osłona to akcja Czuwania — bez czasu przygotowania. Magnus stoi na 3 PŻ — ograniczenia za leżenie na ziemi nie mają zastosowania. Gdy Zamach rozstrzygnie się w następnej turze smoka jako Atak na obszar, Osłona Magnusa redukuje obrażenia o -3Ϟ dla całego obszaru — ale ponieważ on sam jest w obszarze ataku, nie osłania siebie.
 
 *Magnus unosi młot. W stanie, w jakim się znajduje, to nie jest gest, który wykonuje lekko. Ustawia się między zamachem ogona a pozostałymi. Lemat, gdzieś w mroku za nim, wydaje dźwięk dezaprobaty. Magnus go ignoruje.*
 
