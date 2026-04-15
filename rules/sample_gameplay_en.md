@@ -1048,6 +1048,18 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 ---
 
+**Turn 102❖ — Skeldrath**
+
+**HP:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Jaws 6 · Paws 0 · Legs 0 · Tail 6
+
+**Target:** Magnus
+
+**Dragon:** Swing (J) · warm-up 1/3 — warming up
+
+*The tail begins its arc.*
+
+---
+
 **Turn 103 — Pip↓**
 
 **Hand:** —
@@ -1074,7 +1086,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Dragon:** Swing (J) · warm-up 1/3 — warming up
+**Dragon:** Swing (J) · warm-up 2/3 — warming up
 
 *Skeldrath draws the tail back another degree. The air in the hall compresses. Nobody says anything.*
 

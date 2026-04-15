@@ -1048,6 +1048,18 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 ---
 
+**Tura 102❖ — Skeldrath**
+
+**PŻ:** Gorrak 5 · Lirien 6 · Pip 0↓ · Magnus 3 | Paszcza 6 · Łapy 0 · Nogi 0 · Ogon 6
+
+**Cel:** Magnus
+
+**Smok:** Zamach (W) · czas przygotowania 1/3 — w przygotowaniu
+
+*Ogon zaczyna swój łuk.*
+
+---
+
 **Tura 103 — Pip↓**
 
 **Ręka:** —
@@ -1074,7 +1086,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Cel:** Magnus
 
-**Smok:** Zamach (W) · czas przygotowania 1/3 — w przygotowaniu
+**Smok:** Zamach (W) · czas przygotowania 2/3 — w przygotowaniu
 
 *Skeldrath cofa ogon o kolejny stopień. Powietrze w sali się zagęszcza. Nikt nic nie mówi.*
 
