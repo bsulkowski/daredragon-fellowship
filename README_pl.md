@@ -59,18 +59,19 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 | Wersja | Data | Zmiany |
 |---|---|---|
-| 0.15 | 2026-04-11 | Dodany przykład rozgrywki<br>Usprawniona mechanika oplątania |
-| 0.14.2 | 2026-03-27 | Uzupełniony i przeorganizowany komentarz fabularny |
-| 0.14.1 | 2026-03-18 | Dodany komentarz fabularny |
-| 0.14 | 2026-03-16 | Dodano mechanikę skoordynowanego ataku. |
+| 1.0 | 2026-04-17 | Oficjalna promocja do wersji 1.0 |
+| 0.15.1 | 2026-04-15 | Zdjęcia przykładowej rozgrywki |
+| 0.15 | 2026-04-11 | Przykład rozgrywki<br>Usprawniona mechanika oplątania |
+| 0.14.2 | 2026-03-27 | Komentarz fabularny |
+| 0.14 | 2026-03-16 | Mechanika skoordynowanego ataku. |
 | 0.13.2 | 2026-03-16 | Instrukcja (EN) |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Rozszerzenie możliwej liczby graczy |
 | 0.12 | 2024-11-12 | Poprawki mechaniki (wybór celu, modyfikatory) |
 | 0.11.2 | 2024-11-11 | Do pobrania plansza i ściągawka |
 | 0.11.1 | 2024-08-24 | Instrukcja — szczegółowy opis zasad gry (PL) |
 | 0.9 | 2023-12-29 | Zaprojektowana plansza |
-| 0.7 | 2023-09-24 | Wprowadzony „smokometr" |
-| 0.3 | 2023-06-18 | Wprowadzone kooperacyjne dobieranie kart |
+| 0.7 | 2023-09-24 | „Smokometr" |
+| 0.3 | 2023-06-18 | Kooperacyjne dobieranie kart |
 | 0.2 | 2022-10-08 | Szczegółowy prototyp mechaniki gry |
 | 0.1 | 2022-09-23 | Incepcja założeń projektowych |
 

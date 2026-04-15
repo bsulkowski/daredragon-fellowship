@@ -366,7 +366,7 @@ Wpływ na ataki przy użyciu danej części ciała.
 
 ## 3. Uwagi do wydania
 
-*Wersja: 0.15*
+*Wersja: 1.0*
 
 Gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Jest aktywnie rozwijana na podstawie feedbacku graczy — jeśli znajdziesz coś, co mogłoby działać lepiej, napisz w [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19). Pytania dotyczące zasad kieruj do [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20). Rozszerzenia są w przygotowaniu.
 
