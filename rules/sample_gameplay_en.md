@@ -29,6 +29,8 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 ---
 
+![Gameplay - Turn 1](/gameplay/turn_1.jpg)
+
 **Turn 1 — Gorrak**
 
 **Hand:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
@@ -239,6 +241,8 @@ Cool-down 1 → Turn 5❖.
 
 ---
 
+![Gameplay - Turn 7❖](/gameplay/turn_7d.jpg)
+
 **Turn 7❖ — Skeldrath**
 
 **HP:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Jaws 25 · Paws 20 · Legs 25 · Tail 25
@@ -334,6 +338,8 @@ Cool-down 1 → Turn 5❖.
 *Lirien sheathes her blade and crouches beside Magnus. "Get up," she says — two words, which for her is generous.*
 
 ---
+
+![Gameplay - Turn 10❖](/gameplay/turn_10d.jpg)
 
 **Turn 10❖ — Skeldrath**
 
@@ -464,6 +470,8 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 *The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.*
 
 ---
+
+![Gameplay - Turn 51](/gameplay/turn_51.jpg)
 
 **Turn 51 — Pip**
 
@@ -743,6 +751,8 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 ---
 
+![Gameplay - Turn 59❖](/gameplay/turn_59d.jpg)
+
 **Turn 59❖ — Skeldrath**
 
 **HP:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Jaws 14 · Paws 12 · Legs 8 · Tail 22
@@ -842,6 +852,8 @@ Cooldown 1 → expires Turn 60❖.
 *The paw strains against the binding. Almost free.*
 
 ---
+
+![Gameplay - Turn 62](/gameplay/turn_62.jpg)
 
 **Turn 62 — Lirien**
 
@@ -999,6 +1011,8 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 *They are not family by blood. By every other measure, they are.*
 
 ---
+
+![Gameplay - Turn 101](/gameplay/turn_101.jpg)
 
 **Turn 101 — Gorrak**
 
@@ -1379,6 +1393,8 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 *Gorrak has nothing to strike with that would land in time. He roars the dwarvish names he has for each of them — the ones nobody else uses. That is his move.*
 
 ---
+
+![Gameplay - Turn 113❖](/gameplay/turn_113d.jpg)
 
 **Turn 113❖ — Skeldrath**
 

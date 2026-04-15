@@ -29,6 +29,8 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 ---
 
+![Rozgrywka - Tura 1](/gameplay/turn_1.jpg)
+
 **Tura 1 — Gorrak**
 
 **Ręka:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
@@ -239,6 +241,8 @@ Czas ochłodzenia 1 → Tura 5❖.
 
 ---
 
+![Rozgrywka - Tura 7❖](/gameplay/turn_7d.jpg)
+
 **Tura 7❖ — Skeldrath**
 
 **PŻ:** Gorrak 25 · Lirien 25 · Pip 25 · Magnus 22 | Paszcza 25 · Łapy 20 · Nogi 25 · Ogon 25
@@ -334,6 +338,8 @@ Czas ochłodzenia 1 → Tura 5❖.
 *Lirien chowa miecz i kuca obok Magnusa. „Wstawaj" — mówi. Dwa słowa, co dla niej jest hojne.*
 
 ---
+
+![Rozgrywka - Tura 10❖](/gameplay/turn_10d.jpg)
 
 **Tura 10❖ — Skeldrath**
 
@@ -464,6 +470,8 @@ W tej sekcji walka trwa już od jakiegoś czasu. Drużyna zadała smoku krew —
 *W kopalni klanu przechowywano Wielką Siekierę jego praprababki Hildry — runiczną siekierę wykutą z pomocą krasnoludzkiej magii przez trzy pokolenia. Skeldrath po nią przyszedł. Zabrał ją ze skarbca, zasypał za sobą szyb bez zatrzymywania kroku i odleciał, gdy krasnoludy wciąż jeszcze odkrztuszały pył. Gorrak chce odzyskać siekierę. Nie mówi o zemście. Ci, którzy go znają, rozumieją, że to nie są dwie osobne sprawy.*
 
 ---
+
+![Rozgrywka - Tura 51](/gameplay/turn_51.jpg)
 
 **Tura 51 — Pip**
 
@@ -743,6 +751,8 @@ Pip: 15 → **12 PŻ**. Czas ochłodzenia 2 → wygasa w Turze 57❖.
 
 ---
 
+![Rozgrywka - Tura 59❖](/gameplay/turn_59d.jpg)
+
 **Tura 59❖ — Skeldrath**
 
 **PŻ:** Gorrak 16 · Lirien 20 · Pip 12 · Magnus 14↓ | Paszcza 14 · Łapy 12 · Nogi 8 · Ogon 22
@@ -842,6 +852,8 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 *Łapa napiera przeciwko więzom. Prawie wolna.*
 
 ---
+
+![Rozgrywka - Tura 62](/gameplay/turn_62.jpg)
 
 **Tura 62 — Lirien**
 
@@ -999,6 +1011,8 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 *Nie są rodziną z krwi. Pod każdym innym względem — są.*
 
 ---
+
+![Rozgrywka - Tura 101](/gameplay/turn_101.jpg)
 
 **Tura 101 — Gorrak**
 
@@ -1379,6 +1393,8 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 *Gorrak nie ma czym uderzyć, żeby dotarło na czas. Ryczy krasnoludowe imiona, które im nadał — te, których nikt inny nie używa. To jego ruch.*
 
 ---
+
+![Rozgrywka - Tura 113❖](/gameplay/turn_113d.jpg)
 
 **Tura 113❖ — Skeldrath**
 
