@@ -803,7 +803,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Dragon:** Fire Breath — cooldown 1/1 → **expires**
 
-**Plays:** **5** — Quick Strike (Paws, Direct Attack, base warm-up 1, cooldown 1).
+**Plays:** **5♣** — Quick Strike (Paws, Direct Attack, base warm-up 1, cooldown 1).
 
 **Paws are entangled (~)** → the dragon must spend one extra turn freeing Paws before the attack resolves. Warm-up becomes 1 (freeing) + 1 (strike) = **warm-up 2 total**. Card placed at **Turn 62❖**.
 
@@ -821,7 +821,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (Paws) → Turn 62❖ (warm-up 1/2, freeing)
+**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (5♣, Paws) → Turn 62❖ (warm-up 1/2, freeing)
 
 **Plays:** Draws — deals one card to Lirien (4♠), Pip (3♥), Magnus (10♦).
 
@@ -837,7 +837,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Dragon:** Quick Strike (Paws) · warm-up 1/2 — freeing.
+**Dragon:** Quick Strike (5♣, Paws) · warm-up 1/2 — freeing.
 
 *The paw strains against the binding. Almost free.*
 
@@ -851,7 +851,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Dragon's Quick Strike (Paws) → Turn 62❖
+**Pending:** Dragon's Quick Strike (5♣, Paws) → Turn 62❖
 
 **Resolves — two attacks on the same turn:**
 
@@ -881,7 +881,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Dragon:** Quick Strike (Paws) · warm-up 2/2 — **resolves**. Paws entanglement cleared.
+**Dragon:** Quick Strike (5♣, Paws) · warm-up 2/2 — **resolves**. Paws entanglement cleared.
 
 **Target:** Pip. Pip is **standing**.
 
@@ -1024,7 +1024,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Dragon:** Plays J — Swing (Tail, AoE Attack + Knockdown, warm-up 3), card placed at Turn 104❖.
+**Dragon:** Plays J♦ — Swing (Tail, AoE Attack + Knockdown, warm-up 3), card placed at Turn 104❖.
 
 *The tail lifts slowly. It has been still for several turns — saving itself. The sound it makes as it coils is like a millstone settling.*
 
@@ -1038,7 +1038,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Pending:** Dragon's Swing (J) → Turn 104❖
+**Pending:** Dragon's Swing (J♦) → Turn 104❖
 
 **Plays:** Joker — First Aid (Support, warm-up 4), card placed at Turn 106.
 
@@ -1054,7 +1054,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Dragon:** Swing (J) · warm-up 1/3 — warming up
+**Dragon:** Swing (J♦) · warm-up 1/3 — warming up
 
 *The tail begins its arc.*
 
@@ -1068,7 +1068,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Pending:** Gorrak's Strike (7♦) → Turn 103 · Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
+**Pending:** Gorrak's Strike (7♦) → Turn 103 · Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J♦) → Turn 104❖
 
 **Resolves:** Gorrak's Strike (7♦): Gorrak targets Jaws. Gorrak at 5 HP → damage −1Ϟ. Strike base 5 −1Ϟ on the dracometer (position 5 → position 4, value 4). Jaws take 4 damage (6→2 HP).
 
@@ -1086,7 +1086,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Dragon:** Swing (J) · warm-up 2/3 — warming up
+**Dragon:** Swing (J♦) · warm-up 2/3 — warming up
 
 *Skeldrath draws the tail back another degree. The air in the hall compresses. Nobody says anything.*
 
@@ -1100,7 +1100,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Pending:** Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J) → Turn 104❖
+**Pending:** Lirien's First Aid (Joker) → Turn 106 · Dragon's Swing (J♦) → Turn 104❖
 
 **Plays:** Q♣ — Shield (Guard).
 
@@ -1116,7 +1116,7 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 
 **Target:** Magnus
 
-**Dragon:** Swing (J) · warm-up 3/3 — **resolves**
+**Dragon:** Swing (J♦) · warm-up 3/3 — **resolves**
 
 **Resolves:** Swing targets Magnus. AoE hits Magnus, Gorrak, and Pip (Magnus's neighbours). Tail at 6 HP (1–13 range) → −1Ϟ on dragon Tail attacks: base damage 6 −1Ϟ (position 6 → position 5, value 5). Magnus's Shield triggers (AoE): −3Ϟ for the whole area, but Magnus is inside the area and does not shield himself.
 

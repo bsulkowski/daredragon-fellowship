@@ -803,7 +803,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Smok:** Zionięcie ogniem — czas ochłodzenia 1/1 → **wygasa**
 
-**Gra:** **5** — Szybki atak (Łapy, Bezpośredni Atak, bazowy czas przygotowania 1, czas ochłodzenia 1).
+**Gra:** **5♣** — Szybki atak (Łapy, Bezpośredni Atak, bazowy czas przygotowania 1, czas ochłodzenia 1).
 
 **Łapy są splątane (~)** → smok musi poświęcić jedną dodatkową turę na uwolnienie Łap przed rozstrzygnięciem ataku. Czas przygotowania wynosi teraz 1 (uwolnienie) + 1 (cios) = **łącznie czas przygotowania 2**. Karta kładziona na **Turę 62❖**.
 
@@ -821,7 +821,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
+**Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (5♣, Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
 
 **Gra:** Dobiera — rozdaje po jednej karcie Lirien (4♠), Pip (3♥), Magnusowi (10♦).
 
@@ -851,7 +851,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Szybki atak smoka (Łapy) → Tura 62❖
+**Oczekujące:** Szybki atak smoka (5♣, Łapy) → Tura 62❖
 
 **Rozstrzygnięcie — dwa ataki w tej samej turze:**
 
@@ -1024,7 +1024,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Cel:** Magnus
 
-**Smok:** Gra W — Zamach (Ogon, Atak na obszar + Powalenie, czas przygotowania 3), karta kładziona na Turę 104❖.
+**Smok:** Gra W♦ — Zamach (Ogon, Atak na obszar + Powalenie, czas przygotowania 3), karta kładziona na Turę 104❖.
 
 *Ogon unosi się powoli. Przez kilka tur był nieruchomy — oszczędzał siły. Dźwięk, który wydaje gdy się zwija, jest jak osiadający kamień młyński.*
 
@@ -1054,7 +1054,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Cel:** Magnus
 
-**Smok:** Zamach (W) · czas przygotowania 1/3 — w przygotowaniu
+**Smok:** Zamach (W♦) · czas przygotowania 1/3 — w przygotowaniu
 
 *Ogon zaczyna swój łuk.*
 
@@ -1086,7 +1086,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Cel:** Magnus
 
-**Smok:** Zamach (W) · czas przygotowania 2/3 — w przygotowaniu
+**Smok:** Zamach (W♦) · czas przygotowania 2/3 — w przygotowaniu
 
 *Skeldrath cofa ogon o kolejny stopień. Powietrze w sali się zagęszcza. Nikt nic nie mówi.*
 
@@ -1116,7 +1116,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Cel:** Magnus
 
-**Smok:** Zamach (W) · czas przygotowania 3/3 — **rozstrzyga się**
+**Smok:** Zamach (W♦) · czas przygotowania 3/3 — **rozstrzyga się**
 
 **Rozstrzygnięcie:** Zamach celuje w Magnusa. Atak na obszar trafia Magnusa, Gorraka i Pip'a (sąsiedzi Magnusa). Ogon na 6 PŻ (zakres 1–13) → -1Ϟ przy atakach smoka Ogonem: podstawowe obrażenia 6 -1Ϟ (pozycja 6 → pozycja 5, wartość 5). Osłona Magnusa aktywuje się (Atak na obszar): -3Ϟ dla całego obszaru, ale Magnus jest w obszarze i nie osłania siebie.
 
