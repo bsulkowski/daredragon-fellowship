@@ -823,7 +823,7 @@ Czas ochłodzenia 1 → wygasa w Turze 60❖.
 
 **Oczekujące:** Precyzyjny atak Pip'a → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (5♣, Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
 
-**Gra:** Dobiera — rozdaje po jednej karcie Lirien (4♠), Pip (3♥), Magnusowi (10♦).
+**Gra:** Dobiera — rozdaje po jednej karcie Lirien (4♠), Pip (3♥), Magnusowi (5♦).
 
 > **Mechanika:** Dwa ataki mają rozstrzygnąć się w T62 — Gorrak dostarcza Magnusowi i Pip'owi zasoby, których mogą potrzebować po rozstrzygnięciu. Nie może dobrać dla siebie.
 
@@ -934,7 +934,7 @@ Czas ochłodzenia 1 → wygasa w Turze 63❖.
 
 **Tura 64 — Magnus**
 
-**Ręka:** 10♦ *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
+**Ręka:** 5♦ *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
 **PŻ:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Paszcza 14 · Łapy 2 · Nogi 4 · Ogon 22
 

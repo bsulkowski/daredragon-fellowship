@@ -823,7 +823,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (5♣, Paws) → Turn 62❖ (warm-up 1/2, freeing)
 
-**Plays:** Draws — deals one card to Lirien (4♠), Pip (3♥), Magnus (10♦).
+**Plays:** Draws — deals one card to Lirien (4♠), Pip (3♥), Magnus (5♦).
 
 > **Mechanics:** Two attacks are due to resolve at T62 — Gorrak supplies Magnus and Pip with whatever they may need after the resolution. He cannot draw for himself.
 
@@ -934,7 +934,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 64 — Magnus**
 
-**Hand:** 10♦  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
+**Hand:** 5♦  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
 **HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
 
