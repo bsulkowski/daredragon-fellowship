@@ -13,7 +13,7 @@ A cooperative card-based board game for 4–6 players.
 
 A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's. The story is family-friendly, with the drama unfolding through cooperation and sacrifice rather than dark themes.
 
-## What You Need
+## Equipment
 
 - 2 standard 54-card decks (including jokers), preferably in two different colours
 - 8–10 distinguishable tokens (able to represent 2 states, e.g. meeples that can stand or lie)
@@ -28,14 +28,14 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 |------|-------------|
 | [rules/base_en.md](rules/base_en.md) | Rules |
 | [rules/sample_gameplay_en.md](rules/sample_gameplay_en.md) | Sample gameplay |
-| [rules/cheat_sheet_en.md](rules/cheat_sheet_en.md) | Cheat sheet |
 
-### Board (print-ready PDFs)
+### Printables
 
 | File | Description |
 |------|-------------|
 | [board/base_en.pdf](board/base_en.pdf) | Board — base game |
 | [board/extension_en.pdf](board/extension_en.pdf) | Board extension for 5–6 players |
+| [board/cheat_sheet_en.pdf](board/cheat_sheet_en.pdf) | Cheat sheet |
 
 ### Design Notes
 

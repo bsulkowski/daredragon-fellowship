@@ -23,7 +23,7 @@ Gracze: 4–6 osób
 
 ---
 
-### 1.1. Wymagania
+### 1.1. Będziecie potrzebować
 
 #### Karty
 
@@ -42,13 +42,13 @@ Pozycja pionków na planszy przedstawia pozostałe punkty życia śmiałków i s
  
 Jeden znacznik służy do śledzenia bieżącej tury. Drugi znacznik pokazuje cel ataków smoka.
  
-#### Do pobrania i wydrukowania
+#### Materiały do druku
 
 [Plansza](/board/base_pl.pdf)
  
 [Rozszerzenie planszy](/board/extension_pl.pdf) (5–6 graczy)
 
-[Ściągawka](/rules/cheat_sheet_pl.md)
+[Ściągawka](/board/cheat_sheet_pl.pdf)
 
 ---
 

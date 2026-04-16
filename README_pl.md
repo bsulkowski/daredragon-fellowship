@@ -13,7 +13,7 @@ Kooperacyjna gra planszowa dla 4–6 graczy.
 
 Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by pokonać smoka, zanim smok pokona ich — używając dwóch standardowych talii kart: jednej dla akcji bohaterów, drugiej dla akcji smoka. Historia jest bezpieczna dla całej rodziny — dramaturgia wyrasta ze współpracy i poświęcenia, nie z mrocznych motywów.
 
-## Co jest potrzebne
+## Wyposażenie
 
 - 2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach
 - 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)
@@ -28,14 +28,14 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 |------|------|
 | [rules/base_pl.md](rules/base_pl.md) | Zasady |
 | [rules/sample_gameplay_pl.md](rules/sample_gameplay_pl.md) | Przykładowa rozgrywka |
-| [rules/cheat_sheet_pl.md](rules/cheat_sheet_pl.md) | Ściągawka |
 
-### Plansza (gotowe do druku PDFy)
+### Materiały do druku
 
 | Plik | Opis |
 |------|------|
 | [board/base_pl.pdf](board/base_pl.pdf) | Podstawowa plansza, dla 4 graczy |
 | [board/extension_pl.pdf](board/extension_pl.pdf) | Rozszerzenie planszy, dla 5–6 graczy |
+| [board/cheat_sheet_pl.pdf](board/cheat_sheet_pl.pdf) | Ściągawka |
 
 ### Uwagi projektowe
 

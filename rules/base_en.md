@@ -23,7 +23,7 @@ Players: 4–6 people
 
 ---
 
-### 1.1. Prerequisites
+### 1.1. You Will Need
 
 #### Cards
 
@@ -48,7 +48,7 @@ One token tracks the current turn. The other marks the dragon's attack target.
 
 [Board Extension](/board/extension_en.pdf) (5–6 players)
 
-[Cheat Sheet](/rules/cheat_sheet_en.md)
+[Cheat Sheet](/board/cheat_sheet_en.pdf)
 
 ---
 

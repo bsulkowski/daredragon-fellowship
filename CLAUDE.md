@@ -14,7 +14,6 @@ Language versions have suffix: `<lang> = en | pl`
 rules/
   base_<lang>.md            # Base rules
   sample_gameplay_<lang>.md # Sample gameplay (extracted from base rules)
-  cheat_sheet_<lang>.md     # Cheat sheet
   extensions_<lang>.md      # Rules extensions — new ideas, WIP, optional mechanics
 design/
   decisions_<lang>.md       # Internal notes on mechanics and design choices
@@ -25,6 +24,8 @@ board/
   base_<lang>.pdf           # Board generated PDF
   extension_<lang>.svg      # Board extension SVG source
   extension_<lang>.pdf      # Board extension generated PDF
+  cheat_sheet_<lang>.tex    # Cheat sheet source (LaTeX, for PDF generation)
+  cheat_sheet_<lang>.pdf    # Cheat sheet generated PDF
   qrcode_web_<lang>         # QR Code link to rules on web page
   dragon_background.jpeg      
 ```

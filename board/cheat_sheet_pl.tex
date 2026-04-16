@@ -1,0 +1,139 @@
+\documentclass[a4paper,landscape,12pt]{article}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage[table]{xcolor}
+\usepackage{colortbl}
+
+\setmainlanguage{polish}
+
+\geometry{
+  a4paper, landscape,
+  top=1cm, bottom=1cm, left=1cm, right=1cm
+}
+
+\newlength{\colsep}
+\setlength{\colsep}{0.8cm}
+% 4:3 split of (\textwidth - \colsep)
+\newlength{\leftcol}
+\newlength{\rightcol}
+\AtBeginDocument{
+  \setlength{\leftcol}{0.44444\textwidth}
+  \addtolength{\leftcol}{-0.5\colsep}
+  \setlength{\rightcol}{0.55556\textwidth}
+  \addtolength{\rightcol}{-0.5\colsep}
+}
+
+\definecolor{dragonred}{RGB}{160,20,20}
+
+\setmainfont{Latin Modern Roman}
+% Fallback font for card suit symbols (♥ ♦ ♠ ♣) and Ϟ
+\newfontfamily\symbolfont{Segoe UI Symbol}
+
+\newcommand{\suit}[1]{{\symbolfont #1}}
+\newcommand{\drac}{{\symbolfont Ϟ}}
+
+\setlength{\parskip}{3pt}
+\setlength{\parindent}{0pt}
+
+\newcommand{\sectiontitle}[1]{\medskip\textbf{#1}\par\smallskip}
+\newcommand{\tfn}[1]{\par{\footnotesize #1}\par}
+% White-text header row
+\newcommand{\hdr}[1]{\color{white}\textbf{#1}}
+
+\renewcommand{\arraystretch}{1.15}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}{>{\raggedright\arraybackslash}X}
+
+\begin{document}
+\pagestyle{empty}
+
+{\large\textbf{Gra planszowa \textit{Daredragon Fellowship} --- Ściągawka}}
+
+\vspace{4pt}\hrule\vspace{6pt}
+
+\noindent\begin{minipage}[t]{\leftcol}
+
+%% ---- TABELA 1 ----
+\sectiontitle{1. Obrażenia}
+
+\rowcolors{2}{gray!15}{}
+\begin{tabularx}{\linewidth}{C{0.8cm} R R R}
+  \rowcolor{dragonred}
+  \hdr{Obr.} & \hdr{Ataki smoka} & \hdr{Ataki obszar. smoka} & \hdr{Ataki śmiałków} \\
+  13 & {[K]} Zmiażdżenie & & \\
+  10 & {[D]} Ugryzienie & & \\
+  8  & {[10] [9]} Stratowanie* \newline {[8]} Ciężki atak & {[A\suit{♥♦}]} Ognisty oddech & {[9]} Szarża \\
+  6  & {[7] [6]} Atak & {[W]} Machnięcie ogonem* & {[8]} Precyzyjny atak \\
+  5  & {[5]} Szybki atak & & {[7] [6]} Atak \newline {[5]} Szybki atak \\
+  \bottomrule
+\end{tabularx}
+\tfn{(*) Powoduje powalenie.}
+
+%% ---- TABELA 2 ----
+\sectiontitle{2. Modyfikatory obrażeń}
+
+\rowcolors{2}{gray!15}{}
+\begin{tabularx}{\linewidth}{C{0.9cm} R R}
+  \rowcolor{dragonred}
+  \hdr{Poz.} & \hdr{Ataki smoka} & \hdr{Ataki śmiałków} \\
+  +2\drac & Śmiałek leży na ziemi* &
+    Riposta (1 tura po ataku smoka, 2 po uniku ratunkowym*) \\
+  +1\drac & Atak w czasie przygotowywania akcji śmiałka* \newline \newline Więcej niż 4 graczy &
+    Atak na oplątaną część ciała smoka \newline \newline
+    Za każdy kolejny atak w tej samej turze tym samym kolorem \\
+  -1\drac & PŻ od 1 do 13 & PŻ od 1 do 13 \\
+  -2\drac & PŻ równe 0 & Śmiałek leży na ziemi \\
+  -3\drac & Za każdą osłonę** & \\
+  \bottomrule
+\end{tabularx}
+\tfn{(*) Nie dotyczy ataków obszarowych. \newline (**) Śmiałek w obszarze ataku nie osłania sam siebie.}
+
+\end{minipage}\hspace{\colsep}\begin{minipage}[t]{\rightcol}
+
+%% ---- TABELA 3 ----
+\sectiontitle{3. Czas wykonywania akcji}
+
+\rowcolors{2}{gray!15}{}
+\begin{tabularx}{\linewidth}{C{0.85cm} R R R R}
+  \rowcolor{dragonred}
+  \hdr{Czas prz.} &
+  \hdr{Akcje smoka, \newline czas odp. = 2} &
+  \hdr{Akcje smoka, \newline czas odp. = 1} &
+  \hdr{Akcje śmiałków} &
+  \hdr{Akcje śmiałków} \\
+  4 & {[K]} Zmiażdżenie & & {[9]} Szarża & {[Joker]} Pierwsza pomoc \\
+  3 & {[D]} Ugryzienie \newline {[W]} Machnięcie ogonem & {[8]} Ciężki atak & {[8]} Precyzyjny atak & {[10]} Oplątanie \\
+  2 & {[10] [9]} Stratowanie & {[7] [6]} Atak \newline {[A\suit{♥♦}]} Ognisty oddech & {[7] [6]} Atak & {[4] [3] [2]} Pomocna dłoń \\
+  1 & & {[5]} Szybki atak \newline {[A\suit{♠♣}]} Przeraźliwy ryk \newline {[Joker]} Regeneracja & {[5]} Szybki atak & {[K]} Odwrócenie uwagi \\
+  \bottomrule
+\end{tabularx}
+
+%% ---- TABELA 4 ----
+\sectiontitle{4. Modyfikatory czasu wykonywania akcji}
+
+\rowcolors{2}{gray!15}{}
+\begin{tabularx}{\linewidth}{C{0.85cm} R R}
+  \rowcolor{dragonred}
+  \hdr{Czas prz.} & \hdr{Akcje smoka} & \hdr{Akcje śmiałków} \\
+  +1 & PŻ równe 0 \newline \newline
+       Oplątana część ciała \newline \newline
+       Odwrócenie uwagi smoka w czasie przygotowywania akcji &
+       Śmiałek leży na ziemi* \\
+  \bottomrule
+\end{tabularx}
+\tfn{(*) Akcje o czasie przygotowania 4 oraz akcje typu czuwanie stają się niedostępne.}
+
+\medskip
+Czas odpoczynku smoka +1, gdy wytrącony z równowagi przez unik ratunkowy.
+
+\end{minipage}
+
+\end{document}
