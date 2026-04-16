@@ -31,6 +31,8 @@ In this section, four daredevils take their first steps into the dragon's lair. 
 
 ![Gameplay - Turn 1](/gameplay/turn_1.jpg)
 
+> **Tokens used:** chess pieces — white for daredevils, black for dragon body parts. Starting from Daredevil A (top of the board) and going clockwise: Gorrak — rook, Lirien — bishop, Pip — pawn, Magnus — knight. Dragon body parts: Jaws — knight, Paws — pawn, Legs — rook, Tail — bishop. Turn and target tokens are screw caps.
+
 **Turn 1 — Gorrak**
 
 **Hand:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*

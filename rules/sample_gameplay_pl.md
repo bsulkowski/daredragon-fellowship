@@ -31,6 +31,8 @@ W tej sekcji czworo śmiałków stawia pierwsze kroki w jaskini smoka. Kolejne t
 
 ![Rozgrywka - Tura 1](/gameplay/turn_1.jpg)
 
+> **Użyte żetony:** figury szachowe — białe dla śmiałków, czarne dla części ciała smoka. Zaczynając od Śmiałka A (górna strona planszy) i idąc zgodnie z ruchem wskazówek zegara: Gorrak — wieża, Lirien — goniec, Pip — pionek, Magnus — skoczek. Części ciała smoka: Paszcza — skoczek, Łapy — pionek, Nogi — wieża, Ogon — goniec. Żetony tury i celu są wykonane z zakrętek.
+
 **Tura 1 — Gorrak**
 
 **Ręka:** 9♣ 7♠ *(Lirien: 2 · Pip: 2 · Magnus: 2)*
