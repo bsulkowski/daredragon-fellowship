@@ -19,6 +19,8 @@ design/
   decisions_<lang>.md       # Internal notes on mechanics and design choices
   style.md                  # Notes on how rules are written and presented
   story.md                  # Story commentary: characters, dragon, lair
+gameplay/
+  turn_<number>.jpg         # Photos of sample gameplay
 board/
   base_<lang>.svg           # Board SVG source
   base_<lang>.pdf           # Board generated PDF
@@ -26,8 +28,8 @@ board/
   extension_<lang>.pdf      # Board extension generated PDF
   cheat_sheet_<lang>.tex    # Cheat sheet source (LaTeX, for PDF generation)
   cheat_sheet_<lang>.pdf    # Cheat sheet generated PDF
-  qrcode_web_<lang>         # QR Code link to rules on web page
-  dragon_background.jpeg      
+  dragon_black_red.jpg      # Picture of the dragon
+  title_dragon.svg          # Title card with game title and dragon
 ```
 
 ## Authoring Conventions

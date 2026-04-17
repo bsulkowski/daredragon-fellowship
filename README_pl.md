@@ -63,7 +63,7 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 | 0.15.1 | 2026-04-15 | Zdjęcia przykładowej rozgrywki |
 | 0.15 | 2026-04-11 | Przykład rozgrywki<br>Usprawniona mechanika oplątania |
 | 0.14.2 | 2026-03-27 | Komentarz fabularny |
-| 0.14 | 2026-03-16 | Mechanika skoordynowanego ataku. |
+| 0.14 | 2026-03-16 | Mechanika skoordynowanego ataku |
 | 0.13.2 | 2026-03-16 | Instrukcja (EN) |
 | 0.13 | 2025-02-05 | Przebudowa mechaniki osłon i uników<br>Rozszerzenie możliwej liczby graczy |
 | 0.12 | 2024-11-12 | Poprawki mechaniki (wybór celu, modyfikatory) |
