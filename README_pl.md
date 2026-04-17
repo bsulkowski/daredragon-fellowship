@@ -1,6 +1,4 @@
-# Daredragon Fellowship
-
-![Daredragon Fellowship - Smok](board/title_dragon.svg)
+![Daredragon Fellowship - Smok](board/title_dragon.jpg)
 
 Kooperacyjna gra planszowa dla 4–6 graczy.
 
