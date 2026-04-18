@@ -43,6 +43,10 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 |------|-------------|
 | [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices |
 
+## External Links
+
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
+
 ## Community
 
 | Discussion | Description |

@@ -43,6 +43,10 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 |------|------|
 | [design/decisions_pl.md](design/decisions_pl.md) | Wewnętrzne notatki na temat mechaniki i decyzji projektowych |
 
+## Linki zewnętrzne
+
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
+
 ## Społeczność
 
 | Dyskusja | Opis |
