@@ -13,31 +13,30 @@ A cooperative card-based board game for 4–6 players.
 
 A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's. The story is family-friendly, with the drama unfolding through cooperation and sacrifice rather than dark themes.
 
-## Equipment
+The game is free, open source, and print-and-play — everything you need is in this repository.
 
-- 2 standard 54-card decks (including jokers), preferably in two different colours
-- 8–10 distinguishable tokens (able to represent 2 states, e.g. meeples that can stand or lie)
-- 2 additional tokens (turn tracker and attack target)
-- Printed board and cheat sheet (see below)
-
-## Files
-
-### Rules
+## Rules
 
 | File | Description |
 |------|-------------|
 | [rules/base_en.md](rules/base_en.md) | Rules |
 | [rules/sample_gameplay_en.md](rules/sample_gameplay_en.md) | Sample gameplay |
 
-### Printables
+## Printables
 
 | File | Description |
 |------|-------------|
-| [board/base_en.pdf](board/base_en.pdf) | Board — base game |
+| [board/base_en.pdf](board/base_en.pdf) | Board for 4 players |
 | [board/extension_en.pdf](board/extension_en.pdf) | Board extension for 5–6 players |
 | [board/cheat_sheet_en.pdf](board/cheat_sheet_en.pdf) | Cheat sheet |
 
-### Design Notes
+## Equipment
+
+- 2 standard 54-card decks (including jokers), preferably in two different colours
+- 8–10 distinguishable tokens (able to represent 2 states, e.g. meeples that can stand or lie)
+- 2 additional tokens (turn tracker and attack target)
+
+## Design Notes
 
 | File | Description |
 |------|-------------|
@@ -50,14 +49,17 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 | [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Ask questions and clarify rules |
 | [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19) | Feedback on balance, improvements, and new ideas |
 | [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Share your most epic moments from the game |
-| [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17) | Poll |
-| [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12) | Poll |
+
+### Polls
+
+- [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17)
+- [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12)
 
 ## External Links
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
 
-## Other Games by the Author
+### Other Games by the Author
 
 - [Bahama Taxi (2012)](https://github.com/bsulkowski/bahama-taxi)
 

@@ -13,31 +13,30 @@ Kooperacyjna gra planszowa dla 4–6 graczy.
 
 Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by pokonać smoka, zanim smok pokona ich — używając dwóch standardowych talii kart: jednej dla akcji bohaterów, drugiej dla akcji smoka. Historia jest bezpieczna dla całej rodziny — dramaturgia wyrasta ze współpracy i poświęcenia, nie z mrocznych motywów.
 
-## Wyposażenie
+Gra jest bezpłatna, open source i print-and-play — wszystko, czego potrzebujesz, znajdziesz w tym repozytorium.
 
-- 2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach
-- 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)
-- 2 dodatkowe znaczniki (śledzenie tur i celu ataków)
-- wydrukowana plansza i ściągawka (patrz niżej)
-
-## Pliki
-
-### Zasady gry
+## Zasady gry
 
 | Plik | Opis |
 |------|------|
 | [rules/base_pl.md](rules/base_pl.md) | Zasady |
 | [rules/sample_gameplay_pl.md](rules/sample_gameplay_pl.md) | Przykładowa rozgrywka |
 
-### Materiały do druku
+## Materiały do druku
 
 | Plik | Opis |
 |------|------|
-| [board/base_pl.pdf](board/base_pl.pdf) | Podstawowa plansza, dla 4 graczy |
-| [board/extension_pl.pdf](board/extension_pl.pdf) | Rozszerzenie planszy, dla 5–6 graczy |
+| [board/base_pl.pdf](board/base_pl.pdf) | Plansza dla 4 graczy |
+| [board/extension_pl.pdf](board/extension_pl.pdf) | Rozszerzenie planszy dla 5–6 graczy |
 | [board/cheat_sheet_pl.pdf](board/cheat_sheet_pl.pdf) | Ściągawka |
 
-### Uwagi projektowe
+## Wyposażenie
+
+- 2 standardowe talie po 54 karty (zawierające po 2 jokery), najlepiej w dwóch kolorach
+- 8–10 rozróżnialnych pionków, mogących przedstawiać 2 stany (np. bierki szachowe lub inne ludziki, które mogą stać lub leżeć)
+- 2 dodatkowe znaczniki (śledzenie tur i celu ataków)
+
+## Uwagi projektowe
 
 | Plik | Opis |
 |------|------|
@@ -50,14 +49,17 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 | [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Pytania i wyjaśnienia zasad |
 | [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19) | Opinie o balansie, pomysły na ulepszenia i nowe mechaniki |
 | [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Podziel się najbardziej epicką chwilą z rozgrywki |
-| [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17) | Ankieta |
-| [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12) | Ankieta |
+
+### Ankiety
+
+- [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17)
+- [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12)
 
 ## Linki zewnętrzne
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
 
-## Inne gry autora
+### Inne gry autora
 
 - [Bahama Taxi (2012)](https://github.com/bsulkowski/bahama-taxi)
 
