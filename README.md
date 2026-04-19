@@ -57,6 +57,10 @@ A fellowship of heroes stands against a dreadful dragon. Players cooperate to de
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
 
+## Other Games by the Author
+
+- [Bahama Taxi](https://github.com/bsulkowski/bahama-taxi)
+
 ## Revision History
 
 | Version | Date | Changes |

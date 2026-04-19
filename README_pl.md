@@ -57,6 +57,10 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
 
+## Inne gry autora
+
+- [Bahama Taxi](https://github.com/bsulkowski/bahama-taxi)
+
 ## Historia wersji
 
 | Wersja | Data | Zmiany |
