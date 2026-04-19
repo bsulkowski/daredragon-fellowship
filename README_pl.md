@@ -40,7 +40,7 @@ Gra jest bezpłatna, open source i print-and-play — wszystko, czego potrzebuje
 
 | Plik | Opis |
 |------|------|
-| [design/decisions_pl.md](design/decisions_pl.md) | Wewnętrzne notatki na temat mechaniki i decyzji projektowych |
+| [design/decisions_pl.md](design/decisions_pl.md) | Przemyślenia stojące za grą — dla graczy, osób prowadzących sesje i innych twórców. |
 
 ## Społeczność
 

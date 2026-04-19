@@ -40,7 +40,7 @@ The game is free, open source, and print-and-play — everything you need is in 
 
 | File | Description |
 |------|-------------|
-| [design/decisions_en.md](design/decisions_en.md) | Internal notes on mechanics and design choices |
+| [design/decisions_en.md](design/decisions_en.md) | The thinking behind the game — for players, facilitators, and fellow designers. |
 
 ## Community
 
