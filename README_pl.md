@@ -59,7 +59,7 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 
 ## Inne gry autora
 
-- [Bahama Taxi](https://github.com/bsulkowski/bahama-taxi)
+- [Bahama Taxi (2012)](https://github.com/bsulkowski/bahama-taxi)
 
 ## Historia wersji
 
