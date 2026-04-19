@@ -43,10 +43,6 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 |------|------|
 | [design/decisions_pl.md](design/decisions_pl.md) | Wewnętrzne notatki na temat mechaniki i decyzji projektowych |
 
-## Linki zewnętrzne
-
-- [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
-
 ## Społeczność
 
 | Dyskusja | Opis |
@@ -56,6 +52,10 @@ Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by 
 | [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Podziel się najbardziej epicką chwilą z rozgrywki |
 | [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17) | Ankieta |
 | [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12) | Ankieta |
+
+## Linki zewnętrzne
+
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/469130/daredragon-fellowship)
 
 ## Historia wersji
 
