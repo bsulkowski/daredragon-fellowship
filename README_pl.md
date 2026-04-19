@@ -13,6 +13,8 @@ Kooperacyjna gra planszowa dla 4–6 graczy.
 
 Drużyna bohaterów staje naprzeciw groźnego smoka. Gracze współpracują, by pokonać smoka, zanim smok pokona ich — używając dwóch standardowych talii kart: jednej dla akcji bohaterów, drugiej dla akcji smoka. Historia jest bezpieczna dla całej rodziny — dramaturgia wyrasta ze współpracy i poświęcenia, nie z mrocznych motywów.
 
+Zasady są niezależne od settingu — graj w świecie fantasy, science-fiction lub dowolnym, który wybierzesz.
+
 Gra jest bezpłatna, open source i print-and-play — wszystko, czego potrzebujesz, znajdziesz w tym repozytorium.
 
 ## Zasady gry

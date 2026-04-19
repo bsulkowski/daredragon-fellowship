@@ -13,6 +13,8 @@ A cooperative card-based board game for 4–6 players.
 
 A fellowship of heroes stands against a dreadful dragon. Players cooperate to defeat the dragon before it defeats them, using two standard card decks — one for the heroes' actions, one for the dragon's. The story is family-friendly, with the drama unfolding through cooperation and sacrifice rather than dark themes.
 
+Rules are setting-agnostic: play in fantasy, sci-fi, or any world you choose.
+
 The game is free, open source, and print-and-play — everything you need is in this repository.
 
 ## Rules
