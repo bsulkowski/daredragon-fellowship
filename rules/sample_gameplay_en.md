@@ -1,7 +1,8 @@
 # Board Game "Daredragon Fellowship" - Sample Gameplay
 
-*Author: Bartosz Sułkowski*
+English / [Polski](sample_gameplay_pl.md)
 
+*Author: Bartosz Sułkowski*
 
 ## 1. Overture
 

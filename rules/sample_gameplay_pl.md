@@ -1,7 +1,8 @@
 # Gra planszowa „Daredragon Fellowship" - Przykładowa rozgrywka
 
-*Autor: Bartosz Sułkowski*
+[English](sample_gameplay_en.md) / Polski
 
+*Autor: Bartosz Sułkowski*
 
 ## 1. Uwertura
 

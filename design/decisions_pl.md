@@ -1,5 +1,7 @@
 # Decyzje projektowe
 
+[English](decisions_en.md) / Polski
+
 Wewnętrzne notatki dotyczące mechaniki gry i wyborów projektowych, nieprzeznaczone bezpośrednio dla graczy.
 
 ---

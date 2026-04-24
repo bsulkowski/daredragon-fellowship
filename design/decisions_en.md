@@ -1,5 +1,7 @@
 # Design Decisions
 
+English / [Polski](decisions_pl.md)
+
 Internal notes on game mechanics and design choices, not communicated directly to players.
 
 ---

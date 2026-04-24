@@ -1,13 +1,10 @@
 ![Daredragon Fellowship - Smok](board/title_dragon.jpg)
 
+[English](README.md) / Polski
+
 Kooperacyjna gra planszowa dla 4–6 graczy.
 
 *Autor: Bartosz Sułkowski*
-
-## Dostępne wersje językowe
-
-- [Angielska](README.md)
-- [Polska](README_pl.md)
 
 ## Opis
 

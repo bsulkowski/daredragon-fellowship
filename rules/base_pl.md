@@ -1,7 +1,8 @@
 # Gra planszowa „Daredragon Fellowship"
 
-*Autor: Bartosz Sułkowski*
+[English](base_en.md) / Polski
 
+*Autor: Bartosz Sułkowski*
 
 ## 1. Podstawowe zasady gry
 

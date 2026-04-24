@@ -1,13 +1,10 @@
 ![Daredragon Fellowship - The Dragon](board/title_dragon.jpg)
 
+English / [Polski](README_pl.md)
+
 A cooperative card-based board game for 4–6 players.
 
 *Author: Bartosz Sułkowski*
-
-## Available language versions
-
-- [English](README.md)
-- [Polish](README_pl.md)
 
 ## Overview
 

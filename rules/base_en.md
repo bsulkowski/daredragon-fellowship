@@ -1,7 +1,8 @@
 # Board Game "Daredragon Fellowship"
 
-*Author: Bartosz Sułkowski*
+English / [Polski](base_pl.md)
 
+*Author: Bartosz Sułkowski*
 
 ## 1. Core Game Rules
 
