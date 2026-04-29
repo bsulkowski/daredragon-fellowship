@@ -45,14 +45,14 @@ The game is free, open source, and print-and-play — everything you need is in 
 
 | Discussion | Description |
 |---|---|
-| [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20) | Ask questions and clarify rules |
-| [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19) | Feedback on balance, improvements, and new ideas |
-| [Tales from the Lair](https://github.com/bsulkowski/daredragon-fellowship/discussions/18) | Share your most epic moments from the game |
+| [Helping Hand](https://boardgamegeek.com/thread/3700884/helping-hand) | Ask questions and clarify rules |
+| [The Forge](https://boardgamegeek.com/thread/3700883/the-forge) | Feedback on balance, improvements, and new ideas |
+| [Tales from the Lair](https://boardgamegeek.com/thread/3700894/tales-from-the-lair) | Share your most epic moments from the game |
 
 ### Polls
 
-- [Most dreaded dragon's action](https://github.com/bsulkowski/daredragon-fellowship/discussions/17)
-- [Favourite character](https://github.com/bsulkowski/daredragon-fellowship/discussions/12)
+- [Favourite character](https://boardgamegeek.com/thread/3700890/poll-favourite-character)
+- [Most dreaded dragon's action](https://boardgamegeek.com/thread/3700892/poll-most-dreaded-dragons-action)
 
 ## External Links
 
