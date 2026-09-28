@@ -28,6 +28,22 @@ In sample gameplay sections, player names serve double duty — the same name re
 
 Never let the two layers bleed into each other within a single sentence or passage.
 
+**Central theme: indifference versus attention**
+
+Skeldrath's defining trait is not greed or cruelty but indifference: he does not notice anyone (see [The Dragon](#the-dragon)). He drains the Heartstone, the node beneath Pip's mushroom patch, Magnus's tower and Hildra's axe without registering that anyone cared about them. His vanity is the same trait seen from the other side — he gave the title "the Inexhaustible" to himself, and the only one he ever names is himself.
+
+The fellowship is his inverse. Its strength is precise attention to one another: the nicknames Gorrak has given each of them (which nobody else uses), Lirien reading Gorrak's complaints, Pip standing slightly to the left when Magnus's spells turn instructive, Pip's food that is always exactly what is needed.
+
+This is also the core of the mechanics: cards can only be given to others, never to oneself, and the rules ask players to keep an eye on their co-players. The story renders this as gifts and words — rune-stones, strips of dried apple, names called out from the floor. Even an incapacitated daredevil can still give, and the strongest moments come exactly when giving is all that is left: Pip calling out to his companions (turn 103), Magnus talking from the floor (turn 112), Gorrak roaring the nicknames (turn 113).
+
+Guidance for new passages: emotion should come from concrete, sparing gestures of noticing the other — not from spoken declarations of friendship or family (which is why "They are not family by blood. By every other measure, they are." was cut). Humour builds details — running jokes — that later return as tenderness. A small-scale example: Lemma, unimpressed by everyone, who nonetheless notices — and then pretends not to.
+
+**Tone distribution across documents** (deliberate — not to be evened out)
+
+- The story commentary in the rulebook is mostly light: it introduces the characters, the world and the dragon. The motivation paragraphs are its serious counterweight.
+- The continuation of the story in the sample gameplay is a reward and an incentive to read the worked example. The pointer in section 2 of the rules ("also continues the story") stays.
+- The "Seven years on" passage is placed in the sample gameplay on purpose — after the reader has lived through a fight in which the fellowship keeps carrying one another. There it reads as recognition of something the reader has already seen, not as theory. Do not move the emotional payoff into the rulebook.
+
 ---
 
 ## The Fellowship
@@ -40,7 +56,7 @@ Gorrak is built like a small mountain that learned to hold a grudge. His axe is 
 
 Beneath the gruffness is someone who would — and has — walked into a burning building for each of his companions without pausing to ask questions. He has given each team member a dwarvish nickname. None of them can pronounce the real ones.
 
-**Motivation - revealed in section 2.2:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.
+**Motivation - revealed in sample gameplay, section 2:** The clan's mine held the Great Axe of his great-great-grandmother Hildra — a rune-axe, forged with dwarven magic across three generations. Skeldrath came for it. He seized it from the vault, collapsed the shaft behind him without breaking stride, and flew off while the dwarves were still coughing out dust. Gorrak wants the axe back. He does not talk about revenge. People who know him understand that these are not two separate things.
 
 ---
 
@@ -65,6 +81,13 @@ He always has food somewhere on his person. The origin and quantity of this food
 
 **Motivation - revealed in section 1.8:** As it turns out, Pip's mushroom patch sat directly above an ancient earth-magic node — a confluence of ley lines that the hobbits of the village had farmed for generations without knowing it (the mushrooms were very good, which seemed explanation enough). Skeldrath sensed it from three mountains away. He came, he extracted it, and he levelled most of the village on the way through — including the mushroom patch and his mother's apple cart — without apparent awareness that anything lived there. Pip finds this last part particularly unacceptable. He intends to be noticed.
 
+**Story thread:**
+
+- *The smallest loss, on purpose.* Pip lost a mushroom patch and his mother's apple cart — set against a sacred grove, an ancestral axe and a research tower. This sharpens the central theme (see [Story Principles](#story-principles)): the dragon does not tell the sacred from a market stall, because he notices neither. For Pip the point is not the magic; it is that nobody noticed anyone lived there. Hence "He intends to be noticed."
+- *Payoff in the sample gameplay — keep intact when editing:* (1) at the first Glare the dragon's eye settles on Pip and he freezes (turn 2❖) — he wanted to be noticed, and now he is, which is meant to be funny; (2) his first response to being noticed is to hand his companions strips of dried apple (turn 3); (3) later the eye settles on him again and he does not step back — he reloads his crossbow (turn 57❖). From freezing to standing his ground.
+- *The apples echo his mother's cart.* Pip, who always has food and offers it to everyone, does what his mother did at her cart. What the dragon crushed without noticing lives on in Pip's gesture. The connection stays unspoken in the text. Do not replace the apples with other food.
+- *The cart wheel in the antechamber is not his mother's cart.* It belongs to previous visitors, and it stays that way: the dragon does not take everyday objects, and he destroyed the village without noticing it, so he would have brought nothing back from it. The only link between Pip's village and the antechamber is the smell of mushrooms.
+
 ---
 
 ### Magnus Ashford — Human, sorcerer, hammer
@@ -75,7 +98,9 @@ Magnus carries a large enchanted hammer that once belonged to his warrior uncle.
 
 His cat, Lemma, survived the tower fire and now travels with the fellowship. Lemma is perpetually unimpressed by everyone, including the dragon.
 
-**Motivation - revealed in section 1.7:** Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of *Advanced Draconic Theory, Vol. 7* — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations.
+**Motivation - revealed in section 1.7:** Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of *Advanced Draconic Theory, Vol. 7* — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations. He always tells it as an anecdote. Only Lemma knows how many nights he sat over the ashes afterwards.
+
+The last two sentences are the one place in the paragraph where the humour drops: what Magnus lost that matters to him is the work, not his own dignity. The anecdote is how he copes; the ashes are what it costs. Lemma appears here only as a witness — the paragraph says what he knows, not what he feels about it, so the later payoff (Lemma noticing, then pretending not to) stays intact.
 
 ---
 
@@ -93,13 +118,11 @@ The dragon was not small. The reward was never negotiated. The barn that took th
 
 They kept finding each other on subsequent jobs. After the third time, they stopped pretending it was coincidence.
 
-**Revealed in section 2.3:**
+**Revealed in sample gameplay, section 3:**
 
 Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.
 
 They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.
-
-They are not family by blood. By every other measure, they are.
 
 ---
 
@@ -109,9 +132,9 @@ They are not family by blood. By every other measure, they are.
 
 **Revealed in section 1.6:**
 
-Skeldrath is very old, very large, and very aware of both facts. He considers himself the apex of creation — a view he holds with complete sincerity and no supporting evidence beyond his own size. He gave himself the title "the Inexhaustible." Nobody else uses it.
+Skeldrath is very old, very large, and very aware of both facts. He considers himself the apex of creation — a view he holds with complete sincerity and no supporting evidence beyond his own size. He gave himself the title "the Inexhaustible." Nobody else uses it. He does not care.
 
-He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.
+He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He did all of it to impress himself, and he still likes to recall it — aloud, though to no one — purely to bask in his own magnificence.
 
 **Revealed in section 1.10:**
 
@@ -119,7 +142,16 @@ Skeldrath has no interest in gold, gems, or the sentimental trinkets of lesser c
 
 The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patch, the tower full of artifacts — to Skeldrath, these were simply resources. That anyone cared about them is a fact as irrelevant to him as the preferences of insects.
 
-**Personality in the story:** Skeldrath does not have conversations with the fellowship. He has pronouncements. He occasionally pauses mid-combat to make a remark he considers devastating. The fellowship has learned to use these pauses tactically.
+**Profile:**
+
+- *Indifference is fundamental.* Others are not his audience, his enemies, or even his victims — they are part of the landscape, like weather. He does not hate, does not gloat, and does not want to be feared or admired.
+- *Vanity without an audience.* His vanity is self-sufficient: his deeds were done to impress himself, and he recalls them to bask in them. He talks, but not to anyone. He named himself because naming is something he does for himself; nobody else's name is worth knowing. Whether anyone else uses his title does not interest him — so vanity never turns into caring what others think.
+- *In the fight, he sees the fellowship as targets, not as someone.* The eye tracks, measures and decides; it never asks who. Attention is not recognition. This is what the motivations answer: Magnus was not noticed, Lirien was treated as irrelevant, Pip intends to be noticed.
+- *Drawing his attention works through his power, not his pride.* Insults would not register; a threat to his magic does. The sample gameplay already renders Draw Aggro this way: the artifact catching the light as Gorrak holds Hildra's axe (turn 54), Gorrak dragging a half-drained relic within reach (turn 111). New scenes should follow the same rule.
+- *The menace comes from the same trait.* He cannot be pleaded with, shamed or provoked by words, because he does not register anyone. That is why the fellowship's attention to one another is the counterweight (see [Central theme](#story-principles)).
+- *The humour comes from the scale of his self-absorption*, shown through the narrator's irony (the leaning watchtower, the evidence consisting of his own size) — never from boasting at others.
+
+**Personality in the story:** Skeldrath does not have conversations with the fellowship. He recounts his own deeds aloud, for his own enjoyment, addressed to no one — in draconic, which none of them speaks, so even the words never reach anyone. He occasionally pauses mid-combat to savour one; in the game these pauses fall on his cool-down turns. The fellowship has learned to use them tactically. Example in the sample gameplay: turn 56❖, where he rumbles contentedly over a Crush that the shields had mostly absorbed, while Magnus's Entangle, begun a moment earlier, takes shape.
 
 **Note on naming:** In actual play, each dragon gets its own generated name (a future feature). Skeldrath exists only for the story commentary.
 
@@ -135,11 +167,11 @@ The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has
 
 **The approach** is a long tunnel of blackened stone, wide enough for a dragon to pass through comfortably and for four adventurers to walk side by side while deeply regretting their life choices. The walls are scored with claw marks at regular intervals, which Magnus has theorised are either territorial markings or a very consistent nervous habit.
 
-**The antechamber** is where previous visitors' equipment has ended up: dented shields, snapped spear hafts, one very melted cart wheel. It smells of smoke and sulphur and, faintly, of old mushrooms (from Pip's patch; the smell has travelled).
+**The antechamber** is where previous visitors' equipment has ended up: dented shields, snapped spear hafts, one very melted cart wheel. It smells of smoke and sulphur and, faintly, of old mushrooms (from Pip's patch; the smell has travelled). In the rulebook intro the smell stays unnamed — "nobody has identified" it — but one of the four seems to recognise it and says nothing. The intro does not reveal who is who; the seed pays off in section 1.8, when the reader learns about the mushroom patch.
 
 ---
 
-**Revealed in section 2.1:**
+**Revealed in sample gameplay, section 1:**
 
 **The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
 

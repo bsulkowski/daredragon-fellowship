@@ -16,9 +16,9 @@ Gracze: 4–6 osób
 
 *Wejście do tunelu łatwo znaleźć. Jest tylko jedno — co jest albo uspokajające, albo złowróżbne, zależnie od Waszej kondycji psychicznej. Jest na tyle szerokie, by smok mógł przez nie przejść swobodnie, co wiele mówi o tym, kto je stworzył. Czworo ludzi może iść obok siebie — i czworo idzie teraz obok siebie — choć co najmniej dwójka z nich już żałuje wyborów życiowych, które doprowadziły ich do tego konkretnego korytarza, na tej konkretnej górze, tego konkretnego popołudnia.*
 
-*Ściany są regularnie ponacinane śladami pazurów. Jedna z czwórki ma teorię, czy to oznaczenia terytorialne, czy bardzo konsekwentny zły nawyk. Pozostałych troje poprosiło, żeby przestała o tym mówić.*
+*Ściany są regularnie ponacinane śladami pazurów. Ktoś z czwórki ma teorię, czy to oznaczenia terytorialne, czy bardzo konsekwentny zły nawyk. Pozostali poprosili, żeby zmienić temat.*
 
-*Przedsionek pachnie dymem, siarką i — słabo — czymś ziemistym i organicznym, czego nikt nie zidentyfikował. Podłoga jest usiana pozostałościami po poprzednich odwiedzających: wgięta tarcza tu, trzonek złamanej włóczni tam, jedno bardzo stopione koło od wozu, którego obecność nasuwa pytania, na które nikt się nie spieszy odpowiadać. Ktoś był tu przed nimi. Kilkoro, sądząc po pozostawionych śladach. Żadne z nich nie opuściło tunelu tą samą drogą.*
+*Przedsionek pachnie dymem, siarką i — słabo — czymś ziemistym i organicznym, czego nikt nie zidentyfikował. Jedno z czworga chyba rozpoznaje ten zapach, ale nic nie mówi. Podłoga jest usiana pozostałościami po poprzednich odwiedzających: wgięta tarcza tu, trzonek złamanej włóczni tam, jedno bardzo stopione koło od wozu, którego obecność nasuwa pytania, na które nikt się nie spieszy odpowiadać. Ktoś był tu przed nimi. Kilkoro, sądząc po pozostawionych śladach. Żadne z nich nie opuściło tunelu tą samą drogą.*
 
 *Czworo stoi na skraju ciemności i patrzy w głąb. To nieprawdopodobna grupa. Obiektywnie rzecz biorąc, nie są to najrozsądniejsze osoby, które mogłyby tu stać. Wchodzą mimo to.*
 
@@ -163,9 +163,9 @@ Jeśli zagrana karta wymaga celu (atak lub atak obszarowy), a smok nie ma wybran
 
 ---
 
-*Skeldrath jest bardzo stary, bardzo duży i w pełni świadomy obu tych faktów. Uważa się za szczyt stworzenia — pogląd, który wyznaje z całą szczerością i bez żadnych dowodów poza własnym rozmiarem. Sam nadał sobie tytuł „Nieznużonego". Nikt inny go nie używa.*
+*Skeldrath jest bardzo stary, bardzo duży i w pełni świadomy obu tych faktów. Uważa się za szczyt stworzenia — pogląd, który wyznaje z całą szczerością i bez żadnych dowodów poza własnym rozmiarem. Sam nadał sobie tytuł „Nieznużonego". Nikt inny go nie używa. Nie obchodzi go to.*
 
-*Jest naprawdę niebezpieczny. Jego ogień obrócił twierdze w gruzy, jego szczęki kruszyły machiny oblężnicze, a ogon zrównał z ziemią wieżę strażniczą, która — trzeba przyznać — już i tak się przechylała. Nie należy go lekceważyć, i on o tym wie, i przy każdej nadarzającej się okazji wam o tym przypomni.*
+*Jest naprawdę niebezpieczny. Jego ogień obrócił twierdze w gruzy, jego szczęki kruszyły machiny oblężnicze, a ogon zrównał z ziemią wieżę strażniczą, która — trzeba przyznać — już i tak się przechylała. Zrobił to wszystko, żeby zaimponować samemu sobie, i wciąż chętnie to wspomina — na głos, choć do nikogo — żeby móc napawać się własną wspaniałością.*
 
 ---
 
@@ -179,7 +179,7 @@ Nie ma indywidualnych wyników. Różne konkretne dowody odwagi i bohaterstwa w 
 
 ---
 
-*Magnus przez lata zbierał kolekcję magicznych artefaktów do badań — część zdobytą, część pożyczoną, kilka w stanach prawnej niejednoznaczności, których wolał nie analizować zbyt dokładnie. Skeldrath zabrał wszystko. Spalił też wieżę, razem z dwunastoma latami notatek i jedynym egzemplarzem Zaawansowanej teorii drakologicznej, tom 7 — książki, na którą Magnus czekał czternaście miesięcy, by pożyczyć ją od kolegi. Smok najwyraźniej w ogóle nie zauważył Magnusa podczas incydentu, co Magnus uznał za jednocześnie obraźliwe i — po namyśle — fortunne. Ma teraz niezwykle osobiste powody, by studiować smoki z bliska. Jest też winny kilku osobom kilka istotnych wyjaśnień.*
+*Magnus przez lata zbierał kolekcję magicznych artefaktów do badań — część zdobytą, część pożyczoną, kilka w stanach prawnej niejednoznaczności, których wolał nie analizować zbyt dokładnie. Skeldrath zabrał wszystko. Spalił też wieżę, razem z dwunastoma latami notatek i jedynym egzemplarzem Zaawansowanej teorii drakologicznej, tom 7 — książki, na którą Magnus czekał czternaście miesięcy, by pożyczyć ją od kolegi. Smok najwyraźniej w ogóle nie zauważył Magnusa podczas incydentu, co Magnus uznał za jednocześnie obraźliwe i — po namyśle — fortunne. Ma teraz niezwykle osobiste powody, by studiować smoki z bliska. Jest też winny kilku osobom kilka istotnych wyjaśnień. Zawsze opowiada o tym jak o anegdocie. Tylko Lemat wie, ile nocy przesiedział potem nad popiołem.*
 
 ---
 
@@ -227,9 +227,9 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 ---
 
-*Skaldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skaldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
+*Skeldratha nie interesuje złoto, klejnoty ani sentymentalne drobiazgi pomniejszych stworzeń. Takie rzeczy są poniżej niego — sprawy istot zbyt małych, by myśleć o czymkolwiek, co naprawdę ma znaczenie. To, co ma znaczenie dla Skeldratha, to magia. Konkretnie: magia ukryta w starożytnych artefaktach, świętych przedmiotach i miejscach skumulowanej mocy. Poluje na nie po całym świecie, a gdy je znajduje, pochłania ich energię, by pomnożyć własną. Przedmioty, które po sobie zostawia, są łupinami. Miejsca, które po sobie zostawia, są martwe. Nie uważa tego za okrucieństwo. W ogóle nie bierze pod uwagę mieszkańców.*
 
-*Wieża pełna artefaktów, Kamień Serca starożytnego gaju, węzeł linii ley pod grządką grzybów hobbita — dla Skaldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
+*Wieża pełna artefaktów, Kamień Serca starożytnego gaju, węzeł linii ley pod grządką grzybów hobbita — dla Skeldratha były to po prostu zasoby. To, że komukolwiek na nich zależało, jest dla niego faktem równie nieistotnym co preferencje insektów.*
 
 ---
 
@@ -262,7 +262,7 @@ Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i 
 
 #### Oplątanie
 
-Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1Ϟ przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania.
+Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1Ϟ przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania. Oplątanie zostaje zdjęte (pionek wraca do zwykłego stanu) dopiero w chwili rozstrzygnięcia ataku — ataki śmiałków rozstrzygane w dowolnej turze przygotowania nadal otrzymują premię +1Ϟ.
 
 #### Unik ratunkowy
 
@@ -325,7 +325,7 @@ Przerywa akcję śmiałka i powala go na ziemię.
 
 #### Przeraźliwy ryk
 
-Przerywa akcje wszystkich śmiałków. Każdy gracz odrzuca 2 wybrane karty z ręki.
+Przerywa akcje wszystkich śmiałków położone na planszy (nie dotyczy kart na ręce). Każdy gracz odrzuca 2 wybrane karty z ręki.
 
 #### Łypnięcie okiem
 
@@ -363,11 +363,13 @@ Wpływ na ataki przy użyciu danej części ciała.
 | 13–1 | Zadawane obrażenia -1Ϟ. |
 | 0 | Czas przygotowania +1.<br>Zadawane obrażenia -2Ϟ. |
 
+Wszystkie efekty wynikające z punktów życia są oceniane w chwili rozstrzygnięcia ataku, a nie jego rozpoczęcia. Jeśli próg zostanie przekroczony w czasie przygotowania, efekt dotyczy końcowego rozstrzygnięcia.
+
 ---
 
 ## 3. Uwagi do wydania
 
-*Wersja: 1.0*
+*Wersja: 1.0.1*
 
 Gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Jest aktywnie rozwijana na podstawie feedbacku graczy — jeśli znajdziesz coś, co mogłoby działać lepiej, napisz w [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19). Pytania dotyczące zasad kieruj do [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20). Rozszerzenia są w przygotowaniu.
 

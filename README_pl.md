@@ -66,6 +66,7 @@ Gra jest bezpłatna, open source i print-and-play — wszystko, czego potrzebuje
 
 | Wersja | Data | Zmiany |
 |---|---|---|
+| 1.0.1 | 2026-09-28 | Poprawki spójności komentarza fabularnego<br>Poprawki przykładowej rozgrywki<br>Uzupełnione doprecyzowania zasad (PL) |
 | 1.0 | 2026-04-17 | Oficjalna promocja do wersji 1.0 |
 | 0.15.1 | 2026-04-15 | Zdjęcia przykładowej rozgrywki |
 | 0.15 | 2026-04-11 | Przykład rozgrywki<br>Usprawniona mechanika oplątania |

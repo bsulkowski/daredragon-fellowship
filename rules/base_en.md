@@ -6,7 +6,7 @@ English / [Polski](base_pl.md)
 
 ## 1. Core Game Rules
 
-In the game you play as a fellowship of heroes dare to stand against a dreadful dragon.
+In the game you play as a fellowship of heroes who dare to stand against a dreadful dragon.
 
 Players: 4–6 people
 
@@ -18,7 +18,7 @@ Players: 4–6 people
 
 *The walls are scored with claw marks at regular intervals. One of the four has a theory about whether these are territorial markings or a very consistent nervous habit. The others have asked them to stop talking about it.*
 
-*The antechamber smells of smoke and sulphur and, faintly, of something earthy and organic that nobody has identified. The floor is scattered with the remnants of previous visitors: a dented shield here, the haft of a broken spear there, one very melted cart wheel whose presence raises questions nobody is in a hurry to pursue. Someone came this way before them. Several someones, it seems. None of them appear to have left the way they came in.*
+*The antechamber smells of smoke and sulphur and, faintly, of something earthy and organic that nobody has identified. One of the four seems to recognise it, but says nothing. The floor is scattered with the remnants of previous visitors: a dented shield here, the haft of a broken spear there, one very melted cart wheel whose presence raises questions nobody is in a hurry to pursue. Someone came this way before them. Several someones, it seems. None of them appear to have left the way they came in.*
 
 *Four figures stand at the edge of the dark, looking in. They are an improbable group. They are, by any objective measure, not the most sensible people to be standing here. They are going in anyway.*
 
@@ -163,9 +163,9 @@ If the played card requires a target (direct or AoE attack) and the dragon has n
 
 ---
 
-*Skeldrath is very old, very large, and very aware of both facts. He considers himself the apex of creation — a view he holds with complete sincerity and no supporting evidence beyond his own size. He gave himself the title "the Inexhaustible." Nobody else uses it.*
+*Skeldrath is very old, very large, and very aware of both facts. He considers himself the apex of creation — a view he holds with complete sincerity and no supporting evidence beyond his own size. He gave himself the title "the Inexhaustible." Nobody else uses it. He does not care.*
 
-*He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He is not to be underestimated, and he knows it, and he will remind you of it at every available opportunity.*
+*He is genuinely dangerous. His fire has reduced fortresses to rubble, his jaws have crushed siege engines, and his tail has levelled a watchtower that, admittedly, was already leaning. He did all of it to impress himself, and he still likes to recall it — aloud, though to no one — purely to bask in his own magnificence.*
 
 ---
 
@@ -179,7 +179,7 @@ There are no individual scores. The various acts of bravery and heroism in the g
 
 ---
 
-*Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of Advanced Draconic Theory, Vol. 7 — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations.*
+*Magnus had spent years assembling a collection of magical artifacts for research — some acquired, some borrowed, several in states of legal ambiguity he preferred not to examine too closely. Skeldrath took the lot. He also incinerated the tower, along with twelve years of notes and Magnus's only copy of Advanced Draconic Theory, Vol. 7 — a book he had been waiting fourteen months to borrow from a colleague. The dragon did not appear to notice Magnus at all during the incident, which Magnus found both insulting and, on reflection, fortunate. He now has extremely personal reasons to study dragons up close. He also owes several people some significant explanations. He always tells it as an anecdote. Only Lemma knows how many nights he sat over the ashes afterwards.*
 
 ---
 
@@ -289,7 +289,8 @@ Helps another daredevil up from the ground. Cannot be used on yourself.
 Restores up to 8 health points, even if the daredevil is incapacitated. Helps them up. Cannot be used on yourself.
 
 #### On the ground
-When a daredevil is knocked to the ground, they cannot perform Guard-type actions or actions with a base warm-up of 4, i.e.:<br>— Intervention Dodge,<br>— Shield,<br>— Charge,<br>— First Aid.<br>Warm-up of remaining actions +1.<br>Damage dealt by the daredevil -2Ϟ. |
+
+When a daredevil is knocked to the ground, they cannot perform Guard-type actions or actions with a base warm-up of 4, i.e.:<br>— Intervention Dodge,<br>— Shield,<br>— Charge,<br>— First Aid.<br>Warm-up of remaining actions +1.<br>Damage dealt by the daredevil -2Ϟ.
 
 ### 2.2. Dragon's Actions
 
@@ -368,7 +369,7 @@ All HP-based penalties are evaluated at the moment an attack resolves, not when 
 
 ## 3. Release Notes
 
-*Version: 1.0*
+*Version: 1.0.1*
 
 The game is complete, fully playable and enjoyable. It is actively developed based on player feedback — if you find something that could be better, share it in [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19). For rules questions, visit [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20). Extensions are in the works.
 

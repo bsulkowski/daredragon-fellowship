@@ -550,7 +550,7 @@ The fight has been going for some time. The fellowship has drawn blood — and t
 
 > **Mechanics:** Draw Aggro resolves at Turn 54, which is still during the Crush's warm-up. This has two consequences that will play out at T54: the target shifts to Gorrak, and the warm-up is extended by +1. Both effects apply simultaneously when Draw Aggro resolves.
 
-*Gorrak gets to his feet, rolls his shoulder, and walks to the wall. Hildra's axe is right where Skeldrath left it — leaning against the stone like it means nothing. Gorrak picks it up. He says nothing. He doesn't need to. Somewhere nearby, Lemma sits very upright, watching him with an attention he has not given anything else in this hall. When he turns, he looks away.*
+*Gorrak gets to his feet, rolls his shoulder, and walks to the wall. Hildra's axe is right where Skeldrath left it — leaning against the stone like it means nothing. Gorrak picks it up. He says nothing. He doesn't need to. Somewhere nearby, Lemma sits very upright, watching him with an attention he has not given anything else in this hall. When Gorrak turns, the cat looks away.*
 
 ---
 
@@ -637,7 +637,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 > **Mechanics:** Shield vs Direct Attack: the damage modifier stacks across both shields (-6Ϟ total), but only the last shielder (Pip) suffers the attack's effects. Crush carries no knockdown, and Pip is playing a Guard action (not warming up an attack), so the Direct Attack during warm-up rule does not trigger. Pip stays on his feet.
 
-*The jaws crash shut. Gorrak does not move. Pip absorbs the impact — it hits him like a cart, but he keeps his feet. "Still here," he says, possibly to himself.*
+*The jaws crash shut. Gorrak does not move. Pip absorbs the impact — it hits him like a battering ram, but he keeps his feet. "Still here," he says, possibly to himself.*
 
 ---
 
@@ -667,7 +667,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Dragon:** Crush — cooldown 1/2
 
-*The dragon shakes its head once, slowly. It is already thinking about the next move.*
+*Skeldrath rumbles something to himself, long and low, in a tongue none of them speaks. He sounds very pleased with that last blow.*
 
 ---
 
@@ -802,7 +802,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Plays:** 5♠ — Quick Strike (Attack, warm-up 1 + 1 on ground = **warm-up 2**), card placed at Turn 62.
 
-> **Mechanics:** Paws are now entangled in addition to Legs. Magnus is still on the ground → warm-up +1 (base 1 → 2), resolving at T60+2 = T62. The -2Ϟ on-ground penalty to damage will apply when the Quick Strike fires.
+> **Mechanics:** Paws are now entangled. Magnus is still on the ground → warm-up +1 (base 1 → 2), resolving at T60+2 = T62. The -2Ϟ on-ground penalty to damage will apply when the Quick Strike fires.
 
 *The binding takes hold. Magnus feels it through the floor — Paws, wrapped tight. He lines up his next shot from the ground. Slower, weaker. Still worth it.*
 
@@ -873,8 +873,9 @@ Cooldown 1 → expires Turn 60❖.
 **Attack 1 — Pip's Precision Strike:** Targets Paws.
 - Base damage 6 → position 6.
 - Paws entangled: +1Ϟ → position 7.
-- Orchestrated attack: +1Ϟ → position 8 = **damage 10**.
-- Paws: 12 → **2 HP**.
+- Orchestrated attack: +1Ϟ → position 8.
+- Pip at 11 HP (1–13 range): −1Ϟ → position 7 = **damage 8**.
+- Paws: 12 → **4 HP**.
 
 **Attack 2 — Magnus's Quick Strike (on ground):** Targets Legs.
 - Base damage 5 → position 5.
@@ -884,7 +885,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Action:** Lirien plays 2♥ — Helping Hand (Support, warm-up 2), card placed at Turn 64.
 
-> **Mechanics:** For Pip: entangle (+1Ϟ) and orchestrated (+1Ϟ) both add to a base of 6 — position 6 → 8, damage 10. For Magnus: the ground penalty (−2Ϟ) cancels the orchestrated bonus; the net is position 4, damage 4. Gorrak is now at 12 HP (1–13 range), so his own attacks deal −1Ϟ — but this turn it is Pip and Magnus attacking, so no penalty applies here. After this turn, Paws drops to 2 HP and Legs to 4 HP — both now in the 1–13 range. Dragon Paws and Legs attacks will carry −1Ϟ from here on.
+> **Mechanics:** For Pip: entangle (+1Ϟ) and orchestrated (+1Ϟ) both add to a base of 6, but Pip is at 11 HP (1–13 range), so −1Ϟ — position 6 → 7, damage 8. For Magnus: the ground penalty (−2Ϟ) cancels the orchestrated bonus; the net is position 4, damage 4. After this turn, Paws and Legs both drop to 4 HP — both now in the 1–13 range. Dragon Paws and Legs attacks will carry −1Ϟ from here on.
 
 *Two strikes land at once — one from the air, one from the floor. Paws recoils. The legs buckle. Lirien watches the numbers and immediately crouches down. "Your turn," she says.*
 
@@ -892,7 +893,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Turn 62❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -900,7 +901,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip. Pip is **standing**.
 
-Paws at 2 HP (1–13 range) → dragon Paws attacks: −1Ϟ.
+Paws at 4 HP (1–13 range) → dragon Paws attacks: −1Ϟ.
 No active shields (both were spent at T59❖).
 
 Quick Strike base damage 5 → position 5. Paws −1Ϟ → position **4** = **damage 4**.
@@ -909,7 +910,7 @@ Pip: 11 → **7 HP**.
 
 Cooldown 1 → expires Turn 63❖.
 
-> **Mechanics:** Paws dropped to 2 HP this same turn (from Pip's Precision Strike at T62), so the −1Ϟ Paws penalty already applies when the dragon resolves its own Paws attack moments later. Pip is standing — no +2Ϟ ground bonus for the dragon. No shields remain. The damage is modest, but Pip is now at 7 HP — entering the 1–13 range, which reduces his own damage dealt by −1Ϟ going forward.
+> **Mechanics:** Paws dropped to 4 HP this same turn (from Pip's Precision Strike at T62), so the −1Ϟ Paws penalty already applies when the dragon resolves its own Paws attack moments later. Pip is standing — no +2Ϟ ground bonus for the dragon. No shields remain. The damage is modest, but Pip is now down to 7 HP. He has been in the 1–13 range since T55❖, so his own attacks keep carrying −1Ϟ.
 
 *The binding snaps. The paw hits the floor with a sound like a falling boulder — then connects. Lighter than expected. Pip staggers one step, then steadies.*
 
@@ -919,15 +920,15 @@ Cooldown 1 → expires Turn 63❖.
 
 **Hand:** 6♥ 3♥  *(Gorrak: 2 · Lirien: 2 · Magnus: 1)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
-**Pending:** Lirien's Helping Hand (4♠) → Turn 64 · Dragon cooling down (→ Turn 63❖)
+**Pending:** Lirien's Helping Hand (2♥) → Turn 64 · Dragon cooling down (→ Turn 63❖)
 
 **Plays:** 6♥ — Strike (Attack, warm-up 2), card placed at Turn 65.
 
-> **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T65, this penalty will apply. Paws entanglement was cleared at T61❖ when the dragon's freeing turn completed — Paws are no longer entangled, but remain at 2 HP (1–13 range), so dragon Paws attacks continue to carry −1Ϟ.
+> **Mechanics:** Pip is at 7 HP (1–13 range) → damage dealt −1Ϟ. When the Strike resolves at T65, this penalty will apply. Paws entanglement was cleared at T62❖ when the dragon's attack resolved — Paws are no longer entangled, but remain at 4 HP (1–13 range), so dragon Paws attacks continue to carry −1Ϟ.
 
 *Pip wipes soot from his face and keeps moving. Still breathing. Still enough.*
 
@@ -935,7 +936,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 63❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -951,11 +952,11 @@ Cooldown 1 → expires Turn 63❖.
 
 **Hand:** 5♦  *(Gorrak: 2 · Lirien: 2 · Pip: 1)*
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14↓ | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
-**Pending:** Pip's Strike (6♥) → Turn 65 · Lirien's Helping Hand (4♠) → Turn 64 · Dragon's Roar (A♣) → Turn 64❖
+**Pending:** Pip's Strike (6♥) → Turn 65 · Lirien's Helping Hand (2♥) → Turn 64 · Dragon's Roar (A♣) → Turn 64❖
 
 **Resolves:** Lirien's Helping Hand fires — **Magnus stands up**.
 
@@ -969,7 +970,7 @@ Cooldown 1 → expires Turn 63❖.
 
 **Turn 64❖ — Skeldrath**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -987,7 +988,7 @@ Cooldown 1 → expires Turn 65❖.
 
 **State at end of Turn 64❖**
 
-**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 2 · Legs 4 · Tail 22
+**HP:** Gorrak 15 · Lirien 16 · Pip 7 · Magnus 14 | Jaws 14 · Paws 4 · Legs 4 · Tail 22
 
 **Target:** Pip
 
@@ -1010,8 +1011,6 @@ This section covers the endgame. Both sides are at their limits — the dragon h
 *Seven years on, they know each other in the way that only comes from too many shared campsites, too many wrong turns, and too many situations where the plan stopped working and someone had to improvise. Gorrak knows that Lirien's silences mean she has already solved the problem and is waiting for everyone else to catch up. Lirien knows that Gorrak's complaints are loudest when he is most determined to see something through. Pip knows when Magnus's spells are about to go instructive and has developed an instinct for standing slightly to the left. Magnus knows that Pip always has food, and that the food is always exactly what is needed, and has stopped asking how.*
 
 *They are an unofficial, unlicensed adventuring company with no agreed name, a shared debt at one inn, and a complicated reputation in at least three towns. They bicker about everything. They have never, not once, left each other behind.*
-
-*They are not family by blood. By every other measure, they are.*
 
 ---
 
@@ -1163,7 +1162,7 @@ Cool-down 2 → expires Turn 106❖.
 
 **Plays:** 5♣ — Strike (Attack, warm-up 2 + 1 on ground = **warm-up 3**), card placed at Turn 108.
 
-> **Mechanics:** Gorrak is on the ground → warm-up +1 for all non-guard actions (base 2 → 3), placing the card at Turn 108. The dragon has no target. Per the updated rule, targeting triggers only when the attack **resolves** — the dragon's target will be set to Gorrak at Turn 108 when the Strike fires, if no other targeting event occurs first.
+> **Mechanics:** Gorrak is on the ground → warm-up +1 for all non-guard actions (base 2 → 3), placing the card at Turn 108. The dragon has no target. Targeting triggers only when the attack **resolves** — the dragon's target will be set to Gorrak at Turn 108 when the Strike fires, if no other targeting event occurs first.
 
 *Gorrak does not get up. He commits to the strike from where he is, flat on the stone, and then lies there staring at the ceiling. The ceiling is very high. He has time to appreciate this.*
 
@@ -1437,7 +1436,7 @@ Cool-down 2 → expires Turn 115❖.
 
 *Lirien's blade finds the gap in the tail's scales — the same gap she has been watching since the Swing, since it first moved. The sound the dragon makes is not a roar. It is something quieter, and much more final.*
 
-*The rune-axe on the wall is still faintly lit. Gorrak will see to that.*
+*The rune-axe lies beside Gorrak, still faintly lit. Gorrak will see to that.*
 
 ---
 

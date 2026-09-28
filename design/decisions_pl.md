@@ -211,7 +211,7 @@ Komentarz fabularny to jedyne miejsce, gdzie środowisko jest ustalone. We wszys
 Fabularny smok (Skeldrath) nie jest klasycznym smokiem gromadzącym złoto. Jest obojętny na bogactwo i całkowicie niezainteresowany życiem wewnętrznym mniejszych stworzeń. Jego obsesją jest energia magiczna — poluje na artefakty skumulowanej mocy i wysysa je, by pomnażać własną siłę.
 
 Ten wybór służy kilku celom:
-- Daje każdemu członkowi drużyny osobistą stratę, która jest *konkretna* i *możliwa do odzyskania* (runa-topór wciąż w jaskini, wciąż słabo świecący), a nie jedynie zniszczona
+- Daje każdemu członkowi drużyny osobistą stratę, która jest *konkretna* i *możliwa do odzyskania* (runiczny topór wciąż w jaskini, wciąż słabo świecący), a nie jedynie zniszczona
 - Sprawia, że Skeldrath jest bardziej przerażający jako koncept: nie nienawidzi ludzi, po prostu ich nie rejestruje. Obojętność jest straszniejsza niż złośliwość dla tej grupy wiekowej.
 - Unika kliszy „chciwego smoka", pozostając wiernym zasadzie projektowej gry, że smok jest potężny i zły, nie komiczny ani godny sympatii
 - Jaskinia staje się cmentarzyskiem wyssanych artefaktów, a nie salą skarbów — wizualnie odrębna i tonalnie spójna
