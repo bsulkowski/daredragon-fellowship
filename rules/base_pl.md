@@ -141,7 +141,7 @@ O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wyw
 
 *Czwórka spotkała się siedem lat temu, w odpowiedzi na to samo ogłoszenie przyklejone do wiejskiej tablicy:*
 
-*> POSZUKIWANI: Odważne dusze. Smok, prawdopodobnie mały. Nagroda: do uzgodnienia.*
+*> POSZUKIWANI: Śmiałkowie. Smok, prawdopodobnie mały. Nagroda: do uzgodnienia.*
 
 *Przyszli osobno, ocenili się wzajemnie z różnym stopniem sceptycyzmu — Gorrak mruknął dwa razy, Lirien uniosła brew, Pip poczęstował wszystkich kanapkami, Magnus przypadkowo podpalił swój rękaw, przedstawiając się — i zgodzili się, po krótkiej i nie do końca cywilizowanej dyskusji, podzielić nagrodę na cztery części.*
 

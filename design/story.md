@@ -110,7 +110,7 @@ The last two sentences are the one place in the paragraph where the humour drops
 
 The four met seven years ago, answering the same notice tacked to a village board:
 
-> *WANTED: Brave souls. Dragon, probably small. Reward: negotiable.*
+> *WANTED: Daredevils. Dragon, probably small. Reward: negotiable.*
 
 They arrived separately, sized each other up with varying degrees of scepticism — Gorrak grunted twice, Lirien raised an eyebrow, Pip offered everyone a sandwich, Magnus accidentally set his sleeve on fire introducing himself — and agreed, after a short and not entirely civil discussion, to split the reward four ways.
 
