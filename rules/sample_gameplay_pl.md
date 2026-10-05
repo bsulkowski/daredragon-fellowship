@@ -1010,7 +1010,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 *Siedem lat później znają się tak, jak można się znać tylko po zbyt wielu wspólnych noclegach pod gołym niebem, zbyt wielu złych zakrętach i zbyt wielu sytuacjach, gdy plan przestawał działać i ktoś musiał improwizować. Gorrak wie, że milczenie Lirien oznacza, że już rozwiązała problem i czeka, aż wszyscy inni to dostrzegą. Lirien wie, że narzekania Gorraka są najgłośniejsze, gdy jest najbardziej zdeterminowany, by coś doprowadzić do końca. Pip wie, kiedy zaklęcia Magnusa mają zaraz stać się „pouczające", i wyrobił sobie instynkt stawania nieco na lewo. Magnus wie, że Pip zawsze ma jedzenie, i że jedzenie jest zawsze dokładnie tym, czego potrzeba, i przestał pytać skąd.*
 
-*Są nieoficjalną, nielicencjonowaną drużyną poszukiwaczy przygód bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. Ani razu, ani jednego, nie zostawili się nawzajem w potrzebie.*
+*Są nieoficjalną, nielicencjonowaną drużyną poszukiwaczy przygód bez ustalonej nazwy, ze wspólnym długiem w jednej karczmie i skomplikowaną reputacją w co najmniej trzech miastach. Kłócą się o wszystko. W potrzebie nie zostawili się nawzajem ani razu.*
 
 ---
 
