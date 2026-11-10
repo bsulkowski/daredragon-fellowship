@@ -1445,4 +1445,56 @@ Czas odpoczynku 2 → wygasa w Turze 115❖.
 Gorrak 0↓ · Lirien 6 · Pip 8 · Magnus 0↓ | Smok pokonany
 Paszcza 0 · Łapy 0 · Nogi 0 · Ogon 0
 
+## 4. Epilog
+
+W tej sekcji nie ma już tur ani kart. Smok został pokonany — zostaje tylko to, co wydarzyło się potem.
+
+---
+
+*Skeldrath leży. Oko, które przez całą walkę śledziło, mierzyło i wybierało, jest wciąż otwarte — i po raz pierwszy robi coś innego. Patrzy.*
+
+*Na wysoką, która opuszcza ostrze. Na szerokiego, który leży i mimo to nie wypuścił topora. Na tego obok, który też leży i porusza ustami, jakby coś zapamiętywał na później. Na końcu na najmniejszego — i tam zostaje dłużej, niż zostawało dotąd na czymkolwiek, co nie było Skeldrathem.*
+
+*Coś się nie zgadza w rachunku, który prowadził przez całe życie i w którym dotąd była tylko jedna pozycja. Żadna z tych istot nie powinna była zostawić na nim rysy. Żadna z osobna by nie zostawiła. Nie były osobno — a tego nigdy nie brał pod uwagę, bo nie miał zwyczaju brać pod uwagę niczego tej wielkości.*
+
+*Mówi jedno słowo. Krótkie, po smoczemu. Nikt z czworga go nie rozumie, ale wszyscy rozumieją, do kogo było: to pierwsze od bardzo dawna zdanie Skeldratha, w którym nie występuje on sam.*
+
+*„No, nareszcie" — mówi cicho Pip i opuszcza kuszę.*
+
+*Oko przygasa powoli, jak żar. Nie ma w nim skruchy. Zdziwienie zostaje najdłużej.*
+
+---
+
+*Przez dłuższą chwilę nikt się nie rusza — głównie dlatego, że połowa z nich nie może.*
+
+*„Nie miał z nami żadnych szans" — odzywa się Gorrak z podłogi. Lirien patrzy na niego, leżącego dokładnie tam, gdzie upadł, i niczego nie prostuje. Klęka i opatruje mu ramię, mocniej, niż to konieczne. Gorrak mruczy raz.*
+
+*Pip rozpala ogień. W sali, która przed chwilą była go pełna, wygląda to na nietakt, ale nikt nie protestuje, gdy z kociołka zaczyna pachnieć suszonym jabłkiem. Skąd wziął się kociołek, pozostaje sprawą Pipa. Pierwsza miska trafia do Magnusa, który oświadcza, że nie jest głodny, i zjada dwie.*
+
+*Magnus nie może jeszcze wstać, więc wykorzystuje ten czas naukowo: mierzy dłonią najbliższy pazur i ogłasza, że ślady w tunelu to jednak oznaczenia terytorialne. Lirien uważa, że zły nawyk. Spierają się o to dłużej, niż trwała niejedna część walki. Pip prosi, żeby zmienić temat.*
+
+*Lemat schodzi ze sterty relikwii, mija smoka bez jednego spojrzenia i kładzie się Magnusowi na piersi. Całym ciężarem. Magnus nie wstałby teraz, nawet gdyby mógł. Kot zamyka oczy z miną kogoś, kto po prostu wybrał najcieplejsze miejsce w sali.*
+
+*Gorrak czyści topór Hildry: runy, ostrze, każdy cal drzewca. Czyści go jeszcze długo po tym, jak jest czysty. Nikt mu nie przerywa.*
+
+*Lirien siada plecami do reszty i coś pisze. Pip to widzi. Dolewa jej do miski i o nic nie pyta.*
+
+*Gdy wychodzą, w przedsionku wciąż pachnie grzybami. Pip przystaje. Potem idzie dalej.*
+
+---
+
+*Kilka tygodni później dług w karczmie jest spłacony. Gorrak postawił wszystkim, tak jak było postanowione, i od tamtej pory dług zdążył powstać na nowo.*
+
+*Siedzą przy tym samym stole co zawsze. Magnus pisze list do kolegi w sprawie pewnej książki. To czwarta wersja; zaczyna się od słów „Zabawna historia". Lemat śpi na kolanach Gorraka. Krasnolud nie ruszył się od dwóch godzin i twierdzi, że to przez kolano.*
+
+*Spór dotyczy tego, co powiedział smok. Magnus utrzymuje, że było to „wy" albo „kto" — rozróżnienie omawia tom siódmy. Lirien zauważa, że w takim razie Magnus nie wie. Gorrak jest zdania, że smok powiedział „dość". Pip kroi jabłko na cztery części i nie zabiera głosu. Jego zdaniem słowo jest mniej ważne niż to, że smok musiał w tym celu spojrzeć w dół.*
+
+*Na tablicy przy drzwiach ktoś przybił nowe ogłoszenie:*
+
+*> POSZUKIWANI: śmiałkowie do pokonania smoka. Smok: prawdopodobnie mały. Nagroda: do uzgodnienia.*
+
+*Lirien unosi brew. Magnus sprawdza rękawy. Pip zaczyna pakować kanapki.*
+
+*Gorrak patrzy na ogłoszenie długo. Mruczy raz.*
+
 ---

@@ -148,3 +148,4 @@ Story commentary is woven into the rules files alongside the technical content:
 - Each story fragment in `design/story.md` is annotated with a **reveal** keyword indicating which section or subsection it belongs to.
 - Within that section, story commentary follows the technical information — rules text comes first, story text after.
 - Story sections do not interrupt or replace rules text; they are always appended at the end of the relevant block.
+- The one exception is the **Epilogue**, the last section of the sample gameplay: it has no turn blocks and no mechanics, only story. It opens with a single plain-text sentence saying so; the rest is italic prose, with scenes separated by horizontal rules.

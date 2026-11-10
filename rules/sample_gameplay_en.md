@@ -1446,4 +1446,56 @@ Cool-down 2 → expires Turn 115❖.
 
 **Dragon defeated.**
 
+## 4. Epilogue
+
+There are no more turns or cards in this section. The dragon is defeated — what remains is what happened afterwards.
+
+---
+
+*Skeldrath lies still. The eye that tracked, measured and chose all through the fight is still open — and for the first time it does something else. It looks.*
+
+*At the tall one, lowering her blade. At the broad one, who is flat on the stone and has not let go of his axe all the same. At the one beside him, also flat on the stone, lips moving as though committing something to memory for later. Last of all at the smallest — and there it stays, longer than it has ever stayed on anything that was not Skeldrath.*
+
+*Something does not add up in the ledger he has kept all his life, which until now held a single entry. None of these creatures should have been able to leave a scratch on him. None of them, alone, would have. They were not alone — and that he had never taken into account, not being in the habit of taking anything that size into account.*
+
+*He says one word. Short, in draconic. None of the four understands it, but all of them understand who it was for: it is the first thing Skeldrath has said in a very long time that is not about himself.*
+
+*"About time," says Pip quietly, and lowers his crossbow.*
+
+*The eye dims slowly, like an ember. There is no remorse in it. The surprise is the last thing to go.*
+
+---
+
+*For a long moment nobody moves — chiefly because half of them cannot.*
+
+*"He never stood a chance against us," says Gorrak from the floor. Lirien looks at him, lying exactly where he fell, and corrects nothing. She kneels and binds his shoulder, tighter than strictly necessary. Gorrak grunts once.*
+
+*Pip lights a fire. In a hall that was full of it a moment ago this looks like poor manners, but nobody objects once the pot begins to smell of dried apple. Where the pot came from remains Pip's business. The first bowl goes to Magnus, who declares that he is not hungry and eats two.*
+
+*Magnus cannot get up yet, so he puts the time to scientific use: he measures the nearest claw against his hand and announces that the marks in the tunnel are territorial markings after all. Lirien maintains they are a bad habit. They argue about it for longer than some parts of the fight lasted. Pip asks them to stop talking about it.*
+
+*Lemma climbs down from the heap of relics, walks past the dragon without a single glance, and lies down on Magnus's chest. With his full weight. Magnus could not get up now even if he were able. The cat closes his eyes with the air of someone who has simply picked the warmest spot in the hall.*
+
+*Gorrak cleans Hildra's axe: the runes, the edge, every inch of the haft. He goes on cleaning it long after it is clean. Nobody interrupts him.*
+
+*Lirien sits down with her back to the others and writes something. Pip sees. He refills her bowl and asks nothing.*
+
+*On the way out, the antechamber still smells of mushrooms. Pip stops. Then he walks on.*
+
+---
+
+*A few weeks later the debt at the inn has been paid. Gorrak bought the drinks, as had been settled, and the debt has had time to grow back since.*
+
+*They are at the same table as always. Magnus is writing a letter to a colleague about a certain book. It is the fourth draft; it opens with the words "Funny story." Lemma is asleep in Gorrak's lap. The dwarf has not moved for two hours and says it is because of his knee.*
+
+*The argument is about what the dragon said. Magnus holds that it was either "you" or "who" — the distinction is covered in volume seven. Lirien observes that in that case Magnus does not know. Gorrak is of the opinion that the dragon said "enough." Pip cuts an apple into four and stays out of it. In his view the word matters less than the fact that the dragon had to look down to say it.*
+
+*On the board by the door someone has tacked up a new notice:*
+
+*> WANTED: daredevils to defeat a dragon. Dragon: probably small. Reward: negotiable.*
+
+*Lirien raises an eyebrow. Magnus checks his sleeves. Pip starts packing sandwiches.*
+
+*Gorrak looks at the notice for a long time. He grunts once.*
+
 ---

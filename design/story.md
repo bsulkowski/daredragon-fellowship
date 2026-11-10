@@ -43,6 +43,7 @@ Guidance for new passages: emotion should come from concrete, sparing gestures o
 - The story commentary in the rulebook is mostly light: it introduces the characters, the world and the dragon. The motivation paragraphs are its serious counterweight.
 - The continuation of the story in the sample gameplay is a reward and an incentive to read the worked example. The pointer in section 2 of the rules ("also continues the story") stays.
 - The "Seven years on" passage is placed in the sample gameplay on purpose — after the reader has lived through a fight in which the fellowship keeps carrying one another. There it reads as recognition of something the reader has already seen, not as theory. Do not move the emotional payoff into the rulebook.
+- The Epilogue (sample gameplay, section 4) is the release after the fight: story only, no mechanics. It is deliberately quiet — care shown through actions, nothing declared. See [The Epilogue](#the-epilogue).
 
 ---
 
@@ -84,7 +85,7 @@ He always has food somewhere on his person. The origin and quantity of this food
 **Story thread:**
 
 - *The smallest loss, on purpose.* Pip lost a mushroom patch and his mother's apple cart — set against a sacred grove, an ancestral axe and a research tower. This sharpens the central theme (see [Story Principles](#story-principles)): the dragon does not tell the sacred from a market stall, because he notices neither. For Pip the point is not the magic; it is that nobody noticed anyone lived there. Hence "He intends to be noticed."
-- *Payoff in the sample gameplay — keep intact when editing:* (1) at the first Glare the dragon's eye settles on Pip and he freezes (turn 2❖) — he wanted to be noticed, and now he is, which is meant to be funny; (2) his first response to being noticed is to hand his companions strips of dried apple (turn 3); (3) later the eye settles on him again and he does not step back — he reloads his crossbow (turn 57❖). From freezing to standing his ground.
+- *Payoff in the sample gameplay — keep intact when editing:* (1) at the first Glare the dragon's eye settles on Pip and he freezes (turn 2❖) — he wanted to be noticed, and now he is, which is meant to be funny; (2) his first response to being noticed is to hand his companions strips of dried apple (turn 3); (3) later the eye settles on him again and he does not step back — he reloads his crossbow (turn 57❖); (4) in the Epilogue the dying dragon's eye rests on him longest, and Pip answers with two words — "About time" — and lowers the crossbow. From freezing, to standing his ground, to being noticed.
 - *The apples echo his mother's cart.* Pip, who always has food and offers it to everyone, does what his mother did at her cart. What the dragon crushed without noticing lives on in Pip's gesture. The connection stays unspoken in the text. Do not replace the apples with other food.
 - *The cart wheel in the antechamber is not his mother's cart.* It belongs to previous visitors, and it stays that way: the dragon does not take everyday objects, and he destroyed the village without noticing it, so he would have brought nothing back from it. The only link between Pip's village and the antechamber is the smell of mushrooms.
 
@@ -153,6 +154,12 @@ The rune-axe, the Heartstone, the ley-line node beneath a hobbit's mushroom patc
 
 **Personality in the story:** Skeldrath does not have conversations with the fellowship. He recounts his own deeds aloud, for his own enjoyment, addressed to no one — in draconic, which none of them speaks, so even the words never reach anyone. He occasionally pauses mid-combat to savour one; in the game these pauses fall on his cool-down turns. The fellowship has learned to use them tactically. Example in the sample gameplay: turn 56❖, where he rumbles contentedly over a Crush that the shields had mostly absorbed, while Magnus's Entangle, begun a moment earlier, takes shape.
 
+**The one exception — the Epilogue:** In his last moments the eye stops tracking and, for the first time, looks: it asks *who*. He says a single word in draconic, the first in a very long time that is addressed to someone other than himself. This is his collision with reality — the error of having ignored smaller creatures — and it is recognition of a worthy opponent, never remorse. Rules for editing:
+
+- It happens once. Do not add earlier moments of recognition to the fight; the Epilogue only works if the eye has never asked *who* before.
+- Even here he names no one. The four are seen from his side as "the tall one", "the broad one", "the one beside him", "the smallest".
+- The word is never translated. The fellowship understands who it was for, not what it meant; their argument about it in the inn scene must stay unresolved.
+
 **Note on naming:** In actual play, each dragon gets its own generated name (a future feature). Skeldrath exists only for the story commentary.
 
 ---
@@ -176,3 +183,25 @@ The lair occupies the hollowed-out interior of Mount Greymantle, a peak that has
 **The great hall** is where the fight takes place. It is vast — the ceiling disappears into smoke and shadow above. The floor is black stone, warm underfoot, cracked in places where the mountain breathes heat. Along the walls lie the artifacts: dozens of them, piled without ceremony, in various states of depletion. Some still pulse with a faint glow — not yet fully drained. Most are dark and cold, hollowed out, recognisable as what they once were only by their shape. A rune-axe leans against the wall, its engravings still faintly lit. In the centre of the hall, Skeldrath waits.
 
 **Atmosphere notes for the story:** The hall is imposing but not hopeless. The faint glow of half-drained artifacts gives the space an eerie, cold light — nothing warm about it. The heat from the rock is oppressive but not unbearable. There is a faint sound — somewhere between a rumble and a snore — that turns out to be Skeldrath breathing. It stops when he notices them.
+
+---
+
+## The Epilogue
+
+**Revealed in sample gameplay, section 4.** Story only — no turns, no cards. Three short scenes that give the fight its release. The principle is the same as everywhere else (see [Story Principles](#story-principles)): nobody says what they feel; they show it by what they do.
+
+**Scene 1 — the look.** Skeldrath's last moments; see the exception note under [The Dragon](#the-dragon). Pip's "About time" closes his thread.
+
+**Scene 2 — after the battle, in the great hall.** Each beat pays off something set up earlier:
+
+- Gorrak's "He never stood a chance against us", said from the floor — the same Gorrak who, after the first dragon, was "already pretending the whole thing had been straightforward" (section 1.5). Lirien corrects nothing and binds his shoulder; one grunt means *fine*.
+- Pip cooks; the pot smells of dried apple (the apples stay — see Pip's story thread). Nobody asks where the pot came from.
+- The petty argument is the claw-mark theory from the rulebook intro; this time it is Pip who asks them to stop talking about it.
+- Lemma lies on Magnus's chest: care disguised as picking the warmest spot. He passes the dragon without a glance.
+- Gorrak cleans Hildra's axe long after it is clean — the payoff of "Gorrak will see to that" (turn 114).
+- Lirien writes with her back to the others. The journal stays a secret: Pip sees and asks nothing. Noticing and keeping quiet is the fellowship's answer to the dragon, who did neither.
+- On the way out, the antechamber still smells of mushrooms. Pip stops, then walks on. Nothing more is said.
+
+**Scene 3 — the inn, a few weeks later.** The shared debt at one inn ("Seven years on") and Gorrak's resolution to buy the drinks (turn 113❖) meet here. Magnus's letter that opens with "Funny story" is the anecdote he always makes of his loss. Lemma sleeps in Gorrak's lap and Gorrak blames his knee — the payoff of turn 53, where the cat watched him and looked away. The argument about the dragon's word stays unresolved. The closing notice repeats the one from section 1.5 word for word, and the four react as they did at their first meeting — except that Gorrak, who grunted twice then, grunts once.
+
+**Deliberately left open:** the fate of the Heartwood Grove, and of Magnus's artifacts and his explanations. Do not resolve them in the Epilogue.
