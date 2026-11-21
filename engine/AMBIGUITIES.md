@@ -22,6 +22,8 @@ Statuses:
 | A6 | Dummy at every seat | Count the cards of all other players, with thresholds scaled per player: ≤2n same suit, ≤4n same colour, more → different suit (n = number of other players; identical to the table for 4 players). |
 | A7 | 2.3 (0 HP); 2.2 Knockdown | Dropping to 0 HP is an automatic knockdown: the daredevil's actions on the board (warming up or guard) are cancelled and they lie on the ground. Replaces P12 and P13. |
 | A8 | 2.1 Guard, Intervention Dodge, Shield | When guards compete for the same attack, the one played last wins. Against a direct attack, a Dodge played after every Shield acts and the Shields keep waiting; otherwise the Shields act and the Dodge keeps waiting. Of several Dodges, the one played last acts. Replaces P8 and P9. |
+| A9 | 2.1 Attack (orchestrated attack) | Each attack gains +1Ϟ per other attack of its own suit resolving on the same turn; with ♠♠♥ the spades gain +1Ϟ each, the heart nothing. Replaces P20. |
+| A10 | 2.1 On the ground; #24 | A card played on the ground keeps the warm-up it was placed with (+1). The −2Ϟ damage penalty is evaluated at resolution, so it drops if the daredevil has been helped up meanwhile. Replaces P21. |
 
 ## Provisional readings in the engine
 
@@ -162,21 +164,13 @@ Decided by the author: see A7.
 - **Why:** the cool-down comes after the attack has resolved; the entanglement is a single token, so entangling twice changes nothing.
 - **Code:** `heroes.ts` `attack`, `partInUse`.
 
-### P20. Orchestrated attack with mixed suits — *Outcome*
+### P20. Orchestrated attack with mixed suits
 
-- **Where:** 2.1 Attack ("if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker").
-- **Readings:** (a) each attack gains +1Ϟ per other attack of its own suit resolving that turn (♠♠♥: the spades +1 each, the heart nothing); (b) the bonus applies only when all the attacks share a suit.
-- **Adopted:** (a).
-- **Why:** it extends the two-card case without discarding the matching pair because of a third attack.
-- **Code:** `heroes.ts` `attackSteps`.
+Decided by the author: see A9.
 
-### P21. On the ground: when the penalties are evaluated (#24) — *Outcome*
+### P21. On the ground: when the penalties are evaluated (#24)
 
-- **Where:** 2.1 On the ground (warm-up +1, damage −2Ϟ); 2.3 ("All HP-based penalties are evaluated at the moment an attack resolves").
-- **Readings:** for a daredevil who played a card on the ground and is helped up before it resolves: (a) the warm-up stays as placed, the −2Ϟ is evaluated at resolution (and so drops); (b) both stay; (c) both are re-evaluated (the card moves).
-- **Adopted:** (a).
-- **Why:** the card is placed on a turn when played, as with the dragon (P5); damage modifiers follow 2.3 and are evaluated at resolution. A Helping Hand resolving on the same turn as the helped daredevil's attack, but initiated earlier, removes the penalty (P1).
-- **Code:** `heroes.ts` `heroWarmup`, `attackSteps`.
+Decided by the author: see A10.
 
 ### P22. Helping Hand on an incapacitated daredevil
 

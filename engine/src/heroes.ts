@@ -24,7 +24,7 @@ export function canPlay(state: GameState, seat: number, card: Card): boolean {
   return !action.guard && action.warmup !== 4;
 }
 
-/** Warm-up in daredevil turns, fixed when the card is played: +1 on the ground (2.1, #38). */
+/** Warm-up in daredevil turns, fixed when the card is played: +1 on the ground (2.1; author, #38). */
 export function heroWarmup(state: GameState, seat: number, card: Card): number {
   return heroAction(card).warmup! + (state.heroes[seat].prone ? 1 : 0);
 }
@@ -100,8 +100,8 @@ function* attack(ctx: Context, pending: HeroPending, action: HeroAction, round: 
 /**
  * Ϟ steps of a daredevil's attack, all evaluated at resolution: riposte (+2),
  * entangled part (+1), orchestrated attack (+1 per other attack of the same
- * suit resolving this turn, #38), the attacker at 13–1 HP (−1, 2.3) and on the
- * ground (−2; evaluated at resolution, #24, #38).
+ * suit resolving this turn; author, #38), the attacker at 13–1 HP (−1, 2.3) and on the
+ * ground (−2; evaluated at resolution; author, #24, #38).
  */
 function attackSteps(state: GameState, pending: HeroPending, part: BodyPart, due: readonly HeroPending[]): number {
   const attacker = state.heroes[pending.actor];
