@@ -30,6 +30,9 @@ board/
   cheat_sheet_<lang>.pdf    # Cheat sheet generated PDF
   dragon_black_red.jpg      # Picture of the dragon
   title_dragon.svg          # Title card with game title and dragon
+engine/                     # Rules engine (TypeScript, MIT) — see engine/README.md, issue #33
+  src/                      # Modules, run directly via node --experimental-strip-types
+  test/                     # npm test (node:test)
 ```
 
 ## Authoring Conventions
@@ -43,3 +46,9 @@ board/
 - Damage modifiers use the `Ϟ` symbol in both languages (`+1Ϟ`, `-2Ϟ`)
 - Card face values use local conventions: Polish uses `D` (Dama) and `W` (Walet) for Q and J; English uses `Q` and `J`
 - Extensions files have no version history
+- The version number tracks the official rules only. Changes in `engine/` do not bump it.
+
+## Rules Engine
+
+- `engine/` implements the rules as they stand; it does not define them. Where the rules are ambiguous, the engine adopts a provisional reading and records it in the ambiguity register (issue #38).
+- Clarifications found while building the engine are synced back into the rules in one go (and may then bump the version). From that point on, the engine must stay consistent with the rules text.
