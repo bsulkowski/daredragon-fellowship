@@ -635,7 +635,7 @@ Gorrak otrzymuje 0 obrażeń.
 
 Pip: 15 → **12 PŻ**. Czas odpoczynku 2 → wygasa w Turze 57❖.
 
-> **Mechanika:** Osłona vs atak: modyfikator obrażeń kumuluje się na obu osłonach (-6Ϟ łącznie), ale tylko ostatni osłaniający (Pip) ponosi skutki ataku. Zmiażdżenie nie powoduje Powalenia, a Pip gra akcję Czuwania (nie jest w trakcie przygotowania ataku), więc zasada Ataku w trakcie przygotowania śmiałka nie ma zastosowania. Pip pozostaje na nogach.
+> **Mechanika:** Osłona vs atak: modyfikator obrażeń kumuluje się na obu osłonach (-6Ϟ łącznie), ale tylko ostatni osłaniający (Pip) ponosi skutki ataku. Zmiażdżenie nie powoduje Powalenia, a cel (Gorrak) nie przygotowuje akcji, więc zasada Ataku w trakcie przygotowania śmiałka nie ma zastosowania — osłona i tak zapobiegłaby temu powaleniu. Pip pozostaje na nogach.
 
 *Paszcza zatrzaskuje się z hukiem. Gorrak się nie rusza. Pip przyjmuje uderzenie — trafia go jak taran, ale utrzymuje się na nogach. „Wciąż tu jestem" — mówi, możliwe że do siebie.*
 
@@ -730,7 +730,7 @@ Pip: 15 → **12 PŻ**. Czas odpoczynku 2 → wygasa w Turze 57❖.
 
 **Cel:** Pip
 
-**Smok:** Ognisty oddech (A♥) · czas przygotowania 2/2 — w przygotowaniu
+**Smok:** Ognisty oddech (A♥) · czas przygotowania 1/2 — w przygotowaniu
 
 *Gardło jarzy się.*
 
@@ -893,7 +893,7 @@ Czas odpoczynku 1 → wygasa w Turze 60❖.
 
 **Tura 62❖ — Skeldrath**
 
-**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 4 · Nogi 4 · Ogon 22
+**PŻ:** Gorrak 15 · Lirien 16 · Pip 11 · Magnus 14↓ | Paszcza 14 · Łapy 4~ · Nogi 4 · Ogon 22
 
 **Cel:** Pip
 
@@ -1088,7 +1088,7 @@ Ta sekcja obejmuje końcówkę gry. Obie strony są u kresu sił — smok ma zni
 
 **Rozstrzygnięcie:** Atak Gorraka (7♦): Gorrak celuje w Paszczę. Gorrak na 5 PŻ → obrażenia -1Ϟ. Podstawowe obrażenia Ataku 5 -1Ϟ na smokometrze (pozycja 5 → pozycja 4, wartość 4). Paszcza otrzymuje 4 obrażenia (6→2 PŻ).
 
-**Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (5♣), Lirien (7♠), Magnusowi (9♦).
+**Gra:** Dobiera — rozdaje po jednej karcie Gorrakowi (7♣), Lirien (7♠), Magnusowi (9♦).
 
 > **Mechanika:** Pip jest obezwładniony — nie może grać kart akcji, ale dobieranie kart jest zawsze dostępne. Obrażenia Gorraka są redukowane przez jego karę za PŻ; własny zakres 1–13 PŻ Paszczy karze jedynie ataki *smoka* używające Paszczy, nie ataki śmiałków przeciwko niej.
 
@@ -1152,7 +1152,7 @@ Czas odpoczynku 2 → wygasa w Turze 106❖.
 
 **Tura 105 — Gorrak↓**
 
-**Ręka:** 5♣ 3♠ *(Lirien: 3 · Pip: — · Magnus: —)*
+**Ręka:** 7♣ 3♠ *(Lirien: 3 · Pip: — · Magnus: —)*
 
 **PŻ:** Gorrak 3↓ · Lirien 6 · Pip 0↓ · Magnus 0↓ | Paszcza 2 · Łapy 0 · Nogi 0 · Ogon 6
 
@@ -1160,7 +1160,7 @@ Czas odpoczynku 2 → wygasa w Turze 106❖.
 
 **Oczekujące:** Pierwsza pomoc Lirien (Joker) → Tura 106
 
-**Gra:** 5♣ — Atak (Atak, czas przygotowania 2 + 1 na ziemi = **czas przygotowania 3**), karta kładziona na Turę 108.
+**Gra:** 7♣ — Atak (Atak, czas przygotowania 2 + 1 na ziemi = **czas przygotowania 3**), karta kładziona na Turę 108.
 
 > **Mechanika:** Gorrak leży na ziemi → czas przygotowania +1 dla wszystkich akcji niebędących Czuwaniem (bazowy 2 → 3), kładzenie karty na Turę 108. Smok nie ma celu. Celu nabiera dopiero, gdy atak **rozstrzyga się** — cel smoka zostanie ustawiony na Gorraka w Turze 108 gdy Atak odpali, o ile wcześniej nie zajdzie inne zdarzenie zmieniające cel.
 
@@ -1188,7 +1188,7 @@ Czas odpoczynku 2 → wygasa w Turze 106❖.
 
 **Cel:** brak
 
-**Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Czas odpoczynku po Machnięciu smoka 1/2
+**Oczekujące:** Atak Gorraka (7♣) → Tura 108 · Czas odpoczynku po Machnięciu smoka 1/2
 
 **Rozstrzygnięcie:** Pierwsza pomoc Lirien (Joker) — cel: Pip. Pip przywrócony do maks. 8 PŻ (0→8 PŻ) i wstaje.
 
@@ -1222,7 +1222,7 @@ Czas odpoczynku 2 → wygasa w Turze 106❖.
 
 **Cel:** brak
 
-**Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Regeneracja smoka (Joker) → Tura 107❖
+**Oczekujące:** Atak Gorraka (7♣) → Tura 108 · Regeneracja smoka (Joker) → Tura 107❖
 
 **Gra:** 6♦ — Atak (Atak, czas przygotowania 2), karta kładziona na Turę 109.
 
@@ -1258,9 +1258,9 @@ Czas odpoczynku 1 → wygasa w Turze 108❖.
 
 **Cel:** brak
 
-**Oczekujące:** Atak Gorraka (5♣) → Tura 108 · Atak Pipa (6♦) → Tura 109 · Czas odpoczynku po Regeneracji smoka → Tura 108❖
+**Oczekujące:** Atak Gorraka (7♣) → Tura 108 · Atak Pipa (6♦) → Tura 109 · Czas odpoczynku po Regeneracji smoka → Tura 108❖
 
-**Rozstrzygnięcie:** Atak Gorraka (5♣): Gorrak celuje w Paszczę. Gorrak na 3 PŻ → obrażenia -1Ϟ. Gorrak na ziemi → obrażenia -2Ϟ. Łącznie: -3Ϟ. Podstawowe obrażenia Ataku 5 -3Ϟ na smokometrze (pozycja 5 → pozycja 2, wartość 2). Paszcza otrzymuje 2 obrażenia (2→0 PŻ).
+**Rozstrzygnięcie:** Atak Gorraka (7♣): Gorrak celuje w Paszczę. Gorrak na 3 PŻ → obrażenia -1Ϟ. Gorrak na ziemi → obrażenia -2Ϟ. Łącznie: -3Ϟ. Podstawowe obrażenia Ataku 5 -3Ϟ na smokometrze (pozycja 5 → pozycja 2, wartość 2). Paszcza otrzymuje 2 obrażenia (2→0 PŻ).
 
 Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako cel**.
 

@@ -66,7 +66,7 @@ Gra jest bezpłatna, open source i print-and-play — wszystko, czego potrzebuje
 
 | Wersja | Data | Zmiany |
 |---|---|---|
-| 1.1 | 2026-11-21 | Doprecyzowania zasad z budowy silnika reguł<br>Unik ratunkowy działa tylko przy ataku (nie obszarowym) |
+| 1.1 | 2026-11-21 | Doprecyzowania zasad z budowy silnika reguł<br>Unik ratunkowy działa tylko przy ataku (nie obszarowym)<br>Poprawki przykładowej rozgrywki |
 | 1.0.2 | 2026-10-05 | Brzmienie ogłoszenia w fabule<br>Brzmienie fabuły w przykładowej rozgrywce (PL) |
 | 1.0.1 | 2026-09-28 | Poprawki spójności komentarza fabularnego<br>Poprawki przykładowej rozgrywki<br>Uzupełnione doprecyzowania zasad (PL) |
 | 1.0 | 2026-04-17 | Oficjalna promocja do wersji 1.0 |
