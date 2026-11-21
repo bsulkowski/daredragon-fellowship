@@ -74,9 +74,10 @@ function attackSteps(state: GameState, action: DragonAction): number {
  *
  * - Intervention Dodge: the target is knocked down instead of being hit, and
  *   the dragon loses its balance. A Dodge cannot save its own player or a
- *   target on the ground; such a Dodge keeps waiting (author, #38). With
- *   several Dodges the earliest one acts; a Dodge comes before any Shield, and
- *   Shields keep waiting since the attack hits nothing (#38).
+ *   target on the ground; such a Dodge keeps waiting (author, #38).
+ * - Guards competing for one attack: the one played last wins (author, #38).
+ *   A Dodge played after every Shield acts and the Shields keep waiting;
+ *   otherwise the Shields act and the Dodges keep waiting.
  * - Shield: all Shields of other players act; −3Ϟ each; the last shielder takes
  *   the damage and the attack's inherent knockdown. The warm-up and on-ground
  *   bonuses come from the target's state; the Shield only prevents the warm-up
@@ -92,8 +93,9 @@ function* directAttack(ctx: Context, action: DragonAction): Step<number> {
   const prone = state.heroes[target].prone;
   const warmingUp = state.pending.some((p) => p.actor === target);
 
-  const dodge = prone ? undefined : guards(state, 'Intervention Dodge').find((g) => g.actor !== target);
-  if (dodge) {
+  const dodge = prone ? undefined : guards(state, 'Intervention Dodge').filter((g) => g.actor !== target).at(-1);
+  const shields = guards(state, 'Shield').filter((g) => g.actor !== target);
+  if (dodge && (shields.length === 0 || dodge.placed > shields[shields.length - 1].placed)) {
     useGuard(ctx, dodge);
     knockDown(ctx, target);
     openRiposte(ctx, action, 2);
@@ -103,7 +105,6 @@ function* directAttack(ctx: Context, action: DragonAction): Step<number> {
   let steps = attackSteps(state, action) + (warmingUp ? 1 : 0) + (prone ? 2 : 0);
   let victim = target;
   let knockdown = action.knockdown || warmingUp;
-  const shields = guards(state, 'Shield').filter((g) => g.actor !== target);
   if (shields.length > 0) {
     for (const shield of shields) useGuard(ctx, shield);
     steps += SHIELD_STEPS * shields.length;
@@ -121,7 +122,9 @@ function* directAttack(ctx: Context, action: DragonAction): Step<number> {
  * the ground (#38).
  *
  * - Intervention Dodge saves the target as in a direct attack, without loss of
- *   balance (2.1).
+ *   balance (2.1); with several, the one played last (author, #38). Dodge and
+ *   Shields do not compete here: the Dodge covers the target, the Shields the
+ *   others (#38).
  * - Every Shield acts, provided someone in the area is to be hit (#38): −3Ϟ
  *   for everyone in the area except the shielder; a shielder outside the area
  *   enters it, shielded by all Shields (2.1 example: A 1, B 1, C 4, D 1).
@@ -136,7 +139,7 @@ function* aoeAttack(ctx: Context, action: DragonAction): Step {
   const area = [(target + n - 1) % n, target, (target + 1) % n];
   const standing = (seat: number) => !state.heroes[seat].prone;
 
-  const dodge = standing(target) ? guards(state, 'Intervention Dodge').find((g) => g.actor !== target) : undefined;
+  const dodge = standing(target) ? guards(state, 'Intervention Dodge').filter((g) => g.actor !== target).at(-1) : undefined;
   const hitInArea = area.filter((seat) => standing(seat) && !(dodge && seat === target));
   const shields = hitInArea.length > 0 ? guards(state, 'Shield') : [];
   const entering = shields.map((g) => g.actor).filter((seat) => !area.includes(seat) && standing(seat));
@@ -211,9 +214,9 @@ function knockDown(ctx: Context, seat: number): void {
 }
 
 /**
- * 0 HP (2.3): no cards in hand, no longer a target. The daredevil's actions on
- * the board are cancelled — an incapacitated daredevil cannot act (#38) — and
- * they lie on the ground, as in the sample gameplay ("0↓").
+ * 0 HP (2.3): no cards in hand, no longer a target. Dropping to 0 HP is an
+ * automatic knockdown: the daredevil's actions on the board are cancelled and
+ * they lie on the ground (author, #38; the sample gameplay marks them "0↓").
  */
 function incapacitate(ctx: Context, seat: number): void {
   const hero = ctx.state.heroes[seat];

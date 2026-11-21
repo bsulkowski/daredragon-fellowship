@@ -20,6 +20,8 @@ Statuses:
 | A4 | Dummy (extensions) | The validity check for Shield and Intervention Dodge is to be removed (#8); in simulations both are always valid. |
 | A5 | Dummy (extensions) | Shield and Dodge targets follow the rules; "lowest current HP" applies to Helping Hand and First Aid only. |
 | A6 | Dummy at every seat | Count the cards of all other players, with thresholds scaled per player: ≤2n same suit, ≤4n same colour, more → different suit (n = number of other players; identical to the table for 4 players). |
+| A7 | 2.3 (0 HP); 2.2 Knockdown | Dropping to 0 HP is an automatic knockdown: the daredevil's actions on the board (warming up or guard) are cancelled and they lie on the ground. Replaces P12 and P13. |
+| A8 | 2.1 Guard, Intervention Dodge, Shield | When guards compete for the same attack, the one played last wins. Against a direct attack, a Dodge played after every Shield acts and the Shields keep waiting; otherwise the Shields act and the Dodge keeps waiting. Of several Dodges, the one played last acts. Replaces P8 and P9. |
 
 ## Provisional readings in the engine
 
@@ -81,26 +83,18 @@ Statuses:
 
 ### P8. Several Intervention Dodges on one attack
 
-- **Where:** 2.1 Intervention Dodge, Guard.
-- **Readings:** (a) the earliest-placed one acts, the others keep waiting; (b) all are used up.
-- **Adopted:** (a).
-- **Why:** one Dodge is enough to avoid the attack; per A3, a guard with nothing to do keeps waiting.
-- **Code:** `dragon.ts` `directAttack`, `aoeAttack`.
+Decided by the author: see A8.
 
-### P9. Intervention Dodge together with Shield on a direct attack — *Outcome*
+### P9. Intervention Dodge together with Shield on a direct attack
 
-- **Where:** 2.1 Intervention Dodge, Shield vs Direct Attack.
-- **Readings:** (a) the Dodge acts first; the attack hits nothing and the Shields keep waiting; (b) the Shields act first and the Dodge keeps waiting; (c) both are used up.
-- **Adopted:** (a).
-- **Why:** the Dodge makes the target avoid the attack, so there is nothing left to shield. This does mean the target always pays with a knockdown when a Dodge is up.
-- **Code:** `dragon.ts` `directAttack`.
+Decided by the author: see A8.
 
 ### P10. Intervention Dodge against an AoE attack
 
 - **Where:** 2.1 Intervention Dodge ("does not apply to AoE attacks" refers to loss of balance only).
 - **Readings:** (a) the target avoids the attack and is knocked down; the neighbours are hit as usual; no loss of balance; (b) the Dodge does not work against AoE at all.
 - **Adopted:** (a).
-- **Why:** the text excludes only the loss of balance for AoE attacks. The Shields act together with the Dodge, so a Shield of the saved target's own still protects the others.
+- **Why:** the text excludes only the loss of balance for AoE attacks. The Dodge and the Shields do not compete here (A8 does not apply): the Dodge covers the target, the Shields cover the others, and a Shield of the saved target's own still protects them.
 - **Code:** `dragon.ts` `aoeAttack`.
 
 ### P11. Shields against an AoE attack that hits nobody
@@ -111,21 +105,13 @@ Statuses:
 - **Why:** per A3, a guard that has nothing to act on keeps waiting. Under (b) a shielder would be hurt for protecting nobody.
 - **Code:** `dragon.ts` `aoeAttack`.
 
-### P12. Actions of a daredevil who becomes incapacitated — *Outcome*
+### P12. Actions of a daredevil who becomes incapacitated
 
-- **Where:** 2.3 (0 HP: "cannot take any action that requires playing a card"); 2.2 Knockdown.
-- **Readings:** (a) the action warming up and the guard are cancelled; (b) they still resolve.
-- **Adopted:** (a).
-- **Why:** an incapacitated daredevil cannot act; a mere knockdown already cancels the action. With (b), an incapacitated daredevil's attack could still finish the dragon.
-- **Code:** `dragon.ts` `incapacitate`.
+Decided by the author: see A7.
 
 ### P13. Incapacitated daredevils lie on the ground
 
-- **Where:** 2.3; 1.2 stance.
-- **Readings:** (a) at 0 HP the daredevil is also on the ground; (b) the stance is unchanged.
-- **Adopted:** (a).
-- **Why:** the sample gameplay marks them `0↓`, and First Aid "helps them up". AoE attacks leave them unaffected either way.
-- **Code:** `dragon.ts` `incapacitate`.
+Decided by the author: see A7.
 
 ### P14. Knockdown of a daredevil already on the ground
 

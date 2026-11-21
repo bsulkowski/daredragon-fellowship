@@ -156,7 +156,7 @@ test('Intervention Dodge: knockdown instead of damage, the dragon loses its bala
   const { s, of } = dragonTurn({
     turn: T, heroes: heroes(25, 25, 25, 25), target: 1, dragon: resolving('Q♠'),
     pending: [{ actor: 1, card: '9♥', played: T - 2, resolves: T + 2 }],
-    guards: [guard(0, 'A♦'), guard(2, 'Q♥')],
+    guards: [guard(0, 'Q♥', T - 3), guard(2, 'A♦', T - 1)],
   });
   assert.deepEqual(of('hit'), []);
   assert.equal(s.heroes[1].hp, 25);
@@ -164,7 +164,25 @@ test('Intervention Dodge: knockdown instead of damage, the dragon loses its bala
   assert.deepEqual(s.pending, [], 'being knocked to the ground cancels the action (author, #38)');
   assert.equal(s.dragon!.cooldownEnds, T + 3); // Bite cool-down 2 +1
   assert.deepEqual(s.riposte, { part: 'jaws', from: T + 1, to: T + 2 });
-  assert.deepEqual(s.guards.map((g) => g.card), ['Q♥'], 'the Shield keeps waiting (#38)');
+  assert.deepEqual(s.guards.map((g) => g.card), ['Q♥'], 'the Shield played earlier keeps waiting (author, #38)');
+});
+
+test('competing guards: the one played last wins (author, #38)', () => {
+  const shieldLast = dragonTurn({
+    turn: T, heroes: heroes(25, 25, 25, 25), target: 1, dragon: resolving('Q♠'),
+    guards: [guard(0, 'A♦', T - 3), guard(2, 'Q♥', T - 1)],
+  });
+  assert.deepEqual(shieldLast.of('hit'), [{ type: 'hit', player: 2, damage: 5, hp: 20 }]); // 10 −3Ϟ
+  assert.equal(shieldLast.s.heroes[1].prone, false);
+  assert.equal(shieldLast.s.dragon!.cooldownEnds, T + 2);
+  assert.deepEqual(shieldLast.s.guards.map((g) => g.card), ['A♦'], 'the Dodge keeps waiting');
+
+  const twoDodges = dragonTurn({
+    turn: T, heroes: heroes(25, 25, 25, 25), target: 1, dragon: resolving('Q♠'),
+    guards: [guard(0, 'A♦', T - 3), guard(2, 'A♣', T - 1)],
+  });
+  assert.deepEqual(twoDodges.of('guard').map((e) => e.player), [2]);
+  assert.deepEqual(twoDodges.s.guards.map((g) => g.card), ['A♦']);
 });
 
 test('sample Turn 8❖: Pip dodges for Magnus; cool-down 2→3, riposte on Turns 9 and 10', () => {
