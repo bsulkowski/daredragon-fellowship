@@ -12,7 +12,7 @@ The work is tracked in [issue #33](https://github.com/bsulkowski/daredragon-fell
 
 ## Status
 
-The engine is complete: the building blocks, the turn loop, the dragon's actions with the guards that react to them, and the daredevils' actions. The moves of the [sample gameplay](../rules/sample_gameplay_en.md) are recorded in `test/sample/` and replayed by the tests. The balance baselines come next.
+The engine is complete: the building blocks, the turn loop, the dragon's actions with the guards that react to them, and the daredevils' actions. The moves of the [sample gameplay](../rules/sample_gameplay_en.md) are recorded in `test/sample/` and replayed by the tests. Balance baselines for random play and the Dummy are in [bench/](bench/README.md).
 
 Where the rules can be read more than one way, the engine's reading is recorded in the [ambiguity register](AMBIGUITIES.md).
 

@@ -32,7 +32,8 @@ board/
   title_dragon.svg          # Title card with game title and dragon
 engine/                     # Rules engine (TypeScript, MIT) — see engine/README.md, issue #33
   src/                      # Modules, run directly via node --experimental-strip-types
-  test/                     # npm test (node:test)
+  test/                     # npm test (node:test); test/sample/ holds the sample gameplay moves
+  bench/                    # Balance baselines (npm run baselines), results in bench/results/
   AMBIGUITIES.md            # Ambiguity register: readings the engine adopted (issue #38)
 ```
 

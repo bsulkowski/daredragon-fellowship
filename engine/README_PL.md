@@ -12,7 +12,7 @@ Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellows
 
 ## Stan
 
-Silnik jest kompletny: podstawowe klocki, pętla tur, akcje smoka razem z reagującymi na nie akcjami czuwania oraz akcje śmiałków. Ruchy [przykładowej rozgrywki](../rules/sample_gameplay_pl.md) są zapisane w `test/sample/` i odtwarzane w testach. Dalej: punkty odniesienia do balansu.
+Silnik jest kompletny: podstawowe klocki, pętla tur, akcje smoka razem z reagującymi na nie akcjami czuwania oraz akcje śmiałków. Ruchy [przykładowej rozgrywki](../rules/sample_gameplay_pl.md) są zapisane w `test/sample/` i odtwarzane w testach. Punkty odniesienia do balansu dla gry losowej i Manekina są w [bench/](bench/README.md) (po angielsku).
 
 Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte przez silnik odczytanie jest zapisane w [rejestrze niejednoznaczności](AMBIGUITIES.md) (po angielsku).
 
