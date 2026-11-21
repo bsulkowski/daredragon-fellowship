@@ -70,17 +70,14 @@ test('play condition: an empty discard pile fails; Jokers (extensions; #9, #38)'
   assert.equal(playConditionMet(position([['Joker'], ...othersHolding(13)], '2♥'), 0, 'Joker'), true);
 });
 
-test('validity: Helping Hand needs someone else on the ground, First Aid someone below 8 HP; guards always (A4)', () => {
+test('validity: First Aid needs someone below 8 HP; Helping Hand and guards always (A4, A14)', () => {
   const s = position([['3♠', 'Joker', 'A♠', 'Q♠'], [], [], []]);
-  assert.equal(isValid(s, 0, '3♠'), false);
+  assert.equal(isValid(s, 0, '3♠'), true, 'someone may be on the ground by the time it resolves');
   assert.equal(isValid(s, 0, 'Joker'), false);
   assert.equal(isValid(s, 0, 'A♠'), true);
   assert.equal(isValid(s, 0, 'Q♠'), true);
-  const hurt = position([['3♠', 'Joker'], [], [], []], undefined, [{}, { prone: true, hp: 7 }]);
-  assert.equal(isValid(hurt, 0, '3♠'), true);
+  const hurt = position([['Joker'], [], [], []], undefined, [{}, { prone: true, hp: 7 }]);
   assert.equal(isValid(hurt, 0, 'Joker'), true);
-  const out = position([['3♠'], [], [], []], undefined, [{}, { hp: 0 }]);
-  assert.equal(isValid(out, 0, '3♠'), false, 'Helping Hand cannot help an incapacitated daredevil (P22)');
   const prone = position([['9♠'], [], [], []], undefined, [{ prone: true }]);
   assert.equal(isValid(prone, 0, '9♠'), false, 'no Charge on the ground');
 });

@@ -76,7 +76,7 @@ function* heroTurn(ctx: Context): Step {
   }
 
   // Actions whose warm-up expires resolve at the start of the turn (1.5),
-  // in the order they were initiated (provisional reading, #38).
+  // in the order they were initiated (P1, #38).
   const due = state.pending.filter((p) => p.resolves === turn).sort((a, b) => a.played - b.played);
   const round: Resolution = { due, targetTakenByAttack: false };
   for (const action of due) {

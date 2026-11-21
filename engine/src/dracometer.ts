@@ -24,7 +24,7 @@ export function valueAt(pos: number): number {
  *
  * Callers sum all modifiers first and clamp once. The rules do not say whether
  * intermediate results clamp (e.g. 5 −3Ϟ −3Ϟ +2Ϟ gives 1 summed, 2 step by step);
- * summing is the provisional reading, recorded in the ambiguity register.
+ * summing is the reading approved by the author (P6, #38).
  */
 export function modify(base: number, steps: number): number {
   return valueAt(position(base) + steps);

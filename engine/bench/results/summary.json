@@ -1257,38 +1257,38 @@
       "modifier": -3,
       "summary": {
         "games": 2000,
-        "wins": 503,
-        "losses": 1497,
+        "wins": 413,
+        "losses": 1587,
         "timeouts": 0,
-        "winRate": 0.2515,
+        "winRate": 0.2065,
         "winRateCI95": [
-          0.233,
-          0.271
+          0.1893,
+          0.2248
         ],
         "turns": {
-          "mean": 128.3,
-          "p25": 106,
-          "median": 127,
+          "mean": 130.5,
+          "p25": 111,
+          "median": 129,
           "p75": 150
         },
         "onLoss": {
-          "dragonHpMean": 47.2,
-          "partsAtZeroMean": 1.18
+          "dragonHpMean": 47.1,
+          "partsAtZeroMean": 1.2
         },
         "onWin": {
-          "incapacitatedMean": 0.35,
+          "incapacitatedMean": 0.43,
           "incapacitated": [
-            355,
-            125,
-            18,
-            5,
+            265,
+            120,
+            26,
+            2,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.2455,
-          "firstReshuffleTurnMedian": 145
+          "reshuffledShare": 0.238,
+          "firstReshuffleTurnMedian": 147
         }
       }
     },
@@ -1298,38 +1298,38 @@
       "modifier": -2,
       "summary": {
         "games": 2000,
-        "wins": 126,
-        "losses": 1874,
+        "wins": 95,
+        "losses": 1905,
         "timeouts": 0,
-        "winRate": 0.063,
+        "winRate": 0.0475,
         "winRateCI95": [
-          0.0532,
-          0.0745
+          0.039,
+          0.0577
         ],
         "turns": {
-          "mean": 106.5,
-          "p25": 91,
+          "mean": 106.1,
+          "p25": 90.75,
           "median": 103,
-          "p75": 121
+          "p75": 120
         },
         "onLoss": {
-          "dragonHpMean": 55.9,
-          "partsAtZeroMean": 0.94
+          "dragonHpMean": 56.9,
+          "partsAtZeroMean": 0.91
         },
         "onWin": {
-          "incapacitatedMean": 0.54,
+          "incapacitatedMean": 0.74,
           "incapacitated": [
-            74,
-            38,
-            12,
-            2,
+            45,
+            33,
+            14,
+            3,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0765,
-          "firstReshuffleTurnMedian": 131
+          "reshuffledShare": 0.0795,
+          "firstReshuffleTurnMedian": 128
         }
       }
     },
@@ -1339,38 +1339,38 @@
       "modifier": -1,
       "summary": {
         "games": 2000,
-        "wins": 27,
-        "losses": 1973,
+        "wins": 20,
+        "losses": 1980,
         "timeouts": 0,
-        "winRate": 0.0135,
+        "winRate": 0.01,
         "winRateCI95": [
-          0.0093,
-          0.0196
+          0.0065,
+          0.0154
         ],
         "turns": {
-          "mean": 86,
-          "p25": 74,
-          "median": 84,
-          "p75": 96
+          "mean": 85,
+          "p25": 73,
+          "median": 83,
+          "p75": 94
         },
         "onLoss": {
-          "dragonHpMean": 65.6,
-          "partsAtZeroMean": 0.69
+          "dragonHpMean": 65.9,
+          "partsAtZeroMean": 0.68
         },
         "onWin": {
-          "incapacitatedMean": 0.56,
+          "incapacitatedMean": 0.6,
           "incapacitated": [
-            14,
             11,
-            2,
-            0,
+            7,
+            1,
+            1,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.021,
-          "firstReshuffleTurnMedian": 113
+          "reshuffledShare": 0.014,
+          "firstReshuffleTurnMedian": 116.5
         }
       }
     },
@@ -1380,38 +1380,38 @@
       "modifier": 0,
       "summary": {
         "games": 2000,
-        "wins": 8,
-        "losses": 1992,
+        "wins": 4,
+        "losses": 1996,
         "timeouts": 0,
-        "winRate": 0.004,
+        "winRate": 0.002,
         "winRateCI95": [
-          0.002,
-          0.0079
+          0.0008,
+          0.0051
         ],
         "turns": {
-          "mean": 70.3,
-          "p25": 61,
-          "median": 69,
+          "mean": 70,
+          "p25": 60,
+          "median": 68,
           "p75": 78
         },
         "onLoss": {
-          "dragonHpMean": 72.4,
-          "partsAtZeroMean": 0.51
+          "dragonHpMean": 72.9,
+          "partsAtZeroMean": 0.5
         },
         "onWin": {
-          "incapacitatedMean": 0.38,
+          "incapacitatedMean": 0.75,
           "incapacitated": [
-            5,
-            3,
-            0,
+            2,
+            1,
+            1,
             0,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.002,
-          "firstReshuffleTurnMedian": 98.5
+          "reshuffledShare": 0.0025,
+          "firstReshuffleTurnMedian": 100
         }
       }
     },
@@ -1421,29 +1421,29 @@
       "modifier": 1,
       "summary": {
         "games": 2000,
-        "wins": 1,
-        "losses": 1999,
+        "wins": 0,
+        "losses": 2000,
         "timeouts": 0,
-        "winRate": 0.0005,
+        "winRate": 0,
         "winRateCI95": [
-          0.0001,
-          0.0028
+          0,
+          0.0019
         ],
         "turns": {
-          "mean": 59.2,
+          "mean": 58.7,
           "p25": 51,
-          "median": 58,
-          "p75": 66
+          "median": 57,
+          "p75": 65
         },
         "onLoss": {
-          "dragonHpMean": 77.4,
-          "partsAtZeroMean": 0.37
+          "dragonHpMean": 78.4,
+          "partsAtZeroMean": 0.33
         },
         "onWin": {
-          "incapacitatedMean": 1,
+          "incapacitatedMean": null,
           "incapacitated": [
             0,
-            1,
+            0,
             0,
             0,
             0,
@@ -1451,8 +1451,8 @@
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.002,
-          "firstReshuffleTurnMedian": 93.5
+          "reshuffledShare": 0.001,
+          "firstReshuffleTurnMedian": 79.5
         }
       }
     },
@@ -1462,37 +1462,37 @@
       "modifier": -3,
       "summary": {
         "games": 2000,
-        "wins": 701,
-        "losses": 1299,
+        "wins": 691,
+        "losses": 1309,
         "timeouts": 0,
-        "winRate": 0.3505,
+        "winRate": 0.3455,
         "winRateCI95": [
-          0.3299,
-          0.3717
+          0.325,
+          0.3666
         ],
         "turns": {
-          "mean": 127.6,
-          "p25": 102,
-          "median": 130,
+          "mean": 128.9,
+          "p25": 104,
+          "median": 130.5,
           "p75": 153
         },
         "onLoss": {
-          "dragonHpMean": 41.7,
-          "partsAtZeroMean": 1.35
+          "dragonHpMean": 42.1,
+          "partsAtZeroMean": 1.3
         },
         "onWin": {
-          "incapacitatedMean": 0.52,
+          "incapacitatedMean": 0.54,
           "incapacitated": [
-            449,
-            166,
-            60,
-            22,
-            4,
+            423,
+            188,
+            57,
+            23,
+            0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.307,
+          "reshuffledShare": 0.304,
           "firstReshuffleTurnMedian": 144
         }
       }
@@ -1503,38 +1503,38 @@
       "modifier": -2,
       "summary": {
         "games": 2000,
-        "wins": 271,
-        "losses": 1729,
+        "wins": 217,
+        "losses": 1783,
         "timeouts": 0,
-        "winRate": 0.1355,
+        "winRate": 0.1085,
         "winRateCI95": [
-          0.1212,
-          0.1512
+          0.0956,
+          0.1229
         ],
         "turns": {
-          "mean": 113.1,
-          "p25": 97,
-          "median": 112,
-          "p75": 129
+          "mean": 114.4,
+          "p25": 98,
+          "median": 114,
+          "p75": 131
         },
         "onLoss": {
-          "dragonHpMean": 50.5,
-          "partsAtZeroMean": 1.08
+          "dragonHpMean": 50.2,
+          "partsAtZeroMean": 1.09
         },
         "onWin": {
-          "incapacitatedMean": 0.77,
+          "incapacitatedMean": 0.75,
           "incapacitated": [
-            140,
-            76,
-            36,
-            16,
-            3,
+            109,
+            68,
+            25,
+            15,
+            0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.142,
-          "firstReshuffleTurnMedian": 127.5
+          "reshuffledShare": 0.159,
+          "firstReshuffleTurnMedian": 130
         }
       }
     },
@@ -1544,38 +1544,38 @@
       "modifier": -1,
       "summary": {
         "games": 2000,
-        "wins": 78,
-        "losses": 1922,
+        "wins": 59,
+        "losses": 1941,
         "timeouts": 0,
-        "winRate": 0.039,
+        "winRate": 0.0295,
         "winRateCI95": [
-          0.0314,
-          0.0484
+          0.0229,
+          0.0379
         ],
         "turns": {
-          "mean": 94.3,
+          "mean": 94.4,
           "p25": 81,
-          "median": 93,
+          "median": 92,
           "p75": 106
         },
         "onLoss": {
-          "dragonHpMean": 59.4,
-          "partsAtZeroMean": 0.84
+          "dragonHpMean": 59.9,
+          "partsAtZeroMean": 0.81
         },
         "onWin": {
-          "incapacitatedMean": 0.78,
+          "incapacitatedMean": 0.98,
           "incapacitated": [
-            39,
-            22,
+            17,
+            28,
             12,
-            5,
+            2,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0445,
-          "firstReshuffleTurnMedian": 111
+          "reshuffledShare": 0.047,
+          "firstReshuffleTurnMedian": 111.5
         }
       }
     },
@@ -1594,29 +1594,29 @@
           0.0123
         ],
         "turns": {
-          "mean": 78.2,
-          "p25": 67,
-          "median": 77,
-          "p75": 87
+          "mean": 78,
+          "p25": 68,
+          "median": 76,
+          "p75": 86
         },
         "onLoss": {
-          "dragonHpMean": 67.9,
-          "partsAtZeroMean": 0.6
+          "dragonHpMean": 68.3,
+          "partsAtZeroMean": 0.61
         },
         "onWin": {
-          "incapacitatedMean": 1,
+          "incapacitatedMean": 1.67,
           "incapacitated": [
-            7,
             3,
-            3,
+            5,
             2,
-            0,
+            4,
+            1,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0145,
-          "firstReshuffleTurnMedian": 105
+          "reshuffledShare": 0.009,
+          "firstReshuffleTurnMedian": 102
         }
       }
     },
@@ -1635,29 +1635,29 @@
           0.0028
         ],
         "turns": {
-          "mean": 64.5,
+          "mean": 64.1,
           "p25": 55,
           "median": 63,
           "p75": 72
         },
         "onLoss": {
-          "dragonHpMean": 74.8,
-          "partsAtZeroMean": 0.43
+          "dragonHpMean": 75.4,
+          "partsAtZeroMean": 0.41
         },
         "onWin": {
-          "incapacitatedMean": 1,
+          "incapacitatedMean": 2,
           "incapacitated": [
             0,
-            1,
             0,
+            1,
             0,
             0,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0035,
-          "firstReshuffleTurnMedian": 85
+          "reshuffledShare": 0.003,
+          "firstReshuffleTurnMedian": 84
         }
       }
     },
@@ -1667,37 +1667,37 @@
       "modifier": -3,
       "summary": {
         "games": 2000,
-        "wins": 1480,
-        "losses": 520,
+        "wins": 1436,
+        "losses": 564,
         "timeouts": 0,
-        "winRate": 0.74,
+        "winRate": 0.718,
         "winRateCI95": [
-          0.7203,
-          0.7588
+          0.6979,
+          0.7373
         ],
         "turns": {
-          "mean": 117.6,
-          "p25": 84,
-          "median": 104,
-          "p75": 149
+          "mean": 120.8,
+          "p25": 85,
+          "median": 108,
+          "p75": 158
         },
         "onLoss": {
-          "dragonHpMean": 35,
-          "partsAtZeroMean": 1.47
+          "dragonHpMean": 33.7,
+          "partsAtZeroMean": 1.49
         },
         "onWin": {
-          "incapacitatedMean": 0.45,
+          "incapacitatedMean": 0.46,
           "incapacitated": [
-            1013,
-            311,
-            115,
+            993,
+            287,
+            110,
             35,
-            5,
-            1
+            9,
+            2
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.23,
+          "reshuffledShare": 0.259,
           "firstReshuffleTurnMedian": 154
         }
       }
@@ -1708,37 +1708,37 @@
       "modifier": -2,
       "summary": {
         "games": 2000,
-        "wins": 809,
-        "losses": 1191,
+        "wins": 794,
+        "losses": 1206,
         "timeouts": 0,
-        "winRate": 0.4045,
+        "winRate": 0.397,
         "winRateCI95": [
-          0.3832,
-          0.4262
+          0.3758,
+          0.4186
         ],
         "turns": {
-          "mean": 125.1,
-          "p25": 95,
+          "mean": 126.2,
+          "p25": 99,
           "median": 128,
-          "p75": 152
+          "p75": 153
         },
         "onLoss": {
-          "dragonHpMean": 40.6,
-          "partsAtZeroMean": 1.33
+          "dragonHpMean": 39.7,
+          "partsAtZeroMean": 1.38
         },
         "onWin": {
           "incapacitatedMean": 0.7,
           "incapacitated": [
-            446,
-            225,
-            97,
-            26,
-            9,
-            6
+            438,
+            201,
+            118,
+            30,
+            5,
+            2
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.33,
+          "reshuffledShare": 0.3345,
           "firstReshuffleTurnMedian": 141
         }
       }
@@ -1749,38 +1749,38 @@
       "modifier": -1,
       "summary": {
         "games": 2000,
-        "wins": 348,
-        "losses": 1652,
+        "wins": 317,
+        "losses": 1683,
         "timeouts": 0,
-        "winRate": 0.174,
+        "winRate": 0.1585,
         "winRateCI95": [
-          0.158,
-          0.1912
+          0.1432,
+          0.1752
         ],
         "turns": {
-          "mean": 115.3,
-          "p25": 99,
+          "mean": 115.1,
+          "p25": 98,
           "median": 115,
-          "p75": 133
+          "p75": 132
         },
         "onLoss": {
-          "dragonHpMean": 48.2,
-          "partsAtZeroMean": 1.14
+          "dragonHpMean": 48.7,
+          "partsAtZeroMean": 1.13
         },
         "onWin": {
-          "incapacitatedMean": 1.08,
+          "incapacitatedMean": 0.91,
           "incapacitated": [
-            142,
-            92,
-            71,
-            32,
-            9,
-            2
+            143,
+            93,
+            56,
+            18,
+            7,
+            0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.2205,
-          "firstReshuffleTurnMedian": 129
+          "reshuffledShare": 0.2215,
+          "firstReshuffleTurnMedian": 127
         }
       }
     },
@@ -1790,38 +1790,38 @@
       "modifier": 0,
       "summary": {
         "games": 2000,
-        "wins": 100,
-        "losses": 1900,
+        "wins": 92,
+        "losses": 1908,
         "timeouts": 0,
-        "winRate": 0.05,
+        "winRate": 0.046,
         "winRateCI95": [
-          0.0413,
-          0.0604
+          0.0377,
+          0.0561
         ],
         "turns": {
-          "mean": 99.2,
-          "p25": 85,
+          "mean": 99.5,
+          "p25": 86,
           "median": 98,
           "p75": 112
         },
         "onLoss": {
-          "dragonHpMean": 56.6,
-          "partsAtZeroMean": 0.9
+          "dragonHpMean": 56.8,
+          "partsAtZeroMean": 0.88
         },
         "onWin": {
-          "incapacitatedMean": 1.32,
+          "incapacitatedMean": 1.48,
           "incapacitated": [
-            30,
-            29,
-            23,
-            15,
-            3,
+            17,
+            33,
+            27,
+            11,
+            4,
             0
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0945,
-          "firstReshuffleTurnMedian": 117
+          "reshuffledShare": 0.099,
+          "firstReshuffleTurnMedian": 112.5
         }
       }
     },
@@ -1831,38 +1831,38 @@
       "modifier": 1,
       "summary": {
         "games": 2000,
-        "wins": 22,
-        "losses": 1978,
+        "wins": 23,
+        "losses": 1977,
         "timeouts": 0,
-        "winRate": 0.011,
+        "winRate": 0.0115,
         "winRateCI95": [
-          0.0073,
-          0.0166
+          0.0077,
+          0.0172
         ],
         "turns": {
-          "mean": 82.3,
+          "mean": 81.4,
           "p25": 70,
-          "median": 81,
-          "p75": 92
+          "median": 80,
+          "p75": 91
         },
         "onLoss": {
-          "dragonHpMean": 64.9,
-          "partsAtZeroMean": 0.7
+          "dragonHpMean": 66.2,
+          "partsAtZeroMean": 0.62
         },
         "onWin": {
-          "incapacitatedMean": 1.77,
+          "incapacitatedMean": 1.3,
           "incapacitated": [
+            8,
+            7,
             4,
-            4,
-            10,
             2,
             1,
             1
           ]
         },
         "dragonDeck": {
-          "reshuffledShare": 0.0305,
-          "firstReshuffleTurnMedian": 108
+          "reshuffledShare": 0.027,
+          "firstReshuffleTurnMedian": 100.5
         }
       }
     }

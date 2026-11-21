@@ -3,7 +3,7 @@
 // a baseline (#42), which goes beyond its purpose of filling one seat.
 //
 // Readings agreed with the author (#38): no validity check for Shield and
-// Intervention Dodge (A4, #8); "lowest current HP" for Helping Hand and First
+// Intervention Dodge (A4, #8), nor for Helping Hand (A14); "lowest current HP" for Helping Hand and First
 // Aid only, guards having no target to choose (A5); with Dummies at every seat,
 // the cards of all other players are counted against thresholds scaled by
 // their number n: ≤2n same suit, ≤4n same colour, more a different suit (A6).
@@ -12,7 +12,7 @@ import { heroAction } from '../actions.ts';
 import { type Card, JOKER, colorOf, suitOf } from '../cards.ts';
 import type { Agent, Decision } from '../decisions.ts';
 import { canPlay } from '../heroes.ts';
-import { type GameState, isIncapacitated } from '../state.ts';
+import type { GameState } from '../state.ts';
 
 /** First Aid is pointless unless another daredevil is below this HP or incapacitated. */
 const FIRST_AID_BELOW = 8;
@@ -69,20 +69,13 @@ export function dummyAgent(seat: number): Agent {
 
 /**
  * Validity check. A card the rules do not allow now (e.g. Charge on the
- * ground) counts as invalid too (#38). Helping Hand needs another daredevil on
- * the ground who is not incapacitated, as Helping Hand cannot help them (P22).
+ * ground) counts as invalid too (P27). Helping Hand is always valid: someone
+ * may be on the ground by the time it resolves (A14).
  */
 export function isValid(state: Readonly<GameState>, seat: number, card: Card): boolean {
   if (!canPlay(state, seat, card)) return false;
-  const others = state.heroes.filter((_, i) => i !== seat);
-  switch (heroAction(card).name) {
-    case 'Helping Hand':
-      return others.some((h) => h.prone && !isIncapacitated(h));
-    case 'First Aid':
-      return others.some((h) => h.hp < FIRST_AID_BELOW);
-    default:
-      return true;
-  }
+  if (heroAction(card).name === 'First Aid') return state.heroes.some((h, i) => i !== seat && h.hp < FIRST_AID_BELOW);
+  return true;
 }
 
 /**

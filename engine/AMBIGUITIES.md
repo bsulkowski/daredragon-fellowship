@@ -6,9 +6,9 @@ The engine implements the rules as they stand. Where they are ambiguous, it adop
 
 Statuses:
 
-- **Author**: decided by the author.
-- **Provisional**: adopted by the engine, awaiting the author's review. *Outcome* marks readings that can change the result of a game.
-- **Open**: not implemented yet; the engine has not chosen.
+- **Author**: decided by the author (A1, A2, …).
+- **Approved**: adopted by the engine and approved by the author as it stands (P1, P2, …). *Outcome* marks readings that can change the result of a game.
+- **Open**: still to be decided by the author; the engine has adopted a reading meanwhile.
 
 ## Decided by the author
 
@@ -27,8 +27,11 @@ Statuses:
 | A11 | 2.1 Draw Aggro | Draw Aggro extends the dragon's warm-up only when an attack is warming up, not Roar or Health Regeneration. It rewards the player who draws the attack onto themselves and makes the dragon pay for redirecting an attack in preparation. As the sample gameplay says (Turn 54); the rules text to be clarified. Replaces P23. |
 | A12 | 1.9 Cooperative Card Draw | Incapacitated players are skipped when dealing. Replaces P3. |
 | A13 | 2.2 AoE Attack; 2.3 | An incapacitated daredevil is treated as lying on the ground (A7), so an AoE attack has no effect on them. The area stays the target and its seat neighbours; it does not extend past an incapacitated neighbour. Replaces P7. |
+| A14 | Dummy (extensions) | Helping Hand is always valid, even with nobody on the ground: someone may be knocked down before it resolves. The validity check for Helping Hand is to be removed from the extensions, as for the guards (A4). Changes P27. |
 
-## Provisional readings in the engine
+## Approved readings
+
+Adopted by the engine and approved by the author on 2026-11-21, except P10 and P11, which are open. Entries replaced by a decision point to it.
 
 ### P1. Order of daredevil actions resolving on the same turn
 
@@ -86,7 +89,7 @@ Decided by the author: see A8.
 
 Decided by the author: see A8.
 
-### P10. Intervention Dodge against an AoE attack
+### P10. Intervention Dodge against an AoE attack — *Open*
 
 - **Where:** 2.1 Intervention Dodge ("does not apply to AoE attacks" refers to loss of balance only).
 - **Readings:** (a) the target avoids the attack and is knocked down; the neighbours are hit as usual; no loss of balance; (b) the Dodge does not work against AoE at all.
@@ -94,7 +97,7 @@ Decided by the author: see A8.
 - **Why:** the text excludes only the loss of balance for AoE attacks. The Dodge and the Shields do not compete here (A8 does not apply): the Dodge covers the target, the Shields cover the others, and a Shield of the saved target's own still protects them.
 - **Code:** `dragon.ts` `aoeAttack`.
 
-### P11. Shields against an AoE attack that hits nobody
+### P11. Shields against an AoE attack that hits nobody — *Open*
 
 - **Where:** 2.1 Shield vs AoE Attack, Guard.
 - **Readings:** (a) when everyone in the area is on the ground or dodged, the Shields keep waiting; (b) they are used up, and a shielder from outside enters the area and is hit.
@@ -207,7 +210,7 @@ Decided by the author: see A11.
 
 - **Where:** extensions, Dummy (Validity Check); 2.1 On the ground.
 - **Readings:** a card the rules do not allow at the moment (Charge, First Aid or a guard while on the ground) is (a) invalid: to the bottom, deal instead; (b) not covered by the check.
-- **Adopted:** (a). Helping Hand also needs a daredevil it can actually help: on the ground and not incapacitated (P22).
+- **Adopted:** (a). Helping Hand, by contrast, is always valid (A14).
 - **Why:** under (b) the algorithm would demand an illegal move.
 - **Code:** `agents/dummy.ts` `isValid`.
 
@@ -237,3 +240,4 @@ Decided by the author: see A11.
 ## Open: to be decided later
 
 - Shield vs AoE Attack as a whole (P10, P11): to be reworked by the author.
+- Whether Intervention Dodge works against an AoE attack at all (P10). The author's doubt: the Dodge pushes the target out of the path of an aimed attack, hard enough to knock them down. An AoE attack is not aimed.

@@ -56,7 +56,7 @@ export function* ask(decision: Decision): Step<number> {
 /**
  * Draws from a deck, honouring a forced card. An empty draw pile is replaced
  * by the shuffled discard pile — rules 1.9 say so for the daredevils' deck;
- * the dragon's deck is treated the same way (provisional reading, #38).
+ * the dragon's deck is treated the same way (P2, #38).
  */
 export function drawCard(ctx: Context, deck: DeckName): Card | undefined {
   const { state } = ctx;
