@@ -12,7 +12,7 @@ Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellows
 
 ## Stan
 
-Gotowy jest etap 1 z 4 silnika, czyli podstawowe klocki.
+Gotowe są etapy 1 i 2 z 4 silnika: podstawowe klocki i pętla tur. Akcje są zagrywane, trafiają na oś czasu i rozstrzygają się we właściwej turze, ale jeszcze bez efektu. Dalej: akcje smoka i śmiałków.
 
 | Moduł | Zawartość |
 |---|---|
@@ -21,8 +21,20 @@ Gotowy jest etap 1 z 4 silnika, czyli podstawowe klocki.
 | `src/actions.ts` | Tabele akcji śmiałków (2.1) i smoka (2.2) jako dane |
 | `src/random.ts` | Losowanie z ziarnem i tasowanie; to samo ziarno zawsze daje tę samą grę |
 | `src/deck.ts` | Talia i stos kart odrzuconych, przetasowanie, wymuszenie konkretnej następnej karty (do odtwarzania przykładowej rozgrywki) |
+| `src/state.ts` | Stan gry jako zwykłe dane; nowa gra albo gra od zadanej pozycji |
+| `src/decisions.ts` | Interfejs decyzji między silnikiem a agentami |
+| `src/events.ts` | Zdarzenia zgłaszane w trakcie gry |
+| `src/engine.ts`, `src/core.ts` | Pętla tur: przeplatane tury, rozgrzewki i cool-downy, dobieranie kart, limity ręki, koniec gry |
 
-Dalej: oś czasu tur i interfejs decyzji, potem akcje smoka i śmiałków.
+### Decyzje
+
+Gdy reguły zostawiają graczowi wybór, silnik zgłasza decyzję z listą wszystkich legalnych opcji, a agent odpowiada numerem wybranej:
+
+- `turn`: zagrać jedną z kart z ręki albo rozdać karty pozostałym,
+- `target`: cel akcji, wybierany w chwili jej rozstrzygnięcia,
+- `discard`: karta do odrzucenia (ponad limit ręki albo po Ryku smoka).
+
+Decyzja z jedną legalną opcją nie jest zgłaszana. Ten sam interfejs obsługuje grę losową, Dummy, walidator przykładowej rozgrywki, a później ludzi.
 
 ## Założenia
 
@@ -33,12 +45,33 @@ Dalej: oś czasu tur i interfejs decyzji, potem akcje smoka i śmiałków.
 
 ## Użycie
 
+Cała gra z agentem:
+
+```ts
+import { createGame, runGame, type Agent } from 'ddf-engine';
+
+const firstOption: Agent = { decide: () => 0 };
+const outcome = runGame(createGame({ players: 4, seed: 42 }), firstOption, { maxTurns: 500 });
+// { result: 'victory' | 'defeat' | 'timeout', turn, phase, partsHp, heroesHp }
+```
+
+Albo krok po kroku, np. z interfejsu użytkownika:
+
+```ts
+import { createGame, play } from 'ddf-engine';
+
+const game = play(createGame({ seed: 42 }), { onEvent: (event) => console.log(event) });
+let step = game.next();
+while (!step.done) step = game.next(0); // step.value to decyzja; odpowiedzią jest numer opcji
+```
+
+Klocki działają też samodzielnie:
+
 ```ts
 import { createRng, createDeck, fullDeck, draw, dragonAction, modify } from 'ddf-engine';
 
 const rng = createRng(42);
-const dragonDeck = createDeck(fullDeck(), rng);
-const card = draw(dragonDeck, rng)!;
+const card = draw(createDeck(fullDeck(), rng), rng)!;
 dragonAction(card); // np. { name: 'Bite', part: 'jaws', type: 'direct', warmup: 3, cooldown: 2, damage: 10, ... }
 modify(8, 2);       // 13: podstawa 8 z +2Ϟ
 ```
@@ -51,6 +84,13 @@ Wymaga Node.js 22.12 lub nowszego.
 
 ```sh
 npm test
+```
+
+Node wycina typy, ale ich nie sprawdza. Do sprawdzenia źródeł służy jednorazowo uruchamiany kompilator TypeScript (nie jest zależnością):
+
+```sh
+npx -p typescript@5.8 tsc --noEmit --strict --target es2022 --module nodenext \
+  --allowImportingTsExtensions --verbatimModuleSyntax --erasableSyntaxOnly src/*.ts
 ```
 
 ## Licencja

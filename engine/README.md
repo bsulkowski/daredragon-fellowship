@@ -12,7 +12,7 @@ The work is tracked in [issue #33](https://github.com/bsulkowski/daredragon-fell
 
 ## Status
 
-Stage 1 of 4 of the engine is done: the core building blocks.
+Stages 1 and 2 of 4 of the engine are done: the building blocks and the turn loop. Actions are played, placed on the timeline and resolved on the right turn, but they have no effect yet. The dragon's and the daredevils' actions come next.
 
 | Module | Contents |
 |---|---|
@@ -21,8 +21,20 @@ Stage 1 of 4 of the engine is done: the core building blocks.
 | `src/actions.ts` | The action tables for the daredevils (2.1) and the dragon (2.2), as data |
 | `src/random.ts` | Seeded random numbers and shuffling; the same seed always gives the same game |
 | `src/deck.ts` | Draw pile and discard pile, reshuffling, forcing a specific next card (for replaying the sample gameplay) |
+| `src/state.ts` | The game state as plain data; a new game, or a game resuming from a given position |
+| `src/decisions.ts` | The decision interface between the engine and the agents |
+| `src/events.ts` | Events reported while a game runs |
+| `src/engine.ts`, `src/core.ts` | The turn loop: interleaved turns, warm-ups and cool-downs, card draw, hand limits, end of the game |
 
-Coming next: the turn timeline and decision interface, then the dragon's and the daredevils' actions.
+### Decisions
+
+Whenever the rules leave a choice to a player, the engine issues a decision listing every legal option, and an agent answers with the index of its pick:
+
+- `turn`: play one of the cards in hand, or deal cards to the others,
+- `target`: the target of an action, chosen when the action resolves,
+- `discard`: a card to discard (over the hand limit, or after the dragon's Roar).
+
+A decision with a single legal option is not asked. The same interface serves random play, the Dummy, the sample gameplay validator and, later, human players.
 
 ## Design
 
@@ -33,12 +45,33 @@ Coming next: the turn timeline and decision interface, then the dragon's and the
 
 ## Usage
 
+Play a whole game with an agent:
+
+```ts
+import { createGame, runGame, type Agent } from 'ddf-engine';
+
+const firstOption: Agent = { decide: () => 0 };
+const outcome = runGame(createGame({ players: 4, seed: 42 }), firstOption, { maxTurns: 500 });
+// { result: 'victory' | 'defeat' | 'timeout', turn, phase, partsHp, heroesHp }
+```
+
+Or drive it step by step, e.g. from a user interface:
+
+```ts
+import { createGame, play } from 'ddf-engine';
+
+const game = play(createGame({ seed: 42 }), { onEvent: (event) => console.log(event) });
+let step = game.next();
+while (!step.done) step = game.next(0); // step.value is the decision; answer with an option index
+```
+
+The building blocks can be used on their own:
+
 ```ts
 import { createRng, createDeck, fullDeck, draw, dragonAction, modify } from 'ddf-engine';
 
 const rng = createRng(42);
-const dragonDeck = createDeck(fullDeck(), rng);
-const card = draw(dragonDeck, rng)!;
+const card = draw(createDeck(fullDeck(), rng), rng)!;
 dragonAction(card); // e.g. { name: 'Bite', part: 'jaws', type: 'direct', warmup: 3, cooldown: 2, damage: 10, ... }
 modify(8, 2);       // 13: base 8 with +2Ϟ
 ```
@@ -49,6 +82,13 @@ Requires Node.js 22.12 or newer.
 
 ```sh
 npm test
+```
+
+Node strips the types without checking them. To check the sources, use a one-off TypeScript compiler (it is not a dependency):
+
+```sh
+npx -p typescript@5.8 tsc --noEmit --strict --target es2022 --module nodenext \
+  --allowImportingTsExtensions --verbatimModuleSyntax --erasableSyntaxOnly src/*.ts
 ```
 
 ## License
