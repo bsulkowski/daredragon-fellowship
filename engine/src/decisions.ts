@@ -1,7 +1,7 @@
 // The decision interface. Whenever the rules leave a choice to a player, the
 // engine issues a Decision listing every legal option, and an agent answers
 // with the index of the option it picks. The same interface serves random
-// play, the Dummy, the sample gameplay validator and, later, human players.
+// play, the Dummy, the replay of the sample gameplay and, later, human players.
 //
 // Decisions with a single legal option are not issued; the engine takes that
 // option itself.

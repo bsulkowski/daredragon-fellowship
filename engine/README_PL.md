@@ -12,7 +12,7 @@ Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellows
 
 ## Stan
 
-Silnik jest kompletny: podstawowe klocki, pętla tur, akcje smoka razem z reagującymi na nie akcjami czuwania oraz akcje śmiałków. Dalej: walidator przykładowej rozgrywki i punkty odniesienia do balansu.
+Silnik jest kompletny: podstawowe klocki, pętla tur, akcje smoka razem z reagującymi na nie akcjami czuwania oraz akcje śmiałków. Ruchy [przykładowej rozgrywki](../rules/sample_gameplay_pl.md) są zapisane w `test/sample/` i odtwarzane w testach. Dalej: punkty odniesienia do balansu.
 
 Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte przez silnik odczytanie jest zapisane w [rejestrze niejednoznaczności](AMBIGUITIES.md) (po angielsku).
 
@@ -28,6 +28,7 @@ Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte
 | `src/events.ts` | Zdarzenia zgłaszane w trakcie gry |
 | `src/engine.ts`, `src/core.ts` | Pętla tur: przeplatane tury, rozgrzewki i cool-downy, dobieranie kart, limity ręki, koniec gry |
 | `src/heroes.ts` | Akcje śmiałków (2.1): ataki z ripostą, skoordynowany atak, premia za oplątanie, Oplątanie, Odwrócenie uwagi, Pomocna dłoń, Pierwsza pomoc; ograniczenia dla powalonego na ziemię |
+| `src/agents/random.ts` | Gracze losowi: (a) równomiernie spośród wszystkich legalnych opcji, (b) najpierw zagranie albo rozdanie, potem karta |
 | `src/dragon.ts` | Akcje smoka (2.2): ataki zwykłe i obszarowe, Powalenie, Przeraźliwy ryk, Łypnięcie okiem, Regeneracja; Osłona i Unik ratunkowy (2.1); śmiałek na 0 HP |
 
 ### Decyzje
@@ -38,14 +39,14 @@ Gdy reguły zostawiają graczowi wybór, silnik zgłasza decyzję z listą wszys
 - `target`: cel akcji, wybierany w chwili jej rozstrzygnięcia,
 - `discard`: karta do odrzucenia (ponad limit ręki albo po Ryku smoka).
 
-Decyzja z jedną legalną opcją nie jest zgłaszana. Ten sam interfejs obsługuje grę losową, Dummy, walidator przykładowej rozgrywki, a później ludzi.
+Decyzja z jedną legalną opcją nie jest zgłaszana. Ten sam interfejs obsługuje grę losową, Dummy, odtwarzanie przykładowej rozgrywki, a później ludzi.
 
 ## Założenia
 
 - **Bez zależności, bez DOM-u.** Zwykłe moduły TypeScript, działające w Node i w przeglądarce.
 - **Paczką jest źródło TypeScript.** Node uruchamia je wprost z flagą `--experimental-strip-types`, więc nie ma kroku budowania. Dlatego kod używa tylko składni, którą da się wymazać (bez `enum`, `namespace` i parameter properties), a importy mają rozszerzenie `.ts`.
 - **Stan to zwykłe dane.** Talie i stan generatora losowego to zwykłe obiekty, które można skopiować przez `structuredClone`.
-- **Determinizm.** Cała losowość pochodzi z generatora z ziarnem. Każdą kartę można też wymusić jako następną, czego potrzebuje walidator przykładowej rozgrywki.
+- **Determinizm.** Cała losowość pochodzi z generatora z ziarnem. Każdą kartę można też wymusić jako następną, czego potrzebuje odtwarzanie przykładowej rozgrywki.
 
 ## Użycie
 

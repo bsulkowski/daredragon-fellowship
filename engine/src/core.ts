@@ -63,7 +63,10 @@ export function drawCard(ctx: Context, deck: DeckName): Card | undefined {
   const pile = deck === 'hero' ? state.heroDeck : state.dragonDeck;
   const forced = ctx.options.nextCard?.(deck, state);
   if (forced !== undefined) forceNext(pile, forced);
-  return draw(pile, state.rng);
+  const reshuffles = pile.reshuffles;
+  const card = draw(pile, state.rng);
+  if (pile.reshuffles !== reshuffles) emit(ctx, { type: 'reshuffle', deck });
+  return card;
 }
 
 /** Removes one copy of a card from a hand to the daredevils' discard pile. */

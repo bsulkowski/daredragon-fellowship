@@ -4,7 +4,6 @@ import type { Card } from '../src/cards.ts';
 import type { DeckName } from '../src/core.ts';
 import type { Agent, Decision } from '../src/decisions.ts';
 import type { GameEvent } from '../src/events.ts';
-import { createRng, nextInt } from '../src/random.ts';
 import type { GameState } from '../src/state.ts';
 
 /** An agent answering with a function of the decision. */
@@ -26,11 +25,8 @@ export function playWhenPossible(card: Card, player?: number): Agent {
   });
 }
 
-/** Uniformly random choices from its own seeded stream. */
-export function randomAgent(seed: number): Agent {
-  const rng = createRng(seed);
-  return agent((d) => nextInt(rng, d.options.length));
-}
+/** Uniformly random choices from its own seeded stream (variant a). */
+export { randomAgent } from '../src/agents/random.ts';
 
 export interface Recorded {
   turn: number;

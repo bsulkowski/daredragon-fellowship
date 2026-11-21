@@ -3,8 +3,7 @@
 //
 // The markdown stays the source of truth. This file holds only what a player
 // or the decks decide: cards played, cards dealt, cards drawn by the dragon,
-// targets chosen at resolution and discards. The expected state of the game
-// is read from the markdown by the validator (#40), not copied here.
+// targets chosen at resolution and discards. The game state is not copied here.
 //
 // Turn k is a daredevil turn, k❖ (`dragon: true`) the dragon turn after it.
 // Turns where nothing is decided and no card is drawn are omitted.

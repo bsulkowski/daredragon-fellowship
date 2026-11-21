@@ -12,7 +12,7 @@ The work is tracked in [issue #33](https://github.com/bsulkowski/daredragon-fell
 
 ## Status
 
-The engine is complete: the building blocks, the turn loop, the dragon's actions with the guards that react to them, and the daredevils' actions. Next come the sample gameplay validator and the balance baselines.
+The engine is complete: the building blocks, the turn loop, the dragon's actions with the guards that react to them, and the daredevils' actions. The moves of the [sample gameplay](../rules/sample_gameplay_en.md) are recorded in `test/sample/` and replayed by the tests. The balance baselines come next.
 
 Where the rules can be read more than one way, the engine's reading is recorded in the [ambiguity register](AMBIGUITIES.md).
 
@@ -28,6 +28,7 @@ Where the rules can be read more than one way, the engine's reading is recorded 
 | `src/events.ts` | Events reported while a game runs |
 | `src/engine.ts`, `src/core.ts` | The turn loop: interleaved turns, warm-ups and cool-downs, card draw, hand limits, end of the game |
 | `src/heroes.ts` | The daredevils' actions (2.1): attacks with riposte, orchestration and entanglement, Entangle, Draw Aggro, Helping Hand, First Aid; the on-the-ground restrictions |
+| `src/agents/random.ts` | Random agents: (a) uniform over all legal options, (b) play or deal first, then the card |
 | `src/dragon.ts` | The dragon's actions (2.2): direct and AoE attacks, Knockdown, Roar, Glare, Health Regeneration; Shield and Intervention Dodge (2.1); incapacitation |
 
 ### Decisions
@@ -38,14 +39,14 @@ Whenever the rules leave a choice to a player, the engine issues a decision list
 - `target`: the target of an action, chosen when the action resolves,
 - `discard`: a card to discard (over the hand limit, or after the dragon's Roar).
 
-A decision with a single legal option is not asked. The same interface serves random play, the Dummy, the sample gameplay validator and, later, human players.
+A decision with a single legal option is not asked. The same interface serves random play, the Dummy, the replay of the sample gameplay and, later, human players.
 
 ## Design
 
 - **No dependencies, no DOM.** Plain TypeScript modules that run in Node and in the browser.
 - **TypeScript source is the package.** Node runs it directly with `--experimental-strip-types`, so there is no build step. The code therefore uses only erasable syntax (no `enum`, `namespace` or parameter properties) and imports with `.ts` extensions.
 - **Plain data state.** Decks and random generator states are plain objects that can be copied with `structuredClone`.
-- **Deterministic.** All randomness comes from a seeded generator. Any card can also be forced to come next, which the sample gameplay validator needs.
+- **Deterministic.** All randomness comes from a seeded generator. Any card can also be forced to come next, which replaying the sample gameplay needs.
 
 ## Usage
 

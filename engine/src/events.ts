@@ -1,5 +1,5 @@
-// Events the engine reports while a game runs: the raw material for the sample
-// gameplay validator, game logs and debugging. Events describe what happened;
+// Events the engine reports while a game runs: the raw material for replays,
+// game logs, statistics and debugging. Events describe what happened;
 // the state after each event is available to the listener.
 
 import type { BodyPart } from './actions.ts';
@@ -60,6 +60,8 @@ export type GameEvent =
   | { type: 'dragon-resolve'; card: Card; cooldownEnds: number }
   /** The cool-down ends; the card is discarded and the dragon is ready. */
   | { type: 'dragon-ready'; card: Card }
+  /** A deck ran out and its discard pile was shuffled into a new one. */
+  | { type: 'reshuffle'; deck: 'hero' | 'dragon' }
   | { type: 'end'; outcome: Outcome };
 
 export type GameEventType = GameEvent['type'];
