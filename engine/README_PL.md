@@ -6,7 +6,7 @@ Referencyjna implementacja reguł gry [Daredragon Fellowship](../README_pl.md), 
 
 1. **Weryfikacji reguł.** Zapisanie ich jako kod wyłapuje niejednoznaczności.
 2. **Sprawdzeniu [przykładowej rozgrywki](../rules/sample_gameplay_pl.md)** ruch po ruchu.
-3. **Punktom odniesienia do balansu.** Jak radzi sobie ze smokiem gra losowa, a jak automatyczny gracz (Dummy)?
+3. **Punktom odniesienia do balansu.** Jak radzi sobie ze smokiem gra losowa, a jak gracz automatyczny (Manekin)?
 
 Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellowship/issues/33).
 
@@ -28,6 +28,7 @@ Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte
 | `src/events.ts` | Zdarzenia zgłaszane w trakcie gry |
 | `src/engine.ts`, `src/core.ts` | Pętla tur: przeplatane tury, rozgrzewki i cool-downy, dobieranie kart, limity ręki, koniec gry |
 | `src/heroes.ts` | Akcje śmiałków (2.1): ataki z ripostą, skoordynowany atak, premia za oplątanie, Oplątanie, Odwrócenie uwagi, Pomocna dłoń, Pierwsza pomoc; ograniczenia dla powalonego na ziemię |
+| `src/agents/dummy.ts` | Manekin, gracz automatyczny z rozszerzeń reguł; może zająć dowolne miejsce przy stole |
 | `src/agents/random.ts` | Gracze losowi: (a) równomiernie spośród wszystkich legalnych opcji, (b) najpierw zagranie albo rozdanie, potem karta |
 | `src/dragon.ts` | Akcje smoka (2.2): ataki zwykłe i obszarowe, Powalenie, Przeraźliwy ryk, Łypnięcie okiem, Regeneracja; Osłona i Unik ratunkowy (2.1); śmiałek na 0 HP |
 
@@ -39,7 +40,7 @@ Gdy reguły zostawiają graczowi wybór, silnik zgłasza decyzję z listą wszys
 - `target`: cel akcji, wybierany w chwili jej rozstrzygnięcia,
 - `discard`: karta do odrzucenia (ponad limit ręki albo po Ryku smoka).
 
-Decyzja z jedną legalną opcją nie jest zgłaszana. Ten sam interfejs obsługuje grę losową, Dummy, odtwarzanie przykładowej rozgrywki, a później ludzi.
+Decyzja z jedną legalną opcją nie jest zgłaszana. Ten sam interfejs obsługuje grę losową, Manekina, odtwarzanie przykładowej rozgrywki, a później ludzi.
 
 ## Założenia
 

@@ -28,6 +28,7 @@ Where the rules can be read more than one way, the engine's reading is recorded 
 | `src/events.ts` | Events reported while a game runs |
 | `src/engine.ts`, `src/core.ts` | The turn loop: interleaved turns, warm-ups and cool-downs, card draw, hand limits, end of the game |
 | `src/heroes.ts` | The daredevils' actions (2.1): attacks with riposte, orchestration and entanglement, Entangle, Draw Aggro, Helping Hand, First Aid; the on-the-ground restrictions |
+| `src/agents/dummy.ts` | The Dummy (rules extensions), usable at any seat |
 | `src/agents/random.ts` | Random agents: (a) uniform over all legal options, (b) play or deal first, then the card |
 | `src/dragon.ts` | The dragon's actions (2.2): direct and AoE attacks, Knockdown, Roar, Glare, Health Regeneration; Shield and Intervention Dodge (2.1); incapacitation |
 

@@ -10,4 +10,5 @@ export * from './decisions.ts';
 export * from './events.ts';
 export { play, runGame } from './engine.ts';
 export * from './agents/random.ts';
+export * from './agents/dummy.ts';
 export type { DeckName, PlayOptions } from './core.ts';

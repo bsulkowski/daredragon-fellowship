@@ -195,6 +195,45 @@ Decided by the author: see A11.
 - **Why:** the engine does not judge choices; agents do.
 - **Code:** `heroes.ts`.
 
+### P26. The Dummy's pile: where received cards go
+
+- **Where:** extensions, Dummy (Setup: "a single pile"; Notes: discards "from the bottom").
+- **Readings:** received cards go (a) on top; (b) to the bottom.
+- **Adopted:** (a).
+- **Why:** placing a dealt card on a pile puts it on top. Under (b), the bottom discards would throw away the newest cards.
+- **Code:** `agents/dummy.ts` `dummyAgent`.
+
+### P27. The Dummy's validity check beyond the listed cards
+
+- **Where:** extensions, Dummy (Validity Check); 2.1 On the ground.
+- **Readings:** a card the rules do not allow at the moment (Charge, First Aid or a guard while on the ground) is (a) invalid: to the bottom, deal instead; (b) not covered by the check.
+- **Adopted:** (a). Helping Hand also needs a daredevil it can actually help: on the ground and not incapacitated (P22).
+- **Why:** under (b) the algorithm would demand an illegal move.
+- **Code:** `agents/dummy.ts` `isValid`.
+
+### P28. Joker against a suited card in the Dummy's play condition (#9) — *Outcome*
+
+- **Where:** extensions, Dummy (Probability check; Notes: "Joker vs Joker: treat as same suit — condition met in all brackets").
+- **Readings:** a Joker against a suited card (either one revealed, the other on the discard pile) (a) has neither suit nor colour: it fails "same suit" and "same colour" and meets "different suit"; (b) matches anything: met in all brackets; (c) never meets the condition.
+- **Adopted:** (a).
+- **Why:** the literal reading; the note on two Jokers is an explicit exception. The effect is small (2 Jokers in 54 cards).
+- **Code:** `agents/dummy.ts` `playConditionMet`.
+
+### P29. The Dummy's attack target: the "lowest current HP" body part
+
+- **Where:** extensions, Dummy (Targeting: "the most damaged one, working to disable it").
+- **Readings:** (a) the lowest HP among parts still above 0; (b) including parts at 0, which a Dummy would then keep hitting for nothing.
+- **Adopted:** (a). For Entangle, the lowest among the parts it may target.
+- **Why:** a part at 0 is already disabled; the stated aim is to disable one.
+- **Code:** `agents/dummy.ts` `chooseTarget`.
+
+### P30. The Dummy's tie-break and its Roar discards
+
+- **Where:** extensions, Dummy (Targeting: "the player seated to the Dummy's left"; Notes); 2.2 Roar.
+- **Adopted:** the player to the left is the next one clockwise (the turn order, 1.4); further ties continue clockwise. After a Roar the Dummy discards from the bottom of its pile, as it does over the hand limit.
+- **Why:** facing the board, the next seat clockwise is on one's left; the Notes give the bottom as the Dummy's way of discarding.
+- **Code:** `agents/dummy.ts`.
+
 ## Open: to be decided later
 
-- Dummy: where received cards go in the pile; Joker vs a suited card in the play condition (#9); the "lowest current HP" body part: does it include parts already at 0?
+- Shield vs AoE Attack as a whole (P10, P11): to be reworked by the author.

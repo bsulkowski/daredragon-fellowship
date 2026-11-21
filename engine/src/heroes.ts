@@ -16,7 +16,7 @@ export const RIPOSTE_STEPS = 2;
  * or actions with a base warm-up of 4 (2.1 On the ground); incapacitated
  * daredevils cannot play at all (2.3).
  */
-export function canPlay(state: GameState, seat: number, card: Card): boolean {
+export function canPlay(state: Readonly<GameState>, seat: number, card: Card): boolean {
   const hero = state.heroes[seat];
   if (isIncapacitated(hero)) return false;
   if (!hero.prone) return true;
