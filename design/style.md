@@ -127,6 +127,13 @@ Turns are numbered in pairs: daredevil turns use plain integers, the dragon turn
 *[Story — Skeldrath's action described from the daredevils' perspective.]*
 ```
 
+### State shown in a turn block
+
+The HP, Hand, Target, Pending and Dragon lines show the state at the **start of the turn**, before anything resolves; the Resolves and Plays lines then describe what happens.
+
+- **Pending** lists everything on the board at that moment, including actions that resolve on this very turn and active guards.
+- **Counters** give the turns already passed since the card was played (or since the cool-down began). For a dragon card played on turn p❖: on dragon turn d❖ the counter is d − p, so the card resolves at w/w; on daredevil turn k it is k − 1 − p (0/w on the first daredevil turn after it was played).
+
 ### Turn block notation
 
 | Symbol | Meaning |

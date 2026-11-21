@@ -232,7 +232,7 @@ Czas odpoczynku 1 → Tura 5❖.
 
 **Cel:** Magnus
 
-**Oczekujące:** Precyzyjny atak Lirien (8♦) → Tura 9 · Ugryzienie smoka (D♦) → Tura 8❖
+**Oczekujące:** Atak Gorraka (7♠) → Tura 7 · Precyzyjny atak Lirien (8♦) → Tura 9 · Ugryzienie smoka (D♦) → Tura 8❖
 
 **Rozstrzygnięcie:** Atak Gorraka (7♠) odpala — Gorrak celuje w Łapy Smoka: 5 obrażeń (25→20 PŻ).
 
@@ -300,7 +300,7 @@ Czas odpoczynku 1 → Tura 5❖.
 
 **Cel:** Magnus
 
-**Oczekujące:** Czas odpoczynku po Ugryzieniu smoka → Tura 11❖
+**Oczekujące:** Precyzyjny atak Lirien (8♦) → Tura 9 · Czas odpoczynku po Ugryzieniu smoka → Tura 11❖
 
 **Rozstrzygnięcie:** Precyzyjny atak Lirien (8♦) odpala — Lirien celuje w Paszczę Smoka z ripostą: 6 podstawowych +2Ϟ na smokometrze (pozycja 6 → pozycja 8, wartość 10). Paszcza otrzymuje 10 obrażeń (25→15 PŻ).
 
@@ -394,7 +394,7 @@ Czas odpoczynku 1 → Tura 5❖.
 
 **Cel:** Magnus
 
-**Oczekujące:** Szarża Gorraka (9♣) → Tura 13 · Atak Pipa (7♥) → Tura 13 · Stratowanie smoka (10♠) → Tura 13❖
+**Oczekujące:** Pomocna dłoń Lirien (3♦) → Tura 12 · Szarża Gorraka (9♣) → Tura 13 · Atak Pipa (7♥) → Tura 13 · Stratowanie smoka (10♠) → Tura 13❖
 
 **Rozstrzygnięcie:** Pomocna dłoń Lirien (3♦) odpala — Magnus wstaje.
 
@@ -426,7 +426,7 @@ Czas odpoczynku 1 → Tura 5❖.
 
 **Cel:** Magnus
 
-**Oczekujące:** Precyzyjny atak Magnusa (8♣) → Tura 15 · Stratowanie smoka (10♠) → Tura 13❖
+**Oczekujące:** Szarża Gorraka (9♣) → Tura 13 · Atak Pipa (7♥) → Tura 13 · Precyzyjny atak Magnusa (8♣) → Tura 15 · Stratowanie smoka (10♠) → Tura 13❖
 
 **Rozstrzygnięcie:** Szarża Gorraka (9♣) odpala — Gorrak celuje w Nogi Smoka: 8 obrażeń (25→17 PŻ). Atak Pipa (7♥) odpala — Pip celuje w Łapy Smoka: 5 obrażeń (20→15 PŻ).
 
@@ -714,7 +714,7 @@ Pip: 15 → **12 PŻ**. Czas odpoczynku 2 → wygasa w Turze 57❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Oplątanie Magnusa → Tura 60 · Osłona Gorraka (Czuwanie) · Ognisty oddech smoka (A♥) → Tura 59❖ (czas przygotowania 1/2)
+**Oczekujące:** Oplątanie Magnusa → Tura 60 · Osłona Gorraka (Czuwanie) · Ognisty oddech smoka (A♥) → Tura 59❖ (czas przygotowania 0/2)
 
 **Gra:** D♣ — Osłona (Czuwanie).
 
@@ -796,7 +796,7 @@ Czas odpoczynku 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Smok odpoczywa (→ Tura 60❖)
+**Oczekujące:** Oplątanie Magnusa → Tura 60 · Precyzyjny atak Pipa → Tura 62 · Smok odpoczywa (→ Tura 60❖)
 
 **Rozstrzygnięcie:** Oplątanie Magnusa odpala — **Łapy zostają oplątane (~)**. Wszystkie ataki śmiałków na Łapy zyskują teraz +1Ϟ.
 
@@ -834,7 +834,7 @@ Czas odpoczynku 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Precyzyjny atak Pipa → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (5♣, Łapy) → Tura 62❖ (czas przygotowania 1/2, uwalnianie)
+**Oczekujące:** Precyzyjny atak Pipa → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (5♣, Łapy) → Tura 62❖ (czas przygotowania 0/2, uwalnianie)
 
 **Gra:** Dobiera — rozdaje po jednej karcie Lirien (4♠), Pip (3♥), Magnusowi (5♦).
 
@@ -866,7 +866,7 @@ Czas odpoczynku 1 → wygasa w Turze 60❖.
 
 **Cel:** Pip
 
-**Oczekujące:** Szybki atak smoka (5♣, Łapy) → Tura 62❖
+**Oczekujące:** Precyzyjny atak Pipa → Tura 62 · Szybki atak Magnusa → Tura 62 · Szybki atak smoka (5♣, Łapy) → Tura 62❖
 
 **Rozstrzygnięcie — dwa ataki w tej samej turze:**
 
@@ -1384,7 +1384,7 @@ Smok nie ma celu i rozstrzyga się atak śmiałka → **smok bierze Gorraka jako
 
 **Cel:** Gorrak
 
-**Oczekujące:** Atak Pipa (6♥) → Tura 113 · Szarża Lirien (9♥) → Tura 114 · Ugryzienie smoka (D♥) → Tura 113❖ (czas przygotowania 5/5)
+**Oczekujące:** Atak Pipa (6♥) → Tura 113 · Szarża Lirien (9♥) → Tura 114 · Ugryzienie smoka (D♥) → Tura 113❖ (czas przygotowania 4/5)
 
 **Rozstrzygnięcie:** Atak Pipa (6♥): Pip celuje w Łapy. Pip na 8 PŻ → obrażenia -1Ϟ. Podstawowe obrażenia Ataku 5 -1Ϟ (pozycja 5 → pozycja 4, wartość 4). Łapy otrzymują 4 obrażenia (4→0 PŻ).
 

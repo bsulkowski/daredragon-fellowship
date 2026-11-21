@@ -232,7 +232,7 @@ Cool-down 1 → Turn 5❖.
 
 **Target:** Magnus
 
-**Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Dragon's Bite (Q♦) → Turn 8❖
+**Pending:** Gorrak's Strike (7♠) → Turn 7 · Lirien's Precision Strike (8♦) → Turn 9 · Dragon's Bite (Q♦) → Turn 8❖
 
 **Resolves:** Gorrak's Strike (7♠) fires — Gorrak targets Dragon Paws: 5 damage (25→20 HP).
 
@@ -300,7 +300,7 @@ Cool-down 1 → Turn 5❖.
 
 **Target:** Magnus
 
-**Pending:** Dragon's Bite cool-down → Turn 11❖
+**Pending:** Lirien's Precision Strike (8♦) → Turn 9 · Dragon's Bite cool-down → Turn 11❖
 
 **Resolves:** Lirien's Precision Strike (8♦) fires — Lirien targets Dragon Jaws with riposte: 6 base +2Ϟ on the dracometer (position 6 → position 8, value 10). Jaws take 10 damage (25→15 HP).
 
@@ -394,7 +394,7 @@ Cool-down 1 → Turn 5❖.
 
 **Target:** Magnus
 
-**Pending:** Gorrak's Charge (9♣) → Turn 13 · Pip's Strike (7♥) → Turn 13 · Dragon's Trample (10♠) → Turn 13❖
+**Pending:** Lirien's Helping Hand (3♦) → Turn 12 · Gorrak's Charge (9♣) → Turn 13 · Pip's Strike (7♥) → Turn 13 · Dragon's Trample (10♠) → Turn 13❖
 
 **Resolves:** Lirien's Helping Hand (3♦) fires — Magnus stands up.
 
@@ -426,7 +426,7 @@ Cool-down 1 → Turn 5❖.
 
 **Target:** Magnus
 
-**Pending:** Magnus's Precision Strike (8♣) → Turn 15 · Dragon's Trample (10♠) → Turn 13❖
+**Pending:** Gorrak's Charge (9♣) → Turn 13 · Pip's Strike (7♥) → Turn 13 · Magnus's Precision Strike (8♣) → Turn 15 · Dragon's Trample (10♠) → Turn 13❖
 
 **Resolves:** Gorrak's Charge (9♣) fires — Gorrak targets Dragon Legs: 8 damage (25→17 HP). Pip's Strike (7♥) fires — Pip targets Dragon Paws: 5 damage (20→15 HP).
 
@@ -714,7 +714,7 @@ Pip: 15 → **12 HP**. Cooldown 2 → expires Turn 57❖.
 
 **Target:** Pip
 
-**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield (Guard) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 1/2)
+**Pending:** Magnus's Entangle → Turn 60 · Gorrak's Shield (Guard) · Dragon's Fire Breath (A♥) → Turn 59❖ (warm-up 0/2)
 
 **Plays:** Q♣ — Shield (Guard).
 
@@ -796,7 +796,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Dragon cooling down (→ Turn 60❖)
+**Pending:** Magnus's Entangle → Turn 60 · Pip's Precision Strike → Turn 62 · Dragon cooling down (→ Turn 60❖)
 
 **Resolves:** Magnus's Entangle fires — **Paws become entangled (~)**. All daredevil attacks against Paws now gain +1Ϟ.
 
@@ -834,7 +834,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (5♣, Paws) → Turn 62❖ (warm-up 1/2, freeing)
+**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (5♣, Paws) → Turn 62❖ (warm-up 0/2, freeing)
 
 **Plays:** Draws — deals one card to Lirien (4♠), Pip (3♥), Magnus (5♦).
 
@@ -866,7 +866,7 @@ Cooldown 1 → expires Turn 60❖.
 
 **Target:** Pip
 
-**Pending:** Dragon's Quick Strike (5♣, Paws) → Turn 62❖
+**Pending:** Pip's Precision Strike → Turn 62 · Magnus's Quick Strike → Turn 62 · Dragon's Quick Strike (5♣, Paws) → Turn 62❖
 
 **Resolves — two attacks on the same turn:**
 
@@ -1384,7 +1384,7 @@ Dragon has no target and a daredevil's attack resolves → **dragon takes Gorrak
 
 **Target:** Gorrak
 
-**Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 5/5)
+**Pending:** Pip's Strike (6♥) → Turn 113 · Lirien's Charge (9♥) → Turn 114 · Dragon's Bite (Q♥) → Turn 113❖ (warm-up 4/5)
 
 **Resolves:** Pip's Strike (6♥): Pip targets Paws. Pip at 8 HP → damage −1Ϟ. Strike base 5 −1Ϟ (position 5 → position 4, value 4). Paws take 4 damage (4→0 HP).
 
