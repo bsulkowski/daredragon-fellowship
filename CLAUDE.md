@@ -33,6 +33,7 @@ board/
 engine/                     # Rules engine (TypeScript, MIT) — see engine/README.md, issue #33
   src/                      # Modules, run directly via node --experimental-strip-types
   test/                     # npm test (node:test)
+  AMBIGUITIES.md            # Ambiguity register: readings the engine adopted (issue #38)
 ```
 
 ## Authoring Conventions

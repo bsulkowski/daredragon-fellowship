@@ -2,9 +2,16 @@
 // gameplay validator, game logs and debugging. Events describe what happened;
 // the state after each event is available to the listener.
 
+import type { BodyPart } from './actions.ts';
 import type { Card } from './cards.ts';
 import type { DiscardReason } from './decisions.ts';
 import type { Outcome, Phase } from './state.ts';
+
+/** Why cards leave a hand without being played. */
+export type HandLossReason = DiscardReason | 'incapacitated';
+
+/** Why an action on the board is taken off before it resolves. */
+export type CancelReason = 'knockdown' | 'incapacitated' | 'roar';
 
 export type GameEvent =
   /** A turn starts; nothing has resolved yet. */
@@ -17,7 +24,21 @@ export type GameEvent =
   | { type: 'play'; player: number; card: Card; resolves: number | null }
   /** A card dealt from the daredevils' deck during cooperative card draw. */
   | { type: 'deal'; from: number; to: number; card: Card }
-  | { type: 'discard'; player: number; card: Card; reason: DiscardReason }
+  | { type: 'discard'; player: number; card: Card; reason: HandLossReason }
+  /** An action or guard on the board is cancelled; its card is discarded. */
+  | { type: 'cancel'; player: number; card: Card; reason: CancelReason }
+  /** A guard reacts to the dragon's attack; its card is discarded. */
+  | { type: 'guard'; player: number; card: Card }
+  /** A daredevil takes damage from the dragon (possibly 0). */
+  | { type: 'hit'; player: number; damage: number; hp: number }
+  | { type: 'knockdown'; player: number }
+  | { type: 'incapacitated'; player: number }
+  /** The dragon's attack target changes. */
+  | { type: 'target'; target: number | null }
+  /** A riposte window opens: attacks on `part` in daredevil turns from–to get +2Ϟ. */
+  | { type: 'riposte'; part: BodyPart; from: number; to: number }
+  /** Health Regeneration; `amount` is what was actually restored. */
+  | { type: 'regenerate'; part: BodyPart; amount: number; hp: number }
   /** The dragon places a card on the board. */
   | { type: 'dragon-play'; card: Card; resolves: number }
   /** A card with warm-up and cool-down 0 (Glare) resolves at once. */

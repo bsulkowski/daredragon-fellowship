@@ -5,10 +5,10 @@
 // choice and is resumed with the index of the chosen option. `runGame` drives
 // it with agents; a user interface can drive it step by step.
 //
-// Effects of actions are added in later stages (#36 dragon, #37 daredevils);
-// the hooks they fill in are marked below.
+// Effects of the dragon's actions live in dragon.ts. Effects of the
+// daredevils' actions are added in #37; the hooks it fills in are marked below.
 
-import { type DragonAction, dragonAction, heroAction, isAttack } from './actions.ts';
+import { dragonAction, heroAction, isAttack } from './actions.ts';
 import type { Card } from './cards.ts';
 import {
   type Context, type PlayOptions, type Step,
@@ -16,6 +16,7 @@ import {
 } from './core.ts';
 import { type Agent, type Decision, type TurnOption, distinct } from './decisions.ts';
 import { discard } from './deck.ts';
+import { dragonWarmup, resolveDragonAction, resolveDragonInstant } from './dragon.ts';
 import { type GameState, type HeroPending, type Outcome, isIncapacitated, seatOf } from './state.ts';
 
 export type { PlayOptions } from './core.ts';
@@ -175,19 +176,20 @@ function* dragonPlay(ctx: Context): Step {
 
     if (action.warmup === 0 && action.cooldown === 0) {
       // Resolves at once; the next card is played within the same turn.
-      yield* resolveDragonInstant(ctx, card, action);
+      resolveDragonInstant(ctx, card, action);
       discard(state.dragonDeck, card);
       emit(ctx, { type: 'dragon-instant', card });
       checkEnd(ctx);
       continue;
     }
     if (isAttack(action) && state.target === null) {
-      // No target: the dragon merely menaces and the turn ends.
+      // No target: the dragon merely menaces and the turn ends. The body part
+      // is not used, so an entanglement stays (#38).
       discard(state.dragonDeck, card);
       emit(ctx, { type: 'dragon-menace', card });
       return;
     }
-    const resolves = state.turn + dragonWarmup(ctx, action);
+    const resolves = state.turn + dragonWarmup(state, action);
     state.dragon = { card, played: state.turn, resolves, cooldownEnds: null };
     emit(ctx, { type: 'dragon-play', card, resolves });
     return;
@@ -195,7 +197,7 @@ function* dragonPlay(ctx: Context): Step {
 }
 
 // ---------------------------------------------------------------------------
-// Hooks for the effects of actions — filled in by #36 and #37.
+// Hooks for the effects of the daredevils' actions — filled in by #37.
 
 /** Whether a daredevil may play a card now (on-ground restrictions: #37). */
 function canPlay(_ctx: Context, _seat: number, _card: Card): boolean {
@@ -207,18 +209,5 @@ function heroWarmup(_ctx: Context, _seat: number, card: Card): number {
   return heroAction(card).warmup!;
 }
 
-/** Warm-up of the dragon's action in dragon turns (0 HP and entanglement: #36). */
-function dragonWarmup(_ctx: Context, action: DragonAction): number {
-  return action.warmup;
-}
-
 /** Effect of a daredevil action (#37). `due` lists all actions resolving this turn. */
 function* resolveHeroAction(_ctx: Context, _action: HeroPending, _due: readonly HeroPending[]): Step {}
-
-/** Effect of a dragon action; returns extra cool-down turns (#36). */
-function* resolveDragonAction(_ctx: Context, _card: Card, _action: DragonAction): Step<number> {
-  return 0;
-}
-
-/** Effect of a card with warm-up and cool-down 0 — Glare (#36). */
-function* resolveDragonInstant(_ctx: Context, _card: Card, _action: DragonAction): Step {}

@@ -12,7 +12,9 @@ Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellows
 
 ## Stan
 
-Gotowe są etapy 1 i 2 z 4 silnika: podstawowe klocki i pętla tur. Akcje są zagrywane, trafiają na oś czasu i rozstrzygają się we właściwej turze, ale jeszcze bez efektu. Dalej: akcje smoka i śmiałków.
+Gotowe są etapy 1–3 z 4 silnika: podstawowe klocki, pętla tur oraz akcje smoka razem z reagującymi na nie akcjami czuwania. Akcje śmiałków są zagrywane i rozstrzygają się we właściwej turze, ale jeszcze bez efektu; to następny etap.
+
+Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte przez silnik odczytanie jest zapisane w [rejestrze niejednoznaczności](AMBIGUITIES.md) (po angielsku).
 
 | Moduł | Zawartość |
 |---|---|
@@ -25,6 +27,7 @@ Gotowe są etapy 1 i 2 z 4 silnika: podstawowe klocki i pętla tur. Akcje są za
 | `src/decisions.ts` | Interfejs decyzji między silnikiem a agentami |
 | `src/events.ts` | Zdarzenia zgłaszane w trakcie gry |
 | `src/engine.ts`, `src/core.ts` | Pętla tur: przeplatane tury, rozgrzewki i cool-downy, dobieranie kart, limity ręki, koniec gry |
+| `src/dragon.ts` | Akcje smoka (2.2): ataki zwykłe i obszarowe, Powalenie, Przeraźliwy ryk, Łypnięcie okiem, Regeneracja; Osłona i Unik ratunkowy (2.1); śmiałek na 0 HP |
 
 ### Decyzje
 

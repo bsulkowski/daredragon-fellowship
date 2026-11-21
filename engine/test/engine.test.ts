@@ -236,10 +236,16 @@ test('every decision offered can be taken: long random games run without errors'
     for (const players of [4, 5, 6]) {
       const s = createGame({ players, seed });
       const outcome = runGame(s, randomAgent(seed), { maxTurns: 200 });
-      assert.equal(outcome.result, 'timeout'); // no effects yet, so nobody wins
+      assert.notEqual(outcome.result, 'victory'); // daredevils deal no damage yet (#37)
       const cards = s.heroes.flatMap((h) => h.hand).length + s.heroDeck.drawPile.length +
         s.heroDeck.discardPile.length + s.pending.length + s.guards.length;
       assert.equal(cards, 54, 'no daredevil card lost or duplicated');
+      const dragonCards = s.dragonDeck.drawPile.length + s.dragonDeck.discardPile.length + (s.dragon ? 1 : 0);
+      assert.equal(dragonCards, 54, 'no dragon card lost or duplicated');
+      for (const hero of s.heroes) {
+        assert.ok(hero.hp >= 0 && hero.hp <= 25);
+        if (hero.hp === 0) assert.ok(hero.prone && hero.hand.length === 0);
+      }
     }
   }
 });

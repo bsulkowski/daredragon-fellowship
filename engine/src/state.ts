@@ -73,6 +73,17 @@ export interface DragonPending {
   cooldownEnds: number | null;
 }
 
+/**
+ * The riposte window (2.1 Attack): daredevil turns `from`–`to` in which attacks
+ * on `part` get +2Ϟ. One turn after the dragon's attack resolves, two when it
+ * hit nothing and the dragon lost its balance (2.1 Intervention Dodge).
+ */
+export interface Riposte {
+  part: BodyPart;
+  from: number;
+  to: number;
+}
+
 export type OutcomeResult = 'victory' | 'defeat' | 'timeout';
 
 export interface Outcome {
@@ -103,6 +114,8 @@ export interface GameState {
   pending: HeroPending[];
   guards: GuardPending[];
   dragon: DragonPending | null;
+  /** The latest riposte window; stale once `to` has passed. */
+  riposte: Riposte | null;
   outcome: Outcome | null;
 }
 
@@ -161,7 +174,7 @@ export function createGame(config: Partial<GameConfig> = {}): GameState {
   for (const hero of heroes) for (let i = 0; i < STARTING_HAND; i++) hero.hand.push(heroDeck.drawPile.pop()!);
   return {
     config: cfg, turn: 1, phase: 'hero', heroes, parts: freshParts(), target: null,
-    heroDeck, dragonDeck, rng, pending: [], guards: [], dragon: null, outcome: null,
+    heroDeck, dragonDeck, rng, pending: [], guards: [], dragon: null, riposte: null, outcome: null,
   };
 }
 
@@ -183,6 +196,7 @@ export interface Setup {
   pending?: HeroPending[];
   guards?: GuardPending[];
   dragon?: DragonPending | null;
+  riposte?: Riposte | null;
 }
 
 /**
@@ -213,7 +227,7 @@ export function createGameFrom(config: Partial<GameConfig>, setup: Setup): GameS
     config: cfg, turn: setup.turn, phase: 'hero', heroes, parts, target: setup.target,
     heroDeck: createDeck(remainingCards(heroCards, "the daredevils' deck"), rng),
     dragonDeck: createDeck(remainingCards(dragonCards, "the dragon's deck"), rng),
-    rng, pending, guards, dragon, outcome: null,
+    rng, pending, guards, dragon, riposte: setup.riposte ? { ...setup.riposte } : null, outcome: null,
   };
 }
 

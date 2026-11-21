@@ -12,7 +12,9 @@ The work is tracked in [issue #33](https://github.com/bsulkowski/daredragon-fell
 
 ## Status
 
-Stages 1 and 2 of 4 of the engine are done: the building blocks and the turn loop. Actions are played, placed on the timeline and resolved on the right turn, but they have no effect yet. The dragon's and the daredevils' actions come next.
+Stages 1–3 of 4 of the engine are done: the building blocks, the turn loop and the dragon's actions with the guards that react to them. The daredevils' actions are played and resolved on the right turn, but have no effect yet; they come next.
+
+Where the rules can be read more than one way, the engine's reading is recorded in the [ambiguity register](AMBIGUITIES.md).
 
 | Module | Contents |
 |---|---|
@@ -25,6 +27,7 @@ Stages 1 and 2 of 4 of the engine are done: the building blocks and the turn loo
 | `src/decisions.ts` | The decision interface between the engine and the agents |
 | `src/events.ts` | Events reported while a game runs |
 | `src/engine.ts`, `src/core.ts` | The turn loop: interleaved turns, warm-ups and cool-downs, card draw, hand limits, end of the game |
+| `src/dragon.ts` | The dragon's actions (2.2): direct and AoE attacks, Knockdown, Roar, Glare, Health Regeneration; Shield and Intervention Dodge (2.1); incapacitation |
 
 ### Decisions
 

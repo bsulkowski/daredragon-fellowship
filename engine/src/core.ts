@@ -5,8 +5,11 @@ import { BODY_PARTS } from './actions.ts';
 import type { Card } from './cards.ts';
 import { type Decision, type DiscardReason, distinct } from './decisions.ts';
 import { discard, draw, forceNext } from './deck.ts';
-import type { GameEvent } from './events.ts';
-import { type GameState, type Outcome, type OutcomeResult, handLimit, isIncapacitated } from './state.ts';
+import type { CancelReason, GameEvent, HandLossReason } from './events.ts';
+import {
+  type GameState, type GuardPending, type HeroPending, type Outcome, type OutcomeResult,
+  handLimit, isIncapacitated,
+} from './state.ts';
 
 export type DeckName = 'hero' | 'dragon';
 
@@ -64,7 +67,7 @@ export function drawCard(ctx: Context, deck: DeckName): Card | undefined {
 }
 
 /** Removes one copy of a card from a hand to the daredevils' discard pile. */
-export function discardFromHand(ctx: Context, player: number, card: Card, reason: DiscardReason): void {
+export function discardFromHand(ctx: Context, player: number, card: Card, reason: HandLossReason): void {
   const hand = ctx.state.heroes[player].hand;
   const index = hand.indexOf(card);
   if (index < 0) throw new Error(`${ctx.state.heroes[player].name} has no ${card}`);
@@ -88,6 +91,30 @@ export function* enforceHandLimit(ctx: Context, player: number): Step {
   const hero = ctx.state.heroes[player];
   const excess = hero.hand.length - handLimit(hero.hp);
   if (excess > 0) yield* discardCards(ctx, player, excess, 'hand-limit');
+}
+
+/** Sets the dragon's attack target, reporting a change. */
+export function setTarget(ctx: Context, target: number | null): void {
+  if (ctx.state.target === target) return;
+  ctx.state.target = target;
+  emit(ctx, { type: 'target', target });
+}
+
+/** Takes an action or guard off the board to the daredevils' discard pile. */
+export function cancel(ctx: Context, action: HeroPending | GuardPending, reason: CancelReason): void {
+  const { state } = ctx;
+  const list: (HeroPending | GuardPending)[] = 'resolves' in action ? state.pending : state.guards;
+  const index = list.indexOf(action);
+  if (index < 0) throw new Error(`${action.card} is not on the board`);
+  list.splice(index, 1);
+  discard(state.heroDeck, action.card);
+  emit(ctx, { type: 'cancel', player: action.actor, card: action.card, reason });
+}
+
+/** Cancels everything a daredevil has on the board — "the daredevil's current action". */
+export function cancelActionsOf(ctx: Context, player: number, reason: CancelReason): void {
+  const { state } = ctx;
+  for (const action of [...state.pending, ...state.guards]) if (action.actor === player) cancel(ctx, action, reason);
 }
 
 export function outcomeOf(state: GameState, result: OutcomeResult): Outcome {
