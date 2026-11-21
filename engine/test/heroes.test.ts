@@ -203,6 +203,17 @@ test('Draw Aggro: becomes the target and delays the dragon warming up; sample Tu
   assert.deepEqual(of('dragon-delay'), [{ type: 'dragon-delay', card: 'K♠', resolves: 55 }]);
 });
 
+test('Draw Aggro delays attacks only, not Roar or Health Regeneration (author, #38)', () => {
+  for (const card of ['A♠', 'Joker']) {
+    const { s, of } = heroTurn({
+      heroes: heroes(25, 25, 25, 25), pending: [due(0, 'K♦', T - 1)],
+      dragon: { card, played: T - 1, resolves: T, cooldownEnds: null },
+    });
+    assert.equal(s.target, 0);
+    assert.deepEqual(of('dragon-delay'), [], card);
+  }
+});
+
 test('Draw Aggro does not move a card cooling down', () => {
   const { s, of } = heroTurn({ heroes: heroes(25, 25, 25, 25), pending: [due(0, 'K♦', T - 1)] });
   assert.equal(s.target, 0);

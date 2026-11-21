@@ -24,6 +24,7 @@ Statuses:
 | A8 | 2.1 Guard, Intervention Dodge, Shield | When guards compete for the same attack, the one played last wins. Against a direct attack, a Dodge played after every Shield acts and the Shields keep waiting; otherwise the Shields act and the Dodge keeps waiting. Of several Dodges, the one played last acts. Replaces P8 and P9. |
 | A9 | 2.1 Attack (orchestrated attack) | Each attack gains +1Ϟ per other attack of its own suit resolving on the same turn; with ♠♠♥ the spades gain +1Ϟ each, the heart nothing. Replaces P20. |
 | A10 | 2.1 On the ground; #24 | A card played on the ground keeps the warm-up it was placed with (+1). The −2Ϟ damage penalty is evaluated at resolution, so it drops if the daredevil has been helped up meanwhile. Replaces P21. |
+| A11 | 2.1 Draw Aggro | Draw Aggro extends the dragon's warm-up only when an attack is warming up, not Roar or Health Regeneration. It rewards the player who draws the attack onto themselves and makes the dragon pay for redirecting an attack in preparation. As the sample gameplay says (Turn 54); the rules text to be clarified. Replaces P23. |
 
 ## Provisional readings in the engine
 
@@ -182,11 +183,7 @@ Decided by the author: see A10.
 
 ### P23. Draw Aggro: which dragon warm-ups it extends
 
-- **Where:** 2.1 Draw Aggro ("If performed during the dragon's warm-up, extends that warm-up by +1").
-- **Readings:** (a) any action warming up (rules text), including Roar and Health Regeneration; (b) attacks only (sample gameplay, Turn 54: "while the dragon has an attack in progress").
-- **Adopted:** (a).
-- **Why:** the engine follows the rules text; the sample's wording covers the case it shows.
-- **Code:** `heroes.ts` `drawAggro`.
+Decided by the author: see A11.
 
 ### P24. Draw Aggro and attacks taking the target on the same turn
 

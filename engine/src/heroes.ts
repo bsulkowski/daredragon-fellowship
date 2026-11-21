@@ -128,14 +128,16 @@ function partInUse(state: GameState): BodyPart | null {
 // Support
 
 /**
- * Draw Aggro (2.1): the daredevil becomes the target; a dragon's action warming
- * up — any action, as the rules say, not only attacks (#38) — resolves a turn later.
+ * Draw Aggro (2.1): the daredevil becomes the target; a dragon's attack warming
+ * up resolves a turn later. Only an attack: the delay rewards drawing an attack
+ * onto oneself and makes the dragon pay for redirecting it; Roar and Health
+ * Regeneration are not delayed (author, #38).
  */
 function drawAggro(ctx: Context, pending: HeroPending, round: Resolution): void {
   setTarget(ctx, pending.actor);
   round.targetTakenByAttack = false;
   const dragon = ctx.state.dragon;
-  if (dragon && dragon.cooldownEnds === null) {
+  if (dragon && dragon.cooldownEnds === null && isAttack(dragonAction(dragon.card))) {
     dragon.resolves += 1;
     emit(ctx, { type: 'dragon-delay', card: dragon.card, resolves: dragon.resolves });
   }
