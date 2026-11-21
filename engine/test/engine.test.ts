@@ -81,7 +81,8 @@ test('an action expiring on the own turn resolves before the player acts', () =>
     onEvent: rec.onEvent, maxTurns: 5,
   });
   const atFive = rec.events.filter((r) => r.turn === 5 && r.phase === 'hero').map((r) => r.event.type);
-  assert.deepEqual(atFive.slice(0, 3), ['turn', 'resolve', 'deal']);
+  assert.equal(atFive[0], 'turn');
+  assert.ok(atFive.indexOf('resolve') < atFive.indexOf('deal'));
 });
 
 test('a guard stands by until its owner\'s next turn', () => {
@@ -235,8 +236,7 @@ test('every decision offered can be taken: long random games run without errors'
   for (let seed = 0; seed < 50; seed++) {
     for (const players of [4, 5, 6]) {
       const s = createGame({ players, seed });
-      const outcome = runGame(s, randomAgent(seed), { maxTurns: 200 });
-      assert.notEqual(outcome.result, 'victory'); // daredevils deal no damage yet (#37)
+      runGame(s, randomAgent(seed), { maxTurns: 200 });
       const cards = s.heroes.flatMap((h) => h.hand).length + s.heroDeck.drawPile.length +
         s.heroDeck.discardPile.length + s.pending.length + s.guards.length;
       assert.equal(cards, 54, 'no daredevil card lost or duplicated');

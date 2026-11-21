@@ -27,6 +27,17 @@ export type GameEvent =
   | { type: 'discard'; player: number; card: Card; reason: HandLossReason }
   /** An action or guard on the board is cancelled; its card is discarded. */
   | { type: 'cancel'; player: number; card: Card; reason: CancelReason }
+  /** A daredevil's attack deals damage to a body part (possibly 0). */
+  | { type: 'strike'; player: number; card: Card; part: BodyPart; damage: number; hp: number }
+  | { type: 'entangle'; player: number; part: BodyPart }
+  /** First Aid; `amount` is what was actually restored. */
+  | { type: 'heal'; player: number; by: number; amount: number; hp: number }
+  /** A daredevil gets up from the ground (Helping Hand, First Aid). */
+  | { type: 'stand-up'; player: number; by: number }
+  /** A support action resolves with nobody it could be used on. */
+  | { type: 'no-target'; player: number; card: Card }
+  /** Draw Aggro delays the dragon's action warming up. */
+  | { type: 'dragon-delay'; card: Card; resolves: number }
   /** A guard reacts to the dragon's attack; its card is discarded. */
   | { type: 'guard'; player: number; card: Card }
   /** A daredevil takes damage from the dragon (possibly 0). */

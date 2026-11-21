@@ -12,7 +12,7 @@ Postęp prac: [zgłoszenie #33](https://github.com/bsulkowski/daredragon-fellows
 
 ## Stan
 
-Gotowe są etapy 1–3 z 4 silnika: podstawowe klocki, pętla tur oraz akcje smoka razem z reagującymi na nie akcjami czuwania. Akcje śmiałków są zagrywane i rozstrzygają się we właściwej turze, ale jeszcze bez efektu; to następny etap.
+Silnik jest kompletny: podstawowe klocki, pętla tur, akcje smoka razem z reagującymi na nie akcjami czuwania oraz akcje śmiałków. Dalej: walidator przykładowej rozgrywki i punkty odniesienia do balansu.
 
 Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte przez silnik odczytanie jest zapisane w [rejestrze niejednoznaczności](AMBIGUITIES.md) (po angielsku).
 
@@ -27,6 +27,7 @@ Tam, gdzie reguły dają się odczytać na więcej niż jeden sposób, przyjęte
 | `src/decisions.ts` | Interfejs decyzji między silnikiem a agentami |
 | `src/events.ts` | Zdarzenia zgłaszane w trakcie gry |
 | `src/engine.ts`, `src/core.ts` | Pętla tur: przeplatane tury, rozgrzewki i cool-downy, dobieranie kart, limity ręki, koniec gry |
+| `src/heroes.ts` | Akcje śmiałków (2.1): ataki z ripostą, skoordynowany atak, premia za oplątanie, Oplątanie, Odwrócenie uwagi, Pomocna dłoń, Pierwsza pomoc; ograniczenia dla powalonego na ziemię |
 | `src/dragon.ts` | Akcje smoka (2.2): ataki zwykłe i obszarowe, Powalenie, Przeraźliwy ryk, Łypnięcie okiem, Regeneracja; Osłona i Unik ratunkowy (2.1); śmiałek na 0 HP |
 
 ### Decyzje

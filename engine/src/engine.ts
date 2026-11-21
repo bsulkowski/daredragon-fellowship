@@ -5,8 +5,7 @@
 // choice and is resumed with the index of the chosen option. `runGame` drives
 // it with agents; a user interface can drive it step by step.
 //
-// Effects of the dragon's actions live in dragon.ts. Effects of the
-// daredevils' actions are added in #37; the hooks it fills in are marked below.
+// Effects of the actions live in dragon.ts and heroes.ts.
 
 import { dragonAction, heroAction, isAttack } from './actions.ts';
 import type { Card } from './cards.ts';
@@ -17,6 +16,7 @@ import {
 import { type Agent, type Decision, type TurnOption, distinct } from './decisions.ts';
 import { discard } from './deck.ts';
 import { dragonWarmup, resolveDragonAction, resolveDragonInstant } from './dragon.ts';
+import { type Resolution, canPlay, heroWarmup, resolveHeroAction } from './heroes.ts';
 import { type GameState, type HeroPending, type Outcome, isIncapacitated, seatOf } from './state.ts';
 
 export type { PlayOptions } from './core.ts';
@@ -78,11 +78,12 @@ function* heroTurn(ctx: Context): Step {
   // Actions whose warm-up expires resolve at the start of the turn (1.5),
   // in the order they were initiated (provisional reading, #38).
   const due = state.pending.filter((p) => p.resolves === turn).sort((a, b) => a.played - b.played);
+  const round: Resolution = { due, targetTakenByAttack: false };
   for (const action of due) {
     const index = state.pending.indexOf(action);
     if (index < 0) continue; // cancelled meanwhile
     state.pending.splice(index, 1);
-    yield* resolveHeroAction(ctx, action, due);
+    yield* resolveHeroAction(ctx, action, round);
     discard(state.heroDeck, action.card);
     emit(ctx, { type: 'resolve', player: action.actor, card: action.card });
     checkEnd(ctx);
@@ -91,7 +92,7 @@ function* heroTurn(ctx: Context): Step {
   const hero = state.heroes[seat];
   const options: TurnOption[] = [];
   if (!isIncapacitated(hero)) {
-    for (const card of distinct(hero.hand)) if (canPlay(ctx, seat, card)) options.push({ type: 'play', card });
+    for (const card of distinct(hero.hand)) if (canPlay(state, seat, card)) options.push({ type: 'play', card });
   }
   options.push({ type: 'draw' });
   const choice = options[yield* ask({ kind: 'turn', player: seat, options })];
@@ -113,7 +114,7 @@ function playCard(ctx: Context, seat: number, card: Card): void {
     state.guards.push({ actor: seat, card, placed: state.turn, expires: state.turn + state.config.players });
     emit(ctx, { type: 'play', player: seat, card, resolves: null });
   } else {
-    const resolves = state.turn + heroWarmup(ctx, seat, card);
+    const resolves = state.turn + heroWarmup(state, seat, card);
     state.pending.push({ actor: seat, card, played: state.turn, resolves });
     emit(ctx, { type: 'play', player: seat, card, resolves });
   }
@@ -195,19 +196,3 @@ function* dragonPlay(ctx: Context): Step {
     return;
   }
 }
-
-// ---------------------------------------------------------------------------
-// Hooks for the effects of the daredevils' actions — filled in by #37.
-
-/** Whether a daredevil may play a card now (on-ground restrictions: #37). */
-function canPlay(_ctx: Context, _seat: number, _card: Card): boolean {
-  return true;
-}
-
-/** Warm-up of a daredevil's action in daredevil turns (on-ground +1: #37). */
-function heroWarmup(_ctx: Context, _seat: number, card: Card): number {
-  return heroAction(card).warmup!;
-}
-
-/** Effect of a daredevil action (#37). `due` lists all actions resolving this turn. */
-function* resolveHeroAction(_ctx: Context, _action: HeroPending, _due: readonly HeroPending[]): Step {}

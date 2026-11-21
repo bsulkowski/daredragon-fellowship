@@ -104,6 +104,7 @@ Decided by the author: see A8.
 - **Adopted:** (a).
 - **Why:** per A3, a guard that has nothing to act on keeps waiting. Under (b) a shielder would be hurt for protecting nobody.
 - **Code:** `dragon.ts` `aoeAttack`.
+- **Note:** the author finds Shield vs AoE in need of rework to be consistent without being overcomplicated; to be revisited later.
 
 ### P12. Actions of a daredevil who becomes incapacitated
 
@@ -137,12 +138,78 @@ Decided by the author: see A7.
 - **Why:** the entanglement is removed "only when the attack resolves", and a menace resolves nothing.
 - **Code:** `engine.ts` `dragonPlay`.
 
-## Open: to be decided while implementing #37 and later
+### P17. Entangle is an attack
 
-- Draw Aggro extending the dragon's warm-up: any warm-up (rules text) or attacks only (sample comment, Turn 54)?
-- Orchestrated attack with mixed suits among three or more attacks. Does Entangle count as an attack (for orchestration and for taking the target)?
-- Entangle with damage modifiers (riposte, orchestration): still 0 damage? Entangle on a body part in cool-down, or one already entangled.
-- On the ground: the daredevil's −2Ϟ evaluated at play or at resolution (#24).
-- Helping Hand on an incapacitated daredevil.
-- Several actions resolving on the same turn: Helping Hand together with an attack; Draw Aggro together with an attack taking the target.
+- **Where:** 2.1 (table: Entangle is of type Attack; Attack: orchestrated attack, taking the target).
+- **Readings:** (a) it counts as an attack for the orchestrated attack and takes the target when there is none; (b) it does neither.
+- **Adopted:** (a).
+- **Why:** the table gives it the type Attack, and the Attack rules speak of attacks without exceptions.
+- **Code:** `heroes.ts` `attack`, `attackSteps`.
+
+### P18. Entangle and damage modifiers
+
+- **Where:** 2.1 Entangle (damage 0); Attack (riposte, orchestrated attack).
+- **Readings:** (a) no damage, whatever the modifiers; (b) the modifiers move 0 along the dracometer (+2Ϟ riposte → 2).
+- **Adopted:** (a).
+- **Why:** the sample gameplay says "Entangle itself deals 0 damage; its value is the +1Ϟ bonus" (Turn 56). Its effect is the entanglement.
+- **Code:** `heroes.ts` `attack`.
+
+### P19. Which body parts Entangle can target
+
+- **Where:** 2.1 Entangle ("not currently being used in an attack").
+- **Readings:** "being used" means (a) the part of the dragon's attack warming up; (b) also a part whose attack is cooling down. And a part already entangled: (c) allowed, without further effect; (d) not allowed.
+- **Adopted:** (a) and (c).
+- **Why:** the cool-down comes after the attack has resolved; the entanglement is a single token, so entangling twice changes nothing.
+- **Code:** `heroes.ts` `attack`, `partInUse`.
+
+### P20. Orchestrated attack with mixed suits — *Outcome*
+
+- **Where:** 2.1 Attack ("if two or more attacks resolve on the same turn and the cards share the same suit, each attacker gains +1Ϟ per additional attacker").
+- **Readings:** (a) each attack gains +1Ϟ per other attack of its own suit resolving that turn (♠♠♥: the spades +1 each, the heart nothing); (b) the bonus applies only when all the attacks share a suit.
+- **Adopted:** (a).
+- **Why:** it extends the two-card case without discarding the matching pair because of a third attack.
+- **Code:** `heroes.ts` `attackSteps`.
+
+### P21. On the ground: when the penalties are evaluated (#24) — *Outcome*
+
+- **Where:** 2.1 On the ground (warm-up +1, damage −2Ϟ); 2.3 ("All HP-based penalties are evaluated at the moment an attack resolves").
+- **Readings:** for a daredevil who played a card on the ground and is helped up before it resolves: (a) the warm-up stays as placed, the −2Ϟ is evaluated at resolution (and so drops); (b) both stay; (c) both are re-evaluated (the card moves).
+- **Adopted:** (a).
+- **Why:** the card is placed on a turn when played, as with the dragon (P5); damage modifiers follow 2.3 and are evaluated at resolution. A Helping Hand resolving on the same turn as the helped daredevil's attack, but initiated earlier, removes the penalty (P1).
+- **Code:** `heroes.ts` `heroWarmup`, `attackSteps`.
+
+### P22. Helping Hand on an incapacitated daredevil
+
+- **Where:** 2.1 Helping Hand, First Aid; 2.3.
+- **Readings:** (a) not eligible; (b) they stand up, still at 0 HP.
+- **Adopted:** (a).
+- **Why:** First Aid explicitly works "even if the daredevil is incapacitated", which suggests other actions do not; standing at 0 HP would change nothing anyway (A7).
+- **Code:** `heroes.ts` `helpingHand`.
+
+### P23. Draw Aggro: which dragon warm-ups it extends
+
+- **Where:** 2.1 Draw Aggro ("If performed during the dragon's warm-up, extends that warm-up by +1").
+- **Readings:** (a) any action warming up (rules text), including Roar and Health Regeneration; (b) attacks only (sample gameplay, Turn 54: "while the dragon has an attack in progress").
+- **Adopted:** (a).
+- **Why:** the engine follows the rules text; the sample's wording covers the case it shows.
+- **Code:** `heroes.ts` `drawAggro`.
+
+### P24. Draw Aggro and attacks taking the target on the same turn
+
+- **Where:** 2.1 Attack (no target: the dragon takes the attacker initiated last), Draw Aggro.
+- **Readings:** (a) actions resolve in the order of initiation (P1); an attack takes the target only when there is none, or when it was taken by an attack earlier that turn; Draw Aggro always sets it; (b) Draw Aggro always wins.
+- **Adopted:** (a).
+- **Why:** it applies both rules literally in one order. Draw Aggro initiated after the attacks wins; initiated before them, it fills the empty target and the attacks leave it.
+- **Code:** `heroes.ts` `attack`, `drawAggro`.
+
+### P25. Targets of daredevil actions
+
+- **Where:** 1.5; 2.1.
+- **Readings:** whether the engine should offer only useful targets.
+- **Adopted:** every target the rules allow is offered: any body part for an attack, even one at 0 HP; any other daredevil for First Aid, even at full HP. A Helping Hand or First Aid with nobody eligible resolves without effect.
+- **Why:** the engine does not judge choices; agents do.
+- **Code:** `heroes.ts`.
+
+## Open: to be decided later
+
 - Dummy: where received cards go in the pile; Joker vs a suited card in the play condition (#9); the "lowest current HP" body part: does it include parts already at 0?
