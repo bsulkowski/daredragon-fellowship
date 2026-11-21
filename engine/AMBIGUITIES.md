@@ -25,6 +25,8 @@ Statuses:
 | A9 | 2.1 Attack (orchestrated attack) | Each attack gains +1Ϟ per other attack of its own suit resolving on the same turn; with ♠♠♥ the spades gain +1Ϟ each, the heart nothing. Replaces P20. |
 | A10 | 2.1 On the ground; #24 | A card played on the ground keeps the warm-up it was placed with (+1). The −2Ϟ damage penalty is evaluated at resolution, so it drops if the daredevil has been helped up meanwhile. Replaces P21. |
 | A11 | 2.1 Draw Aggro | Draw Aggro extends the dragon's warm-up only when an attack is warming up, not Roar or Health Regeneration. It rewards the player who draws the attack onto themselves and makes the dragon pay for redirecting an attack in preparation. As the sample gameplay says (Turn 54); the rules text to be clarified. Replaces P23. |
+| A12 | 1.9 Cooperative Card Draw | Incapacitated players are skipped when dealing. Replaces P3. |
+| A13 | 2.2 AoE Attack; 2.3 | An incapacitated daredevil is treated as lying on the ground (A7), so an AoE attack has no effect on them. The area stays the target and its seat neighbours; it does not extend past an incapacitated neighbour. Replaces P7. |
 
 ## Provisional readings in the engine
 
@@ -44,13 +46,9 @@ Statuses:
 - **Why:** it is the only rule for an exhausted deck. The author expects the dragon's deck to be hard to exhaust and may use it as a time limit; the baselines record reshuffles to check (#43).
 - **Code:** `core.ts` `drawCard`.
 
-### P3. Card draw and incapacitated players — *Outcome*
+### P3. Card draw and incapacitated players
 
-- **Where:** 1.9; 2.3 (an incapacitated daredevil holds no cards).
-- **Readings:** (a) incapacitated players are skipped; (b) they are dealt a card that is discarded at once.
-- **Adopted:** (a).
-- **Why:** the sample gameplay skips them. (b) would drain the daredevils' deck faster.
-- **Code:** `engine.ts` `dealCards`.
+Decided by the author: see A12.
 
 ### P4. Passing
 
@@ -76,13 +74,9 @@ Statuses:
 - **Why:** the results differ only at the ends of the scale, where (b) depends on an order the rules do not give.
 - **Code:** `dracometer.ts` `modify`; `dragon.ts` `attackSteps`.
 
-### P7. AoE neighbours of a target next to an incapacitated daredevil — *Outcome*
+### P7. AoE neighbours of a target next to an incapacitated daredevil
 
-- **Where:** 2.2 AoE Attack ("the target and both its neighbours").
-- **Readings:** (a) seat neighbours, incapacitated ones included (and then unaffected); (b) the nearest daredevils who are not incapacitated.
-- **Adopted:** (a).
-- **Why:** the sample gameplay (Turn 104❖) uses seat neighbours.
-- **Code:** `dragon.ts` `aoeAttack`.
+Decided by the author: see A13.
 
 ### P8. Several Intervention Dodges on one attack
 

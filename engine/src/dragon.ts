@@ -117,9 +117,9 @@ function* directAttack(ctx: Context, action: DragonAction): Step<number> {
 }
 
 /**
- * AoE Attack (2.2): the target and both its seat neighbours — incapacitated
- * neighbours included, as in the sample gameplay (Turn 104❖) — except those on
- * the ground (#38).
+ * AoE Attack (2.2): the target and both its seat neighbours, except those on
+ * the ground. An incapacitated neighbour counts as on the ground: unaffected,
+ * and the area does not extend past them (author, #38).
  *
  * - Intervention Dodge saves the target as in a direct attack, without loss of
  *   balance (2.1); with several, the one played last (author, #38). Dodge and

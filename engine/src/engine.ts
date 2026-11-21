@@ -122,7 +122,7 @@ function playCard(ctx: Context, seat: number, card: Card): void {
 
 /**
  * Cooperative card draw (1.9): one card to each fellow player, clockwise.
- * Incapacitated players are skipped, as in the sample gameplay (provisional, #38).
+ * Incapacitated players are skipped, as in the sample gameplay (author, #38).
  */
 function* dealCards(ctx: Context, seat: number): Step {
   const { state } = ctx;
