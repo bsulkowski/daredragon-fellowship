@@ -66,6 +66,7 @@ The game is free, open source, and print-and-play — everything you need is in 
 
 | Version | Date | Changes |
 |---|---|---|
+| 1.1 | 2026-11-21 | Rules clarified while building the rules engine<br>Intervention Dodge works against direct attacks only |
 | 1.0.2 | 2026-10-05 | Notice wording in the story<br>Story wording in sample gameplay (PL) |
 | 1.0.1 | 2026-09-28 | Story commentary consistency fixes<br>Sample gameplay corrections |
 | 1.0 | 2026-04-17 | Officially promoted to version 1.0 |

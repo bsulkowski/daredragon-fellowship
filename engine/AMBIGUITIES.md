@@ -1,8 +1,10 @@
 # Ambiguity Register
 
-Places where the rules ([base_en.md](../rules/base_en.md), v1.0.2) can be read more than one way, or say nothing, and the engine had to pick a reading. Tracked in [issue #38](https://github.com/bsulkowski/daredragon-fellowship/issues/38).
+Places where the rules ([base_en.md](../rules/base_en.md), v1.0.2) could be read more than one way, or said nothing, and the engine had to pick a reading. Tracked in [issue #38](https://github.com/bsulkowski/daredragon-fellowship/issues/38).
 
 The engine implements the rules as they stand. Where they are ambiguous, it adopts a reading and records it here; the code marks the spot with `#38`. Once the engine is complete, the clarifications are synced back into the rules in one go. From then on the engine follows the rules text.
+
+**Synced into the rules in v1.1** (2026-11-21): every decision and approved reading below that concerns the rules, and the Dummy's into the extensions. P25 concerns the engine only. Since then the rules text is the reference; new ambiguities are added here and synced the same way.
 
 Statuses:
 

@@ -14,7 +14,7 @@ Jedna pozycja gracza zajmowana jest przez gracza automatycznego — Manekina. Ma
 
 ### Ustawienie
 
-Karty ręki Manekina leżą zakryte w jednym stosie, umieszczonym przy odpowiedniej krawędzi planszy. Na początku gry Manekin otrzymuje normalnie 2 karty.
+Karty ręki Manekina leżą zakryte w jednym stosie, umieszczonym przy odpowiedniej krawędzi planszy. Na początku gry Manekin otrzymuje normalnie 2 karty. Karty otrzymane przez Manekina kładzie się na wierzch stosu.
 
 ### Algorytm
 
@@ -38,23 +38,24 @@ W turze Manekina:
 
 Karta jest uznawana za nieważną lub bezcelową, gdy:
 
-- **Unik interwencyjny / Tarcza**: smok aktualnie nie wykonuje ataku.
-- **Pomocna dłoń** (4, 3, 2): żaden inny śmiałek nie leży na ziemi.
-- **Pierwsza pomoc** (Joker): żaden inny śmiałek nie ma mniej niż 8 PŻ ani nie jest unieszkodliwiony.
-- Wszystkie pozostałe karty są uznawane za poprawne.
+- **Pierwsza pomoc** (Joker): żaden inny śmiałek nie ma mniej niż 8 PŻ ani nie jest obezwładniony.
+- **Każda karta, której zasady w danej chwili nie pozwalają zagrać**, np. Szarża, Pierwsza pomoc lub akcja czuwania, gdy Manekin leży na ziemi.
+- Wszystkie pozostałe karty są uznawane za poprawne. Dotyczy to także uniku ratunkowego, osłony i pomocnej dłoni, nawet gdy na razie nie mają na co zadziałać: sytuacja może się zmienić, zanim zadziałają.
 
 ### Wybór celu
 
-Gdy Manekin zagrywa kartę ataku, celuje w część ciała smoka z **najniższym aktualnym PŻ** (najbardziej uszkodzoną, dążąc do jej unieszkodliwienia). Kolejność przy remisie: Paszcza → Łapy → Nogi → Ogon.
+Gdy atak Manekina zostaje rozstrzygnięty, celuje on w część ciała smoka z **najniższym aktualnym PŻ** powyżej 0 (najbardziej uszkodzoną, dążąc do jej unieszkodliwienia; część z 0 PŻ jest już unieszkodliwiona). Kolejność przy remisie: Paszcza → Łapy → Nogi → Ogon.
 
-Gdy Manekin zagrywa kartę wsparcia skierowaną do innego śmiałka, celuje w śmiałka z **najniższym aktualnym PŻ**. Przy remisie: gracz siedzący po lewej stronie Manekina.
+Gdy pomocna dłoń lub pierwsza pomoc Manekina zostaje rozstrzygnięta, celuje on w śmiałka z **najniższym aktualnym PŻ** spośród tych, którym może pomóc. Przy remisie: gracz siedzący po lewej stronie Manekina, dalej zgodnie z ruchem wskazówek zegara. Osłona i unik ratunkowy działają według zasad podstawowych.
 
 ### Uwagi
 
 - Limit kart ręki Manekina podlega tym samym zasadom opartym na PŻ co u zwykłych graczy.
-- Jeśli ręka Manekina przekroczy limit (np. po otrzymaniu kart), odrzuć karty ze **spodu** stosu.
+- Jeśli ręka Manekina przekroczy limit (np. po otrzymaniu kart) albo przeraźliwy ryk zmusza go do odrzucenia kart, odrzuć karty ze **spodu** stosu.
 - Jeśli stos kart odrzuconych jest pusty, traktuj warunek zagrania jako niespełniony (dobierz karty).
+- Joker nie ma koloru karty ani koloru: wobec karty w kolorze spełnia tylko warunek „inny kolor karty".
 - Joker (ręka Manekina) vs Joker (odrzucone): traktuj jako ten sam kolor karty — warunek spełniony we wszystkich przedziałach.
+- Przy więcej niż jednym Manekinie (np. w symulacjach) każdy liczy karty wszystkich pozostałych graczy, także Manekinów, a progi skalują się z ich liczbą n: do 2n kart ten sam kolor karty, do 4n ten sam kolor, więcej — inny kolor karty. Dla 3 pozostałych graczy daje to tabelę powyżej.
 
 ---
 
