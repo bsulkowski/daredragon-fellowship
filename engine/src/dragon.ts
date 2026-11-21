@@ -121,13 +121,12 @@ function* directAttack(ctx: Context, action: DragonAction): Step<number> {
  * the ground. An incapacitated neighbour counts as on the ground: unaffected,
  * and the area does not extend past them (author, #38).
  *
- * - Intervention Dodge saves the target as in a direct attack, without loss of
- *   balance (2.1); with several, the one played last (author, #38). Dodge and
- *   Shields do not compete here: the Dodge covers the target, the Shields the
- *   others (#38).
- * - Every Shield acts, provided someone in the area is to be hit (#38): −3Ϟ
- *   for everyone in the area except the shielder; a shielder outside the area
- *   enters it, shielded by all Shields (2.1 example: A 1, B 1, C 4, D 1).
+ * - Intervention Dodge does not work against an AoE attack, which is not aimed
+ *   at anyone; it keeps waiting for a direct attack (author, A15).
+ * - Every Shield acts, provided someone in the area is to be hit; otherwise the
+ *   Shields keep waiting (author, A16). −3Ϟ for everyone in the area except
+ *   the shielder; a shielder outside the area enters it, shielded by all
+ *   Shields (2.1 example: A 1, B 1, C 4, D 1).
  */
 function* aoeAttack(ctx: Context, action: DragonAction): Step {
   const { state } = ctx;
@@ -139,18 +138,10 @@ function* aoeAttack(ctx: Context, action: DragonAction): Step {
   const area = [(target + n - 1) % n, target, (target + 1) % n];
   const standing = (seat: number) => !state.heroes[seat].prone;
 
-  const dodge = standing(target) ? guards(state, 'Intervention Dodge').filter((g) => g.actor !== target).at(-1) : undefined;
-  const hitInArea = area.filter((seat) => standing(seat) && !(dodge && seat === target));
+  const hitInArea = area.filter(standing);
   const shields = hitInArea.length > 0 ? guards(state, 'Shield') : [];
   const entering = shields.map((g) => g.actor).filter((seat) => !area.includes(seat) && standing(seat));
-
-  // Shields act together with the Dodge, before its knockdown could cancel a
-  // Shield of the target's own.
   for (const shield of shields) useGuard(ctx, shield);
-  if (dodge) {
-    useGuard(ctx, dodge);
-    knockDown(ctx, target);
-  }
 
   const steps = attackSteps(state, action);
   for (const seat of [...hitInArea, ...entering]) {

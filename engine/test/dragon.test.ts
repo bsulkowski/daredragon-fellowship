@@ -246,18 +246,17 @@ test('sample Turn 104❖: Swing on Magnus, Pip on the ground, Magnus shields (2.
   assert.deepEqual(s.riposte, { part: 'tail', from: 105, to: 105 });
 });
 
-test('AoE: a Dodge saves the target only and the dragon keeps its balance', () => {
+test('AoE: Intervention Dodge does not work and keeps waiting (A15)', () => {
   const { s, of } = dragonTurn({
     turn: T, heroes: heroes(25, 25, 25, 25), target: 1, dragon: resolving('J♠'), guards: [guard(3, 'A♣')],
   });
-  assert.deepEqual(of('hit').map((e) => e.player), [0, 2]);
-  assert.equal(s.heroes[1].hp, 25);
-  assert.equal(s.heroes[1].prone, true);
-  assert.equal(s.dragon!.cooldownEnds, T + 2);
+  assert.deepEqual(of('hit').map((e) => [e.player, e.damage]), [[0, 6], [1, 6], [2, 6]]);
+  assert.equal(s.guards.length, 1, 'the Dodge stays for a direct attack');
+  assert.equal(s.dragon!.cooldownEnds, T + 2, 'no loss of balance');
   assert.deepEqual(s.riposte, { part: 'tail', from: T + 1, to: T + 1 });
 });
 
-test('AoE: Shields wait when nobody in the area is to be hit (#38)', () => {
+test('AoE: Shields wait when nobody in the area is to be hit (A16)', () => {
   const down = { hp: 25, prone: true, hand: [] };
   const { s, of } = dragonTurn({
     turn: T, heroes: [down, down, down, { hp: 25, hand: [] }], target: 1, dragon: resolving('A♥'),

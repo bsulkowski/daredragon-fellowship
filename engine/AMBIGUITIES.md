@@ -28,10 +28,12 @@ Statuses:
 | A12 | 1.9 Cooperative Card Draw | Incapacitated players are skipped when dealing. Replaces P3. |
 | A13 | 2.2 AoE Attack; 2.3 | An incapacitated daredevil is treated as lying on the ground (A7), so an AoE attack has no effect on them. The area stays the target and its seat neighbours; it does not extend past an incapacitated neighbour. Replaces P7. |
 | A14 | Dummy (extensions) | Helping Hand is always valid, even with nobody on the ground: someone may be knocked down before it resolves. The validity check for Helping Hand is to be removed from the extensions, as for the guards (A4). Changes P27. |
+| A15 | 2.1 Intervention Dodge; 2.2 AoE Attack | Intervention Dodge does not work against an AoE attack. The Dodge pushes the target out of the path of an aimed attack, hard enough to knock them down; an AoE attack is not aimed. The Dodge keeps waiting for a direct attack (A3). The clause "does not apply to AoE attacks" on the loss of balance becomes unnecessary. Replaces P10. |
+| A16 | 2.1 Shield vs AoE Attack, Guard | When nobody in the area is to be hit (everyone there is on the ground), the Shields do not act and keep waiting (A3). A rare case. Replaces P11. |
 
 ## Approved readings
 
-Adopted by the engine and approved by the author on 2026-11-21, except P10 and P11, which are open. Entries replaced by a decision point to it.
+Adopted by the engine and approved by the author on 2026-11-21. Entries replaced by a decision point to it.
 
 ### P1. Order of daredevil actions resolving on the same turn
 
@@ -89,22 +91,13 @@ Decided by the author: see A8.
 
 Decided by the author: see A8.
 
-### P10. Intervention Dodge against an AoE attack — *Open*
+### P10. Intervention Dodge against an AoE attack
 
-- **Where:** 2.1 Intervention Dodge ("does not apply to AoE attacks" refers to loss of balance only).
-- **Readings:** (a) the target avoids the attack and is knocked down; the neighbours are hit as usual; no loss of balance; (b) the Dodge does not work against AoE at all.
-- **Adopted:** (a).
-- **Why:** the text excludes only the loss of balance for AoE attacks. The Dodge and the Shields do not compete here (A8 does not apply): the Dodge covers the target, the Shields cover the others, and a Shield of the saved target's own still protects them.
-- **Code:** `dragon.ts` `aoeAttack`.
+Decided by the author: see A15.
 
-### P11. Shields against an AoE attack that hits nobody — *Open*
+### P11. Shields against an AoE attack that hits nobody
 
-- **Where:** 2.1 Shield vs AoE Attack, Guard.
-- **Readings:** (a) when everyone in the area is on the ground or dodged, the Shields keep waiting; (b) they are used up, and a shielder from outside enters the area and is hit.
-- **Adopted:** (a).
-- **Why:** per A3, a guard that has nothing to act on keeps waiting. Under (b) a shielder would be hurt for protecting nobody.
-- **Code:** `dragon.ts` `aoeAttack`.
-- **Note:** the author finds Shield vs AoE in need of rework to be consistent without being overcomplicated; to be revisited later.
+Decided by the author: see A16.
 
 ### P12. Actions of a daredevil who becomes incapacitated
 
@@ -239,5 +232,4 @@ Decided by the author: see A11.
 
 ## Open: to be decided later
 
-- Shield vs AoE Attack as a whole (P10, P11): to be reworked by the author.
-- Whether Intervention Dodge works against an AoE attack at all (P10). The author's doubt: the Dodge pushes the target out of the path of an aimed attack, hard enough to knock them down. An AoE attack is not aimed.
+Nothing at present. The author may still rework Shield vs AoE Attack as a whole, to make it consistent without overcomplicating it.
