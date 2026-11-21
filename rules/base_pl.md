@@ -129,11 +129,11 @@ W śledzeniu bieżącej tury pomaga znacznik, umieszczany na polach dookoła pla
 
 Gracze trzymają swoje karty na ręce zakryte przed pozostałymi. Istotne jest, aby poszczególni śmiałkowie czuli się całkowicie wolni w samodzielnym wyborze wykonywanej akcji, zwłaszcza gdy jest ona związana z jakimś poświęceniem z ich strony. Każdy śmiałek ma pełne prawo zachować swoje karty dla siebie — respektowanie tej prywatności przez pozostałych jest częścią ducha gry.
 
-Śmiałek może w swojej turze zainicjować akcję, grając kartę z ręki. Następuje wówczas etap przygotowania akcji, który trwa określoną liczbę tur śmiałków, w zależności od rodzaju akcji. Jest to zaznaczane przez położenie tej karty akcji na brzegu planszy, przy turze w której upływa czas przygotowania (nie przy turze śmiałka, który ją zagrał). Na początku tej tury akcja zostaje wykonana i wywołuje właściwy sobie efekt, a odpowiadająca jej karta zostaje odłożona na stos odrzuconych kart śmiałków.
+Śmiałek w swojej turze albo inicjuje akcję, grając kartę z ręki, albo dobiera karty (zob. 1.9). Następuje wówczas etap przygotowania akcji, który trwa określoną liczbę tur śmiałków, w zależności od rodzaju akcji. Jest to zaznaczane przez położenie tej karty akcji na brzegu planszy, przy turze w której upływa czas przygotowania (nie przy turze śmiałka, który ją zagrał). Na początku tej tury akcja zostaje wykonana i wywołuje właściwy sobie efekt, a odpowiadająca jej karta zostaje odłożona na stos odrzuconych kart śmiałków. Akcje kończące się w tej samej turze są wykonywane w kolejności, w jakiej zostały zainicjowane.
 
 Czas przygotowania dla śmiałka kończy się zawsze w turze któregoś ze śmiałków. Przykładowo dla 4 graczy: Jeśli czas przygotowania wynosi 1 turę, to kończy się w turze kolejnego śmiałka. Jeśli wynosi 2 tury, to w turze śmiałka siedzącego naprzeciwko. Jeśli wynosi 4 tury, to w kolejnej turze śmiałka, który ją zagrał.
 
-Akcje typu czuwanie (unik ratunkowy i osłona) nie mają czasu przygotowania, a zamiast tego są aktywne aż do kolejnej tury danego śmiałka. Wykonywane są przy pierwszym ataku smoka. Kartę takiej akcji kładzie się przy turze śmiałka, który ją zagrał.
+Akcje typu czuwanie (unik ratunkowy i osłona) nie mają czasu przygotowania, a zamiast tego są aktywne aż do kolejnej tury danego śmiałka. Wykonywane są przy pierwszym ataku smoka, na który mogą zadziałać. Kartę takiej akcji kładzie się przy turze śmiałka, który ją zagrał.
 
 O celu swoich akcji śmiałkowie decydują na sam koniec – w momencie, gdy wywołują one efekt.
 
@@ -160,6 +160,8 @@ Czas przygotowania dla smoka kończy się zawsze w turze smoka. Jeśli wynosi 1 
 Jeśli karta ma czas przygotowania i odpoczynku 0 (łypnięcie), to jest wykonywana z natychmiastowym efektem, odkładana na stos kart odrzuconych smoka, po czym jest grana kolejna karta.
 
 Jeśli zagrana karta wymaga celu (atak lub atak obszarowy), a smok nie ma wybranego celu, to jest odkładana na stos kart odrzuconych smoka i kończy się tura. Karta nie wywołuje właściwego sobie efektu. Smok jedynie straszy śmiałków, wykonując gest nawiązujący do danego ataku (szczerzenie kłów itp.).
+
+Jeśli zabraknie kart w talii smoka, należy przetasować jego odrzucone karty – staną się one nową talią.
 
 ---
 
@@ -197,7 +199,7 @@ Jesteście zaproszeni do tego, aby lepiej wczuć się w świat gry, przez odgryw
 
 ### 1.9. Kooperacyjne dobieranie kart
 
-W swojej turze, gracz zamiast zagrać karty akcji może zdecydować się na dobranie kart. Wówczas rozdaje po 1 karcie każdemu ze współgraczy. Gracz nie może w ten sposób dostać karty bezpośrednio dla siebie.
+W swojej turze, gracz zamiast zagrać karty akcji może zdecydować się na dobranie kart. Wówczas rozdaje po 1 karcie każdemu ze współgraczy, z pominięciem obezwładnionych. Gracz nie może w ten sposób dostać karty bezpośrednio dla siebie.
 
 Jest to jedyna metoda, aby dostać karty. Zachowujcie uważność na współgraczy, inaczej mogą zostać bez kart…
 
@@ -217,7 +219,7 @@ Obrażenia zadawane przez smoka lub śmiałków przyjmują zawsze wartości z og
 
 `0 · 1 · 2 · 3 · 4 · 5 · 6 · 8 · 10 · 13 · 16 · 20 · 25`
 
-Wszelkie modyfikatory do obrażeń są wyrażone przez odpowiednią zmianę poziomu na smokometrze.
+Wszelkie modyfikatory do obrażeń są wyrażone przez odpowiednią zmianę poziomu na smokometrze. Jeśli działa kilka modyfikatorów, należy je zsumować i przesunąć się po smokometrze jeden raz. Obrażenia nie spadają poniżej 0 ani nie przekraczają 25.
 
 Przykładowo, przy bazowej sile ataku 8, modyfikator +1Ϟ powoduje zwiększenie obrażeń do 10, modyfikator +2Ϟ do 13, a modyfikator +3Ϟ do 16.
 
@@ -254,35 +256,35 @@ Dla Waszej wygody, smokometr został także zaznaczony poprzez czerwone pola na 
 
 #### Atak
 
-Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ w pierwszej turze śmiałka po rozstrzygnięciu ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: jeśli dwa lub więcej ataków kończy się w tej samej turze i zagrane karty mają ten sam kolor, każdy atakujący otrzymuje +1Ϟ za każdego kolejnego atakującego.<br>Przy braku celu, jeśli atak śmiałka zostaje rozstrzygnięty, smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
+Zadaje obrażenia wybranej części ciała smoka.<br>+2Ϟ w pierwszej turze śmiałka po rozstrzygnięciu ataku smoka daną częścią ciała (riposta).<br>Skoordynowany atak: każdy atak otrzymuje +1Ϟ za każdy inny atak w tym samym kolorze, kończący się w tej samej turze.<br>Przy braku celu, jeśli atak śmiałka zostaje rozstrzygnięty, smok bierze go na cel. W przypadku kilku ataków kończących się w jednej turze, smok wybiera śmiałka, który zaczął atakować jako ostatni.
 
 #### Czuwanie
 
-Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i wykonuje akcję przy pierwszym ataku smoka.
+Akcja nie ma czasu przygotowania. Śmiałek czuwa aż do swojej kolejnej tury i wykonuje akcję przy pierwszym ataku smoka, na który może zadziałać.<br>Jeśli kilka akcji czuwania mogłoby zadziałać przy tym samym ataku, działa ta zagrana jako ostatnia: unik ratunkowy zagrany po wszystkich osłonach działa sam, w przeciwnym razie działają osłony. Akcje, które nie zadziałały, czuwają dalej.
 
 #### Oplątanie
 
-Oplątana może zostać część ciała smoka, która nie jest w danej chwili używana w ataku. Śmiałkowie otrzymują premię +1Ϟ przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania. Oplątanie zostaje zdjęte (pionek wraca do zwykłego stanu) dopiero w chwili rozstrzygnięcia ataku — ataki śmiałków rozstrzygane w dowolnej turze przygotowania nadal otrzymują premię +1Ϟ.
+Nie zadaje obrażeń, niezależnie od modyfikatorów. Oplątana może zostać część ciała smoka, która nie przygotowuje się w danej chwili do ataku. Śmiałkowie otrzymują premię +1Ϟ przy atakowaniu oplątanej części ciała. Przy pierwszym użyciu tej części ciała, dodatkową turę na początku czasu przygotowania zajmuje uwolnienie się z oplątania. Oplątanie zostaje zdjęte (pionek wraca do zwykłego stanu) dopiero w chwili rozstrzygnięcia ataku, a nie gdy smok jedynie straszy — ataki śmiałków rozstrzygane w dowolnej turze przygotowania nadal otrzymują premię +1Ϟ.
 
 #### Unik ratunkowy
 
-Cel ataku smoka unika obrażeń, ale kosztem bycia powalonym na ziemię. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi - nie dotyczy to ataków obszarowych. Czas odpoczynku po ataku zostaje wydłużony o jedną turę. Okno riposty rozszerza się do pierwszych 2 tur śmiałków zamiast 1.
+Działa tylko przy ataku, nie przy ataku obszarowym. Cel ataku smoka unika obrażeń, ale kosztem powalenia. Nie można w ten sposób ratować samego siebie. Nie można wykonać na już leżącym śmiałku.<br>Natomiast smok, którego atak trafia w pustkę, zostaje wytrącony z równowagi. Czas odpoczynku po ataku zostaje wydłużony o jedną turę. Okno riposty rozszerza się do pierwszych 2 tur śmiałków zamiast 1.
 
 #### Odwrócenie uwagi
 
-Śmiałek zostaje nowym celem smoka.<br>Jeśli w czasie przygotowania akcji smoka, wydłuża ten czas +1.
+Śmiałek zostaje nowym celem smoka.<br>Jeśli w czasie przygotowania ataku smoka, wydłuża ten czas +1.
 
 #### Osłona vs atak
 
-Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3Ϟ otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający.
+Osłania innego śmiałka, który jest celem ataku smoka. Przejmuje na siebie i jednocześnie redukuje o -3Ϟ otrzymywane obrażenia. Przejmuje także efekt powalenia.<br>Przy kilku osłonach modyfikator obrażeń kumuluje się, a efekty ataku przejmuje na siebie tylko ostatni osłaniający.<br>Premie do obrażeń zależą od stanu celu (przygotowywana akcja, leżenie na ziemi).
 
 #### Osłona vs atak obszarowy
 
-Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3Ϟ.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1.
+Osłania wszystkich śmiałków, którzy są w obszarze ataku smoka, redukując obrażenia o -3Ϟ.<br>Śmiałek będący w obszarze ataku nie osłania sam siebie.<br>Śmiałek poza obszarem ataku wchodzi także w obszar działania ataku, ale jest osłaniany.<br>W przypadku kilku osłon efekt kumuluje się.<br>Działa tylko wtedy, gdy atak kogoś w swoim obszarze trafia; w przeciwnym razie śmiałek czuwa dalej.<br><br>Przykład: Atak smoka zadaje 8 obrażeń, a w jego obszar wchodzą śmiałkowie A, B i C. Osłonę wykonuje śmiałek C i D. W takiej sytuacji śmiałkowie otrzymają obrażenia A — 1, B — 1, C — 4, D — 1.
 
 #### Pomocna dłoń
 
-Podnosi z ziemi innego śmiałka. Nie można w ten sposób podnieść samego siebie.
+Podnosi z ziemi innego śmiałka. Nie można w ten sposób podnieść samego siebie ani obezwładnionego śmiałka.
 
 #### Pierwsza pomoc
 
@@ -290,7 +292,7 @@ Przywraca do 8 punktów życia, także gdy śmiałek jest obezwładniony. Podnos
 
 #### Powalony na ziemię
 
-Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1.<br>Obrażenia zadawane przez śmiałka -2Ϟ.
+Gdy śmiałek jest powalony na ziemię, nie może wykonywać akcji typu czuwanie ani akcji o bazowym czasie przygotowania 4, tj.:<br>— Unik ratunkowy,<br>— Osłona,<br>— Szarża,<br>— Pierwsza pomoc.<br>Czas przygotowania pozostałych akcji +1, także gdy śmiałek zostanie w międzyczasie podniesiony.<br>Obrażenia zadawane przez śmiałka -2Ϟ, o ile w chwili rozstrzygnięcia ataku wciąż leży.
 
 ### 2.2. Akcje smoka
 
@@ -317,15 +319,15 @@ Zadaje obrażenia celowi.<br>Jeśli w trakcie przygotowywania akcji przez śmia�
 
 #### Atak obszarowy
 
-Zadaje obrażenia dla celu oraz jego obu sąsiadów. Przykładowo dla 4 graczy sąsiadami śmiałka A są śmiałek D i B.<br>Nie ma wpływu na śmiałków leżących na ziemi.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
+Zadaje obrażenia dla celu oraz jego obu sąsiadów. Przykładowo dla 4 graczy sąsiadami śmiałka A są śmiałek D i B.<br>Nie ma wpływu na śmiałków leżących na ziemi, w tym obezwładnionych; obszar nie przesuwa się poza nich.<br><br>Przy braku celu, zamiast ataku, smok tylko straszy i pomija tę turę.
 
 #### Powalenie
 
-Przerywa akcję śmiałka i powala go na ziemię.
+Przerywa akcję śmiałka (także gdy już leży) i powala go na ziemię.
 
 #### Przeraźliwy ryk
 
-Przerywa akcje wszystkich śmiałków położone na planszy (nie dotyczy kart na ręce). Każdy gracz odrzuca 2 wybrane karty z ręki.
+Przerywa akcje wszystkich śmiałków położone na planszy (nie dotyczy kart na ręce). Każdy gracz odrzuca 2 wybrane karty z ręki (wszystkie, jeśli ma mniej).
 
 #### Łypnięcie okiem
 
@@ -350,9 +352,9 @@ Jeśli jest więcej niż 4 graczy, to przy każdym ataku smok ma premię do obra
 | 13–1 | Zadawane obrażenia -1Ϟ. |
 | 13–7 | Limit kart na ręce 4. |
 | 6–1 | Limit kart na ręce 3. |
-| 0 | Limit kart na ręce 0 (obezwładniony).\*<br>Śmiałek przestaje być celem ataków smoka. |
+| 0 | Limit kart na ręce 0 (obezwładniony).\*<br>Powalenie: akcja zostaje przerwana, a śmiałek leży na ziemi.<br>Śmiałek przestaje być celem ataków smoka. |
 
-(\*) Śmiałek nie może wykonać żadnej akcji, która wymaga zagrania karty. Wciąż możliwe jest jednak dobranie kart.
+(\*) Śmiałek nie może wykonać żadnej akcji, która wymaga zagrania karty. Wciąż może jednak dobrać karty dla pozostałych, ale sam ich nie otrzymuje.
 
 #### Smok
 
@@ -363,13 +365,13 @@ Wpływ na ataki przy użyciu danej części ciała.
 | 13–1 | Zadawane obrażenia -1Ϟ. |
 | 0 | Czas przygotowania +1.<br>Zadawane obrażenia -2Ϟ. |
 
-Wszystkie efekty wynikające z punktów życia są oceniane w chwili rozstrzygnięcia ataku, a nie jego rozpoczęcia. Jeśli próg zostanie przekroczony w czasie przygotowania, efekt dotyczy końcowego rozstrzygnięcia.
+Efekty punktów życia dotyczące obrażeń są oceniane w chwili rozstrzygnięcia ataku, a nie jego rozpoczęcia. Jeśli próg zostanie przekroczony w czasie przygotowania, efekt dotyczy końcowego rozstrzygnięcia. Wydłużenie czasu przygotowania obowiązuje od chwili zagrania karty.
 
 ---
 
 ## 3. Uwagi do wydania
 
-*Wersja: 1.0.2*
+*Wersja: 1.1*
 
 Gra jest kompletna, w pełni grywalna i sprawiająca frajdę. Jest aktywnie rozwijana na podstawie feedbacku graczy — jeśli znajdziesz coś, co mogłoby działać lepiej, napisz w [The Forge](https://github.com/bsulkowski/daredragon-fellowship/discussions/19). Pytania dotyczące zasad kieruj do [Helping Hand](https://github.com/bsulkowski/daredragon-fellowship/discussions/20). Rozszerzenia są w przygotowaniu.
 

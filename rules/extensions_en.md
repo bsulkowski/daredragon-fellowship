@@ -14,7 +14,7 @@ One player position is taken by an automated player — the Dummy. The Dummy fol
 
 ### Setup
 
-The Dummy's hand cards lie face down in a single pile, placed at the corresponding edge of the board. At the start of the game the Dummy receives 2 cards normally.
+The Dummy's hand cards lie face down in a single pile, placed at the corresponding edge of the board. At the start of the game the Dummy receives 2 cards normally. Cards the Dummy receives are placed on top of the pile.
 
 ### Algorithm
 
@@ -38,23 +38,24 @@ On the Dummy's turn:
 
 A card is considered invalid or pointless if:
 
-- **Intervention Dodge / Shield**: the dragon is not currently executing an attack.
-- **Helping Hand** (4, 3, 2): no other daredevil is lying on the ground.
 - **First Aid** (Joker): no other daredevil has fewer than 8 HP or is incapacitated.
-- All other cards are considered valid.
+- **Any card the rules do not allow at the moment**, e.g. Charge, First Aid or a guard while the Dummy is lying on the ground.
+- All other cards are considered valid. This includes Intervention Dodge, Shield and Helping Hand, even when there is nothing for them to do yet: the situation may change before they act.
 
 ### Targeting
 
-When the Dummy plays an attack card, it targets the dragon body part with the **lowest current HP** (the most damaged one, working to disable it). Tiebreak order: Jaws → Paws → Legs → Tail.
+When the Dummy's attack resolves, it targets the dragon body part with the **lowest current HP** above 0 (the most damaged one, working to disable it; a part at 0 is already disabled). Tiebreak order: Jaws → Paws → Legs → Tail.
 
-When the Dummy plays a support card targeting another daredevil, it targets the daredevil with the **lowest current HP**. Tiebreak: the player seated to the Dummy's left.
+When the Dummy's Helping Hand or First Aid resolves, it targets the daredevil with the **lowest current HP** among those it can help. Tiebreak: the player seated to the Dummy's left, then onwards clockwise. Shield and Intervention Dodge follow the base rules.
 
 ### Notes
 
 - The Dummy's hand limit follows the same HP-based rules as regular players.
-- If the Dummy's hand exceeds its limit (e.g. after receiving cards), discard from the **bottom** of the pile.
+- If the Dummy's hand exceeds its limit (e.g. after receiving cards), or a Roar makes it discard, discard from the **bottom** of the pile.
 - If the discard pile is empty, treat the play condition as not met (fallback to drawing).
+- A Joker has neither suit nor color: against a suited card it meets only the "different suit" condition.
 - Joker (Dummy hand) vs Joker (discard): treat as same suit — condition met in all brackets.
+- With more than one Dummy (e.g. in simulations), each counts the cards of all other players, Dummies included, and the brackets scale with their number n: up to 2n cards same suit, up to 4n same color, more — different suit. For 3 other players this gives the table above.
 
 ---
 
